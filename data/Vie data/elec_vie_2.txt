@@ -1,0 +1,657 @@
+Hệ thống ATM xác định rõ mô hình chuẩn của giao thức phân lớp để chuyển giao thông tin một cách có hệ thống và cơ động .
+Công nghệ ATM được hình thành từ công nghệ ATD ( phân chia theo thời gian không đồng bộ ) đã được đưa ra trên mạng viễn thông của Pháp năm 1983 và FPS ( chuyển mạch gói tốc độ cao ) của Bell Lab của nước Mỹ .
+Điều khiển lưu lượng và điều khiển tắc nghẽn ATM được định nghĩa như là các hành động do mạng đưa ra để tránh các tình trạng tắc nghẽn và tối thiểu hoá mật độ  , sự lan truyền và khoảng thời gian của tắc nghẽn đã được phát sinh .
+Dịch vụ chuyển giao ATM cho lớp dịch vụ X  , a và C .
+Các khách hàng ATM yêu cầu các hợp đồng lưu lượng sau đối với mạng phụ thuộc vào các đặc tính dịch vụ khi sự kết nối được thiết lập ( PVC hay SVC ) .
+ATMF đã chấp nhận lời đề nghị của nhóm khách hàng ATM tại hội nghị vào tháng giêng năm 1993 và đã xác định thành lập ENR để quan tâm đến các yêu cầu của các khách hàng .
+ATMF nhằm vào sự phát triển tiêu chuẩn thiết bị ATM để có thể ứng dụng cho các hệ thống công cộng cũng như chuẩn công nghiệp đã đòi hỏi cung cấp công nghệ ATM cho mạng công cộng ngay tức thì .
+ATMF đã công bố chuẩn mô phỏng LAN 1.0 cho IEEE 802.3 và 802.5 LAN UNI ( LUNI ) vào tháng giêng 1995  , và hiện đang thu hút những hoạt động nhằm bổ sung cho chuẩn 1.0 này và thiết lập giai đoạn ban đầu cho LAN NNI ( LNNI ) và FDDI LUNI .
+ATMF được thành lập bởi các uỷ ban kỹ thuật  , ủy ban MA &amp; E ( giáo dục và nhận thức về thị trường ) , và ủy ban ENR ( hội nghị bàn tròn về mạng liên kết các xí nghiệp ) .
+Ủy ban kỹ thuật ATMF gồm có 9 nhóm được chỉ ra trên hình 1 - 1 .
+Các chỉ tiêu kỹ thuật ATMF UNI là các quy tắc cho 3 kiểu giao diện như được chỉ ra ở hình vẽ 2 - 1 .
+Các chỉ tiêu kỹ thuật của ATMF UNI chọn lọc các quy tắc tiêu chuẩn liên quan đến các giao thức 1 ( PHY ) và lớp 2 ( ATM ) để đảm bảo cho giai đoạn khởi động của sự phối hợp hoạt động .
+Các chỉ tiêu kỹ thuật chỉ định nghĩa một cách có giới hạn việc điều khiển lưu lượng và điều khiển tắc nghẽn bằng việc quan tâm đến các mạng ATM thực tế trong giai đoạn ban đầu về mặt công nghệ và do vậy  , phù hợp với các quy tắc quản lý lưu lượng I.371 của ITU - T .
+Các chất khí của khí quyển và mưa không chỉ hấp thụ sóng vô tuyến điện mà còn là các nguồn bức xạ tạp âm nhiệt .
+Tạp âm khí quyển tăng đặc biệt ở băng sóng milimet  , là nguyên nhân chủ yếu gây ra tạp âm vũ trụ trong thời tiết tốt đẹp .
+Cố gắng tận dụng hết công trình có sẵn để tránh phải mở rộng thêm các đường cáp và ống dẫn ở bất kì đâu cũng có thể được  , đồng thời cân nhắc đến việc kiềm chế không lập các kế hoạch trang thiết bị mà thấy chưa phải là nhu cầu cấp bách bằng việc hoãn lại thời hạn càng lâu càng tốt .
+Do vậy cần phải lưu tâm tới khả năng nhiễu giao thoa vô tuyến hoặc nhiễu thu giữa các hệ thống khác nhau .
+Hiện nay  , số lượng chính xác các phương tiện mở rộng được quy định sao cho chi phí hàng năm được giảm thiểu theo giá trị hiện tại , có cân nhắc đến các giai đoạn mở rộng và được gọi là quy mô mở rộng tiêu chuẩn .
+Méo suy hao do sự biến đổi hệ số suy hao theo tần số tạo ra .
+Sự suy hao của các sóng vô tuyến do mưa được chỉ ra trong hình 3.5 .
+AU - 4 thu được nhờ gắng AU - 4 PTR lên trên VC - 4 và nó cũng giống như tín hiệu AUG .
+Trong số đó AU - 4 PTR  , AU - 3 PTR xuất hiện trên vị trí của AUPTR được chỉ rõ trong hình và TU - 3 PTR được bố trí trên đỉnh của hàng đầu tiên trong phạm vi khung TU - 3 .
+AU và TU là những đơn vị hiện có . AU có một con trỏ để thể hiện điểm khởi đầu của khung VC chiếm trọng tải của STM - 1  , trong khi đó TU có 1 con trỏ để thể hiện điểm khởi đầu của VCn - 1 cấp thấp chiếm trọng tải trong VC .
+Con trỏ AU bao gồm khu vực 1 x 9B và cấu hình của nó như được trình bày trong hình .
+Các tín hiệu tiếng hội nghị từ xa được mã hóa nhờ ADPCM băng phụ và được truyền đi với tốc độ 64 kb / s .
+Bẫy sự cố chuẩn y : thông báo là yêu cầu Get hoặc Set - Request nhận được là trái sự chuẩn y .
+Việc xác nhận là cần thiết để thực hiện bảo vệ chống lại sử dụng mờ ám .
+Việc tự động đo thử được thực hiện bởi thiết bị đo do STECS điều khiển .
+Chuyển mạch bảo vệ tự động ( APS ) và sự dẫn hướng kép là hai kỹ thuật hồi phục đã được sử dụng trong các mạng cáp quang hiện đại .
+Số liệu phụ cũng có thể được bỏ đi theo cách định ra trước trên phía thu .
+Các đường dây dẫn phụ phải được phân bố trong vùng phân bố cố định nơi tốc độ gia tăng nhu cầu là rất lớn  , trong khi ở các vùng khác tốc độ này lại rất nhỏ , các dây dẫn không được phân bố .
+Các dây phụ phải được sử dụng để xử lý mức gia tăng nhu cầu giữa thời điểm lập kế hoạch và hoàn thành lắp đặt trong các trường hợp khi sử dụng hệ thống phân bố FD .
+Có sẵn cho loại qui trình này là phương pháp đọc ngẫu nhiên theo dãy ghi lần lượt ( SWRR ) là phương pháp ghi các số liệu một cách ngẫu nhiên từ phía đầu vào và được đọc một cách ngẫu nhiên từ phía đầu ra .
+Tính khả dụng trong F4 OAM là luồng F4 từ đầu này tới đầu kia mà giá trị VCI của nó là 4 và luồng F4 phân đoạn thì giá trị VCI của nó là 3 .
+Tính khả dụng trong SMF là sự quản lý lỗi  , hoạt động , cấu hình , tính toán và an toàn .
+Các jitter hiện có bao gồm jitter đối với các thiết bị ghép kênh  , kể cả jitter thời gian đợi cùng các jitter khác đối với các thiết bị tái tạo liên quan đến các đường truyền dẫn .
+Các phần mềm thiết bị cỡ trung khả dụng chuyển giao tài liệu S / W  , băng rộng / ATM S / W và thông tin đa phương tiện S / W .
+Các hoạt động điều khiển mức mạng sẵn có là phép đo lưu lượng và trạng thái tắc nghẽn  , bản tin trạng thái tắc nghẽn , sự thay đổi của các tiêu chuẩn tính toán băng tần tương đương cho việc tiếp nhận cuộc gọi và định vị lại một cách thích hợp các tài nguyên mạng .
+Chức năng quản lý lưu lượng khả dụng được sử dụng cho đối tượng ở trên là phép đo tắc nghẽn  , quản lý lưu lượng mạng , vá các chức năng điều khiển lưu lượng .
+Các thông số lưu lượng khả dụng được ITU - T và ATMF quan tâm là PCR ( tốc độ tế bào đỉnh )  , SCR ( tốc độ tế bào có thể chấp nhận được ) , BT ( Dung sai bùng nổ ) , và CDVT ( dung sai biến dạng trễ tế bào ) và hiện nay chỉ có PCR được định nghĩa như là một thông số lưu lượng hình thức .
+B - NT2 thực hiện chức năng của lớp 1 và lớp có mức cao và nó có thể được cấu hình theo phương pháp tập trung hoặc phương pháp phân bố .
+B - NT1 thực hiện chức năng của lớp 1  , chẳng hạn như điểm cuối đường dây truyền dẫn , xử lý phối ghép truyền dẫn : vận hành và bảo dưỡng .
+Các chức năng điều khiển tắc nghẽn và điều khiển lưu lượng của B - ISDN được yêu cầu đối với các bề mặt giao diện UNI là nơi mà lưu lượng đi vào  , và có thể được phân chia thành các mức phù hợp với các hiệu quả nhanh chóng trong việc điều khiển .
+B - TE thực hiện truyền thông giữa khách hàng - với - khách hàng và giữa khác hàng - với - máy  , kết cuối phối ghép , xử lý giao thức báo hiệu , xử lý nối kết trên các thiết bị khác , trên lớp 1 và lớp có mức cao hơn , kể cả OAM .
+B ) Cần xem xét đến môi trường nhiều nhà cung cấp thiết bị .
+B . Khu vực tế bào và khu vực chống lấn : Khi các tế bào phân chia khu vực thành các tế bào đơn vị có cùng kích thước và khu vực chống lấn sẽ khác nhau tùy theo từng kiểu tế bào như ( bảng 2.4 ) .
+B . Mỗi sóng mang được khuyếch đại riêng bằng một bộ khuyếch đại công suất cao ( theo hình 2.23b ) .
+B . Dự báo hồi quy : phân tích các yếu tố khác nhau tạo ra yêu cầu và dùng một biểu thức quan hệ giữa những biến động của các yếu tố và độ lớn của nhu cầu .
+B . Dự báo hồi quy : dùng các biến số như độ tăng trưởng kinh tế và hệ số tỷ lệ tăng trưởng lưu lượng .
+B . Khi sử dụng hệ thống đa truy nhập theo tần số ( FDMA )  , phải sử dụng mức lùi ( Back - off ) đầu vào để tránh nhiễu điều chế trong các bộ khuyếch đại truyền dẫn của các bộ phát đáp .
+B / Trong phân bổ tế bào nói chung chỉ có anten được sử dụng cho nhiều máy thu  , phát do điều kiện lắp đặt anten và các vấn đề kinh tế , vì vậy , khoảng cách tần số của kênh phải thỏa mãn điều kiện đối với các thiết bị sử dụng chung .
+Kênh B là kênh được dùng để truyền thông tin khách hàng ở tốc độ 64 Kbps .
+B8 là bit thứ 8 của từ PCM  , đôi khi được dùng như là một bit báo hiệu . B7 ( B8 ) chuyển đổi sang l khi mọi từ của PCM là 0 .
+Kích thước BA chỉ ra kích cỡ của phần đệm phía phát và làm đầy tải CPCS - PDU để tạo ra một chuỗi 32 bít ( 4 cụm 8 bít ) .
+Mở đầu  , định nghĩa phương pháp và các yêu cầu phát triển .
+Phương pháp dự đoán cơ bản dự tính cơ bản những gì xuất hiện sau các đối tượng chuyển động .
+Cáp đôi cân bằng sử dụng dải 500 KHz giá rẻ và dễ lắp đặt nhưng dễ làm hỏng dây cáp và xuyên âm và những nhược điểm khác .
+Bộ lọc băng thông có thể giới hạn hầu hết các công suất tín hiệu giả vì tín hiệu đầu vào không đồng bộ sẽ trải ra băng tần liên quan của bộ thu .
+Độ rộng băng ( từ 0 đến 0 ) của vấu chính gấp đôi tốc độ nhịp của dãy mã dùng cho tín hiệu điều chế và có cùng độ rộng băng như tốc độ nhịp của vấu bên .
+Dải thông và tỷ số S / N là những hạn chế lớn nhất cho truyền dẫn analog .
+Dựa trên giao diện sợi quang ( nội đài : sợi quang  , liện đài : sợi quang / vô tuyến ) .
+Trạm gốc dùng để nối trạm chuyển mạch viễn thông di động và mạng di động và nó bao gồm thiết bị thu phát  , anten và thiết bị điều khiển .
+Truyền dẫn bằng đường cơ bản  , trong đó các tín hiệu số được truyền dưới dạng xung đòi hỏi băng tần rộng .
+Hệ thống truyền dải hẹp : Hệ thống này truyền tín hiệu số từ một terminal qua một kênh đơn .
+Dựa trên ITU - T I.211  , các dịch vụ ứng dụng ATM được phân loại một cách rộng rãi thành dịch vụ truyền thông và dịch vụ phân phối .
+Dựa trên kĩ thuật đã được phát triển  , số lượng cáp quang nhiều hơn đã đang được sử dụng trong nhiều lĩnh vực .
+Dựa vào những vấn đề nói trên  , hệ thống thông tin ATM có khả năng cung cấp các dịch vụ B - ISDN có những nét đặc trưng khác nhau .
+Căn cứ vào các xem xét trên đây  , một số loại tổng đài tự động đã được triển khai và lắp đặt kể từ khi nó được đưa vào lần đầu tiên .
+Dựa vào số nhận được trong thanh ghi chủ gọi  , đường ra của tổng đài trung chuyển nối với máy thuê bao bị gọi được xác định .
+Dựa trên kết quả đo  , trạm chuẩn truyền định thời phát cụm cho mỗi trạm lưu lượng .
+Căn cứ vào những kết quả nghiên cứu này  , Bộ Quốc Phòng Mỹ đã ký một hợp đồng phát triển với công ty BBN ( Blot Beranek and Newman ) và trong năm 1969 , công ty này đã sáng chế thành công mạng ARPA ( Các công trình nghiên cứu tiên tiến ) .
+Dựa trên các công nghệ sợi quang và Laser bán dẫn giờ đây đã có thể gửi một khối lượng lớn các tính hiệu âm thanh / dử liệu đến các địa điểm cách xa hàng 100 km bằng một sợi quang có độ dày như một sợi tóc  , không cần đến các bộ tái tạo .
+Dựa trên các công nghệ sợi quang và laser bán dẫn  , giờ đây có thể gửi một lượng lớn các tín hiệu âm thanh / dữ liệu đến các địa điểm ở cách xa hơn 100km qua một sợi quang có độ dày của một sợi tóc không cần bộ tái tạo .
+Dựa vào các tín hiệu điều khiển này  , các cụm con thu được cho trạm đó có thể được lấy ra từ các cụm thu .
+Dựa trên phát minh này  , lý thuyết hạt của Newton đã tạm được coi là không chính xác .
+Trên cơ sở đó  , có thể xác định được vị trí của máy thuê bao bị gọi .
+Dựa trên khái niệm này  , các mào đầu được phân loại thành SOH và POH trong cấu trúc khung .
+Dựa trên định nghĩa tiêu chuẩn này các hoạt động tiêu chuẩn hoá IN được thực hiện ở ITU - T với sự tham gia của nhiều thành viên từ một số nước .
+Dựa vào công nghệ PCM này  , một mạch đa dịch vụ số ( ISDN ) có thể xử lý nhiều luồng với các dịch vụ khác nhau đang được phát triển hiện nay .
+Căn cứ vào học thuyết này  , Heinrich Hertz đã truyền đi và nhận được sóng vô tuyến thành công bằng cách dùng điện trường lần đầu tiên trong lịch sử .
+Dựa vào định thời phát này  , các tín hiệu được truyền qua bộ ghép cụm con , bộ tạo phần mở đầu , bộ điều chế PSK .
+Những nguyên tắc chỉ đạo chung và cơ bản về các biện pháp an toàn  , tin cậy tổng thể cho mạng [ các tiêu chuẩn an toàn và tin vậy của mạng truyền thống - quy định cấp bộ số 73 năm 1987 của Bộ Bưu chính và Viễn thông ] .
+Khả năng cơ sở thiết lập định nghĩa trong Q.2931 được gọi là CSI và minh họa ở bảng 2 - 3 .
+Xem xét cơ bản trong hệ thống trải phổ là vấn đề độ rông băng hệ thống theo sự cảm ứng không trực tiếp với hệ thống khác làm việc trong cùng một kênh hoặc kênh bên cạnh .
+Các tham số cơ bản để xác định cấu trúc sợi quang là đường kính lõi sợi  , đường kính lớp bao ( đường kính vỏ ) và khẩu độ số ( NA ) v . v … .
+Biến đổi trực tiếp khoá chuyển tần ( FSK ) cơ sở bị hạn chế ở tốc độ bit thấp ( nếu truyền dẫn tốc độ cao  , độ nhạy sẽ thấp ) .
+Các chức năng cơ bản của tổng đài để thiết lập và giải phóng cuộc gọi / kết nối  , cộng với khả năng tạm ngừng cuộc gọi để truy nhập tới chức năng của IN ( có nghĩa SSF ) .
+Chức năng của hệ thống báo hiệu cơ sở dựa trên các thông báo giao thức  , các phần tử thông tin và các thủ tục .
+Cơ sở cho tất cả các phương án mã hóa liên mành là một số các phương pháp phát hiện ảnh chuyển động trong hình ảnh truyền hình có nghĩa sự phân đoạn các mành thành các vùng thay đổi từ mành trước do sự di chuyển và các vùng không thay đổi .
+Về cơ bản  , tất cả các hệ thống đó đều cần máy điện thoại để chuyển các tín hiệu tiếng nói thành tín hiệu điện và ngược lại cũng như các hệ truyền dẫn để truyền các tín hiệu điện .
+Về cơ bản  , tổng đài số gồm một mạng chuyển mạch , thiết bị tín hiệu và một bộ điều khiển .
+Về cơ bản  , nó thiết lập các đối tượng thực hiện việc điều khiển theo đoạn ở mức Ethernet và ấn định một quá trình cho mỗi đoạn .
+Về căn bản  , mạng truyền thông bao gồm một hệ thống chuyển mạch để định rõ đường nối cuộc gọi theo yêu cầu của thuê bao và một hệ thống truyền dẫn để truyền thông tin gọi đến người nhận .
+Về cơ bản mà nói  , cấu trúc DH ( C ) / 1 : l / DP có thể được xem như phần mở rộng của một cấu trúc SH / 1 : 1 / DP có thêm những yêu cần phụ sau đây :
+Về cơ bản  , kích thước của anten sẽ bằng một nửa của bước sóng .
+Về cơ bản  , trong khi CBR sử dụng độ rộng dải tầng thông thường của kênh thông qua sự mô phỏng mạch một cách không đòi hỏi , thí mặc dù VBR có lợi thế là nó có thể sử dụng sự liên kết có hiệu quả thông qua việc ghép kênh mang tính chất thống kê , phương pháp phân bố độ rộng dải tầng cho mỗi kênh ảo nhằm đảm bảo chất lượng dịch vụ một cách có hiệu quả vẫn còn là vấn đề cần được xem xét .
+Tuổi thọ các ngăn acquy sẽ được kéo dài từ 3 tháng tới 1 năm .
+BCSM dò tìm cuộc gọi cơ bản và các yếu tố điều khiển kết nối mà có thể dẫn tới cầu khẩn tính logic dịch vụ IN hoặc được thông báo cho các trường hợp logic dịch vụ IN tích cực và BCM quản lý các tài nguyên của CCF để hỗ trợ việc điều khiển kết nối .
+BCSM được mô tả ở trên đặc trưng cho sự chuyển đổi trạng thái của một cuộc gọi BCSM quản lý .
+BCSM được định nghĩa riêng cho phía đến và phía đi của một cuộc gọi từ quan điểm CCF  , phản ánh việc thực hiện thực tế có xử lý cuộc gọi đến và đi tách biệt trong các tổng đài đang có .
+BDSL ( DSL băng rộng ) là công nghệ được sử dụng để cung cấp băng tần 20 hay 50 Mbps trong khoảng thời gian mạng thuê bao quang bỏ qua cáp đồng .
+Anten chùm gồm rất nhiều anten ngẫu cực nửa bước sóng được sắp xếp đều đặn theo một hướng nào đó trên một mặt phẳng .
+Vì một OPSC chỉ thực hiện hai nhiệm vụ ( thu thập dữ liệu về chỉ tiêu mạng từ PSC hoặc từ một hệ thống phát hiện mất nguồn và gửi đi một tín hiệu nếu cần thiết ) cho nên nó dễ dàng được cài đặt trong bộ vi xử lý đơn giản  , hoặc có thể được kết hợp vào các đặc trưng của PSC thuộc hệ thống APS .
+Vì khung của tuyến xuống ( từ trạm góc đến máy di động ) là tín hiệu liên tục nên không cần thiết phải có phần mào đầu và thời gian bảo vệ .
+Vì trong tương lai cần phải cung cấp dịch vụ định nghĩa theo khách hàng  , lớp quản lý dịch vụ là một bộ phận không thể thiếu được của mạng thông tin di động .
+Vì Internet phát triển nhanh đến nỗi có một yêu cầu cấp thiết quản lý các mạng đồ sộ và phân bổ đó .
+Vì các sóng ánh sáng phát ra từ các bóng đèn điện này không động pha nên ông đã dụng một khe S đặt vào đường đi của ánh sáng .
+Vì các vị trí được đăng ký trong mỗi vùng  , nên tần suất đăng ký tăng , điều này dẫn đến nguy cơ qúa tải lưu lượng điều khiển .
+Bởi vì các hệ thống đa truy nhập sẽ được sử dụng cho các đường thuê bao trong rất nhiều trường hợp .
+Vì có sự biến đổi hệ số khúc xạ một cách liên tục  , cho nên đường đi thực tế của sóng không gian là khác với đường trực tiếp ( thẳng ) .
+Vì giao thoa và nhiễu được tạo ra trong các đường dẫn từ máy di động tới trạm gốc tín hiệu từ 1 trạm gốc có thể có chất lượng cao hơn 1 trạm gốc khác .
+Do những đặc tính ưu việt của mình  , chẳng hạn như dung lượng lớn , phạm vi thu rộng , hiệu quả kinh tế cao , thông tin vô tuyến được sử dụng rất rộng rãi trong phát thanh truyền hình quảng bá , vô tuyến đạo hàng , hàng không , quân sự , quan sát khí tượng , liên lạc sóng ngắn nghiệp dư , thông tin vệ tinh - vũ trụ v . v . .
+Do tính đơn giản của nó  , nó được sử dụng rộng rãi trong các hệ thống tổng đài tự động đầu tiên phát triển .
+Vì vậy  , việc tái tạo lại đồng hồ nhóm của mỗi máy di động là cần thiết ở trạm góc .
+Như hình 2.2 vì tỷ số khúc xạ trong đường truyền thay đổi nên các sóng hơi bị uốn cong khi chuyền qua khoảng cách lớn .
+Do tồn tại thực tế này nên ở trên dây chỉ có một sóng duy trì với bước sóng nhất định .
+Chính vì thực tế này mà các dãy PN thực hiện sự tính toán bộ tạo dãy nhờ việc xem xét một số dãy .
+Nhờ vậy  , phương pháp ( 2 ) gần đây đã được tăng cường sử dụng cho các mạng điện thoại vô tuyến di động qui mô lớn được tạo nên từ các khu vực nhỏ , ví dụ hệ thống điện thoại trên xe của Nhật hoạt động ở tần số 800 MHz , .
+Vì sự khác nhau này nên thời gian thu được hai tia này khác nhau .
+Do các kênh nghiệp vụ được định tuyến song hướng tại hai nút cho nên cần đến hai cáp quang để vận chuyển các kênh nghiệp vụ này .
+Vì các kênh phục vụ được định tuyến một cách đơn hướng  , cho nên cần phải có một cáp quang để vận chuyển chúng .
+Bởi vì tái sinh tín hiệu hầu như loại bỏ một cách vô hình toàn bộ tạp âm nảy sinh trong môi trường truyền dẫn  , tạp âm trong kênh rỗi được xác định bằng trong quá trình mã hóa chứ không phải bằng đường truyền dẫn .
+Vì các dịch vụ thông tin di động như : tổ ong  , hàng hải và các dịch vụ điện thoại hàng không phải được đấu nối với mạng điện thoại cố định PSTN , nhiều chức năng thông tin di động liên quan đến kết nối mạng cố định và mạng di động .
+Vì tín hiệu nhóm được phát hiện một cách tuần hoàn từ máy di động trong kênh truyền thông cho nên việc tái táo đồng hồ mà không cần phải vì phần mào đầu được thực hiện bằng cách duy trì gia của tín hiệu đồng hồ đã được tái tạo cho đến khi thu được tín hiệu nhóm tiếp theo và thực hiện phương thức tái tạo đồng hồ thông thường khi nhận được tín hiệu nhóm .
+Vì ISUP được định nghĩa cho thông tin cố định  , các chức năng sau đây của thông tin di động được bổ sung cho bản tin địa chỉ ban đầu ( IMA ) của ISUP .
+Vì cự ly truyền sóng trên mặt biển dài hơn so với mặt đất cho nên tần số thấp được sử dụng rộng rãi trong thông tin vô tuyến đạo hàng .
+Do hệ thống điều chế và giải điều chế cũng là digital  , nó đáp ứng được độ tin cậy và an toàn cao .
+Vì số lượng mode truyền lan là hàm số của bước sóng n nên nếu sợi có thể được sử dụng như sợi đơn mode ở bước sóng này thì đối với bước sóng ngắn hơn không còn là sợi đơn mode nữa .
+Do cấu trúc đơn giản nên dễ dàng cài đặt nó vào bộ phận quản lý hoặc bộ phận đại lý .
+Vì các thuê bao ở hệ thống di động chuyển động vô định  , hệ thống di động cần có một hệ thống tính cước khác với hệ thống sử dụng ở PSTN .
+Vì các thuê bao đã đăng ký trong hệ thống ở rải rác  , nên về căn bản mà nói thì hệ thống này phải có khả năng xử lý tất cả cuộc gọi của họ một cách tiết kiệm , tin cậy và nhanh chóng .
+Do quá trình truyền dẫn của lưu lượng làm việc bình thường trên USHR này là chỉ đi theo một chiều cho nên dung lượng của vòng được xác định bởl tổng nhu cầu giữa các nút .
+Bởi mọi thứ luôn luôn có khả năng thay đổi .
+Do các loại suy hao này giảm rất nhanh tại các bước sóng không phải bước sóng hấp thụ đỉnh  , do vậy , suy hao đạt giá trị bé nhất trong giải bước sóng từ 0.1 m đến 1.6 nm như trên hình 1.22 .
+Vì chúng có liên quan trực tiếp đến sự an toàn tính mạng con người nên các tần số này được quốc tế bảo vệ .
+Vì lưu lượng được định tuyến trên một đường duy nhất giữa các nút mà dung lượng dư thừa quanh một vòng có thể được dùng chung trên cơ sở từng tuyến kết nối và nó không được dành riêng cho tổng yêu cầu trên vòng đó ( như đối với trường hợp USHR ) .
+Do việc định thời phát và thu không trùng nhau nên không cần đến bộ lọc chọn lựa thu phát trong máy di động .
+Trước khi miêu tả điều chế biên độ cầu phương  , ta hãy xét sự biểu diễn cầu phương của các tín hiệu .
+Ngay trước quá trình chuyển giao được thực hiện  , một giai đoạn được bổ sung cho trạng thái trung gian ( trạng thái an toàn ) .
+Trước khi đi đến quyết định  , cần phải khảo sát các tuyến đường dây treo hiện có , các vị trí của cáp dẫn lên các toà nhà cao tầng và điều kiện đường sá .
+Trước khi dịch vụ này trở nên có hiệu lực  , đã có một sự tương ứng duy nhất giữa giá trị của 3 chữ số ( NNXI ) đằng sau 800 trong 800 - NNX - XXXXX và một IXC .
+Trước khi bắt đầu vào những công việc chi tiết của việc quy hoạch mạng  , chúng ta thường phải có những nghiên cứu cơ sở sau đây .
+Bắt đầu ở Tokyo năm 1968. NTT mở rộng dần các vùng phục vụ để bao phủ toàn đất nước trong khi số khách hàng tăng hàng năm 15 % .
+Bắt đầu với dịch vụ Freephone ( Gọi miễn phí ) năm 1985  , nnt đã và đang cung cấp các dịch vụ gọi tự động bằng thẻ tín dụng , freephone được nâng cấp , tỷ lệ lệ phí ( quay Q2 ) , ISDN CUG , bầu cử từ xa ( Tele - gong ) , cuộc gọi số đông ( Tele - dome ) và VPN với cấu trúc IN do nó tạo ra .
+Bell Atlantic là BOC tích cực nhất trong việc triển khai AIN .
+Bellcore liên tục đưa ra các phiên bản AIN dẫn tới mục tiêu này và cũng liên tục thực hiện những sàng lọc để tới mục tiêu này .
+Bellcore đã phát hành bộ đầu tiên của các yêu cầu chung cho phiên bản 1 vào 5 / 1995 và một bản cập nhật vào tháng 12 / 1992 .
+BellSouth đang dự định triển khai AIN 0.1 và sau đó AIN 0.2 .
+BellSouth là một BOC duy nhất dành toàn bộ phận kinh doanh cho AIN .
+Dưới đây  , chúng ta miêu tả các đặc tính kỹ thuật của thông tin di động TDMA .
+Dưới đây là các ưu điểm và nhược điểm của các hệ thống thông tin di động vệ tinh so với các hệ thống thông tin di động mặt đất bình thường :
+BER ( Tỹ lệ lỗi bit ) của hệ thống PCM xung quanh mức ngưỡng được nhanh chóng làm giảm bằng cách tăng tỉ số S / N .
+Bên cạnh đó  , khi việc liên lạc giữa các hệ thống giới hạn LAN được thực hiện chỉ với địa chỉ MAC thì thủ tục chuyển đổi địa chỉ MAC đã cho sang địa chỉ ATM tương ứng với các LEC được phân bố quanh mạng ATM , sẽ được yêu cầu .
+Bên cạnh đó  , nó còn cung cấp việc điều hành số thứ tự hoặc chức năng quản lý việc thêm bớt tế bào .
+Bên cạnh đó . nó xử lý các đoạn PT hoặc CLP và thực hiện chức năng là tạo ra và hủy bỏ mào đầu tế bào ATM .
+Bên cạnh đó  , có các phương pháp điều chế số như điều chế FSH pha liên tục ( CPFSH ) , và điều chế khóa pha biên độ ( APK ) .
+Ngoài ra  , các chức năng khác nhau như trợ giúp việc chỉ thị quá tải của mạng , điều khiển quá tải , thiết lập và giải phóng kết nối trong các chức năng SSCS .
+Ngoài tính kết hợp không gian  , chúng ta còn có yếu tố khác nữa để nâng cao tính kết hợp ánh sáng .
+Bên cạnh hệ thống đã miêu tả ở trên  , điều chế hybrid của hệ thống DS và FH được sử dụng để cung cấp thêm các ưu điểm cho đặc tính tiện lợi của mỗi hệ thống .
+Ngoài các nhân tố bên ngoài nói trên  , ba vấn đề chính khác đặt ra các chướng ngại chống lại việc thực hiện hệ thống FDM hiện nay .
+Các đặc tính tạp âm thấp tốt hơn so với GaAs - FET với chiều dài điện như nhau của cực tổng nhờ độ linh động cao ; hiệu ứng này đặc biệt tốt khi cơ cấu được làm lạnh .
+Tỷ số công suất của sóng hữu ích trên sóng can nhiễu giữa các hệ thống thông tin vệ tinh trong thực tế có thể đạt đến 30 dB ( 1000 lần ) hoặc lớn hơn khi hai vệ tinh đặt cách nhau khoảng 3º trên quỹ đạo  , ngay cả nếu các anten của chúng cùng chiếu vào một vị trí .
+Sau khi được phân loại thành những lưu lượng điều khiển như giao thức cho sự giải quyết địa chỉ LE ( LE _ ARP ) theo yêu cầu / phản ứng và lưu lượng dữ liệu thuần nhất  , dữ liệu sẽ được truyền đi giữa LEC và LESV .
+Giữa các tần số chủ máy di động của hệ thống và các tần số đăng ký của máy di động có quan hệ tỷ lệ nghịch .
+Giữa các tầng số nhắn tin và đăng ký có quan hệ tỷ lệ nghịch .
+Giữa hai mạng số thường tồn tại một độ lệnh tần số đồng hồ nhỏ gây ra sự sai khác về tốc độ truyền dẫn số liệu giữa hai mạch số .
+Mã nhị pha là một mạch đơn giản được tạo thành bằng cách nhân đôi tần số đồng hồ  , và thỏa mãn các yêu cầu được đề cập ở trên .
+Dịch chuyển pha nhị phân thay đổi θ trong phương trình biểu diễn sóng mang .
+Dạng xung nhị phân coi như là đầu vào của bộ điều chế PSK sẽ biến đổi về pha ở dạng tín hiệu ra thành một trạng thái xác định trước và do đó tín hiệu ra được biểu thị bằng phương trình sau .
+Mã lưỡng cực không có phần tử một chiều và sử dụng luân phiên A  , - A để có thể phát hiện lỗi mã lưỡng cực và có khả năng tiến hành chuyển đổi và tương ứng có các đặc trưng tuyệt vời như các mã truyền .
+Mã lưỡng cực hoặc AMI ( luân phiên đổi chiều điểm đánh dấu )  , b6zs và B8ZS được dùng tương ứng trong T1 , t2 và tín hiệu kênh xoá 64 Kbps , theo phương pháp châu Âu HDB3 ( Mã lưỡng cực mật độ cao 3 ) và 4B3T được sử dụng .
+Mạng số hóa đa dịch vụ băng rộng B - ISDN được phát triển bằng cách mở rộng khả năng của mạng ISDN đang tồn tại với mục đích trang bị thêm các loại tín hiệu băng rộng và nhờ ảnh hưởng của tiêu chuẩn truyền dẫn quang đồng bộ .
+Khái niệm BISDN được đưa ra với nhu cầu ngày 1 tăng đối với các dịch vụ băng rộng bao gồm cả dịch vụ truyền ảnh .
+BISDN dùng ATM để thực hành các chức năng của mình .
+B - ISDN có những mục đích cơ bản là kết hợp tất cả các dịch vu hiện hữu vào một mạng truyền thông trong tương lai .
+B - ISDN - một mạng thông tin số có khả năng cung cấp các loại hình dịch vụ băng hẹp  , chẳng hạn như điện thoại , các đầu cuối số liệu , giám sát từ xa , facximin , teletext , cũng như các dịch vụ băng rộng , chẳng hạn như điện thoại thấy hình , hội nghị truyền hình , truyền dẫn hình ảnh có độ phân giải cao , truyền số liệu tốc độ cao , giám sát bằng Video và CATV ... .
+B - ISDN là một khái niệm xuất phát từ tiêu chuẩn ISDN .
+B - ISDN đòi hỏi một phương pháp hiệu quả để có thể xử lý chung tất cả các dịch vụ nói trên  , hệ thống truyền thông ATM ( phương thức chuyển giao không động bộ ) đã được đề xuất như là một giải pháp .
+B - ISDN đã được phát triển để điều tiết các các thể loại khác nhau của các tín hiệu băng rộng  , dựa trẽn những khái niệm về tiêu chuẩn ISDN và tiêu chuẩn thông tin quang đồng bộ , trong khi đó hệ thống thông tin ATM đã được phát triển để cài đặt B - ISDN .
+BISDN truyền các thông tin dịch vụ trên cơ sở 1 dòng liên tục các gói có kích thước khác nhau được gọi là tế bào ATM .
+Tốc độ lỗi bit giảm khi nhiều chip được truyền đi trên một bit .
+Đồng bộ bit : tái tạo và gửi tín hiệu thu được bằng cách sử dụng một tín hiệu đồng hồ tái sinh từ các tín hiệu thu được ở phía thu để tạo ra các vị trí bit giống nhau ở cả phía thu và phía phát .
+Nếu đồng bộ được thiết lập  , các xung đến sẽ được nhận biết chính xác như hình 2. .
+Đồng bộ bit là để đồng bộ sự hoạt động của hai phía phát và thu bằng cách duy trì đồng bộ từng bít một  , tương đương với việc làm cho hai chuyển mạch có tốc độ quay bằng nhau .
+Đồng bộ bit là làm cho tầng số xung đồng hồ bên phát và bên thu bằng nhau .
+Mã khối  , tạo thông tin đầu vào thành một khối tại mỗi m bit , làm thích ứng từ mã đầu vào của số 2 exp ( m ) với từ mã của mảng 2 exp ( n ) của n bit .
+Truyền thông hai chiều với các khách hàng dịch vụ thư tín khác .
+Cả hai hãng AT &amp; Telephone và Motorola đã hưởng ứng các đề xuất trên .
+Cả hai phía chủ gọi và bị gọi đều được tính cước cho một phần của cuộc gọi .
+Cả hai DSCC đều có thể cung cấp truyền dẫn không mắc lỗi  , chống được tạp âm truyền dẫn và tạp âm gây ra do chuyển giao khi chuyển vùng .
+Cả hai phương pháp mã hóa và phương pháp nén là đồng thời được tiến hành qua bước nén số - số hoặc tự mã hóa mà không thêm những mạch riêng rẽ khác bởi sử dụng tính chất tuyến tính của phương pháp nén đoạn trong số .
+Cả hai loại tạp âm này xấu nhất ở kênh có tần số lớn nhất .
+Cả MIB - I và MIB - II đểu ở vị trí 1.3.6.1.2.1 và có cùng một cấu trúc cây .
+Cả hai hình đều mô tả đặc tính nén - dãn đối với biên độ tín hiệu dương .
+Cả cụm chuẩn và cụm lưu lượng có chuỗi khôi phục định thời bit và sóng mang gồm 176 ký hiệu tại phần đầu của cụm .
+Tốc độ của 2 chuyển mạch ở phía phát và phía thu phải bằng nhau  , hơn nữa vị trí tiếp điểm tương ứng với từng kênh trên hai chuyển mạch phải tương khớp với nhau .
+Cả hai máy phát và máy thu đều thực hiện một ước lượng và dự đoán giá trị tín hiệu dựa vào tín hiệu được phát đi trước đó .
+BPON là công nghệ STM ( Phương thúc chuyển giao đồng bộ ) trong khi APON ( ATM trong PON ) là hệ thống thay thế STM của BPON với ATM và sau đó hợp nhất chúng vào mạng ATM .
+BPON là công nghệ STM ( Phương thức chuyển giao đồng bộ ) trong khi APON ( ATM trong PON ) là hệ thống thay thế STM của BPON với ATM và sau đó hợp nhất chúng vào mạng ATM .
+Rẽ nhánh  , cùng đường thông nối với một số nguồn riêng rẽ .
+Tán xạ Brillouin được hình thành khi năng lượng ánh sáng đi qua sợi quang lớn hơn mức ngưỡng và bước sóng của ánh sáng bị tán xạ khác với bước sóng ban đầu .
+Các dịch vụ vùng rộng có ngay khi đa vệ tinh vào sử dụng .
+Hệ thống truyền dải rộng : Hệ thống này chuyển đổi các tín hiệu số thành những tín hiệu tương tự của những sóng đa tần để truyền đi .
+BS - FEC đôi lúc được nhắc đến như là chống lỗi không đồng đều ( UEP ) .
+Xây dựng đường dây thuê bao ngầm để truyền dẫn số .
+Các lỗi dạng cụm sẽ xảy ra trong các kênh vô tuyến di động do hiện tượng pha đinh Rayleigh và pha đinh nhiều tia .
+Điều khiển mức Chùm có thời gian hàng trăm ms hay nhỏ hơn .
+Điều khiển mức Chùm bao gồm điều khiển nối tiếp và quản lý tài nguyên nhanh .
+Nguồn chùm điều khiển tốc độ tế bào thông qua việc gắn thêm bộ đệm  , bởi vậy có thể làm tốc độ tế bào thấp hơn hoặc việc ngừng sự phát sinh tế bào bởi yêu cầu của mạng .
+Nguồn chùm không truyền đi chùm cho đến khi nó nhận được Ack từ tất cả các nút trên đường truyền .
+Đồng bộ cụm và điều khiển hệ thống trong hệ thống INTELSAT TDMA được thực hiện theo điều khiển tập trung của trạm chuẩn .
+Việc thay đổi biểu đổ thời gian cụm được thực hiện đồng thời cho tất cả các trạm lưu lượng theo sự hướng dẫn từ trạm chuẩn .
+Định thời phát cụm được đưa ra hoặc trễ đi để bù trừ các lỗi được phát hiện .
+Định thời phát cụm nên được điều khiển theo chu kỳ bằng cách sử dụng cụm chuẩn như một chuẩn định thời .
+Các cụm trong một khung TDMA được ấn định sao cho chúng không chồng lấn lên nhau .
+Các cụm được phát từ các trạm lưu lượng gọi là các cụm lưu lượng .
+Nhưng trong ảnh động độ chói thay đổi theo thời gian  , do đó ảnh động có thể được thực hiện như một hàm của một phân tử chói có 3 biên độ độc lập đó là hai biến không gian và một biến thời gian .
+Nhưng bây giờ nó đã được nối tất cả tới các BOC  , hầu hết IXC và các nhà khai thác mạng thông minh tổ ong không chỉ để truy nhập LIDB mà còn để chuyển tải các thông tin báo hiệu .
+Tuy nhiên  , AAL - 3 và AAL - 4 được kết hợp thành AAL - 3 / 4 vì chúng tương tự ở nhiều điểm và AAL - 5 được thêm vào cho các thông tin tốc độ cao .
+Dạng tín hiệu số được sử dụng thậm chí với các thông tin bình thường là các tín hiệu analog hoặc số liệu được mã hoá .
+Nhưng nếu tín hiệu thu được từ bộ phát tần số do sóng giao thoa và được khuyếch đại  , được điều chế cùng với tạp âm ( phần tử bù sẽ được truyền đi nếu dãy mã được biết ) , nó có công suất truyền dẫn tương đương với tín hiệu gốc và ảnh hưởng giao thoa của nó sẽ tăng lên .
+Trong khi đó đối với trường hợp ATDM hiệu suất sử dụng được tăng lên do tín hiệu ghép kênh chỉ sử dụng một kênh và các chu kỳ rỗi có thể sử dụng để cung cấp các dịch vụ mới .
+Tuy nhiên  , nó không thể cung cấp chức năng điều khiển lưu lượng đối với kết nối điểm đa điểm ATM .
+Nhưng sự suy giảm công suất tín hiệu không thành vấn đề chỉ trong giới hạn băng sau .
+Nhưng các loại sợi bằng nhựa thường được sử dụng ở những nơi cần truyền dẫn cự ly ngắn  , khó đi cáp bằng máy móc , thuận tiện trong việc sử dụng lắp đặt thủ công ( như dễ dàng hàn nối , không phương hại đến các đặc tính truyền dẫn khi bẻ gập v . v … ) mặc dù loại này có đặc tính truyền dẫn kém .
+Tín hiệu thu mà không được đồng bộ với tần số liên quan của đầu thu thì được cộng với băng tần liên quan và sau đó trải ra .
+Tuy nhiên  , vì VCI thay đổi chỉ khi tuyến VC được kết nối , nó giữ cùng một giá trị trong cùng một VPC ( kết nối luồng ảo ) .
+Tuy nhiên  , trong trường hợp truyền dẫn SDH cần phải có khung STM - n và trong trường hợp truyền dẫn dựa trên khuyến nghị G.702 cần có khung tín hiệu DS - 3 .
+Nhưng sản phẩm sử dụng kỹ thuật không dây dẫn kiểu như sóng điện từ hay tia hồng ngoại đã xuất hiện từ năm 1993 .
+Nhưng có nhiều sự khác nhau trong các hoạt động cụ thể của hệ thống .
+Nhưng thực tế không có giới hạn chính xác như vậy và khoảng tần số thu có thể chồng lấn do các bộ thu sử dụng đối với nhiều thống kê .
+Nếu lý tưởng thì tần số ra từ bộ dịch tần số cố định phải là tần số đơn nhưng thực tế thì tần số không mong muốn như là tần số băng bên cũng được tạo ra cộng thêm vào tần số dự định .
+Nhưng phương pháp liên lạc viễn thông mới kết hợp những phương pháp PCM cũng không được áp dụng thuận lợi .
+Nhưng với sự xuất hiện của kiểu tải ba T1  , các thiết bị sau đây cần phát triển để tương thích nhằm giảm chi phí mỗi đường cho đến cuối thập kỷ 1970 : hệ thống ghép kênh số kể cả PCM dây , gắn thêm chế độ tương tự vào chức năng truyền dẫn số kể cả DOV ( Dữ liệu trên tiếng nói ) , bộ ghép kênh - ghép ( ITU - T khuyến nghị G.794 ) nối mạng FDM với mạng TDM .
+Nhưng trong khi sự liên kết là có giới hạn do việc sử dụng các dịch vụ CBR và VBR  , thì các dịch vụ ABR và UBR vẫn được phát triển mà nhờ nó bạn có thể sử dụng độ rộng dải tầng còn lại cho dịch vụ ATM một cách kinh tế .
+Nhưng vì thông tin di động sử dụng hệ thống đa thâm nhập kênh để chỉ ấn định các kênh vô tuyến cho thuê bao khi thông tin  , vì thế không có quan hệ trực tiếp giữa thuê bao và đường dây thuê bao riêng .
+Nhưng vì cùng một tần số có thể được tái sử dụng theo khoảng cách ngắn cho nên vị trí tế bào tái sử dụng có thể giảm đi cùng với số lượng tế bào sử dụng lại theo cách bố trí tế bào đa hướng .
+Nhưng do phổ bị chồng lấn nên kênh kế cận không được sử dụng trong cùng một tế bào và tế bào bên cạnh cũng bị hạn chế do điều kiện nhiễu .
+Nhưng dải thông đủ làm cho tốc độ báo hiệu xấu hơn và cần thiết phải mở rộng thời gian truyền .
+Nhưng nếu có một vết nức trên bề mặt của sợi quang thì lực chịu căng được tập trung vào chỗ nứt và sợi sẽ bị gãy nếu lực này lớn hơn lực giới hạn chịu đựng cho phép .
+Nhưng nếu là như vậy thì không thể tạo ra được một cách đồng thời một hệ thống hoàn toàn giống như vậy . Vì vậy phải sử dụng số giả định .
+Nhưng nếu có nhiều tầng  , ở hệ thống tính cước cần có một số lượng lớn các số tính cước rỗng và hệ thống này không có lợi .
+Nhưng nếu tăng fr  , thì độ rộng băng cần thiết tăng , và vì thế công suất tạp âm ở đầu vào bộ giải điều chế cũng tăng theo .
+Nhưng trong truyền dữ liệu nó có nghĩa là các qui tắc trong dữ liệu cho phép các máy tính hoặc các máy tính và các terminal trao đổi dữ liệu .
+Nhưng trong EBCN  , trạng thái tắc nghẽn được thông báo trực tiếp tới nguồn và được so sánh có hiệu quả với EFCN .
+Nhưng trong hầu hết các trường hợp  , các đường dây thêu bao bao gồm đường truyền tin và đường phân phối trong vùng nông thôn được gọi là mạng viễn thông nông thôn .
+Nhưng để duy trì được vùng phục vụ lớn thì công suất phát của máy di động của trạm góc cần phải lớn .
+Nhưng trong hệ thống đồng bộ số  , các chức năng này được thực hiện bằng cách truy nhập trực tiếp tới tốc độ ghép kênh trong khi ghép kênh và tách kênh các tín hiệu do trạm được đồng bộ về một đồng hồ chuẩn một cách dễ dàng .
+Nhưng trong hệ thống truyền dẫn quang  , phương pháp truyền dẫn bằng mã - phương pháp chỉ sử dụng năng lượng ánh sáng - được sử dụng hiện nay .
+Nhưng trong trường hợp một cuộc đàm thoại  , không cần thiết phải phát toàn bộ băng tần này .
+Nhưng nó điều tiết nhờ sự liên kết tất cả các tín hiệu phân cấp số kiểu Bắc Mỹ kể cả tín hiệu DS - 1 kiểu Châu Âu  , và nó chứa đựng cả thủ tục ghép kênh tầng thứ nhất .
+Nó không được dùng trong thông tin cự ly xa bởi vì kém hiệu quả hơn hai kỹ thuật trên .
+Nhưng không rõ là có một cơ chế như vậy hay không .
+Nhưng nó cũng không được thực hiện vì lúc đó ống điện tử chỉ là một phần tử tích cực và ống mã dùng cho mã hóa bị có nhiều vấn đề khi thực hành .
+Nhưng chỉ một phần giới hạn của dải thông tần số rộng được sử dụng cho việc truyền tin .
+Nhưng PCM có tạp âm lượng tử hóa vì lỗi lượng tử hóa xuất hiện trong quá trình mã hóa .
+Nhưng TDM đòi hỏi phải được đồng bộ chính xác hơn FDM  , việc đồng bộ này là khía cạnh quan trọng nhất ở FDM .
+Nhưng sau đó cơ sở dữ liệu này được lắp đặt tại các điểm điều khiển mạng ( NCPs ) đơn lập .
+Nhưng ảnh hưởng của đất vẫn cần được xem xét là nó không thể được lắp đặt trong không trung .
+Nhưng hệ thống tải ba dây trần bây giờ rất hiếm hoi bởi vì bản thân đường dây trần đã trở nên cực kỳ hiếm .
+Nhưng góc phản xạ của mặt biên phải thỏa mãn điều kiện nhất định bởi vì có hiện tượng giao thoa ánh sáng .
+Nhưng có một số cơ chế được liệt kê dưới đây có thể áp dụng được phụ thuộc từng trường hợp tác động tương hỗ của dịch vụ :
+Nhưng để sử dụng việc gán kênh năng động trong thực tế cần phải có các thiết bị anten chung được sử dụng bằng cách kết hợp một số kênh và phải có một thuật toán để xử lý cuộc gọi qua mỗi khu vực tế bào ở tốc độ cao .
+Nhưng khi quy mô mạng nông thôn không lớn lắm  , chúng ta không cần kế hoạch dài hạn và kế hoạch trung hạn .
+Năm 1990 với dịch vụ 2 sóng mang trên toàn đất nước  , tỷ lệ tăng khách hàng hàng năm đạt 20 % .
+Năm 1997  , số đăng ký thuê bao sẽ đạt 130 triệu .
+Bằng cách bổ sung một chức năng cho IGS để gửi số vùng bản tin ( MA ) của số điện thoại cố định mà thuê bao chủ gọi trực thuộc  , số quay và số MA khởi xướng được gửi đến G - MGS khi cuộc gọi khởi xướng được thiết lập .
+Bằng cách bổ sung các số lượng như vậy cho tất cả các cáp  , một số lượng tích lũy được tính toán cho mỗi vùng phân bố .
+Giả thiết tính chất không đường thẳng được biểu thị bằng .... và ba sóng chưa điều chế biểu thị bằng ... được đưa vào đầu vào  , chúng nhận được kết quả sau :
+Bởi việc thự hiện việc giám sát hoạt động  , cả hai điểm cuối đưa ra chức năng giám sát cuộc gọi , mà nhận được lệnh thực hiện sự thỏa thuận cuối cùng thông qua việc sử dụng phương pháp kích hoạt / bỏ kích hoạt giám sát hoạt động .
+Bởi việc thực hiện việc giám sát hoạt động  , cả hai điểm cuối đưa ra chức năng giám sát cuộc gọi , mà nhận được lệnh thực hiện sự thỏa thuận cuối cùng thông qua việc sử dụng phương pháp kích hoạt / bỏ kích hoạt giám sát hoạt động .
+Nhờ thực hiện quá trình này trạm gốc có thể đánh giá vị trí của máy di động một cách hiệu quả khi sự kết thúc cuộc gọi cuộc gọi của máy di động được tạo ra .
+Thông tin màu có thể được truyền đi bằng việc vận chuyển hai tín hiệu màu với một sóng mạng ( fc ) trong dải tần của tín hiệu chói ( Y ) sử dụng điều chế biên độ .
+Bằng cách mã hóa  , các mẫu lượng tử hóa đã được chuyển đổi thành các mã nhị phân .
+So sánh phương trình ( 2.26 ) với phương trình ( 2.23 )  , ta được quan hệ sau :
+Ngược lại phiên bản AIN 1 đề cập đến các cơ chế tác động tương hỗ giữa các đặc tính chung phù hợp với cơ sở được thiết lập trong IN CS - 1 .
+Trái lại trong mã hóa thành phần tần số lấy mẫu cao hơn có thể được sử dụng bởi vì nó có thể đạt được sự dự đoán chính xác hơn .
+Bằng biến đổi 10 ngược lại thành con số thập phân tương đương  , ta nhận được con số 2 .
+Tuy nhiên  , bằng cách thiết lập đủ các mức rời rạc , các tín hiệu dạng sóng tương tự có thể được thực hiện với sai số đảo ít như mong muốn .
+Bằng cách thiết lập đồng bộ khung và đa khung theo phương pháp này  , nhảy bước phát đáp có thể được thực hiện .
+Khi đưa từ này vài lĩnh vực thông tin thì sinh ra giao thức thông tin .
+Bằng biến đổi bít thấp nhất của con số 11  , ta nhận được 10 .
+Bằng cách làm cho sự khúc xạ của sợi quang trở thành dạng chỉ số lớp  , độ sai lệch thời gian lan truyền , tức là , độ tiêu tan mode có thể giảm .
+Bằng cách lấy khoảng lượng tử đủ nhỏ  , tạp âm lượng tử có thể giảm tới mức thích hợp .
+Bằng cách sử dụng mã trạng thái này  , mỗi trạm lưu lượng có thể xác định cụm chuẩn chứa bản tin CDC là cụm chuẩn sơ cấp hay thứ cấp .
+Bằng cách chuẩn bị vài máy nhắn tin với cùng một số  , ta có thể nhắn tin tới tất cả chúng cùng một lúc .
+Dự phòng một thời gian bảo vệ giữa các sóng mang phát gián đoạn sao cho chúng không chồng lấn lên nhau .
+Nhờ sử dụng lại các tần số nó có thể cung cấp dung lượng xử lý cao hơn rất nhiều các hệ thống điện thoại đang sử dụng .
+Khi nhận được yêu cầu  , kiểu nối tương tư như trong ISDN được thiết lập trong mạng điện thoại .
+Bằng cách tạo lại tín hiệu PCM trong từng trạm lặp .
+Bằng cách nhớ 51.84 Mb / s hay 155.52 Mb / s  , phần còn lại có thể tính ra một cách đơn giản .
+Bằng cách lặp lại dạng sóng của chu kỳ đơn này  , một âm thanh phong phú có thể được tổng hợp .
+Nhờ thiết lập lại giá trị liên kết trong vòng mã hóa và giải mã dự đoán dựa trên cơ sở dòng sang dòng và sử dụng sự liên kết rõ như là hàm  , dự đoán hiệu ứng lỗi kênh giảm xuống rất lớn và giới hạn trong một số dòng .
+Bằng cách lấy mẫu tín hiệu tiếng nói của các kênh 2 và 3 vào những thời điểm khác nhau chút ít trong khoảng t1 và t2 và bằng cách tổ hợp những mẫu này với mẫu của kênh 1 theo thang thời gian .
+Theo lý thuyết lấy mẫu  , để truyền thông tin , bằng tín hiệu mà dải thông bị hạn chế , chỉ gửi đi số lượng hạn chế các mẫu rời rạc .
+Bằng cách lấy mẫu hàng tín hiệu theo một quy tắc cố định  , về mặt thống kê nó giảm bớt tính tiếp diễn của 0 và của 1 gần như không có , hoặc tạo ra mức của thành phần DC .
+Bằng cách phát tiếp tín hiệu đã được tạo lại cho trạm lặp sau .
+Bằng cách xê dịch lần lượt thời điểm đọc các tín hiệu 8 bit được chuyển mạch như chúng đang ở trong dạng các bit song song .
+Bằng cách lặp lại quá trình này theo chu kỳ 125s .
+Bằng chuỗi xử lý tín hiệu theo thứ tự ngược lại  , các tín hiệu từ hệ thống TDMA được đấu nối tới mạng mặt đất .
+Bằng cách này  , nội dung tại địa chỉ # 3 trong chuyển mạch thời gian thứ cấp được đọc ra tại thời điểm của khe thời gian # 5 và đưa vào khe thời gian # 5 .
+Nhờ đó  , sóng được bức xạ theo kiểu phân cực thẳng đứng song song với cạnh đứng của anten loa như hình vẽ .
+Bằng cách này pha nghịch đảo được tạo ra ở phía sóng mang phụ trong mỗi dòng đối với tín hiệu EV đã được hồi phục .
+Bằng phương pháp này  , có thể thực hiện việc đọc đồng thời số liệu từ bộ nhớ .
+Bằng những mạch logic này mà luồng tín hiệu có đường một chiều chạy trong mạng chuyển mạch thời gian .
+Bằng sự làm lạnh đột ngột này  , sẽ tạo ra sự không đồng đều về mật độ vật liệu tức là sự không đồng đều ở hệ số khúc xạ tạo nên do vật liệu còn có quán tính ở nhiệt độ cao trong sợi quang .
+Bằng cách kiểm tra này  , các đoạn yếu được đưa ra khỏi trước khi sử dụng , có như vậy thì giảm được tối thiểu việc sợi quang bị gãy .
+Bằng cách truyền các trạng thái ghi trong mạch chớ tạm thời một cách tuần tự theo thông tin đầu vào  , nó thực hiện điều khiển cuộc gọi bằng cách sử dụng phương pháp phân chia thời gian .
+Bằng cách sử dụng DSI  , số kênh vệ tinh có thể ít hơn số đầu vào kênh mặt đất .
+Bằng cách sử dụng FEC  , tỷ số lỗi bit có thể được cải thiện để thoả mãn với tiêu chuẩn .
+Bằng việc sử dụng kỹ thuật điều chế  , chiều dài của anten có thể được rút ngắn để truyền lan và bức xạ hiệu âm tần như tiếng nói và âm nhạc một cách hiệu quả , tạp âm dải rộng có thể , được giảm đi , can nhiễu giữa các trạm thông tin có thể bị loại trừ thông qua việc ấn định tần số và nhiều tín hiệu có thể được phát giữa trạm thu và trạm phát thông qua việc ghép kênh .
+Bằng kỹ thuật xử lý số  , các mạch trở nên gọn và nhỏ , tiêu thụ nguồn nuôi thấp và tiện cho việc xử lý ghép theo thời gian .
+Bằng cách sử dụng phương pháp chèn dải thông tính hiệu truyền hình màu có thể bị giới hạn để sử dụng dải thông tới mức cao nhất có thể .
+Bằng cách sử dụng truyền thống góc theo thống kê này  , việc truy nhập để thực hiện ghép kênh được gọi là đa trung nhập thống kê .
+Bằng cách sử dụng 3 cột sẽ có 27 byte ( 9 hàng * 3 cột )  , và sử dụng 4 hàng sẽ có 36 byte ( 9 hàng * 4 cột ) .
+Bằng việc sử dụng các tính năng đặc biệt của thông tin vệ tinh  , ngoài việc cung cấp các đường thông tin dung lượng lớn , cần cung cấp các đường thông tin khác nhau một cách dễ dàng hơn để thoả mãn yêu cầu của người sử dụng .
+Bằng cách sử dụng điều này  , việc phân tách kênh DS - O 64 kbps từ tín hiệu nội bộ 150 Mbps có thể được thực hiện một cách dễ dàng .
+Bằng cách sử dụng loại chuyển mạch này có một bộ phận mở / đóng với điểm tiếp xúc được dát vàng  , các đặc tính của cuộc gọi được cải tiến rất nhiều .
+C - MOSRAM có ưu điểm là tiêu hao nguồn thấp  , nhưng đòng thời tốc độ hoạt động của nó lại thấp hơn so với ECL - RAM .
+C ) Chức năng xử lý cuộc gọi của các tổng đài hiện có và sự tiến triển liên tục của nó là cơ sở của mô hình cuộc gọi .
+C . Chappe phát minh ra một máy điện báo quang vào năm 1791 .
+C . Số lượng tần số cần thiết tối thiểu : do không thể sử dụng cùng một tần số vì nhiều với các tế bào bên cạnh  , cho nên số lượng tần số cần thiết tối thiểu được trình bày trong ( bảng 2.6 ) .
+C / N biểu thị lượng tạp âm so với công suất sóng mang tính theo decibel ( dB )  , nhưng phải biểu thị ảnh hưởng trên C / N do sự tích luỹ tạp âm theo số thực .
+C / No ] được sử dụng để tính mức tạp âm tương đối trong một đơn vị độ rộng băng ( 1Hz ) và có đơn vị là dB - Hz .
+Vì không phải là hàm của độ rộng băng  , nên C / No và C / T cùng biểu thị công suất tạp âm tương đối .
+Tỷ số C / No tính được bằng cách nhân độ rộng băng B với tỷ số C / N .
+C / Chọn tần số có thể ngăn ngừa được nhiều lẫn nhau do các đặc tính phi tuyến của các thiết bị thu phát tạo ra .
+Vì 100ºK = 20dB / ºK  , nên [ C / T ] = ( - 128 , 6 - 20 ) = - 148.6dB / K .
+Cáp được tiêu chuẩn hoá trong một vùng phân bố cố định theo đường kính dây để hỗ trợ thuê bao xa nhất trong vùng .
+Cáp có thể chứa được nhiều mạch hơn và chắc chắn hơn so với dây trần  , nhưng nó có suy hao truyền dẫn lớn hơn .
+Các dây dẫn điện của cáp được bện xoắn thành từng cặp hoặc thành từng quắc để đạt được sự cân bằng tốt giữa các mạch và đất .
+Nhu cầu cáp đầu vào và sự phân bố khung chính của đôi dây ghép giảm đáng kể bởi vì toàn bộ các đường được ứng dụng như là các kênh con của tín hiệu TDM .
+Các loại cáp đều được xem xét đến trong việc đưa đường cáp ngầm vào sử dụng .
+Cáp sẽ được chôn nếu có 1 trong các điều kiện sau đây :
+Các đặc tính truyền dẫn của cáp phải ổn định trong các môi trường nước và ngoại lực bên ngoài .
+Cáp được tiêu chuẩn hoá trong một vùng phân bố cố định theo đường kính dây để hỗ trợ thuê bao xa nhất trong vùng .
+Các dây cáp được đặt dưới đáy hồ hoặc dưới đáy sông rộng gọi là cáp dưới nước .
+Các cáp được đặt dưới đáy biển được gọi là cáp biển .
+Cáp phải có khả năng vận hành lắp đặt tương tự như cáp kim loại thông thường .
+CAC là chức năng đánh giá khả năng thực thi bởi chức năng quản lý kết nối của hệ thống quản lý mạng khi thiết lập cuộc gọi hay việc thoả thuận lại được yêu cầu từ các khách hàng ATM .
+Hãy tính toán và trả lời đúng đối với hai mươi khe .
+Tính toán một cách toán học  , tín hiệu thu được Es và tín hiệu của bộ dao động nội Eo được biểu diễn tương ứng như :
+Tính toán chi phí sử dụng thiết bị mạng cho người sử dụng  , trong bảng 5.5 có nêu những chức năng điển hình mà các nhà cung cấp mạng và các công ty chung yêu cầu .
+Chức năng giữ cuộc gọi cho phép người sử dụng thiết lập thời gian không nhắn tin khi lưu giữ bất kỳ bản tin nào thu được và chúng sẽ được thông báo khi vượt qua chu kỳ đó .
+Điều khiển mức Cuộc gọi có thời gian phù hợp với khoảng thời gian kết nối và tập trung vào chức năng quản lý kết nối của hệ thống quảng lý mạng nhằm để thừa nhận việc thiết lập kết nối cuộc gọi hay thỏa thuận lại và thay thế điều đó cho các tài nguyên mạng một cách thích hợp .
+Mô hình cuộc gọi cung cấp một dịch vụ mức cao và cách nhìn trừu tượng độc lập với các nhà cung cấp thiết bị / thực hiện của việc xử lý cuộc gọi và kết nối IN trong SSF và CCF .
+Chất lượng gọi trở nên xấu hơn khi mức tín hiệu thấp .
+Các tín hiệu gọi và tín hiệu hoàn thành cuộc gọi được gửi đến người thao tác viên bằng cách sử dụng từ trường .
+Thông tin và dịch vụ chuyển mạch cuộc gọi và truyền và xử lý dữ liệu .
+Ví dụ dịch vụ chuyển tên chủ gọi  , , khôi phục tên chủ gọi từ CLI để truyền tới thiết bị đầu cuối bị gọi .
+Các khe thời gian mang thông tin thoại của thuê bao chủ gọi cho phát chúng được đưa vào mạch đầu vào được chuyển mạch đến các khe thời gian của thuê bao bị gọi thu trong mạng .
+Khách hàng chủ gọi gặp phía bị gọi tự động được thông báo khi bị gọi rỗi .
+Các cuộc gọi được thanh toán vào số tài khoản hoặc phía bị gọi thông qua các chức năng mạng .
+Các cuộc gọi được quay với các số giống nhau được định tuyến tới các đích khác nhau dựa vào vị trí  , thời gian … .
+Các cuộc gọi từ đầu cuối bất kỳ được tính cước vào tài khoản ở ngân hàng hay thẻ tín dụng .
+Các cuộc gọi định tuyến qua các thiết bị xác định trước theo danh sách lựa chọn .
+Các cuộc gọi đến các thuê bao điện thoại tổ ong và hàng hải  , phải đến được các trạm di động ở mọi nơi trên toàn quốc và điều này có nghĩa rằng phải sử dụng hệ thống đánh số khác với hệ thống dùng cho PSTN .
+Tuy nhiên các cuộc gọi điện thoại trên xe là những trạm di động  , nên vô tuyến đóng vai trò đường dây thuê bao .
+Hãy chú ý phần mô tả ấn định công suất tạp âm 10.000 pWOp do INTELSAT xác định .
+Đồng bộ đồng hồ sóng mang có thể thực hiện bằng việc khôi phục sóng mang và khôi phục đồng hồ miêu tả ở hình 3.1.3 dịch chuyển nhị phân .
+Sóng mang có lệch pha 180 giữa pha 1 và pha 0 theo dãy mã .
+Phải tính toán riêng biệt công suất sóng mang và công suất tạp âm ; công suất tạp âm phải bao gồm cả nhiễu và tạp âm nhiệt .
+Kỹ thuật tải ba đã thay đổi các mạch đường dài theo hướng tốt hơn và kinh tế hơn .
+Trường hợp các bể cáp chật ních cáp và các phương tiện khác :
+Trường hợp việc tách bớt cáp làm tổn hại việc quản lý phương tiện vì :
+Các trường hợp trong đó tỷ số bằng 1  , 5 hay nhỏ hơn chiếm tới 80 % và bằng 2 hay nhỏ hơn chiếm đến 90 % .
+Anten Cassegrain bao gồm 2 gương phản xạ ( chính và phụ ) và một tấm bức xạ sơ cấp theo nguyên tắc kính thiên văn cassengrain trong khoa học về quang .
+Dịch vụ CATV và truyền hình cho thuê sẽ thay thế bởi dịch vụ mạng tư nhân này  , dịch vụ mà người ta chờ đợi rằng nó sẽ nhanh chóng trở thành dịch vụ mạng công cộng .
+Các nguyên nhân của suy hao bao gồm sự hấp thụ  , sự tán xạ , sự phóng xạ , và sự đấu nối sợi quang không phù hợp .
+CC là mã nước và đồng dạng với mã nước sử dụng trong kế hoạch đánh số mạng điện thoại quốc tế hiện có .
+Kỹ thuật CCC ( khả năng kênh xóa ) trên mạng đã có  , kỹ thuật UNI ( giao tiếp mang - người sử dụng ) về tiếng nói . Số liệu , thông tin hình ảnh và kỹ thuật NNI ( giao tiếp nút - mạng ) , kỹ thuật tổ hợp siêu cao VLSI ( tổ hợp quy mô rất lớn ) bao gồm các loại kỹ thuật mã hóa , kỹ thuật truyền dẫn số đồng bộ , mạng nối chéo , và bảo dưỡng mạng , mạng CCR ( cầu hình lại điều khiển khách hàng ) , IN ( mạng thông minh ) và v . v . để chuẩn bị cho dài hẹp ISDN trong giai đoạn đã thực hiện một phần .
+CCF bao gồm điều khiển kết nối tải mang phù hợp với các chức năng điều khiển chuyển mạch cơ bản của các tổng đài hiện có để kết nối các đường truyền thông và bộ quản lý cuộc gọi cơ bản ( BCSM ) .
+Trong trường hợp này CCF có thể chờ trả lời từ SCF hoặc tiếp tục xử lý cuộc gọi .
+Mức tạp âm có thể cho phép đo can nhiễu từ các hệ thống vô tuyến mặt đất được xác định bởi khuyến nghị 356.4 của CCIR .
+CCIS là phiên bản của hệ thống báo hiệu kênh chung No6 của AT &amp; T .
+CCIS sau này đã được thay thế bằng hệ thống báo hiệu số 7 hoàn hảo hơn ( S . S . No.7 ) vào giữa những năm 80 .
+Khuyến nghị G.811 của CCITT quy định sự vận hành cân đồng bộ của các kênh số quốc tế .
+CCITT khuyến nghị tần số lấy mẫu đối với tín hiệu tiếng nói là 8 kHz .
+CCITT khuyến nghị một tần suất trượt chấp nhận được  , hoặc nói cách khác , tỉ lệ trượt trong mạng thông tin số .
+CCITT khuyến nghị dùng lượng tử hóa không đồng nhất với 8 bit mỗi mẫu và 256 mức lượng tử để đảm bảo chất lượng tiếng nói cao .
+CCITT khuyến nghị việc nén - dãn đó đó được thực hiện bằng xử lý số .
+CCITT khuyến nghị hai loại đặc tính nén dãn logarit .
+Cáp CCP - AP : Kiểu SS  , tất cả các lĩnh vực trừ các lĩnh vực dành cho các cáp CCP - CS , CCP - HS và CCP - ES .
+Cáp CCP - CS : Những đoạn hiện có nơi mà những hư hỏng do chim muông  , côn trùng , động vật hay đạn súng săn và tương tự đã vượt quá mức độ ấn định trước và nơi mà hiện trường tương tự như vậy được tiên đoán là sẽ còn dai dẳng và những đoạn lắp đặt mới nơi được dự đoán có những tình trạng tương tự .
+Cáp CCP - ES : Những vùng cần phải có các biện pháp chống lại hiện trường cản nhiễu do cảm ứng .
+Cáp CCP - HS : Những đoạn hiện có nơi mà những hư hỏng do chim muông  , côn trùng , động vật hay đạn súng săn và tương tự đã vượt quá mức độ ấn định trước và nơi mà hiện trường tương tự như vậy được tiên đoán là sẽ còn dai dẳng và những đoạn lắp đặt mới nơi được dự đoán có những tình trạng tương tự .
+Hiện nay cáp CCP - JF đang được sử dụng cho phân bố cáp ngầm .
+Hệ thống CDMA đã được thiết kế theo cách mà nó có hệ thống báo hiệu và cấu trúc điều khiển rất mềm dẻo .
+CDMA là một phương pháp đa truy nhập trong đó mỗi trạm mặt đất phát đi một tần số mang như nhau nhưng sóng mang này trước đó đã được điều chế bằng một mẫu bit đặc biệt quy định cho mỗi trạm mặt đất trước khi phát tín hiệu đã điều chế .
+Hệ thống CDMA áp dụng kiểu tổ hợp tốc độ lớn nhất xác định tỷ lệ tín hiệu trên nhiễu cho tất cả các đường dẫn được tổ hợp và đưa ra trọng số cho từng đường dẫn hơn là cộng chúng với nhau .
+Hệ thống CDMA cơ bản được thực hiện ở lớp vật lý phụ ghép  , lớp tín hiệu 2 , lớp các kênh nhắn tin và truy nhập 2 , lớp kênh đồng bộ 2 và lớp điều khiển 3 .
+Khu vực tế bào được xác định bằng các điểm có vùng vị trí mức thu trung bình giữa các vị trí tế bào trong khu vực lan truyền sóng vô tuyến và có dạng hình đa giác .
+Phần tín hiệu ghép đầu được chia ra thành các phần điều khiển chung cho luồng tín hiệu ( General Flow Control )  , phần tín hiệu xác định luồng ảo ( VPI ) , xác định kênh ảo ( VCI ) loại tải ( PT ) , tín hiệu xác định tế bào ưu tiên và tín hiệu kiểm tra lỗi phần tín hiệu ghép đầu .
+Điều khiển mức tế bào có thời gian vài ms hay nhỏ hơn .
+Tốc độ tế bào là số lượng tế bào trên một giây và dung sai như là một đơn vị của thời gian .
+Chuỗi tế bào được đảm bảo trong mỗi VCC của cùng VPC  , và QoS được thể hiện bằng các tham số chẳng hạn như tỷ lệ tổn thất tế bào , hoặc độ trễ được cung cấp đối với mỗi một kết nối .
+Sự phân chia tế bào và giảm tế bào nhờ các anten khu vực là các biện pháp hiệu quả không lâu dài để mở rộng dung lượng hệ thống và vì vậy một phương pháp điều chế số đã được đề xuất như là một giải pháp để mở rộng dung lượng thông qua tăng hiệu xuất trải phổ .
+Những tế bào đưa vào trước hết được lưu giữ trên cổng vùng đệm đầu vào và chức năng điều khiển đường kiểm tra sự xung đột của cổng đầu ra giữa N tế bào  , được đặt trong vùng đệm đứng đầu tiên với trình tự FIFO .
+Những tế bào đã được đưa vào bộ nhớ dùng chung lại được liên kết tương ứng với số lượng cổng được chỉ định trong danh sách liên kết dành cho việc quản lý .
+Trung tâm của một kênh được định vị tại điểm 0 của kênh bên cạnh ( giả sử với việc thu sóng mang không đồng bộ ) .
+Tập trung và phân tán các chức năng quản lý mạng .
+Điều khiển hệ thống tập trung bằng các trạm chuẩn .
+Các PIC nhất định tương ứng với chức năng đặc tính dịch vụ dựa vào chuyển mạch và vì vậy chúng không đồng thời trong tất cả các hệ thống chuyển mạch .
+CTE được nối vào các nguồn dịch vụ và kết cuối các đường thông riêng rẽ .
+Những thay đổi trong môi trường xã hội đã dẫn đến những thay đổi trong mục tiêu phân bố ngầm  , phấn đấu theo hướng tăng cường các chức năng phòng hộ tai họa và bảo đảm chắc chắn cho an toàn và khoảng trống đi lại thuận tiện .
+Các bản tin phân bố kênh được sử dụng để phân bố các kênh nhắn tin các trạm gốc tới các máy di động và được sử dụng để thay đổi các kênh nhắn tin .
+Dung lượng kênh của thiết bị gồm các khung kết nối chính  , tổng số là 96.728 .
+Có thể tăng hiệu suất kênh bằng cách sử dụng một kênh rỗi ở ô vô tuyến bên cạnh khi không có kênh rỗi ở ô hiện thời .
+Lọc kênh : Số liệu băng tần gốc được chuyển đổi thành chuỗi xung sau đi qua bộ lọc này .
+Truy nhập kênh được phân loại thành kiểu chiếm dụng kênh và phân chia kênh . Kiểu chiếm dụng kênh là truy nhập tốt đối với thông tin liên tục như điện thoại . Có đa truy nhập phân chia theo tần số trong hệ thống tế bào tương tự  , đa truy nhập phân chia theo thời gian sử dụng trong hệ thống tế bào số , và đa truy nhập phân chia theo mã .
+Tốc độ kênh có thể áp dụng một cách linh hoạt dựa vào tốc độ thoại của người gọi .
+Kiểu chia kênh được gọi là truy nhập ngẫu nhiên vì nó cho phép có va chạm và người sử dụng có thể chuyển một cách độc lập tín hiệu gốc một cách ngẫu nhiên .
+Các kênh có thể được phân loại thành một số loại có một hoặc nhiều điểm chung .
+Các đặc tính của vùng quy hoạch  , các loại dịch vụ cần thiết , sự phát triển của vùng quy hoạch trong tương lai , khả năng nguồn tài chính .
+Việc kiểm tra dạng xung tại đầu ra ( được gọi là dạng đáp ứng xung )  , theo cách này có nghĩa là kiểm tra các đặc tính tán sắc của sợi quang .
+Quyết định chip được định nghĩa là e  , khi công suất gián tiếp của kênh khoảng trống trội hơn công suất của kênh có ký hiệu thì nó là tổng đầy đủ để tạo ra quyết định không mong muốn .
+Tán sắc xảy ra vì ánh sáng được tạo thành từ các nguồn ánh sáng như laser hoặc điốt phát quang có độ rộng bước sóng hữu hạn  , không giống như của ánh sáng đơn sắc lý tưởng .
+Sự tán sắc đã được tối thiểu hóa bằng sự bù trừ tán xạ đường lan truyền và tán xạ môi trường được trình bày .
+Màn hình tạo thành từng vòng : tạo ra các vòng giữa những điểm cụ thể .
+Các thiết kế mạch cho truyền dẫn truyền hình nói chung theo đúng các khuyến nghị của CCITT để giữ chất lượng hình ảnh trên một tiêu chuẩn nhất định .
+Chức năng định tuyến mạch sử dụng đặc điểm quan trong nhất của ghép kênh đồng bộ là khả năng phân biệt từng khe thời gian ở mức ghép bậc cao .
+Bộ chuyển mạch thời gian xử lý chuyển mạch kênh trong chuyển mạch số thực hiện bằng cách trao đổi các vị trí thời gian của các tín hiệu giữa các mạch vào và các mạch ra .
+Các mạch trong các hướng ngược nhau được cung cấp trong một cáp sử dụng một băng tần khác  , cự ly có thể áp dụng khoảng từ 25 đến 100 km .
+Các tình huống và tóm tắt tiêu chuẩn hoá giao diện đồng bộ mới .
+Các kế hoạch phát triển thành phố tái phát triển khu vực .
+Việc phân loại các đường truyền này dựa trên việc xem xét truyền sóng trong không gian tự do  , các vùng tương tác hai tia và các vùng pha đinh Rayleigh được mô tả ở phần trước .
+Đồng bộ vòng khép kín : ở đồng bộ vòng khép kín  , mỗi trạm thu cụm mã chính nó phát ra cụm này đã được phát trở lại từ vệ tinh .
+Thu nhận vòng khép kín : một tín hiệu đặc biệt  , chẳng hạn PN ( tạp âm giả ) được phát tại một mức thấp đến nỗi không gây ra nhiễu lớn , thậm chí nếu như có chồng lấn vào các cụm khác ; thời điểm phát được xác định bằng việc so sánh tín hiệu thu phát vòng trở lại từ vệ tinh tới vị trí cụm chuẩn .
+CLP dùng để chỉ khả năng cho phép hoặc không cho phép mất cuộc gọi trong trường hợp mạng quá tải .
+Vỏ bọc ở phía ngoài phần áo bảo vệ bảo vệ các sợi quang khỏi độ ẩm không khí và sự ăn mòn và đồng thời  , chống xuyên âm với các sợi quang bên cạnh , và làm cho các sợi quang dễ xử lý .
+Cáp đồng trục : Loại cáp hình trụ này cũng giống như loại dây dẫn từ anten tới tivi .
+Cáp đồng trục vốn dĩ đã giải phóng được hiện tượng xuyên âm trong băng tần cao .
+Các loại cáp đồng trục  , cáp quang , không gian , và các hướng sóng được dùng rộng rãi cho mục đích này .
+Các mã A / D1 đến A / D4 có thông tin phân biệt tương ứng ở từ mã 1 - 16  , 17 - 32 , 33 - 48 , 49 - 64 .
+Tạp âm lỗi mã tạo ra tùy thuộc vào tạp âm nhiệt và sự méo dạng sóng .
+Dãy mã được đưa vào bộ điều chế cân bằng để có đầu ra là sóng mang RF điều chế 2 pha .
+Mã hoá nên được sử dụng một cách cẩn thận vì sự tương đồng các đặc tính nếu sử dụng cùng một phương pháp như các hệ thống thông tin mã hoá khác .
+Các mã được sử dụng ở thời điểm này có độ dài bắt buộc hoặc độ dài bộ nhớ của bộ mã là ( k = 9 ) và tốc độ mã hoá là ½ ( 2 ký hiệu nhị phân đã được ghi thành mã trên bit được tạo ra ) .
+Mã hóa  , một kỹ thuật từ lý thuyết thông tin của truyền dẫn số là bổ sung các con số một cách có hệ thống cho tin báo cần phát đi .
+Các phương pháp mã hóa đối với tín hiệu truyền hình NTSC được chia thành ha nhóm : mã hóa thành phần và mã hóa ghép .
+Tách sóng nhất quán được áp dụng cho giải điều chế PSK .
+Khôi phục Coherent : đó là quá trình trích sóng mang đồng bộ pha tín hiệu PSK thu được .
+Bẫy khởi động nguội : thông báo là hệ thống đại lý đang việc và dịch vụ đã bắt đầu ( khi đã có sự thay đổi trong cấu hình trong đối tượng cần quản lý ) .
+Thu thập / báo cáo thông tin về lỗi  , chuẩn đoán thiết bị hư hỏng .
+Thu thập và sắp xếp các tư liệu  , số liệu và các tư liệu khác .
+Sự mở rộng tập trung được định nghĩa như sự mở rộng phương tiện được thực hiện cùng một lúc trong tất cả các vùng phân bố cố định trong phạm vi một khu vực cần đến công việc mở rộng  , mặc dù không phải tất cả các vùng đó đều có yêu cầu gia tăng dung lượng .
+Va chạm được phát hiện khi một tín hiệu đang được truyền đi bị va chạm với tín hiệu gửi đi từ một nút khác .
+Thông tin màu được truyền đi nhờ nén sóng mạng  , nên không có bất kỳ một thành phần sóng mạng nào , do đó sóng phụ mang màu được loại bỏ và chỉ tín hiệu đơn biến chưa thông tin màu được truyền đi .
+Màu có thể được định nghĩa theo dạng đô chói  , sắc màu và bão hòa màu .
+Thay đổi màu sắc để thể hiện sự thay đổi trạng thái ( bình thường  , lỗi nhỏ , lỗi lớn ) .
+Vì thế các tín hiệu truyền hình màu chứa tín hiệu đồng bộ để đồng bộ hình ảnh  , tổ hợp tín hiệu chói ( Ey ) và tín hiệu số màu ( EI , EQ ) và tín hiệu cụm màu - tín hiệu này là chuẩn đối với sóng mang phụ chứa màu .
+Các tín hiệu truyền hình màu trong hệ thống NTSC là các tín hiệu đầu ra ( R  , G , B ) từ một máy quay truyền hình , chúng được hỗn hợp theo các tỷ lệ sau :
+Các sơ đồ tổng hợp hai dây dẫn tại mỗi giá trị điện trở DC và suy hao đường dây được cung cấp cho mục đích đó .
+Kết hợp nhiều kỹ thuật thông tin khác nhau .
+Sự kết hợp các dịch vụ khác nhau có thể được truy nhập từ các giao diện mạng khách hàng ISDN .
+Các hệ thống tổng hợp của hai hệ thống điều chế trải phổ sẽ cung cấp các đặc tính mà một hệ thống không thể có được .
+Kết hợp kênh tìm gọi và kênh điều khiển truyền dẫn thành một kênh điều khiển và triển khai kênh đó trong mỗi vùng vô tuyến .
+Kết hợp kênh tìm gọi và kênh điều khiển truyền dẫn thành một kênh điều khiển và triển khai kênh điều khiển đó trên 2 vùng vô tuyến trở lên bằng cách xem các vùng vô tuyến đó là một đơn vị .
+Các lệch đề cập tới các kiểu bản tin khác nhau được sử dụng để điều khiển các máy di động nhất định .
+Thực hiện  , cạnh tranh và khắc phục ( CCR ) : Lớp ứng dụng cung cấp các chức năng đồng bộ và thực hiện các xử lý không tập trung bao phủ nhiều hệ thống , như thay đổi đồng thời cả sở dữ liệu ở xa .
+Thủ tục quản lý chung : Các chức năng chung có tác động vào đối tượng cần quản lý .
+Cùng sử dụng chung các nguồn tài nguyên phần cứng và phần mềm của máy tính .
+Thông tin giữa các máy bay và trung tâm điều khiển được thực hiện qua một trạm gốc đặt ở sân bay hoặc độc lập trên tuyến bay .
+Thông tin giữa hai điểm cố định có thể được thực hiện bởi các tuyến dây truyền dẫn  , nhưng đối với các mục tiêu di động như các loại xe và máy bay thì cần phải sử dụng thông tin vô tuyến .
+Các kênh thông tin trong mạng phải có các kiểu nối thoải mãn các giá trị thuộc tính này .
+Chức năng liên lạc được tiêu chuẩn hóa theo phân cấp .
+Thông tin là một quá trình truyền tin từ một điểm thời gian và không gian  , được gọi là nguồn tín hiệu , tới điểm khác , được gọi là điểm đến hay người sử dụng .
+Các thủ tục truyền tin như lập đường truyền dẫn  , xóa bỏ những lõi trong truyền dẫn và gói lại những thông báo truyền dẫn được thực hiện khi trao đổi dữ liệu giữa trạm đầu cuối và hệ thống chuyển mạch và giữa các hệ thống chuyển mạch với nhau .
+Chất lượng thông tin thường được phân loại như sau :
+Nhìn chung  , ta có thể trình bày một cách tóm tắt các hệ thống thông tin theo sơ đồ dưới đây .
+Hệ thông tin toàn bộ thiết bị cung cấp cho các tuyến kết nối thông tin giữa nguồn và đích .
+Các đường truyền thông giữa một CO và trung tâm của nó được đi qua chặng cáp quang ưu tiên điểm - nối - điểm  , chặng này được bảo vệ nhờ chặng cáp quang phân tập vật lý do hệ thống APS điều khiển .
+Các quá trình trao đổi được tiến hành thông qua giao diện giữa người với máy và giữa máy với máy .
+Việc liên lạc chỉ tiến hành khi vị trí của máy điện thoại đã được ấn định và nó được nối với tổng đài bằng đường dây thuê bao .
+Thông tin do INTELSAT cung cấp thuộc thể loại dịch vụ vệ tinh cố định .
+Về đại thể các thông tin có thể được phân ra các loại như thông tin cáp đồng trục  , hoặc cáp sợi quang và thông tin vô tuyến sử dụng sóng vô tuyến điện nối liền nhiều nơi trên thế giới vượt qua thời gian và không gian .
+So sánh truyền dẫn tiếng nói  , truyền dẫn hình yêu cầu dải tần 4MHz gấp 1000 lần tín hiệu thoại và chi phí truyền dẫn cao hơn rất nhiều .
+So với cấu trúc l : l / ODP miêu tả trong hình.63  , cấu trúc thay thế này sử dụng khái niệm bảo vệ 1 : 1 APS ) sẽ giảm bớt được suy hao công suất .
+Cải tiến quan trọng nhất ở anten Cassegrain là khoảng cách giữa máy phát và cái bức xạ có thể được rút ngắn vì vậy cho phép khai thác dễ dàng .
+So sánh với ứng dụng chỉ dẫn OSI đang có  , cấu trúc giao thức đối với IN CS - 1 dựa vào phần giao thức SS No 7 chứa khả năng trao đổi ( TC ) như trong hình 2 - 13 .
+So với VSELP  , PSI - CELP cho kết quả rất giống dù chỉ sử dụng một nửa tốc độ bit .
+Bảng 2.3 so sánh các bộ khuyếch đại công suất cao .
+Tính tương thích đa đạt được giữa các hệ thống đen trắng và màu .
+Khoảng cắt xén là 50ms hoặc lớn hơn sẽ gây ra nhiễu .
+Thí dụ  , các chuyển mạch hoàn toàn không bị khóa là không thực tế với ứng dụng tương tự thông thường trừ trường hợp kích thích nhỏ .
+Tiếp theo  , cần thiết phải sử dụng công nghệ tiên tiến mà trong việc điều khiển hệ thống kết nối như hệ thống chống pha đinh chẳng hạn .
+Nhũng phương tiện phức tạp có thể được thiết lập một cách kinh tế và có thể truyền nhiều thông tin hai chiều với tốc độ cao .
+Tính phục tùng được định nghĩa như là số lượng của các tế bào vi phạm lỗi được phát sinh trên một giây .
+Đặc tính truyền lan sóng vô tuyến phức tạp của thông tin vô tuyến di động .
+Phần cứng máy tính và phần mềm SS No7 được Stratus cung cấp .
+Các mạng máy tính có thể được phân loại thành mạng diện rộng ( WAN ) và mạng cục bộ ( LAN ) .
+Mạng máy tính đã phát triển rộng rãi từ hệ thống xử lý tập trung hóa .
+Xuất hiện rất nhiều mạng máy tính và cũng có nhiều lĩnh vực sử dụng chúng .
+Về mặt dải thông của mỗi trường hợp Bt = 2B = Rb ( 1 r )  , trong ASK và PSK và Bt = 2 ( D f B ) = 2 ( D f Rb ( 1 r ) theo luật .
+Liên quan tới IN tiên tiến dựa trên CS - 1  , France Telecom có một kế hoạch giới thiện các SSP đầu tiên ở mức tổng đài chuyển tiếp và tới nay 3 SSP đã được đưa ra .
+Liên quan tới CS - 1  , q.1219 cung cấp các hướng dẫn cách áp dụng các khuyến nghị CS - 1 vào việc thực hiện thực tế .
+Nói về thoại  , có các ngưỡng chất lượng tóm tắt trong bảng 4.1 .
+Đối với các terminal có thể có các hệ thống điều khiển khác nhau  , và các tệp mà có thể có các cấu trúc khác nhau .
+Liên quan tới các khối xây dựng dịch vụ  , một số SCE sử dụng giải pháp SIB với các SIB được định nghĩa cho IN ITU - T là cơ bản .
+Cùng với việc phân chia thành các cơ sở dữ liệu  , các thủ tục để đăng ký vị trí , tham khảo thông tin và nhận thức cần thiết cho việc xác minh tính hợp pháp của người sử dụng , v . v.. cần phải có cho mọi người sử dụng và khối di động .
+Các thí dụ cụ thể về việc thiết kế đường dây cho hệ thống phân bố FD .
+Đồng thời  , trung tâm điều khiển mạng sẽ gửi chuyển tiếp thông tin sự cố này tới trung tâm bên ngoài qua các kênh dữ liệu để bắt đầu xử lý các tín hiệu làm việc đi tới tại trung tâm bên ngoài .
+ĐIều kiện để ghép ánh sáng từ linh kiện phát quang vào sợi quang thu được xác định bằng khẩu độ số NA như đã giải thích ở phần 1.3.2.1 .
+Đường kính dây dẫn phải được xác định để cho phép một sự kết hợp các đường kính dây dẫn tối ưu theo một cách sao cho thoả mãn được các giá trị suy hao đường dây và điện trở dòng một chiều mô tả trong mục 2.4.3 .
+Hệ thống cống cáp được quyết định nhờ sử dụng số lượng dự kiến cáp thuê bao .
+Sau đó lần lượt là Hội nghị về phân bố lại dãi tần về số sóng ngắn để sử dụng vào năm 1967  , hội nghị về bổ sung quy chế tần số vô tuyến cho thông tin vũ trụ vào năm 1971 , và Hội nghị về phân bố lại tần số vô tuyến của thông tin di động hàng hải cho mục đích kinh doanh vào năm 1974 .
+Chỉ bản tin bí mật có thể gắn liền với các bản tin như là một dịch vụ trong MESSAVIA .
+Các phần tử cấu hình cũng như sự lựa chọn đúng bước sóng cần dùng phải được xem xét một cách cẩn thận khi thiết kế hệ thống truyền dẫn quang .
+Quản lý những thông tin về cấu hình  , điều khiển trạng thái nguồn tiềm năng của mạng .
+Quản lý cấu hình thực việc kiểm tra điều khiển và cung cấp các chức năng thừa nhận  , thu thập số liệu và các chức năng chuyển giao số liệu đối với các NE .
+Cũng khẳng định rằng bản tin điều khiển cuộc gọi của một trong các hệ thống này khác với các hệ thống báo hiệu khác .
+Tin tức trong bộ nhớ điều khiển được hiển thị trên hình 1.41 .
+Hãy xác minh quá trình mà nội dung của địa chỉ 5 được biến đổi 3 từ khe thời gian # 2 trên luồng cao HW - 21 .
+Khẳnh định phạm vi của giao thức kênh D và phạm vi của hệ thống báo hiệu số 7 .
+Khẳng định rằng phạm vi của giao thức kênh D là hệ thống báo hiệu đường dây thuê bao và giao thức hệ thống báo hiệu là giao thức đài .
+Khẳng định chỗ nào các khuyến nghị nhóm I riêng lẻ được trình bày .
+Khẳng định : Thể hiện sự kết thúc các thủ tục đã được kích hoạt bởi các yêu cầu ( hoàn thành các thủ tục được yêu cầu ) .
+Tín hiệu khẳng định được gởi tới 2 lớp liên kết và tín hiệu trả lời được gửi tới một lớp xử lý điều khiển .
+Khẳng định rằng nếu tất cả máy phát của trạm vệ tinh bị tắt thì trung tâm sẽ phát cùng một tín hiệu bù trừ pha tới các trạm vệ tinh qua đường trung kế tín hiệu .
+Nối mỗi kĩ thuật với loại phù hợp bằng một đường nối .
+Khi được nối đến mạng điện thoại chuyển mạch công cộng nó cũng cung cấp dịch vụ điện thoại công cộng hoả xa .
+Kết nối : Cần thiết lập một kênh logic ; Dữ liệu được truyền với một độ tin cậy cao .
+Kết nối : Các kênh logic được lắp đặt cho việc trao đổi thông tin giữa các thực thể .
+Điều khiển đấu nối giữa các kênh mặt đất vào hoặc các kênh mặt đất vào hoặc các kênh quốc tế với các kênh vệ tinh ở phía phát được thực hiện theo việc phát hiện tiếng nói ở mỗi kênh mặt đất vào .
+Các kênh quốc tế ở phía phát và các kênh mặt đất ra ở phía thu có mối tương quan cố định .
+Điều khiển kết nối hay sự thao tác cấu trúc ; có nghĩa là bổ sung hay xoá bỏ các kết nối không được SCF cung cấp .
+Kết nối có băng tần đối xứng hoặc không đối xứng .
+ID để kết nối được chỉ định khi thiết lập kênh ảo và ID được giải phóng khi kết nối kết thúc .
+Đấu nối phức tạp làm việc tách bớt không dễ dàng .
+Tổn thất đầu nối do các nguyên nhân 1  , 2 , 3 trong quá trình ghép sợi quang được trình bày trong hình .
+Kết nối nhiều phía được thiết lập và các phía có thể được thêm vào hay loại bỏ trong suốt cuộc gọi .
+Các kiểu nốt rất quan trọng trong nghiên cứu hòa mạng .
+Không kết nối : Không cần thiết lập kênh logic .
+Không kết nối : Một bên truyền dữ liệu một cách độc lập mà không cần thiết phải thiết lập một kênh liên kết ( giống như thư ) .
+Dịch vụ không nối kết không đòi hỏi thiết lập và giải phóng kênh  , khác với dịch vụ kết nối .
+Connector được sử dụng tại những nơi cần thiết phải tháo lắp thường xuyên .
+Do đó hệ thống NTSC tần số dòng fh được xác định như chỉ ra trong hình vẽ .
+Sau đó  , họ đã quyết định định nghĩa INAP chính .
+Do vậy  , việc so sánh phổ của băng cơ sở và băng tần mang với xung chữ nhật đơn chỉ ra mối liên hệ chuyển dịch song song của phổ .
+Do đó  , bây giờ người ta sử dụng tốc độ truyền dẫn nhỏ hơn 20Mb / s nhờ áp dụng các kỹ thuật mã hoá hiệu quả cao khác nhau .
+Vì thế  , một yêu cầu quan trọng trong sự nghiên cứu và phát triển mã hóa tiếng nói tốc độ bit thấp trong tương lai là việc thiết lập các phương pháp khách quan chính xác cho việc đánh giá chất lượng tiếng nói .
+Do đó  , dựa trên giả định O và 1 sẽ xảy ra xác suất bằng nhau , tốc độ lỗi trung bình , Pe , được trình bày bằng :
+Vì vậy ta có thể phân tích hàm cổng ngẫu nhiên ở vùng tần số bằng cách tính phổ công suất  , mà phổ nay có thể được coi như thành phần tần số ở giá trị trung bình .
+Do đó so với ghép kênh độn thông thường thì một mạng hoàn toàn đồng bộ có chức năng bậc cao có thể cấu trúc bằng cấu hình thiết bị đơn giản hoá .
+Vì thế cần có một hệ thống vô tuyến chuyển tiếp số cho phép xây dựng trạm đầu cuối truyền dẫn sử dung các phần tử bán dẫn cho thông tin số không cần các bộ lọc đắt tiền .
+Do đó trong quá trình nội suy  , âm lượng của âm thanh thường bị giảm đi theo thời gian và thậm chí bị câm hoàn toàn .
+Kết quả là  , nếu một mạng lưới thông tin với mục đích đặc biệt và dễ thiết kế được thiết lập , nó có thể sẽ không đủ linh hoạt để đáp ứng những đòi hỏi mới một cách có hiệu quả .
+Do đó  , nếu có các thành phần bậc 2 hoặc lớn hơn đối với tần số góc , w , T ( w ) sẽ không là hằng số so với w .
+Do vậy trong mục sau đây sẽ xem xét lại các vấn đề liên quan đến chúng  , dựa trên các điều khoản thuộc về B - ISDN của ITU - T .
+Bởi vậy  , trong các kênh thoại sau giải điều chế , kênh có tần số cao nhất sẽ có công suất tạp âm lớn nhất .
+Bởi vậy  , có thể nói rằng mức của nhiễu xuyên điều chế ( f1 f2 - f3 ) là chìa khoá xác định độ lùi cần thiết của một bộ khuyếch đại TWT để duy trì điều chế dưới một mức xác định .
+Do vậy nó đem lại những cải thiện đặc biệt rõ rệt trong tiếng nói của phụ nữ và trẻ em  , tiếng nói bao gồm các tần số cao hơn .
+Như vậy  , ứng với một mức công suất tạp âm có thể chấp nhận được và một giá trị có thể cho phép cực đại của độ lệch tone kiểm tra r . m . s , ta xác định được độ rộng băng thông cần thiết .
+Do đó chỉ cần phân tích các tín hiệu băng gốc đưa đến PSK và QAM .
+Do đó  , thông tin quang nhất quán được coi là kỹ thuật thông tin quang hiện đại nhất .
+Do vậy các phương tiện của mạng cáp phiđơ và mạng cáp phân bố cần được phân cách để hai loại phát triển độc lập với nhau .
+Từ đó  , việc sử dụng truyền thông sẽ trở nên đa dạng hóa hơn , và việc cố gắng phát triển công nghệ phù hợp cho các mục đích đó cũng sẽ được thực hiện .
+Do vậy  , phổ tần là một phổ vạch biểu diễn trên hình 2.3 .
+Do đó  , lưu lượng và các trạng thái tắc nghẽn được đo ở các điểm đó , và mục đích của phép đo là khả năng sử dụng của bộ đệm và liên kết , cũng như tỷ lệ mất mát tế bào .
+Như vậy  , hai chu kỳ máy được yêu cầu từ đầu vào tới đầu ra .
+Do vậy  , việc sử dụng cáp stanpét kém hơn về đặc tính xuyên âm , đòi hỏi một sự giới hạn về số lượng thuê bao mà một đường cáp có thể phục vụ , bởi vì nếu không như vậy , cự ly truyền dẫn sẽ bị hạn chế .
+Ngược lại khi mạng mặt đất sử dụng truyền dẫn tương tự FDM thì việc biến đổi qua lại giữa các tín hiệu tương tự FDM và các tín hiệu FDM - TDM là rất cần thiết .
+Vì thế làm mới lại theo chu kỳ được sử dụng .
+Ta quan sát sự trao đổi khe thời gian trong bộ chuyển mạch thời gian  , khi tín hiệu A được chuyển mạch đến đầu ra b ' , tín hiệu b đến mạch đầu ra a ' , tín hiệu c đến mạch đầu ra n ' và tín hiệu N đến mạch đầu ra c ' .
+Phải xem xét làm sao để sử dụng các chùm cáp còn rỗi cho có hiệu quả xuất phát từ sự khác nhau giữa dung lượng cáp và dung lượng yêu cầu .
+Sự xem xét cần phải thực hiện để ngăn chặn điều này khi thiết kế một hệ thống thông tin số quang .
+Coi rằng các CODEC tiếng nói cho thông tin di động số phải được chuẩn hóa ở mức độ hợp lý  , phương pháp thông thường nhất là đánh giá so sánh một số các CODEC thời gian thực và chọn ra CODEC làm việc tốt nhất .
+Do băng tần hữu hiệu của các mạch điện thoại thường được hạn chế trong khoảng 0.3 - 3.4 kHz .
+Để ý tới ảnh hưởng của các trường hợp bất bình thường xảy ra thì cần phải liên tục có những sự đề phòng để ngăn ngừa chúng xảy ra bên trong và bên ngoài công ty  , mở rộng dịch vụ .
+Vì thực tế hệ thống số cần độ rộng dài tần lớn hơn hệ thống tương tự có thể so sánh được và như thế các độ rộng dài tần rộng hơn cũng có nghĩa là xuyên âm và các mức tạp âm lớn hơn  , khả năng hoạt động ở mức SNRs thấp hơn có lẽ cũng là một yêu cầu của hệ thống số như là tính ưu việt của nó .
+Xét tín hiệu của tin tức theo mức chẳng hạn như u ( t ) = 0  , 1 ; 1 , - 1 ; u1 , u2 và khi thay u ( t ) = u1 , u2 ; 0 , 1 và phương trình 2.20 , tín hiệu AM được điều chế với tín hiệu biên độ digital như loại ASK hoặc OOK .
+Xét yếu tố thứ hai  , phương pháp mã hóa thành phần được chấp nhận trong mã hóa liên mành .
+Các dịch vụ có tốc độ bit không đổi tạo nên các tế bào ATM được phân bố đồng nhất và các dịch vụ có tốc độ bit thay đổi được phân bố rộng hơn nhưng vẫn tạo nên 1 loại tế bào ATM .
+Dựng tạo một cơ sở dữ liệu để lưu các thông tin về các phương tiện  , về người sử dụng , về khởi tạo mạch , về phần lưu nhớ số đăng ký thiết bị , tên kênh , tốc độ của kênh , đích cần thu xếp sửa chữa v . v. .
+Tuy nhiên  , chi phí xây dựng đắt hơn vài ba lần chi phí công trình trên cao .
+Xây dựng mạng đường dây thuê bao bằng hệ thống phân phối FD .
+Sự tranh giành dịch vụ đầu cuối và dịch vụ cá nhân cũng là một ví dụ của sự tác động tương hỗ dịch vụ .
+Theo cách này  , có thể thực hiện 6 tầng bù trừ pha .
+Trái lại  , nếu chúng ta xem xét hệ thống từ khía cạnh phép tính xử lý các biến đổi logic thì mạch điều khiển của hệ thống chuyển mạch có thể phân loại tiếp thành mạch logic dây và mạch logic lưu trữ .
+Giao thoa hoặc nhiễu kênh điều khiển và các vấn đề của các thiệt bị thu phát có thể được cô lập trong một vùng đơn .
+Các mã điều khiển được phát tới mỗi trạm lưu lượng với Dn là mã DNTX  , mã IAP1 , mã IAP2 và mã SYNC .
+Truyền dẫn số liệu bằng các cụm chuẩn cho đồng bộ cụm và điều khiển hệ thống được thực hiện bằng đa khung .
+Những thông tin điều khiển ( tín hiệu nhấc máy  , đặt máy , các chữ số địa chỉ , gởi tiền v . v . ) vốn có số hóa vì thế dễ dàng hợp nhất trong một hệ truyền dẫn số , .
+Giao diện điều khiển dùng cho các chuyển mạch này cũng đang sẵn có trên thị trường .
+Việc điều khiển được thực hiện bằng cách so sánh dấu thời gian của giao dịch hiện thời với thao tác cuối cùng được ghi ở nguồn tài nguyên .
+Điều khiển định tuyến bản tin  , kể cả sửa đổi tuyến bản tin để duy trì sự kết nối .
+Quản lý việc xử lý thực hiện và xử lý quay ngược gọi là quản lý thực hiện .
+Điều khiển khung TDMA chung cho một nhóm các bộ phát đáp được đồng bộ .
+Mặt bằng điều khiển cung cấp chức năng kết nối và điều khiển cuộc gọi .
+Những tín hiệu điều khiển truyền qua các kênh riêng cấp phát cho từng trạm di động được phân thành ba loại như sau .
+Hệ thống điều khiển mà máy chủ tách biệt với hệ thống thông tin .
+Điều khiển khối lượng số lượng được truyền và nhận bởi nhũng người sử dụng dịch vụ tuyến để đảm bảo việc nhận một cách chính xác .
+Việc điều khiển trang thái các giao dịch chờ nguồn căn cứ theo biểu đồ chờ đợi được thực hiện nhanh và hợp thức  , bởi vì bế tắc có thể được phát hiện ra ở các điểm có khoanh tròn ở trên biểu đồ .
+Các điện thoại thông thường chỉ được sử dụng để nối với một phía đối diện tương ứng nhằm thiết lập một cuộc gọi .
+Cáp kim loại truyền thống đã dùng dây dẫn bằng đồng  , cấu trúc dây dẫn loại quad hình sao và các dây có cách điện bằng giấy cho đến khi công nghệ cách điện bằng chất dẻo được đưa vào .
+Nhân kênh độn thông thường  , nhờ thêm các bit độn v . v . không thể có các tốc độ giao diện với quan hệ bội số nguyên , nhưng nhìn vào bảng , bạn có thể thấy rằng tốc độ giao diện SDH trên STM - 0 là tất cả bội số nguyên .
+Mạng đường truyền thông thường được tổ chức xung quanh các dịch vụ điện thoại .
+Thường thì các mạng thông tin di động và các người sử dụng liên kết với một đầu cuối đặc biệt đang sử dụng .
+Ngược lại  , các hệ thống truyền dẫn số có thể được nâng cấp không ảnh hưởng tới các chức năng điều khiển ở cả hai đầu của đường truyền .
+Ngược lại  , sự thay đổi trạng thái từ gọi sang chờ thu xảy ra trong quá trình điều khiển kết thúc cuộc gọi và giải phóng đường dây , và có thể được khởi đầu từ trạm di động hoặc trạm gốc .
+Ngược lại  , quá trình tái tạo các tín hiệu số từ các tín hiệu trong băng tần vô tuyến được gọi là giải điều chế .
+Ngược lại  , can nhiễu giữa hệ thống thông tin vệ tinh với đường thông tin viba mặt đất cũng là một vấn đề .
+Việc biến đổi mức kênh thoại có thể sử dụng của chúng tăng lớn .
+Sự chuyển đổi tiếng nói thành văn bản và văn bản thành tiếng nói là một lĩnh vực khác được sử dụng .
+Quá trình biến đổi các tín hiệu điện thành các dạng tín hiệu khác để có thể phát đi được dễ dàng và hiệu quả qua một môi trường truyền dẫn được gọi là điều chế .
+Quá trình biến đổi ngược lại thành các tín hiệu điện nguyên thủy được gọi là giải điều chế .
+Chuyển đổi các tín hiệu số hoặc analog các cấp khác nhau thành tín hiệu có cấu trúc khung nội địa .
+Được chuyển đổi bằng tín hiệu hướng đi Nhóm II hay tín hiệu về A - 3 .
+Biến đổi từ nhóm I sang bằng tín hiệu hướng về A - 3 hay A - 5 .
+Biến đổi một quan hệ thành một tập con có các thuộc tính tuỳ ý .
+Mã hóa cuộn cần phải có bộ cộng module 2 cho các nhánh lựa chọn của chuỗi số liệu được trễ thời gian liên tiếp .
+Đồng dự trữ cho việc đưa vào một hệ thống quản lý chuyên môn trong tương lai .
+Điện thoại không dây thay việc đi dây điện thoại tại nhà thuê bao đối với điện thoại cố định bằng một hệ thống vô tuyến có thể cầm tay tự do bên trong giới hạn của nhà .
+INAP chính là một thành phần của CS – 1  , loại bỏ những dư thừa và làm sáng tỏ cách sử dụng giao thức như điều khiển tắc nghẽn và cơ chế tương thích đi lên .
+INAP chính được chấp nhận là một tiêu chuẩn Châu Âu .
+Các lõi và các áo được làm bằng thủy tinh hoặc chất dẻo ( silica  , chất dẻo , fluor , kim loại , sợi quang kết tinh ) .
+Các bức xạ tử nếp nhăn và các bộ biến đổi phân cực với các đặc tính tốt được sử dụng để đạt được các đặc tính phân cực thoả đáng .
+Thông tin đếm ngược cho một bước được phát trên đa khung .
+Các trị số đếm tăng một độ mỗi khi hiện tượng tương ứng xảy ra và khi nó đạt trị số cực đại thì trở lại trị số ban đầu ( 0 ) .
+Những biện pháp đối phó với các tình huống bất thường như hư hỏng nút và việc token biến mất đòi hỏi những quá trình phát hiện hư hỏng và xử lý  , phục hồi phức tạp .
+Các cột đôi  , ngoại trừ các cột có nẹp , chỉ được dùng đối với các cột hợp qui cách .
+Hiện tại cáp CPP đang được sử dụng làm cáp treo trên không  , dùng hệ thống phân phối tự do .
+Tạo ra cơ cấu các biện pháp cần áp dụng khi xảy ra bất bình thường  , tiến hành các cuộc thực tập thực tế , v . v … .
+Tạo nên một quan hệ kết nối các thuộc tính chung của hai quan hệ với một khoá .
+Ví dụ  , gọi dùng thẻ tín dụng thỉnh thoảng được điều khiển thực sự theo phương pháp tương tự , tại đó cơ sở dự liệu của người phát hành thẻ được truy nhập từ mạng công cộng để được phê chuẩn thẻ .
+Vô tuyến hoả xa đoàn được sử dụng để giao tiếp giữa người lái tàu với nhân viên kiểm soát vé  , thông tin khẩn cấp giữa hoả xa đoàn và nhân viên điều hành nhà ga và để thông tin báo hiệu hay giao tiếp giữa các nhân viên liên quan đến điều vận tàu .
+Tiêu chuẩn  , sự phát triển và xem xét toàn bộ các khuyến nghị CS - 1 .
+Nhiều xuyên màu là một hiện tượng trong đó các đường ngang màu ngắn xuất hiện trên các cạnh của ảnh như chữ hoa hay các sọc nhỏ trên quần áo  , có tín hiệu chói với thành phần tần số cao .
+CS - 1 không đề cập đến kiến tạo dịch vụ hay quản lý dịch vụ có liên quan tới các đặc tính IN .
+CS - 1 đã đưa ra một cơ sỡ vững chắc để thực hiện IN .
+CS - 1 bao gồm các mô hình  , khái niệm và các giao diện nhằm vào một phần các đặc tính của IN .
+CS - 1 được cấu trúc theo cách cho phép nâng cấp các tài nguyên mạng đang có thể hỗ trợ các khả năng ban đầu của IN  , nó cho phép sử dụng lại thiết bị và triển khai nhanh các khả năng CS - 1 để cho phép các nhà cung cấp dịch vụ thu được lãi của IN càng sớm càng tốt , đồng thời cho phép sự di chuyển có kế hoạch trong tương lai các khả năng IN lâu dài hơn .
+Sự sàng lọc CS - 1 đối với các mặt bằng này làm cho các chỉ tiêu kỹ thuật thực thi hơn .
+CS - 2 cũng cung cấp các khả năng để hỗ trợ việc đưa vào sử dụng các dịch vụ có thể không được ITU - T định nghĩa hoặc có thể không phải là một phần danh sách các đặc tính dịch vụ được đề xuất :
+CS - 2 định nghĩa một nhóm những khả năng ban đầu của IN đáp ứng các tiêu chuẩn chung sau đây :
+Các khuyến nghị CS - 2 cũng đưa ra một số hướng dẫn mức cao hơn để hỗ trợ việc quản lý dịch vụ và các dịch vụ kiến tạo dịch vụ và các dịch vụ Viễn thông được CS - 3 hỗ trợ .
+Các khuyến nghị CS - 2 được chủ định đưa ra mức thông tin kỹ thuật tương tự như các khuyến nghị CS - 1 mới được bổ sung sửa đổi ( sản phẩm của sàng lọc CS - 1 ) .
+Hệ thống CS - 3 được sử dụng cho thông tin tới các đảo xa  , thay thế cho các hệ thống thông tin mặt đất khi thảm họa xảy ra , và sử dụng cho các tuyến thông tin có tạm thời dùng được gọi là ba qui định sử dụng hệ thống thông tin này .
+CS phân tích tín hiệu ghép đầu và cuối của CS - PDU  , rồi chỉ lấy ra U - SDU nếu lỗi được phát hiện và chuyển đến lớp khách hàng .
+CS tạo ra các thông tin dịch vụ khách hàng bậc cao trong khối dữ liệu giao thức PDU và ngược lại .
+CS của AAL - 3 / 4 được chia thành phân lớp chia phần chung CPCS có các chức năng dùng chung cho các dịch vụ kết nối và không kết nối và phân lớp kết hợp dịch vụ đặc biệt SSCS để cung cấp các dịch vụ AAL đặc biệt .
+CS nhận U - SDU từ lớp sử dụng cấp cao hơn  , thêm tín hiệu ghép đầu và cuối liên quan đến việc xử lý lỗi và việc định trước chuỗi dữ liệu để tạo ra SAR - PDU , và gửi đến lớp ATM .
+Hệ thống CSMA / CD ( Carrier sensing Multiple Access with Collision Detection - cảm nhận sóng mang  , đa truy nhập và phát hiện va chạm ) : ở hệ thống này , mỗi nút luôn kiểm soát xem tín hiệu có tồn tại hay không tồn tại trên đường truyền .
+CTE thực hiện chuyển đổi khe thời gian và vị trí bít trên tín hiệu giữa tín hiệu nội đài với tín hiệu giao tiếp của hệ chuyển mạch .
+CTE thực hiện chuyển đổi có hiệu quả giữa các nguồn dịch vụ khác với tín hiệu nội đài 8.192Mb / s .
+Các khả năng hiện tại của công nghệ cho phép mức độ thông minh cao hơn và tự do khi phân bố sự thông minh trong mạng viễn thông .
+Nhu cầu hiện tại ( bao gồm nhu cầu đối với các đường dây cho thuê và tương tự ) tại thời điểm khảo sát phải được rút ra từ các hồ sơ phân định đường dây ( các bản in ra từ hệ thống quản lý phương tiện đường dây ) hoặc từ các bảng biểu quản lý nhu cầu theo vùng phân bố cố định .
+Hiện tại  , 2 giây đã được sử dụng như là giá trị mặc định cho Ts và 5 giây cho Tr .
+Hiện nay  , các đường trục cáp đồng được sử dụng rộng rãi như mạng phân bố thuê bao CATV .
+Mới gần đây  , các cố gắng nhằm kết hợp các hình thức khác nhau của các hệ thống thông tin đang được thực this nhằm tạo được hiệu quả cao hơn và ít chi phí hơn .
+Hiện nay  , nhóm này đang rất tích cực nghiên cứu việc điều khiển và quản lý lưu lượng cho dịch vụ ABR rất khả quan .
+Hiện nay  , ITU - T khuyến nghị luật ? ( ? = 255 ) là phương pháp 15 đoạn và luật ( A = 87 , 6 ) là phương pháp 13 đoạn như là phương pháp nén đoạn mà các hàm đại số được biển diễn gần đúng với một vài đường tuyến tính .
+Hiện nay loại máy ( băng ) dịch vụ thông báo thông tin trong đó máy hoạt động như nguồn thông tin và con người như là người sử dụng có nhu cầu cao .
+Hiện nay  , thông tin viba ở Nhật bản gần như đã hết khả năng phát triển do những hạn chế về tần số .
+Ngày nay  , các mạng thông tin di động cũng như các mạng công cộng cố định đang được số hoá .
+Hiện nay  , các các hoạt động nghiên cứu nghiêm chỉnh đang được tiến hành trong lĩnh vực được gọi là photon học - lá một lĩnh tối quan trọng đối với tất cả các hệ thống thông tin quang , có khả năng phát hiện , xử lý , trao đổi và truyền dẫn thông tin băng phương tiện ánh sáng .
+Hiện nay  , các hoạt động nghiên cứu nghiêm chỉnh đang được tiến hành trong một lĩnh vực mới được gọi là photon học - là lĩnh vực tối quan trọng với tất cả các hệ thống thông tin quang có khả năng phát hiện , xử lý , trao đổi , và truyền dẫn thông tin bằng phương tiện ánh sáng .

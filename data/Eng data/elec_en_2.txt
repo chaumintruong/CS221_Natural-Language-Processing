@@ -1,0 +1,657 @@
+ATM system defines the layered protocol reference model for transferring information systematically and elastically .
+ATM technology is originated from ATD ( Asynchronous Time Division ) technology proposed by French Telecomm in 1983 and FPS ( Fast Packet Switching ) of Bell Lab  , U . S . A .
+ATM traffic control and congestion control are defined as actions taken by network to prevent the congestion conditions and minimize the generated congestion intensity diffusion and duration .
+ATM transfer service for service grade X  , a and C .
+ATM users request the following traffic contracts to the network depending on the service characteristics when connection is set ( PVC or SVC ) .
+ATMF accepted the suggestion of ATM User Group at a conference in January  , 1993 and determined to organize ENR to consider the requirements of system users and customers .
+ATMF aims at the development of ATM equipment standard that can be applied to public system as well as industrial standard required to provide ATM technology for private network promptly .
+ATMF announced the LAN emulate standard 1.0 for IEEE 802.3 and 802.5 LAN UNI ( LUN ) in Jan.1995  , and currently engaged in the activities of complementing the standard 1.0 and establish early stage LAN NNI ( LNN ) and the FDDI LUNI .
+ATMF is made up of technical committee  , MA &amp; E ( Market Awareness &amp; Education ) committee , and ENR ( Enterprise Network Roundtable ) committee .
+ATMF technical committee has 9 group as shown in Figure 1 - 1 .
+ATMF UNI specifications are the regulations for 3 types of interface as shown in ( Figure 2 - 1 ) .
+ATMF UNI specifications clarify the standard regulations related to layer 1 ( PHY ) and layer 2 ( ATM ) protocols in order to ensure the initial interworking .
+ATMF UNI specifications define only the limited traffic control and congestion control by considering real ATM networks of initial stage in technology and accordingly  , comply with I.371 traffic management regulations of ITU - T .
+Atmospheric gases and rainfall act not only as absorbents of radio waves  , but also act as radiation sources of thermal noise .
+Atmospheric noise increases especially at frequencies in the millimeter wave band  , constituting the main cause of cosmic noise during fine weather .
+Attempt to make full use of existing plant to avoid further expansion of cable and conduits wherever possible  , and consider refraining from planning facilities that are not in urgent need by postponing the date of installation as much as possible .
+Attention must therefore be paid to the risk of radio interference of jamming between different systems .
+Attention present  , proper capacity of expanded facilities is specified so as to minimize yearly expenses attention present value in consideration of expansion intervals , and is called the standard expansion size .
+Attenuation distortion is caused by attenuation varying rate of attenuation  , with respect to frequency .
+Attenuation of radio wave by rain is shown in fig 3.5 .
+AU - 4 is obtained by attaching AU - 4 PTR onto VC - 4 and this is the same as AUG signal .
+AU - 4 PTR  , AU - 3 PTR among them appear on the location of AU PTR indicated in figure and TU - 3 PTR is located on the top of the first row within TU - 3 frame .
+AU and TU are units available . AU has a pointer ( PTR ) for indicating the starting point of VC frame that occupies the STM - 1 payload whereas TU has a pointer for indicating the starting point of low - level VCn - 1 that occupies the payload in VC .
+AU pointer consists of 1x 9B area and its configuration is as shown in figure .
+Audio teleconferencing signals are encoded by sub - band ADPCM and transmitted at a 64kb / signal rate .
+Authentication Failure Trap : Reports that a received Get or Set request is contrary to authentication .
+Authentication is essential to realize the protection against the fraud usage .
+Automatic measurements are implemented at this measuring equipment controlled by STECS .
+Automatic Protection Switching ( APS ) and dual homing are two restoration techniques that have been used in today 's fiber networks .
+Auxiliary data may also be removed according to a prescribed manner on the receive side .
+Auxiliary wires must be distributed in a fixed distribution area where the demand - growth rate is large  , while in others where it is very small , the wires are not distributed .
+Auxiliary wires must be used to handle demand increase between planning and completion of installation in cases where the FD distribution system is used .
+Available for this process are a Sequentially Write Random Read ( SWRR ) method that writes data sequentially from the input side and reads them randomly from the output side .
+Available in F4 OAM are the end - to - end F4 flow whose VCI values is 4 and the segment F4 flow whose VCI value is 3 .
+Available in SMF are a fault  , performance , configuration , accounting , and security management .
+Available jitters include those for multiplexing deceives including waiting time jitter and others for regeneration devices related to transmission lines .
+Available middleware softwares are document transfer S / W  , broadband / ATM S / W and multimedia communication S / W .
+Available network level control operations are measurement of traffic and congestion state  , congestion status report , change of equivalent bandwidth calculation criteria for call admission and proper relocation of network resources .
+Available traffic management functions used for the above objective are a congestion measurement  , network traffic management , and traffic control functions .
+Available traffic parameters considered by ITU - T and ATMF are PCR ( Peak Cell Rate )  , SCR ( Sustainable Cell Rate ) , BT ( Burst Tolerance ) , and CDVT ( Cell Delay Variation Tolerance ) and currently , only PCR is defined as a format traffic parameter .
+B - NT ? carries out the function of layer 1 and high level layer and it can be configured to the centralized method or distributed method .
+B - NT1 performs the function of layer 1 such as the line transmission end point  , transmission interface handling , and operation and maintenance .
+B - SDN 's traffic control and congestion control functions are requested to UNI interface surfaces where traffic is input  , and can be divided into several levels according to the promptness of effects on control .
+B - TE performs the communication between user - user and user - machine  , interface termination , and signal protocol handling , connection handling on the other devices , and layer 1 and high level layer including OAM .
+B ) Multi - vendor environment should be taken into consideration .
+B . cell area and the overlapped area : when cells divide the area as same size unit cell area and the overlapped area are different according to each type as ( Table 2.4 ) .
+B . Each of the carriers is separately amplifier by a high - power amplifier ( The following figure 2.23b ) .
+B . Regressio forecast : Analyze the various factors that generate demand  , and use a relational expression of fluctuation of these factors and the amount demand .
+B . Regression forecast : Use such variables as economic growth and a traffic increase scaling factor .
+B . When using an FDMA system  , input back - off must be used to avoid intermodulation in the transmission amplifiers of the transponders .
+B / In the cell allocation  , in generally only one antenna is used for several receivers and transmitters because of antenna installation condition and economical problems , so channel frequency interval must satisfy the condition of common using facilities .
+B channel is a channel dedicated for transfer or user information at a rate of 64 kbps .
+B8 which is the eighth bit of PCM word  , is sometimes used as a signaling bit . B7 ( or B8 ) changes into ' 1 ' when all the PCM word , are ' O 's .
+BA size indicates the buffer allocation size of the receiving side and PAD fills CPCS - PDU payload to make a multiple of 32 bits ( 4 octets ) .
+Background  , definition of methodology and evolution requirements .
+Background prediction method predicts the background which appears behind moving objects .
+Balanced pair cable having a using band of 500 kHz is low price and easily installation but tend to loosing the cable and having a cross talk and the defects .
+Band pass filter can eliminate most of spurious power because asynchronous input signal spreads over reference band of the receiver .
+Bandwidth ( null - to - null ) of main lobe is twice of clock speed of code sequence used for modulation signal and has the same bandwidth as the clock rate of side lobe .
+Bandwidth and S / N ratio are the critical restriction to the analog transmission .
+Base on fiber optic interface ( intra office : fiber optic : inter - office : fiber optic / radio ) .
+Base station makes to connect mobile telecommunication switching station and mobile unit  , and it consists of transceiver , antenna , and control unit .
+Baseband transmission  , in which digital signals are transmitted in the form of pulses .
+Baseband transmission system : This system transmits digital signals sent from a terminal as is through a single channel .
+Based on ITU - T I.211  , the ATM application services are classified into the communication services and the distribution service .
+Based on technology developed  , more number of optical fibers are being used for many applications .
+Based on the above  , the ATM communication system capable of offering BISDN services having different features .
+Based on the above considerations  , various types of automatic switching systems have been develop and installed ever since its first introduction .
+Based on the number received on the originating register  , the outgoing line of the tandem office connected to the terminating subscriber is identified .
+Based on the results of the measurement  , the reference station directs burst transmit timing for each traffic station .
+Based on the results of this research  , the Department of Defense of the U . S . A . signed a development contract with the company called BBN ( Blot Beranek and Newman ) and in 1969 , the company successfully developed an ARPA ( Advanced Research Projects Agency ) network ) .
+Based on the technologies of optical fibers and semi conductor lasers  , it is now possible to send a great amount of vice / data signals to destinations located more than 100km away via one optical fiber having a thickness of a hair without the regenerators .
+Based on the technologies of optical fibers and semi conductor lasers  , it is now possible to send a great amount of voice / data signals to destinations located more than 100km away via one optical fiber having thickness of a hair without the regenerators .
+Based on these control signals  , the sub - bursts destined for the station can be picked out from the received bursts .
+Based on these discoveries  , the particle theory of Newton was regarded to be inaccurate for a time being .
+Based on this  , the location of the terminating subscriber can be determined .
+Based on this concept  , overheads are classified into SOH and POH in the frame structure .
+Based on this framework definition  , in standardization activities have been undertaken in ITU - T by many members from a number of countries .
+Based on this PCM technology  , an Integrated Services Digital Network ( ISDN ) that can process the multi - traffic of various services is being developed currently .
+Based on this theory  , Heinrich Hertz successfully transmitted and received radio wave by utilizing electrical field for the first time in history .
+Based on this transmit timing  , signals are transmitted through the sub - burst multiplexer , the preamble generator , the PSK modulator , and so forth .
+Basic and general guidelines for overall safety  , reliability measures for the network [ Information Communication Network Safety and Reliability Standards ( 1987 Ministrial Ordinance No.73 from the Ministry of Posts and Telecommunications ) ] .
+Basic capability sets so far defined in Q.2931 are called CSI and its illustration is given in Table 2 - 3 .
+Basic consideration in spread spectrum system is system bandwidth problem according to indirect induction with other system working on the same or adjacent channel .
+Basic factors that determine the structure of optical fibers are the core diameter ( the diameter of the clad )  , and numerical aperture ( NA ) , etc .
+Basic frequency shift keying ( FSK ) direct conversion id limited to low bit rates  , ( if the transfer speed is increased , lower sensitivity results ) .
+Basic functions of exchanges to set up and release call / connection  , plus capability to suspend call processing for access to IN functionality ( i . e . SSF ) .
+Basic signaling system function based on protocol messages  , information elements , and procedures .
+Basic to all of the interframe coding schemes is some method for detecting moving images in a television picture  , i . e . segmenting frames into areas which have changed since the previous frame due to movement and areas which have not changed .
+Basically  , all of the require telephones for converting voice signals into electrical signals and vice versa as well as transmission systems for transferring electrical signals .
+Basically  , an exchange consists of switching network , signaling equipment and a controller .
+Basically  , it establishes objects that perform segment control at the Ethernet level and assigns one process for each segment .
+Basically  , the communications network consists of switching system for designating call connection paths according to the subscribers 'requests and a transmission system for transferring call information to the destinations .
+Basically  , the DH ( C ) / 1 : 1 / DP architecture can be viewed as an extension of the SH / 1 : 1 / DP architecture with the following additional requirements :
+Basically  , the size should be half of the wavelength .
+Basically  , which the CBR uses the regular bandwidth of the link via the circuit emulation constantly , even though the VBR has the advantage that it can use the link efficiently via the multiplexing , how to allocate the bandwidth to each virtual channels efficiently guaranteeing the service quality remains a problem .
+Battery cell life will be extended to between three months and one year .
+BCM detects basis call and connection control events that can to active IN service logic instances  , and manages CCF resources required to support basis call connection control .
+BCSM described above represents the state transition of call managed by BCM .
+BCSM is individually defined for the incoming side and the outgoing side of a call from the CCF viewpoint  , reflecting the practical realization of separate incoming and put going call processign in the existing exchanges .
+BDSL ( Broadband DSL ) is technology utilized to provide 20 or 50 Mbps bandwidth at the interval of optical subscriber network drop copper line .
+Beam antenna is the many haft wave length dipole antennas arranged regularly in every direction in a plane .
+Because an OPSC performs only two simple tasks ( collect performance data from the PCS or a power loss detection system and send out a signal if applicable )  , it could be easily implemented in a simple microprocessor or integrated into the PSC features of the APS system .
+Because down link frame ( base - station - &gt; mobile ) is continuous signal  , preamble and guard time is not necessary .
+Because in the future it will be necessary to provide customer - defined services  , the service management level is a indispensable part of the mobile communications network .
+Because internet expanded so fast  , there was strong need to , manage this giant , decentralized network .
+Because light waves from an electric lamp are not in phase with one another  , a slit S is inserted in the way of propagation .
+Because locations are registered in each zone  , the frequency of registration increases , this bring an increased risk of excessive growth in control traffic .
+Because multiple access systems will be used for subscriber line in many cases .
+Because of continuous change of refraction radio actual route of space wave is different from direct route .
+Because of fading and interference generated in the path from mobile unit to base station  , however , the signal from one base station can have better quality than that of other base station .
+Because of its characteristics such as large capacity  , wide receiving range , and economic efficiency , radio communication is used broadly for broadcasting , navigation , aviation , military , meteorological observation , amateur radio communication , satellite – space communication , and so forth .
+Because of their simplicity  , they were widely used in the initially develop automatic switching systems .
+Because of this  , the burst clock regeneration of each mobile is needed at base station .
+Because of this change of refraction ratio in the transmission path  , radio waves propagated over a long distance curve slightly , as shows in figure 2.2 .
+Because of this fact  , on the string , only a wave with a specific wavelength remains .
+Because of this fact  , the PN sequence makes the calculation of sequence generator impossible by observing some of the sequence .
+Because of this method ( 2 ) has been increasingly used recently for largeness mobile radio telephone networks which are made up of small zones for example Japan 's car phone system which operates at 800 MHz  , .
+Because of this path length difference  , there is a time difference between reception of the direct ray and reception of the reflected ray .
+Because service channels are routed bidirectionally at two nodes  , two fibers are - needed to carry these service channels .
+Because service channels are routed Unidirectionally  , one fiber is needed to carry them .
+Because signal regeneration virtually eliminates all noise arising in the transmission medium  , idle channel noise is determined by the encoding process and not the transmission link .
+Because such public mobile communication services as cellular  , maritime , and aeronautical telephone services must be connected with the PSTN , many of the mobile communication functions pertain to interconnection of the fixed network and the mobile network .
+Because the burst is transmitted periodically from mobile unit in communication channel  , the clock regeneration which needs not the preamble is realized by holding the phase of regenerated clock unit receiving the next burst and implementing the usual clock regeneration mode when receiving the burst .
+Because the ISUP is defined for fixed communication the following mobile communication functions are added to the initial address message ( IAM ) of ISUP .
+Because the length of propagation on the surface of the sea is longer than on the earth  , low frequency is broadly used for navigation communication .
+Because the modulation and demodulation system is also digital  , it gives high reliability and safety .
+Because the number of propagation modes is a function of the wavelength  , an optical fiber used as a single - mode at the wavelength does not work as a single - mode fiber at shorter wavelengths .
+Because the structure is simple  , installation in a manager or agent is easy .
+Because the subscribers in the mobile communication system are moving around  , the mobile system requires a charging system that is different from the one used in the PSTN .
+Because the subscribers registered in the system are dispersedly located  , the system basically should be capable of processing all the calls made by them economically , reliably , and rapidly .
+Because the transmission of normal working traffic on the USHR is in only one direction  , the ring capacity is determined by the sum of demands between nodes .
+Because there are always the possibility something to change .
+Because these types of loss sharply decrease at wavelengths other than the peak wavelength  , the loss becomes minimum in the wavelength range of 1.0 m to 1.6 mm as shown in Fig . 1.22 .
+Because they are directly connected to the safety of human life these frequencies are protected internationally .
+Because traffic is routed over a single path between nodes  , spare capacity around the ring can be shared on a per - link basis and not dedicated to the total demand on the ring ( as for a USHR ) .
+Because transmitting and receiving timing are not overlapped  , transmitting / receiving selective filler is not needed in mobile unit .
+Before describing quadrature amplitude modulation  , let up take a look a quadrature representation of signals .
+Before even one commitment process is performed  , a phase is added for the intermediate state ( secure state ) .
+Before making a decision  , surveys must be made on existing aerial distribution routs , cable lead - up locations for buildings and road condition .
+Before the Portability became effective  , there was a unique correspondence between the value of three digits ( NNX ) following 800 in 800 - NXX - XXXX and an IXC .
+Before we start network planning detail job  , we usually make the following basic studies .
+Beginning in Tokyo in 1968 NTT gradually expanded the service area to cover the entire country while the number of customers increased at an annual rate of about 15 % .
+Beginning with the freephone ( Free Dial ) service in 1985  , ntt has been providing automatic credit call , enhanced freephone , premium - rate ( Dial Q2 ) , ISDN CUG , tele - voting ( Tele - gong ) , mass - calling ( Tele - dome ) and VPN services , with its own IN architecture .
+Bell Atlantic is the most active BOC in AIN deployment .
+Bellcore is continuously working on the definition of AIN Releases leading to this target and also on refinements to the target .
+Bellcore issued the initial set of generic requirements for Release 1 in May 1991 and an update in December 1992 .
+BellSouth is planning to deploy AIN 0.1 and then AIN 0.2 .
+BellSouth is the only BOC with a whole business unit devoted to AIN .
+Below describes the technical characteristic of TDMA mobile communication .
+Below is a list of some of the merits and demerits of satellite mobile communication system compared to conventional land mobile communication systems :
+BER ( Bit Error Rate ) of PCM system around the threshold level is rapidly improved by improving the S / N .
+Besides  , as the communication between the LAN end system is executed only with the MAC address , the procedure which translates the given MAC address to the ATM address of the corresponding LECs around the ATM network will be required .
+Besides  , it can provide sequence number handling or lost / inserted cell handling function .
+Besides  , it handles PT or CLP sections and carries out the function that generate and extract the header of ATM cell .
+Besides  , there are digital modulation methods such as continuous phase FSK phase FSK ( CPFSK ) and amplitude phase keying ( APK ) .
+Besides  , various function such as network congestion indication support , network congestion control , connection set - up and release are included in SSCS function .
+Besides the spatial coherence  , we have another factor to enhance the coherence of light .
+Besides the systems described above  , hybrid type modulation of DS and FH system is used to provide more advantages in addition to useful features of each system .
+Besides these external factor affecting development  , these other major problems posed barriers against realization of the FDM system in those day .
+Better low - noise characteristics compared to a GaAs - FET of the same electrical length of the gate has been attained through this high mobility ; its effect is especially remarkable when the device is cooled .
+Between practical satellite communication system  , the power ratio of the desired wave to the interference wave can be made 30dB ( 1000 times ) or more when the two satellites are kept about 3 degrees apart in their orbits , even if their antennas illuminate the same place .
+Between the LEC and LESV  , the data will be transmitted after being classified into such control traffics as LE address resolution protocol ( LE _ ARP ) request / and pure data traffics .
+Between the mobile unit calling frequencies of the system and the registration frequencies of the mobile unit  , an inversely proportional relationship exists .
+Between the paging and registration frequencies  , an inverse proportional relationship exists .
+Between the two digital networks  , there exists a small difference in clock frequency which causes a difference in data transmission speed between the two digital circuits .
+Bi - phase code is a simple circuit made by doubling the clock frequency  , and satisfies the requirements mentioned above .
+Binary phase shift keying changes θ in the equation expressing a carrier .
+Binary pulse waveform coming as input from the PSK modulation changes the phase of output waveform into one of pre - determined states and accordingly the output signal is represented by the following equation .
+Bipolar coding has not DC element and uses alternate + A  , - A to possible to detect bipolar code errors and possible to carry out conversion and accordingly has excellent characteristics as transmission codes .
+Bipolar or AMI ( Alternate Mark Inversion )  , B6ZS , and B8ZS coding is respectively employed in T1 , T2 , and 64Kbps clear channel signal , in the European Mode , HDB3 ( High Density Bipolar 3 ) and 4B3T ( 4 Binary 3 Ternary ) are utilized .
+BISDN ( Broadband Integrated Services Digital Network ) was developed by expanding the capabilities of the existing ISDN in order to accommodate various types of broadband signals and the influence of synchronous optical communication standard .
+BISDN concept was introduced with increasing demand for various types of broadband services including image service .
+BISDN employs ATIO in order to carry out the basic functions of BISDN .
+BISDN has the basic goals of accommodating all existable services in the communication network in the future .
+BISDN is capable of providing narrow band services such as telephones  , data terminals remote monitoring , facsimile , and teletex , and as well as broadband services such as video telephone , video conference , high - resolution screen transmission , high rate data transmission ; video monitoring , and CATV .
+BISDN is the concept derived from ISDN standardization .
+BISDN required an effective processing method that can commonly handle the above services  , ATM ( Asynchronous Transfer Mode ) communication system has been proposed as a solution .
+BISDN that can be expanded to accommodate various types of broadband signals has been developed based on the concepts of ISDN Standard and synchronous optical communication standard whereas ATM communication system has been developed for the implementation of BISDN .
+BISDN transfers service information based on the continuous flow of packets with fixed size  , which are called ATM cells .
+Bit error rate decreases as more chips are sent per bit .
+Bit synchronization : to regenerate and send received signals by using a clock signal regenerated form received signals at the receive side in order to make the bit positions the same at both the send and receive sides .
+Bit synchronization is established  , received pulses are correctly detected as shown in Figure 2. .
+Bit synchronization is intended to synchronize operations on both the transmit and receive sides by maintaining bit by bit synchronization  , which corresponds to equalizing the speeds of the rotary switches .
+Bit synchronization is to equalize the frequencies of the clock pulse on the transmit and receive sides .
+Block code  , making input information into a block at every m bit , matches the input word of 2 exp ( m ) number to the word of 2 exp ( n ) array of n bit .
+Both - way communication with other mail systems users .
+Both AT &amp; T and Motorola  , Inc . respond with proposals .
+Both calling party and called party charged for part of the call .
+Both DSCC and offer error - free transmission  , resistant to transmission noise and noise resulting form handover during roaming .
+Both encoding and compressing procedure are simultaneously processed through Digital - Digital compressing step or Encoder itself without adding another separate circuit by using the possible linearity of the segment compressing method in digital .
+Both links of noise becomes worst at the highest channel .
+Both MIB - I and MIB - II are at position 1.3.6.1.2.1 and have the same tree structure .
+Both of the curves illustrate campanding characteristics for positive signal amplitudes .
+Both reference and traffic bursts have the carrier and bit timing recovery sequence consisting of 176 symbols at the beginning of the burst .
+Both the transmit and receive sides have to be equal to each other  , and moreover the contact positions corresponding to each channel on these rotary switches must coincide with each other .
+Both the transmitter and the receiver make an estimate or prediction of the signal s value based on the previously transmitted signal .
+BPON is STM ( Synchronous Transfer Mode ) technology whereas APON ( ATM on PON ) is a system that has replaces the STM of BPON with ATM and then integrated this into the ATM network .
+BPON is STM ( Synchronous Transfer Mode ) technology whereas APON ( ATM on PON ) is a system that has replaces the STM of BPON with ATM and then integrated this into the ATM network .
+Branch  , this aspect means that the same circuit is connected to separate several sources .
+Brillouin dispersion is generated when optical power passing through the optical fiber is higher than the threshold level and the wavelength of dispersion light differs from the original wavelength .
+Broad area services become available as soon as the satellite deploys .
+Broadband transmission system : This system converts digital signals into analog ones of multiple propagation wages  , for transmission .
+BS - FEC is sometimes also referred to as unequal error protection ( UEP ) .
+Building of underground subscriber lines for digital transmission .
+Burst errors will occur in mobile radio channels because of Rayleigh and multipartite fading  , and speech quality will be damaged with it .
+Burst level control has the time unit of hundreds of msec or less .
+Burst level control includes feedback control and fast resource management .
+Burst source control the cell rate through built - in buffer  , thus , may lower cell rate or interrupt cell generation by the network request .
+Burst source does not transmit burst until it has received Ack from all nodes on transmission path .
+Burst synchronization and system control in the INTELSAT TDMA system are performed under the centralized control of the reference station .
+Burst Time Plan change is performed simultaneously for all the traffic stations according to directions from the reference station .
+Burst transmit timing is advanced or delayed to compensate for the detected error .
+Burst transmit timing should be periodically controlled by using the reference burst as a timing standard .
+Bursts in one TDMA frame are allocated in such a way that they do not overlap each other .
+Bursts transmitted from traffic stations are called traffic bursts .
+But  , in a moving picture , the luminance element function of three independent variables , that is , two space variables and a time variable therefore , it is necessary , in the translation of a picture into an electrical obtained .
+But  , it is now connected to all the BOCs , most IXCS and cellular carriers not only for LIDB access but also for transport of signalling information .
+But  , AAL - 3 and AAL - 4 were combined to AAL - 3 / 4 because they are similar in many points , and AAL - 5 was added for high speed data communication .
+But  , digital signal form is used even normal information is coded analog signal or data .
+But  , if signal was received from frequency transmitter due to interference wave and amplified and modulated with noise ( Complement component will be transmitted if code sequence is known . ) , it would have transmission power similar to the original signal and its interference effect would increase .
+But  , in the case of ATDM , channel efficiency is increased because multiplexed signals use only one channel and idle period can be used to provide a new service .
+But  , it can not provide flow control function for point - to - multi points ATM layer connection .
+But  , loss of signal power is not the problem following band restriction only .
+But  , plastic optical fibers are often used in areas of short distance communication , and wire - harnesses ( writing ) for automobiles where importance is attached to ease of handling ( such as easy connection , hard - to - break characteristics for sharp bending , etc . ) in spite of their inferiority in transmission characteristics .
+But  , receiving signal not synchronized to the reference signal of receiving end is added to reference band and then , spread .
+But  , since VCI changes only when VC link is terminated , it holds the same value in the same VPC ( Virtual Path Connection ) .
+But  , STM - n frame is required in case of SDH - based transmission , and DS - 3 signal frame is required in case of G.702 - based transmission .
+But  , the product which uses wireless technique such as electric magnetic wave and infrared rays has been appeared since 1993 .
+But  , there are differences in detailed operation of them .
+But  , there is no such strict restriction actually and receiving frequency interval may overlap according to receiver used for many statistics .
+But actually  , undesired frequency like sideband frequency in addition to desired frequency is generated as well .
+But also PCM methods emerged the new telecommunication method never had been to smooth road for practicing .
+But as emerging the T1 carrier mode  , the devices as following has been developed with compatibility for cutting down the cost per line until late 1970s : digital multiplexing system including the wire PCM , the mode of adding an existed analog mode to digital transmission function including DOV ( data over voice ) , Trans - multiplexer ( ITU - T recommendation G.749 ) connecting the FDM network with TDM network .
+But as the link has a limitation on utilizing such CBR and VBR services  , the ABR and UBR services have been developed with which you can use the remaining bandwidth for an economical ATM service .
+But because mobile communication uses a multiple channel access system that allocates radio channels to subscribers only during communication  , there is no direct correspondence between the subscriber and a specific subscriber me .
+But because same frequency can be reused int short distance  , reuse cell site can be reduced as many as reuse cell number of omni - directional cell allocation .
+But because the spectrum is overlapped  , adjacent channel is not used in the same cell as well as adjacent cell is restricted by interference condition .
+But enough bandwidth makes signaling rate worse and needs to extend transmission time .
+But if a flaw exists on the surface of an optical fiber  , the applied tensile force is concentrated on the Raw causing abrupt breakage when the force exceeds an allowable limit .
+But if it is  , it is impossible to generate the completely same system simultaneously . So it is pseudo number .
+But if there are many stages in the charging system  , a large number of empty toll - numbers are required , and this system is not profitable .
+But if you increase fr  , the required bandwidth becomes wide , therefore the noise power at the demodulator input increases .
+But in data communication  , it means the rules for communication that allow computers , or computers and terminals , to exchange data .
+But in EBCN  , congestion state is notified to source directly and is efficient compared with EFCN .
+But in most cases  , the subscriber lines composing of transfer line and distribution line in rural area are called rural network .
+But in order to maintain the wide area service  , the transmitting power of mobile and base station needs to be high .
+But in the digital synchronous terminal system  , these were possible using the direct access to the multiplexed speeds with easiness in multiplexing or demultiplexing signals because of the office synchronization on the single reference clock .
+But in the optical transmission system  , the code transmission method which uses only the power of light is currently adopted .
+But instrument the case of a telephone conversation  , it is not necessary to transmit this entire range of frequencies .
+But it accommodates by integration all the North American - type digital hierarchical signals including the European - style DS - 1 signal  , and includes the first stage multiplexing procedure .
+But it is not used in long distance telecommunication because of less efficient than above two techniques .
+But it is not very clear if there would be such a mechanism .
+But it was not got to the practice since at that time an electronic tube is only active element and the code tube used for coding have a great deal of problems in practicing .
+But only the limited part of the wide frequency bandwidth is utilized for information transmission .
+But PCM has quantizing noise because the quantizing error is occurred in coding process .
+But TDM requires more accurate synchronization than that of FDM .
+But the database was later installed at stand - alone NCPs ( Network Control Points ) .
+But the influence of the earth should be considered because it cannot be located in free space .
+But the open wire carrier system is now very rare  , because the open wire line itself has become extremely rare .
+But the reflection angle on the boundary surface must satisfy certain conditions because of light interference .
+But there are some mechanisms as listed below which are applicable depending on individual cases of service interaction :
+But to use the dynamic channel allocation practically  , common antenna facilities is needed which is used by integration of certain channels and algorithm which is need to process the call passed each cell site in high speed .
+But when the scale of rural network is not so big  , we do not the long – term planning or the medium – term planning .
+By 1990 with two - carrier service all over the country the rate of customer increase had risen to an annual rate of about 20 % .
+By 1997  , total subscriptions will amount to 130 million .
+By adding a function to the IGS that is sending the message area number ( MA ) of the fixed telephone number to which a calling subscriber belongs  , the dial and origination MA number are sent to the G - MGS when the originating call is set up .
+By adding up such numbers for all cable  , an accumulated number is calculated for each distribution area .
+By assuming the nonlinear characteristics to be expressed by …  , and that three unmodulated waves expressed by … are input , we obtain the following results :
+By carrying out the performance monitoring  , the both end points subject to the performance monitoring function , that have received the command carry out a final negotiation through the use of the performance monitoring activation / deactivation method .
+By carrying out the performance monitoring  , the both end points subject to the performance monitoring function , that have received the command carry out a final negotiation through the use of the performance monitoring activation / deactivation method .
+By carrying out this process  , the base station can evaluate the location , of mobile unit efficiently when the terminating call of mobile unit is generated .
+By carrying two chrominance signals which one sub - carrier ( fc ) in the frequency band of the luminance signal ( Y ) using quadrature amplitude modulation  , color information can be transmitted .
+By coding  , the quantizing sample are converted into binary codes .
+By comparing equation ( 2.26 ) with equation ( 2.24 )  , we can easily obtain the relation :
+By contrast  , ain release 1 addresses generic feature interaction mechanisms consistent with the foundation established in IN CS - 1 .
+By contrast  , in component coding , a higher sampling frequency can be used , because it is possible to achieve more accurate predictions .
+By converting 10 back into its decimal equivalent  , we obtain the number 2 .
+By establishing enough discrete levels  , however , the analog waveform can be represented with as little conversion error as desired .
+By establishing frame and multiframe synchronization in this way  , transponder hopping can be performed .
+By introducing this term into the field of communication  , communication protocol has been born .
+By inverting the lowermost bit of the number 11  , we obtain the number 10 .
+By making the refraction of optical fiber into graded index type  , the propagation time difference , that is , mode dispersion can be reduced .
+By marking the quantizing interval sufficiently small  , quantizing noise can be reduced to a suitable level .
+By means of the Status code  , each traffic station can determine whether the reference burst containing the CDC message is the primary or secondary reference burst .
+By preparing several pagers with the number  , it is possible to page all of them at once .
+By providing a guard time between intermittent carriers so that the carriers should not overlap each other .
+By re - using frequencies  , it can provide processing capacity that is much higher than the existing mobile telephone systems .
+By receiving the requirement  , the same connection type as set in the ISDN must be set in the telephone network .
+By regenerating the received PCM signal at respective regenerative repeaters .
+By remembering 51.84 Mb / s or 155.52 Mb / s  , the rest can be found simple calculation .
+By repeating the wave form of this single cycle a rich  , sound can be synthesized .
+By resetting an integrated value within a predictive coding and decoding loop on a line - by - line basic  , and using leaky integration as the predictive function , the channel error effect is greatly decreased and limited to a few lines .
+By sampling the voice signals of channels 2 and 3 at slightly different times within the period from t1 to t2 and by combining these samples with the sample of channels of the time scale .
+By sampling theory  , in order to transfer information in signal which is limited bandwidth , just send finite number of discrete sample .
+By scrambling information signal row according to a fixed rule  , it statistically reduces the continuation of 0 and that of 1 to almost none , or makes the level of DC component .
+By sending the regenerated signal to the next repeater .
+By shifting the read timings one after another  , the signals of 8 bits are switched as they are in the form of parallel bits .
+By the repetition of this process in a 125 micro - second cycle .
+By the signal processing series being in the inverse order  , signals from the TDMA system are connected to the terrestrial network .
+By this  , the content at address # 3 in the secondary time switch is read out at the time of time slot # 5 and put into time slot # 5 .
+By this arrangement the wave is radiated in a manner in which it is vertically polarized parallel to the vertical edge of the horn  , as shown in the figure .
+By this means  , the inverted phase , which is create at the transmitting side of the sub - carrier in every line for the signal EV is restore .
+By this means  , several readings of data from the memory can be accomplished simultaneously .
+By this means  , the signal flow has a one - way direction in the time division switching network .
+By this sudden cooling  , unevenness in the material density , that is , unevenness in the refractive index caused in the material at the high temperature , remains in optical fiber .
+By this test  , weak parts are remove beforehand so that the breakage of completed optical fibers can be minimized .
+By transferring various status memorized on the temporary memory circuit sequentially according to input information  , it executes call controls by employing the time division method .
+By using DSI  , the number of satellite channels can be smaller than the number of input terrestrial channels .
+By using FEC  , the bit error rate can be improved to meet criteria .
+By using modulation technology  , the antenna length can be shorten to propagate and diminished , interference among communication station can be excluded through frequency allocation , and much signal can be transmitted beween sending station and receiving station through multiplexing .
+By using the digital signal processing technique  , circuit compactness and low power consumption are achieved and time division multiplexing processing is feasible .
+By using the interleaving method  , the bandwidth of the color television signal can be limited so as to use the bandwidth to the highest possible degree .
+By using this statistical packet communication  , the access that realize multiplexing is called statistical multiple access .
+By using three columns  , 27 bytes are acquired ( 0 row 3 columns ) , and by using four rows , 36 by acquired ( 9 rows 4 columns ) .
+By utilizing the special features of satellite communication  , it is desired to provide varieties of communications , it is desired to provide varieties of communication circuits more easily to meet the demands of individual users in addition to providing public large - capacity communications circuits .
+By utilizing this  , the separation of the DS - O channel of 64 kbps from 150 Mbps internal standard signal can be easily done .
+By utilizing this switch having an open / close part with gold plated contact point  , call characteristics were improved rather drastically .
+C - MOSRAM has the advantage of low power consumption but  , at the same time , is inferior to ECLRAM in terms of operating speed .
+C ) Existing call processing functionality of exchanges and its continuing evolution should be the basis of call modeling .
+C . Chapped invented an optical telegraph machine in 1791 .
+C . Minimum necessary frequencies : since same frequency can not be used because of the interference with adjacent cells  , the minimum necessary frequencies are as ( table 2.6 ) .
+C / N Expresses the amount of noise compared to the power of the carrier in decibels ( dB )  , but effect on C / N due to the accumulation of noise should be expressed as a real number .
+C / No ] is used to obtain the relative noise level in a unit bandwidth or 1Hz  , and has unit of dB - Hz .
+C / No and C / T are general expressions of relative noise power  , since they are not a function of noise bandwidth .
+C / No has been derived from C / N by multiplying it by bandwidth B .
+C / Select the frequency which can prevent mutual interference which is generated by non - linear characteristics of receiver and transmitter .
+C / T ] is equal to ( - 128.6 - 20 )  , or – 148.6dB / K , since 100K is 20dB / K .
+Cable areas standardized in a fixed distribution area by wire diameter that supports the fastest subscriber in the area .
+Cable can accommodate more circuits and is more stable than open wire  , but it has a large transmission loss .
+Cable conductors are twisted into pairs or quads to obtain good balance between circuits and the ground .
+Cable entrance requirements and mainframe distribution of wire pairs is greatly reduce because all trunks are implemented as subchannels of a TDM signal .
+Cable types were considered in such introduction of underground cable .
+Cable will be buried under one of the following conditions :
+Cables ' transmission characteristics must be stable against externally applied forces and water .
+Cables are standardized in a fixed distribution area by wire diameter that supports the fastest subscriber in the area .
+Cables laid on the bottom of lake or wide river are called under - water cable .
+Cables laid on the bottom of the sea are called submarine cable .
+Cables must allow the same handling as conventional metallic cables at cable laying sites .
+CAC is a function to evaluate the feasibility by the connection management function of network management system when call setting or re - negotiation is requested from ATM users .
+Calculate the answer correct to two decimal places .
+Calculating mathematically  , the received signal Es and local oscillator signal Eo are expressed respectively as :
+Calculation of the cost of using NW resources to the user Table 5.5 list the typical functions required by network providers and general companies .
+Call Holding allows the user to set a not - page time during which any message received are stored  , and signaled when the period is over .
+Call level control has the unit of time corresponding to connection duration and centers on connection management function of network management system in order to admit the call connection setting or re - negotiation and substitute this for network resources properly .
+Call modeling provides a high - level service and vendor / implementation independent abstract view of IN call and connection processing in the SSF and CCF .
+Call quality deteriorated relatively when the signal level is low .
+Call signals and call completion signals are sent to the operator using a magnet .
+Call switching services and information and data transmission and processing .
+Calling name delivery  , for example , retrieves the calling name from the CLI to be transferred to the called terminal .
+Calling party time slots for sending which have entered from the incoming circuit are switched to called party time slots for receiving in the network .
+Calling user encountering called party busy automatically informed when it becomes free .
+Calls billed to account number or called party by support of network functions .
+Calls dialed with the same number routed to different destinations based on location  , time , etc .
+Calls from any terminal charged on a bank account or a credit card .
+Calls routed through predetermined facilities according to the preference list .
+Calls to cellular phone and maritime telephone subscriber must reach moving station anywhere in the country  , and this means that a numbering system different from the one used for the PSTN must be used .
+Card phones  , by contrast , are mobile stations , and the role of the subscriber 's line is paled by radio .
+Carefully observe the slide showing the noise power allocation of 10  , 000 pWOp is allocated to the earth station equipment noise .
+Carrier - clock synchronization can be implemented by using the carrier recovery and clock recovery described in 3.1.3 Binary Phase Shift Keying .
+Carrier has 180 phase difference between phase 1 and phase 0 according to code sequence .
+Carrier power and noise power should be calculated separately  , and both thermal noise and interference should be included in noise power .
+Carrier technique has brought about better and more economical toll circuits .
+Cases where manholes are congested with cables and other facilities and :
+Cases where tapping hampers facilities management because :
+Cases where the ratio is 1.5 are less make up 80 %  , and 2.0 or less comprise 90 % .
+Cassegrain antenna consists of two reflection mirror ( main and sub ) and one primary radiator following the principle of cassegrain telescope in optical science .
+CATV and video rental service will be replaced with this private network service  , which is expected to be turned into public network service .
+Causes of loss include the absorption  , dispersion , radiation , and improper connection of optical fiber .
+CC is the country code and is identical with the country code used in the existing international telephone network numbering plan .
+CCC engineering ( clear channel capability ) on the existed network  , UNI ( user - network interface ) engineering of voice , date , image information and NNI ( network - node interface ) engineering , super high integrated VLSI ( very large scale integration ) engineering including a variety of coding engineering , synchronous digital transmission engineering , cross connection , and network maintenance , CCR ( customer controlled reconfiguration ) network , IN ( intelligent network ) and so forth for preparing the narrow band ISDN on the already practicing stage partially .
+CCF consists of the bearer connection control which corresponds to the basis switching control function of existing exchanges to interconnect communication paths and the basis call manager ( BCM ) .
+CCF may either wait for the response form SCF in this case or continues call processing .
+CCIR Recommendation 365 - 4 specifies the allowable noise due to interference from terrestrial radio systems .
+CCIS is the AT &amp; T - specific version of ITU - T Common Channel Signalling System No.6 .
+CCIS was later replaced by the more powerful Common Channel Signaling System No.7 ( S . S . No.7 ) in mid - 80s .
+CCITT recommendation G.811 specifies plesiochronous operation of international digital links .
+CCITT recommends a sampling rate of 8 kHz for voice signals .
+CCITT recommends an allowable sip frequency  , or in other words , sip rate in a digital communication network .
+CCITT recommends employment of nonuniform quantizing with 8 bits per sample and 256 quantizing levels to assure high speech quality .
+CCITT recommends that these compandings should be realized by digital processing .
+CCITT recommends two kinds of logarithmic companding characteristic .
+CCP - AP cable : SS type  , all areas except areas for CCP - CS , CCP - HS and CCP - ES cable .
+CCP - CS cable : existing section where damage to cables due to birds  , insects , animals or bullets and the like has exceeded a predetermined level and the where same situation is predicted to persist , and newly installed sections where similar situations are predicted .
+CCP - ES cable : Areas where measures are required against inductive disturbances .
+CCP - HS cable : existing section where damage to cables due to birds  , insects , animals or bullets and the like has exceeded a predetermined level and the where same situation is predicted to persist , and newly installed sections where similar situations are predicted .
+CCP - JF cable is currently used for underground distribution .
+CDMA cellular system has been designed such a way that it has very flexible signaling system and control structure .
+CDMA is a method multiplex access in which each earth station transmits an identical carrier frequency but after further modulating the carrier with a particular bit pattern assigned for each earth station before transmitting the modulated signal .
+CDMA system applies the type of maximum rate combination  , which determines the signal - to - interference ratio for all the paths combined and gives weight for each path prior to adding up .
+CDMA system is basically made up of physical layer  , multiplex sublayer , signal layer 2 , paging &amp; access channels layer 2 , sync channel layer 2 and control layer 3 .
+Cell area is defined by the points which has the same average receiving level position between the adjacent cell site within the radio propagation area and the shape will be polygonal shape .
+Cell header section is subdivided into General Flow Control ( GFC )  , Virtual Path Identifier ( VPI ) , Virtual Channel Identifier ( VCI ) , Payload Type ( PT ) , Cell Lost Priority ( CLP ) and Header Error Check ( HEC ) fields .
+Cell level control is applied by the unit of several msce or less .
+Cell rate is contracted as the number of cells per second and tolerance  , as the unit of time .
+Cell sequence is insured in each VCC of the same VPC  , and QoS represented with parameters such as cell loss rate or cell delay is provided for each VPC connection .
+Cell splitting and cell reduction through the sectorized antennas are no longer effective means for expanding system capacity and accordingly  , a digital modulation method has been proposed as the solution to expand system capacity through the improvement of spectrum efficiency .
+Cells being inputted are stored on the input buffer port first and the path control function inspects the output port collision between ' N ' number of cells  , located in the foremost front of buffer with FIFO order .
+Cells inputted onto the shared memory are tied in accordance with corresponding port numbers as specified in the linked list for management .
+Center of one channel is positioned at null point of an adjacent channel ( Assuming asynchronous carrier receiving ) .
+Centralization and decentralization of network management functions .
+Centralized System Control by The Reference Stations .
+Certain PICs correspond to switch - based service feature functionality  , and thus are not ubiquitous among all switching systems .
+CETs are connected to various service source and terminate individual circuits .
+Changes in the social environment have brought changes in the purpose of underground distribution  , shifting it toward the reinforcement of disaster prevention functions and secure maintenance of safe and comfortable passage space .
+Channel allocation messages are used to allocate the paging channels of base stations to mobile units and are used to change paging channels .
+Channel capacity off the equipment  , composed of basic connection frares , amounts to 96.728 .
+Channel efficiency can be increased by using an idle channel a neighboring radio zone whenever there is no idle channel in the current zone .
+Channel Filtering : Baseband data are changed into pulse string after passing this filter .
+Channel occupied type is good access for continous communication like telephone  , there are frequency division multiple access in analog cellular system , time division multiple access which is already utilized in digital cellular system , and code division multiple access .
+Channel rate should be applied dynamically depending on the speech rate of a caller .
+Channel sharing type is called random access because it permits collisions and user indepently send the packet signal at signal at random .
+Channels can be classified into some types each having a common feature or features .
+Characteristics of the planned area  , types of service needed , future development of the planned area , possible source of financing .
+Checking the pulse waveform at the output ( called the impulse response waveform ) this way provides a means to check the dispersion characteristics of optical fibers .
+Chip decision is defined as ' e '  , the amount when indirect power of space channel exceeds power of intended mark channel , which is the mount sufficient to generate unintended decision .
+Chromatic dispersion occurs because light generated from light sources such as laser or light emitting diode has finite waveform width  , unlike that of ideal single color light .
+Chromatic dispersion that has been minimized by the offset of propagation route dispersion and medium dispersion is shown .
+Circuit composition screen : Circuit composition between specific points .
+Circuit designs for television transmission are generally made in accordance with CCITT Recommendations in order to keep picture quality above a certain criterion .
+Circuit routing function utilizes the most significant feature of the synchronous multiplexing  , that is the ability if discuits .
+Circuit switch processing in the digital switch is performed by interchanging the time allocations of the signals between the incoming and outgoing circuits by the time switch .
+Circuits instrument opposite directions are accommodate instrument one cable using accommodate different frequency band  , the applicable length is from about 25 km to 100 km .
+Circumstances and summary of standardization of new synchronous interface .
+City redevelopment plans and area redevelopment plans .
+Classification of these propagation paths is based on the consideration of propagation in free space  , tow - way interaction regions and rayleigh fading areas described as before .
+Closed - Loop Synchronization : in closed - loop synchronization  , each station receives its own transmitted burst looped back from the satellite .
+Closed Loop Acquisition : a special signal  , such as PN ( Pseudo Noise ) , is transmitted at such a low level as not to cause much interference , even if it collides with other bursts ; the transmit timing is determined by comparing the received signal looped back from the satellite with the reference burst position .
+CLP is used to indicate call lost allow / prohibit in case of congestion of communication network .
+Coating on the outer cladding part protects optical fibers against humidity and abrasion and at the same time  , prevents the crosstalk with adjacent optical fibers , and makes optical fibers easy to handle .
+Coaxial cable : This cylindrical cable is the same as is used to connect an antenna to a television set .
+Coaxial cable is inherently free from crosstalk in the high frequency range .
+Coaxial cables  , optical cables , space , and wave guides are used widely for this purpose .
+Code A / D1 to A / D4 have discriminative information on code word 1 - 16  , 17 - 32 , 33 - 48 , and 49 - 64 .
+Code error noise are generated due to heat noise and waveform distortion .
+Code sequence is inputted to balanced modulator to get 2 - phase modulated output of RF carrier .
+Code should be handled carefully from the viewpoint of mutual correlation characteristics in the same way as other coded communication system .
+Codes used at this time have the constraint length or coder memory length of 9 ( K = 9 ) and the code rate is ½ ( two binary symbols that have been encoded per one bit are created ) .
+Coding  , a technology from information theory of digital transmission , is to add extra digital systematically to transmitted message .
+Coding methods for a NTSC television signal are divided into two groups : component coding and composite coding .
+Coherent detection is applied for PSK demodulation .
+Coherent Recovery : This is the process of extracting phase synchronized carrier from the PSK signals received .
+Cold Start Trap : Reports that the agent system is operating and service has started ( When there has been a change in the configuration of the managed object ) .
+Collection / reporting of failure information diagnosis of defective equipment .
+Collection and arrangement of data materials and others .
+Collective expansion is defined as facilities expansion carried out simultaneously in all fixed distribution areas within one area subject to expansion work  , even though not all of them require capacity increases .
+Collision is detected when a signal being transmitted collides with the signal sent from another node .
+Color information is transmitted by the suppressed carrier  , which does not include any carrier itself is removed and only the sideband signal containing the color information is transmitted .
+Color may be defined in terms of luminance  , hue and saturation .
+Color of display changes to show change in status ( Normal  , minor fault , major fault ) .
+Color television signals  , therefore , contain the synchronous signal for picture synchronization ; a combination of the luminance signal ( Ey ) and the color difference signals ( EI , EQ ) ; and the color burst signal which is the reference for the chrominance subcarrier .
+Color TV signals in the NTSC system are output signals ( R  , G , B ) from a TV camera which are mixed according to the following proportions :
+Combination of two conductors Diagrams at each assigned line loss and DC resistance value are provided for this purpose .
+Combination of various communication technologies .
+Combinations of various services can be accessed from ISDN user – network interfaces .
+Combined system of two spreading modulation systems provides features which can not be accomplished by one system .
+Combining the paging channel and the transmission control channel into one control channel  , and deploying such a control channel in each radio zone .
+Combining the paging channel and the transmission control channel into one control channel  , and deploying such a control channel over more than one radio zone by treating several radio zones as one unit .
+Commands refer to various types of messages used for the control of specific mobile units .
+Commitment  , concurrency and Recovery ( CCR ) : The application layer provides the function to synchronize and execute decentralized processing that covers multiple systems , such as simultaneous modification of a remote data base .
+Common management protocol : Common functions operate the managed object .
+Common use of computer hardware and software resources .
+Communication between airplanes and the control center is performed through aeronautical base station installed at aeronautical primary location at the airport or along the flight route .
+Communication between fixed points can be performed by wire transmission paths  , but radio communication is required for mobile objects , such as cars and aircraft .
+Communication channels in the network must have connection types which meet these attribute values .
+Communication functions are standardized in a hierarchy .
+Communication is the process of transmitting information from a point of time and space named signal source to another point named destination or user .
+Communication protocols such as the setting up of communications paths  , removing of transmission errors , and the picketing of transmission messages are used when exchanging data between the terminal and switching system and between switching systems .
+Communication quality is generally categorized as follows :
+Communication system can generally be expressed abstractly  , as shown in the following diagram .
+Communication system is the whole equipment that supplies information links between signal source and destination .
+Communications between a CO and its hub are via a dedicated  , point - to - point fiber span that is protected by a dedicated , physically diverse fiber span controlled by an APS system .
+Communications carried out through the interface between men and machine  , and between machine .
+Communications only become possible when the telephone 's location is specified and the telephone is linked to its exchange by a subscriber 's line .
+Communications provided by the INTELSAT belong to the category of the fixed satellite service .
+Communications which interconnect many places in the world over time and space can be roughly classified into cable communications using coxial or fiber optic cables and radio communications using radio waves .
+Compare with voice transmission  , television transmission require an about 4 MHz bandwidth , which is thousand times that of a telephone signal and results in much higher transmission costs .
+Compared to the 1 : 1 / ODP architecture depicted in &lt; Fig.1.64 &gt;  , this alternative architecture , which uses the concept of 1 : 1 APS protection , reduces power loss .
+Compared with parabolic antennas  , the most important improvement in Cassegrain antennas is that the distance between the transmitter and the feed horn can be reduced , thus allowing easy operation .
+Comparing with the existing OSI Directory application  , protocol architecture for IN CS - 1 is based on the SS No.7 protocol stack including .
+Comparing with VSELP  , PSI - CELP produces very similar results , even - though it uses .
+Comparisons between them are given in the following table 2.3 .
+Compatibility is achieved between black - and - white and color systems .
+Competitive clipping of 50msec or longer sounds disturbing .
+Completely non - blocking switches  , for example , are not practical with conventional analog implementations , except in small sixes .
+Complex advanced technologies such as to cope with fading are needed for connection control .
+Complex facilities can be set up economically and various information can be transferred bi - directionally at a high - speed .
+Compliance is defined as the number of commitment violating cells generated per second .
+Complicated radio propagation specific to mobile radio communication .
+Computer hardware and S . S . No.7 software are provided by Stratus .
+Computer networks can be classified into wide area networks ( WANs ) and local area networks ( LANs ) .
+Computer networks have broadly developed from a centralized processing system .
+Computer of various sizes appeared and various fields started to introduce them .
+Concerning about bandwidth or each Bt = 2B = Rb ( 1 r )  , in ASK and PSK and Bt = 2 ( D f B ) = 2 ( D f Rb ( 1 r ) by Carlson 's law in case of FSK .
+Concerning advanced IN based on CS - 1  , France Telecom has a plan of introducing the SSPs first at the toll switching level and three SSPs have so far been introduced .
+Concerning CS - 1  , recommendations to the real implementation s .
+Concerning telephony  , these quality thresholds are summarized by the table 4.1 .
+Concerning terminals  , which can have different control systems , and files which can have different structures .
+Concerning the service building blocks  , some SCEs approach with the SIBs defined for ITU - Y IN as the basic .
+Concomitant with the division into the database  , procedures for location register , information reference , and necessary authentication for verifying the validity of users , etc , are required for each user and mobile unit .
+Concrete examples of line design by the FD distribution system .
+Concurrently  , the network control center passes this fault information to the foreign hub , via data channels , to start processing incoming working signals at the foreign hub .
+Conditions for light to travel into an optical fiber from a light - emitting device are determined by the numerical aperture  , NA , as was explained in subsection 3.2.1 .
+Conductor diameters must be determined to allow a combination of optimum conductor diameters in such a way as to satisfy the line loss and direct current resistance values described in section 2.4.3 .
+Conduit system is decided by using Proposed Number of Subscriber Cables .
+Conference for reallocation of HF band for use in 1967  , conference for addition of radio frequency regulation for space communication in 1974 , and conference for reallocation of marine mobile radio frequency for business use in 1974 were followed .
+Confidential message indication can be attached to message as arbitrary local service in MESSAVIA .
+Configuration elements as well as the proper selection of wavelength to be utilized should be considered carefully when designing the optical transmission system .
+Configuration information management  , control of NW resource status .
+Configuration management carries out the control test and provides the functions of acknowledge  , data collection and data transfer functions for NEs .
+Confirm also that the call control message of one of these signalling systems is different from that of the other signalling system .
+Confirm the information on the control store shown on the slide .
+Confirm the process by which the content of address # 5 is converted into 3 from timeslot # 2 on HW - 21 .
+Confirm the scope of the D – channel protocol and that of No.7 signalling system .
+Confirm the scope of the D – channel protocol which is a subscriber ' line signalling system and that of No.7 signalling system which is an interoffice protocol .
+Confirm where the individual I . series recommendations are set out .
+Confirmation : Display completion of procedure activated by the request ( Complete requested service ) .
+Confirmation signal is sent to two link layers and response signal  , sent to one control process layer .
+Confirming that the transmitters of all the satellite base station are off  , the same phase compensation signal is transmitted from the central base station to each satellite base station via the signal trunk line .
+Connect each technique to the applicable description by a line .
+Connected to the PSTN  , it also provides train public telephone service .
+Connection : Establishment of logic channel required ; High data reliability .
+Connection : These are logical channels set up for exchange of information between entities .
+Connection control between input terrestrial channels or international channels  , and satellite channels at the transmit side is performed according to voice detection in each input terrestrial channel .
+Connection control between satellite channels and output terrestrial channels at the receive side is performed according to the assignment messages transmitted from the transmit code .
+Connection control or topology manipulation ; i . e . addition or deletion of connections is not provided by SCF .
+Connection having symmetrical or asymmetrical bandwidth .
+Connection ID is assigned whenever a virtual channel is set up and the ID is released as well when connection is released .
+Connection is complicated  , preventing smooth tapping work .
+Connection loss due to cause 1 )  , 2 ) , 3 ) during the splicing of optical fiber is shown in figue .
+Connection of multiple parties set up and parties possibly added or dropped during conference .
+Connection types are very important in studying interworking .
+Connectionless : Establishment of logical channel unnecessary .
+Connectionless : One side transfers data independently without establishing a connection . ( Just like the mail ) .
+Connectionless service does not require the establishment and release of a channel  , which is how it differs from connection service .
+Connectors are used at places where comparatively frequent connection / disconnection are required .
+Consequently  , in the NTSC system , the line frequency fh is determined as shown in the slide .
+Consequently  , it decided to define Core INAP .
+Consequently  , a comparison of the spectra of the baseband and carrier frequency band with respect to the isolated rectangular pulse shows a relation of parallel shifting of spectral .
+Consequently  , a transmission rate less than 20 Mbit / s is now used by applying various high - efficiency encoding techniques .
+Consequently  , an important requirement for future research and development in low - bit - rate speech coding is the establishment of precise objective methods for evaluating speech quality .
+Consequently  , based on the assumption that O and 1 will occur at an equal probability , the mean error rate , Pe , can be represented by :
+Consequently  , by obtaining the power spectrum , which can be regarded as the frequency zone .
+Consequently  , compared to the conventional stuff multiplexing , a fully synchronized network with high - level functions can be configured using a simplified equipment configuration .
+Consequently  , demand strengthened for a digital radio - relay system which would allow for construction of a transmission terminal station using semiconductor elements for digital communications problem without the need for expensive filters .
+Consequently  , during interpolation the volume of the sound is often reduced as time passes and is eventually squelched altogether .
+Consequently  , if a special - purpose and easy - to - design communications network is set up , it may not be flexible enough to meet new requirements effectively .
+Consequently  , if has second of more components for the angular frequency , w , T ( w ) with not become constant with respect to w .
+Consequently  , in the following section , the basic items related to them are reviewed based on items related to the BISDN of ITU - T .
+Consequently  , in the voice channel after demodulation , the noise power is greatest in the channel of the highest frequency .
+Consequently  , it can said that the level of intermodulation of the type ( f1 f2 – f3 ) is the key factor in determining the back - off of a TWT amplifier required to keep the intermodulation below a specified level .
+Consequently  , it results in particularly remarkable improvements in the speech of females and children , which consists of higher frequencies .
+Consequently  , once the acceptable noise power is determined on a certain level , the allowable bandwidth is determined , and accordingly the maximum permissible value of the r . m . s test tone deviation is uniquely determined .
+Consequently  , only the baseband signals fed to the PSK and QAM have to be analyzed .
+Consequently  , the coherent optical communication is regarded as the ultimate optical communication technique .
+Consequently  , the facilities of the feeder cable network and distribution cable network should be separated for the two or grow independent from each other .
+Consequently  , the formats of using communications will become more diversified , and also the effort to develop technology adequate for those purposes will be made .
+Consequently  , the frequency spectrum is a linear spectrum as shown in Fig . 2.3 .
+Consequently  , the traffic and congestion states are measured at that points , and the targets of measurement are the usability of buffer and link , and cell loss ratio .
+Consequently  , two machine cycles are required form input to output .
+Consequently  , using stalpeth cable inferior in cross talk characteristics requires a limit on the number of subscribers served by the cable because transmission distance is constrained otherwise .
+Consequently  , when the terrestrial network employs FDM analog transmission , mutual conversion between FDM analog signals and PCM - TDM signals is necessary .
+Consequently cyclic refreshing is employed .
+Consider the time slot interchange in the switch when signal A is switched to outgoing circuit b ' ; signal B to outgoing circuit a '  , signal C to outgoing circuit n ' and signal N to outgoing circuit C ' .
+Consideration must be given to effectively idle cable units resulting from the difference between cable capacity and needed capacity .
+Consideration should be given to prevent this when designing an optical digital communication system .
+Considering that speech codes for digital mobile communication must be standardized in a timely manner  , the most common approach is to competitively evaluate several real - times codes and select the best performing codes .
+Considering that the effective fr band of telephone circuits is usually limited to between 0.3 kHz and 3.4 kHz .
+Considering the effect such abnormalities will have on society  , necessary precautions must be taken continuously to prevent the generation during inside and outside company construction , service expansion , etc .
+Considering the fact that a digital system typically needs a greater bandwidth than a comparable analog system and that wider bandwidths imply greater crosstalk and nose levels  , the ability to operate at lower SNRs may be as much a requirement of a digital system as an advantage .
+Considering the level information signal such as v ( t ) = 0  , 1 ; 1 , - 1 ; v1 , v2 , and when replace v ( t ) = u1 , u2 ; 0 , 1 to equation ( 2.20 ) AM is modulated to digital amplitude signal as ASK or OKK type .
+Considering the second factor  , the component coding method is adopted in this interframe coding .
+Constant bit rate service form ATM cells with uniform distribution and variable bit rate service distributes widely but forms the same ATM cell .
+Construct a data base of facilities information  , user information , circuit setup information , equipment registration log , circuit name , circuit speed , repair arrangement destination , etc .
+Construction costs  , however , are several times overhead plant costs .
+Construction of subscriber line networks by the FD distribution system .
+Contention of terminal service profile and personal service profile is also an example of service interaction .
+Continuing in this way  , up to six stages of the phase compensation can be carried out .
+Contrary to this  , if we examine the system from the perspective of the logic conversion processing operation , the control circuit of the switching system can be further classified into a wired logic circuit and stored logic circuit .
+Control channel interference or jamming and transmission and reception equipment problem can be confined to a single zone .
+Control codes transmitted to each traffic station with the Dn are the DNTX code  , the IAP1 code , the IAP2 code and the SYNC code .
+Control data transmission by reference bursts for burst synchronization and system control is performed multiframe by multiframe .
+Control information ( on hook / of hook  , address digits , coin deposits , etc . ) is inherently digital and , hence , readily incorporated into a digital transmission system .
+Control interface for these switches are also commercially available .
+Control is accomplished by comparing the time stamps of the current transaction and the final operation recorded in the resource .
+Control message routing  , including , where necessary , message route modification to maintain connectivity .
+Control of commitment processing and rollback processing is called commitment control .
+Control of common TDMA frame for a community of synchronization transponders .
+Control plane provides call connection and its control function .
+Control signals transmitted through individual channels to each mobile station are classified into the following three types .
+Control system that separates the host computer from the communication system .
+Control the amount of data sent and received by the data link service user to ensure correct reception .
+Controlling the status of transactions waiting for a resource according to a waiting graph can be done quickly and correctly  , because the deadlock can be detected at the point where there is a loop in the graph .
+Convention telephones are used only to connect one counterpart for call set - up .
+Conventional metallic cables employed copper conductors  , a star - quad type wire structure and paper - insulated wires until plastic - insulation technology was established .
+Conventional stuff multiplexing  , due to adding stuff bits , etc ; could not have interface speeds which integer multiple relation , but by looking at table , you can see that SDH interface speeds over STM - 0 are all complete integer multiples .
+Conventional transmission line network were structured around telephone services .
+Conventionally  , the mobile telecommunication networks and users are associated with a specific terminal in use .
+Conversely  , digital transmission systems can be upgraded without impacting control functions at either end of the link .
+Conversely  , the change in status from call to standby is effected through the control processes of finishing the call and disconnecting the line , and can be initiated by either the mobile station or the base station .
+Conversely  , the operation to regenerate digital signals from the signals from the signals in radio frequency band is called demodulation .
+Conversely the interference of a satellite system with a terrestrial microwave circuit is also a problem .
+Conversion at voice channel level can make use of existing equipment .
+Conversion from speech to text and text to speech is another area to be utilized .
+Conversion of electrical signals to the forms of signals that can be transmitted easily and efficiently through a transmission medium is called modulation .
+Conversion to th original electrical signals is called demodulation .
+Convert digital or analogue signals at various orders in the hierarchy to the signal having the intraoffice frame structure .
+Converted by Group II forward signals or backward system A - 3 .
+Converted from Group I by backward directed signal A - 3 or A - 5 .
+Converts a relation into a subset for optional attributes .
+Convolutional encoding involves the modulo - 2 addion of selected taps of a serially rime - delayed data sequence .
+Coprovision for the introduction of an expert system in the future .
+Cordless Telephone change the subscriber 's home telephone wiring for a fixed telephone into a radio system that can be carried freely within the confines of the home .
+Core INAP is a subset of CS – 1  , eliminating redundancies and clarifying the protocol usage such as congestion control and upward compatibility mechanism .
+Core INAP is to be approved as an European standard .
+Cores and claddings are made of glass or plastics ( silica  , plastics , fluoride , metal , multi - crystallized optical fibers ) .
+Corugated horns and polarization converters with good characteristics are used to obtain satisfactory polarization characteristics .
+Countdown information for one step is transmitted over one multiframe .
+Counter values increase incrementally each time the related phenonmenon occurs and  , when it reaches the maximum value , it returns to the initial value ( 0 ) .
+Countermeasures against the occurrence of abnormal situations  , such as node failure and the disappearance of a token require complicated fault detection and recovery processes .
+Coupled poles  , excluding those with pole braces , must be used only for regular poles .
+CPP cable is currently used for aerial cable using the free distribution system .
+Create the framework for measures to be taken I the event an abnormality is generated  , conduct and actual exercises , etc .
+Creates a relation that joins the common attributes of two relations to a key .
+Credit card calling  , for example , is sometimes actually operated in the equivalent where card issuer database is accessed from the public network for card validation .
+Crew radio is used for contact between engineer and conductor  , emergency contact between crew and person in charge for station operations , and for signaling or contact between persons concerned with the rotation of trans .
+Criteria  , evolution and overview of CS - 1 Recommendations .
+Cross color interference is a phenomenon in which short colored horizontal lines appear on the fringe of such images as letters or fine stripes in clothes which have a luminance signal with a high frequency component .
+CS - 1 does not address the service creation or service management related IN characteristics .
+CS - 1 gave a firm basis for IN implementation .
+CS - 1 includes models  , concepts , and interfaces address a portion of the IN characteristics .
+CS - 1 is structured in such a way as to allow existing network resources to be enhanced to support initial IN capabilities to allow providers to gain the benefits of IN as soon as possible  , while allowing for a planned migration to future , longer term IN capabilities .
+CS - 1 Refinement for these planes made the specifications more implementable .
+CS - 2 also provides capabilities to support the introduction of services which may neither be standardized by ITU - T  , nor be part of the proposed benchmark list of service features :
+CS - 2 defines an initial subset of IN capabilities that meet the following general criteria :
+CS - 2 Recommendations also give some high level guidelines for supporting service management and service creation services and the telecom services to be supported by CS - 3  , .
+CS - 2 Recommendations are intended to give the same degree of technical information as for the new revised CS - 1 Recommendations ( output of CS - 1 refinements ) .
+CS – 3 is used for communication to remote islands  , recovery of ground communication system when to remote islands , recovery of ground communication systems when a disaster takes place , and temporary communication , which are called three tules of use .
+CS analyzes the received header and trailer of CS - PDU  , extracts only U - SDU if no error is found , and transfers to user layer .
+CS creates high layer user service information in PDU ( Protocol Data Unit ) and vice versa .
+CS of AAL - 3 / 4 is subdivided into CPCS ( Common Part Convergence Sublayer ) that carries out function shared by connected and non - connected services and SSCS ( Service Specific Convergence Sublayer ) to provide a specific AAL user service .
+CS service U - SDU from higher user layer  , adds header and trailer associated with error handling and data sequence preservation to generate SAR - PDU , and sends to ATM layer .
+CSMA / CD system : In the system  , each node is always monitoring ( carrier sensing ) the existence or nonexistence of signals on the transmission line .
+CTE equipment provides conversion of time - sot and service bit allocation on the signal between the intraoffice signal of and the interface signal of the switching system .
+CTE provides efficient conversion between various service sources and intraoffice signal of 8.192 Mbps .
+Current capabilities in technology permit a greater degree of intelligence and greater freedom in the allocation of intelligence in the telecommunication network .
+Current demand ( including demand for leased lines and the like ) at the time of survey must be extracted from the wire assignment records ( printouts from a line facilities management system ) or from the demand management tables by fixed distribution area .
+Currently  , 2 seconds have been used as the default value for Ts and 5 seconds , for Tr .
+Currently  , copper axis lines are widely used as a CATV subscriber distribution network .
+Currently  , efforts to integrate various types of communications systems are being exerted for higher efficiency and cost - effectiveness .
+Currently  , it is studying the traffic control and management for ABR service very actively .
+Currently  , ITU - T recommends u - law m ( m = 255 ) which is 15 segmented mode and A - law ( A = 87.6 ) which is 13 segmented mode as the segment mode compression that approximates algebraic functions with several linear lines .
+Currently  , machine ( tape ) run information announcement service characterized by the machine acting as information source and men serving as users is in high demand .
+Currently  , microwave communication in Japan is almost full due to frequency restrictions .
+Currently  , mobile communication networks as well as in fixed public networks are being digitized .
+Currently  , rigorous re - search activities are being carried on a new field called photonics wich is vitel for the all optical information communication system capable of recognizing , processing , exchanging , and transmitting information by means of lingt .
+Currently  , rigorous research activities are being carried on a new field called photonics which is vital for the all optical information communications system capable of recognizing , processing , exchanging , and transmitting information by means of light .

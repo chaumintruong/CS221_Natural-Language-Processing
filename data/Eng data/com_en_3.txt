@@ -1,0 +1,1534 @@
+The user issues requests at the keyboard that are passed to the Telnet client running in his or her system .
+The user navigates by mouse clicking on hyperlinks displayed as text , buttons , or images .
+The user priority bits serve as a label in the data stream that identifies priority packets .
+The user simply turns the terminal on and the hardware interface lets the host system know that it is online by using the handshake routing .
+The user then gets all the rights and privileges of that group .
+The user then obtains a virtual connection across the Internet to the corporate network .
+The user then takes this challenge and uses it to perform a cryptographic operation that produces some result that is sent back to the server .
+The username and password of the legitimate user is obtained in a variety of ways , such as reading them on sticky notes , watching a user type them , or monitoring network cables with network analyzers .
+The users ' application may also present some difficulties in accessing the data , or the data may be in a format that can't be interpreted properly .
+The users are authenticated by a security server and carry special IDs that verify who they are to other systems .
+The users are happy because they are getting reliable message exchange .
+The user 's name and password are sent over the wire to a server , where they are compared with a database of user account names and passwords .
+The user 's SID is obtained from the token and matched up with entries for the same SID in the ACL .
+The usual configuration of a Java - enabled enterprise environment consists of Java - enabled clients with client data and components stored on a central file server or servers .
+The usual connection method is through a dial - up modem , although remote access may also be through permanently connected leased lines or even across the Internet .
+The usual connection method is through a dial - up modem , although remote access may also be through permanently connected leased lines or even across the Internet .
+The usual metaphor is the medieval castle and its perimeter defense systems , as pictured in Figure F - 10 .
+The usual method is to use layer 3 routing algorithms to discover paths through the network , then set up layer 2 virtual circuits through the ATM fabric that can deliver datagrams to the destination without going through a router .
+The usual protocol within autonomous systems is the OSPF ( Open Shortest Path First ) protocol .
+The usual setup is a Windows client with a PPTP driver as its WAN driver .
+The usual solution is to just make the switch very fast - faster than the aggregate throughput of all the devices attached to it - but not everyone has a budget for such fast ports , so a careful consideration of a switch 's buffer design is necessary .
+The usual technique is to add support for HTTP and HTML .
+The usual technique is to avoid router hops as much as possible , following the mantra " route once , switch many . " .
+The value in the display changes every minute , so if it is captured , it cannot be used by someone else to log in .
+The values are tracked in the user 's account .
+The values e and d are called the public and private exponents , respectively .
+The various models of communication controllers , depending on the model , support different line speeds , increasing numbers of connections , token ring interfaces , and fault tolerance .
+The vast majority of today 's corporate networks have become intranets that implement TCP / IP protocols and Web technologies .
+The VAX 11 / 780 had a compatibility mode in which it could run software written for DEC 's PDP - 11 minicomputer systems .
+The VAX line of computer systems was first introduced in 1977 .
+The VAX systems use the VMS ( Virtual Memory System ) operating system , a multi user , multitasking , operating system that provides virtual memory capabilities .
+The vBNS is built with MCI 's commercial ATM ( Asynchronous Transfer Mode ) service , and the goal is to create a network with data rates in the 2 - Gbit / sec range .
+The vBNS is described under " vBNS ( Very high speed Backbone Network Service ) . " .
+The vBNS network makes use of MCI 's commercial ATM ( Asynchronous Transfer Mode ) service .
+The VC leads to an ISR on the other side of the network , which connects to the destination system .
+The vendor must provide evidence that the requirements are being met . .
+The vendors listed below can provide you with additional information about test equipment .
+The Verisign site or other CA Web sites have full instructions for completing this process .
+The versions it created became known as the Berkeley Software Distributions , or BSDs .
+The vertical system is usually referred to as the backbone .
+The virtual circuit capabilities of layer 2 networks can be integrated into router - based networks such as the Internet .
+The virtual circuit is predefined and maintained by the end systems and nodes along the circuit , but the actual pathway through the packet - switched network may change due to routing around downed or busy connections .
+The virus encrypts itself with a special algorithm that changes every time an infection occurs .
+The VM makes hardware calls to the processor of the machine that it is running on .
+The VMS ( Virtual Memory System ) 32 - bit operating system was announced with the VAX line to provide a true multitasking / multi user environment .
+The voice - mail message is attached to the Internet e - mail message and forwarded to the recipient .
+The voice - mail system identifies the recipient 's Internet e - mail address from the phone number or other information and creates a digital message that can be delivered across the Internet .
+The voice calls are live , and if enough bandwidth is not available , the conversation becomes garbled .
+The voice outlet must use four - pair 100 ohm UTP cable , while the data outlet can be cabled with a choice of four - pair 100 ohm UTP cable , two - pair 150 ohm STP , or 62.5 / 125 mm fiber - optic cable , depending on requirements .
+The voltage of the line is varied between a high state and a low state .
+The VPI and VCI are identified and correspond to termination points at ATM switches .
+The W3C ( World Wide Web Consortium ) at http : / / www . w3.org is attempting to consolidate these digital signing and certificate technologies into a single framework called the Digital Signature Initiative .
+The W3C ( World Wide Web Consortium ) is attempting to integrate these schemes into its Digital Signature Initiative .
+The W3C ( World Wide Web Consortium ) is working to make SGML a Web standard .
+The W3C ( World Wide Web Consortium ) tracks these improvements and has developed many of its own as well .
+The W3C is also improving the standard .
+The W3C is an international industry consortium that was founded in 1994 to develop common protocols for the evolution of the World Wide Web .
+The W3C is working to ensure that these models are interoperable and scripting - language neutral .
+The W3C is working to make sure vendor solutions are interoperable .
+The W3C was founded in 1994 as an industry consortium to develop common protocols for the evolution of the World Wide Web .
+The W3C Web site has a wealth of information about the Internet and emerging protocols and standards .
+The W3C Web site is at http : / / www . w3.org .
+The W3C works with the global community to produce specifications and references that are vendor neutral and freely available throughout the world .
+The wait period can vary depending on whether data is being transmitted on a LAN or over a satellite link .
+The wavelength is the distance between crests in the wave .
+The waves may interfere with the proper operation of nearby devices or the proper transmission of signals in nearby cabling systems .
+The way the directory services user interface is implemented makes the system either simple and intuitive or complex .
+The way these components communicate in object environments is through ORBs ( object request brokers ) .
+The way you reference a server , its volumes , and the directories of a volume is illustrated in Figure N - 20 .
+The WBEM consortium has the goal of integrating disparate management protocols , management information , and management systems .
+The WBEM initiative is promoting new Internet standards such as HMMP ( Hypermedia Management Protocol ) that allow network management system vendors to create systems that use the same protocols and that can be accessed with the same user interface .
+The Web address is given at the end of this topic under " Information on the Internet . .
+The Web addresses for both groups are listed below under Information on the Internet . .
+The Web browser is a container that displays HTML documents , which can in turn contain links to objects such as graphic images , ActiveX components , and Java applets .
+The Web browser is seen as a universal client that provides a standard interface for accessing enterprise information .
+The Web browser is the container into which Web information is published .
+The Web browser is the most common " container " for running components .
+The Web client / server relationship is stateless , meaning that the server does not retain any information about the client , and the connection between Web browser and Web server is terminated as soon as the requested information is sent .
+The Web client and server then set up a temporary end - to - end connection at this port to exchange data .
+The Web database connectivity architecture has the form of the three - tiered model shown in Figure W - 3 .
+The Web has become a very sophisticated environment , and users are demanding access to data that is traditionally stored on back - end servers and mainframe systems .
+The Web interface is perhaps the most important new aspect in data warehousing .
+The Web is also built on a multitier model in which Web browsers are the client tier and Web servers are the middle tier , with back - end servers and databases being the tier where persistent data is stored .
+The Web page of individual departments or even users can be included within the directory tree .
+The Web provides an interesting alternative to the remote dial - up model .
+The Web server does not need to get involved in this page change .
+The Web server downloads some necessary client / server interface components .
+The Web server gets the information users need , then sends it to them using industry - standard protocols and data - formatting techniques provided by Web protocols such as HTTP ( Hypertext Transfer Protocol ) and HTML ( Hypertext Markup Language ) .
+The Web server is on the outside of the corporate firewall , where it is considered less secure and potentially open to hacker attacks .
+The Web server may interact with a back - end database server or get the information from another source .
+The Web server only gets involved when the user first contacts the Web site .
+The Web server receives requests from clients and passes those requests , usually in the form of SQL ( Structured Query Language ) requests , to a back - end server .
+The Web server then receives the response , repackages it , and sends it to the client .
+The Web server then returns the results of the queries back to the client .
+The Web server works in conjunction with NDS ( Novell Directory Services ) to help users browse for network resources and information .
+The Web server would create the dynamic document on the fly and send it to the user .
+The Web servers and / or data servers are connected to the Ethernet network .
+The Web site for DISA contains a treasure trove of information about EDI and EDI - related organizations .
+The Web site is listed under Information on the Internet , along with two other IETF security - related groups .
+The Web site provides information that helps manufacturers in their business decisions and provides educational material for anyone that wants to access it .
+The Web sites for these companies are listed below under Information on the Internet . .
+The Web sites listed at the end of this section provide additional information on Fibre Channel usage .
+The Web sites listed below provide additional information .
+The Web sites of these and other relevant vendors are provided at the end of this topic .
+The whole certification process uses known and reliable computerized security mechanisms based on public key cryptography .
+The whole process operates on SNA networks , but OSI and TCP / IP support is planned .
+The whole system can be expanded at any time by upgrading the client , adding or updating new components , or adding new data to the data - services tier .
+The wide signal requires less transmission power .
+The Windows and Macintosh environments were important in developing the concept of compound documents .
+The Windows NT Auditing system lets you track events that occur on individual servers related to security policies , system events , and application events .
+The Windows NT Directory Services domain tree could be compared to Novell 's NDS ( Novell Directory Services ) tree , except that Microsoft has retained its domain model , which was available in previous versions of Windows NT .
+The Windows NT environment provides a good example of how ACLs are implemented .
+The Windows NT operating system was designed specifically to serve the needs of network users and to provide high levels of performance and security .
+The Windows NT Server and the entire BackOffice suite are modular products .
+The Windows NT Server provides authentication services and secure data transfers , and meets C2 - level security guidelines .
+The Windows Terminal accepts user input and displays results .
+The WinSock 2 specification defines how applications can request bandwidth reservations from RSVP - enabled networks .
+The WinSock Group has added QoS to the Windows API , and X / Open is enhancing the UNIX API set .
+The WinSock Group is a loose industry coalition involved in the creation of WinSock specifications .
+The WinSock Lab is a group of vendors organized by Stardust Technologies that performs WinSock interoperability testing .
+The wire - pair and pin - wiring configuration for T568A 8 - pin jacks and connectors is pictured in Figure T - 17 and outlined here :
+The wire comes in bundles or as flat " ribbon " cables and is used to connect various peripheral devices over short distances .
+The work area wiring subsystem consists of the communication outlets , wiring , and connectors needed to connect the work area equipment ( computers , printers , and so on ) via the horizontal wiring subsystem to the telecommunication closet .
+The work is based on ISAKMP ( Internet Security Association and Key Management Protocol ) , which defines procedures and packet formats to establish , negotiate , modify , and delete security associations .
+The work is funded by the DARPA ( Defense Advanced Research Projects Agency ) .
+The work was sponsored by the AIW and submitted to the IETF , where it eventually became the DLSw specification .
+The workgroup hub may use switching and routing techniques to separate attached devices and provide internetwork capabilities .
+The working group is initially focusing on IPv4 and IPv6 , but it will eventually focus on other network layer protocols such as IPX ( Internetwork Packet Exchange ) , AppleTalk , and DECnet .
+The workings of the transport protocol and methods for information exchange are covered further under " NNTP ( Network News Transport Protocol ) . " .
+The workload is distributed evenly to available processors so that one doesnt sit idle while another is overworked with a specific task .
+The workstations that receive the transmissions are known as the multicast group .
+The World Wide Web ( or " Web ) is built on top of the Internet , which itself is made possible by the TCP / IP protocols .
+The World Wide Web Consortium 's DSig is designed to develop trust on the Internet .
+The World Wide Web is built on top of the Internet and uses the TCP / IP protocols to transport information between Web clients and Web servers .
+The World Wide Web is often referred to as simply " the Web . " .
+The write heads of the drive change the magnetic field of the material to record digital information with the assistance of a laser .
+The WWW community made its own contributions over time , and today the proxy services are well established .
+The X / Open group was founded in 1984 by Bull , Nixdorf , Philips , Siemens , and other companies to promote open UNIX standards by testing for conformity among products .
+The X terminal may be a basic terminal device or a desktop computer .
+The x values represent the normal dotted notation IP address , while port # is a value that represents a particular server .
+The X Window System , or " X " as it is sometimes called , can be thought of as a terminal for UNIX environments in one respect .
+The X.25 interface supports line speeds up to 64 Kbits / sec .
+The X.25 protocol is a CCITT ( ITU ) recommendation that defines connections of terminals and computers to packet - switching networks .
+The X.400 message structure is the same for all systems .
+The X.400 specifications are a set of email communications standards developed by the CCITT ( now called the ITU ) .
+The X.500 global naming system is integrated into DCE 's directory service .
+The ZAWS ( Zero Administration for Windows ) Initiative is a set of technologies that enable control and management of Windows - based desktops by automating tasks such as application installation and updates .
+The ZAWS initiative is designed to support " thin client , " small - footprint computers such as the NetPC ( see " NetPC " ) as well as other desktop systems .
+The Zero Administration for Windows , or ZAWS , initiative is a Microsoft scheme for managing Windows - based network clients .
+Their features include most of those described earlier , in addition to the following :
+Their proprietary nature makes it easy for the vendor to add features that will enhance the salability of the product .
+Their Web addresses are listed under " Information on the Internet " at the end of this section .
+Their Web sites are listed below .
+Then , all the users in MIS obtain the same rights to the EastDiv container .
+Then , anyone that is willing to pay for uncongested lanes can get access to the lanes .
+Then , as the technology became better understood and more popular , more advanced techniques were employed .
+Then , as you create new user accounts , you can add a user to a group .
+Then , Digital Equipment Corporation managed to put the Cray supercomputer design onto a single Alpha processor .
+Then , each processor can handle different tasks or different threads of execution for a single task .
+Then , if a logon name and password is obtained illegally by someone , they cannot use the information to log on to the network from a remote location where their activities would be unmonitored .
+Then , in 1956 , two separate ITU committees , the CCIF ( Consultative Committee for International Telephony ) and the CCIT ( Consultative Committee for International Telegraphy ) were joined to create the CCITT ( Consultative Committee for International Telephony and Telegraphy ) to more effectively manage the telephone and telegraph communications .
+Then , in 1986 , the NSF ( National Science Foundation ) established its own network , NSFnet , which eventually assumed ARPANETs role ( ARPANET was retired in 1990 ) .
+Then , in 1993 , novell purchased USL and formed the USG ( UNIX Systems Group ) to manage UnixWare .
+Then , in 1996 , it upgraded the product to NetWare 4.11 and announced Novell IntranetWare , a full - service intranet platform that implements Web technologies on top of NetWare 4.11 .
+Then , only four leased lines are required — one from each site into the local frame relay network access point .
+Then , only the workstations on that hub contend for access to the LAN segment .
+Then , the ATM connection manager converts the path into a virtual circuit .
+Then , there are negotiable parameters such as the level of acceptable cell loss and delay .
+Then all broadcasts for that VLAN go to each workstation in the table , no matter where they are attached to the network .
+Then any user or network manager can find a user by searching for the name or identifying information such as ZIP code , department name , or job function .
+Then CGI ( Common Gateway Interface ) came along .
+Then he waited for someone to enter a secure area and entered with them as they held the door .
+Then Microsoft got in on the act and made Windows NT 4.0 multi user - capable with the help of Citrix .
+Then MPP ( massively parallel processing ) systems provide better scalability .
+Then only 50 stations on each segment vie for access .
+Then they load a simple , low - level control protocol called GSMP ( General Switch Management Protocol ) .
+Then users on any system , using any Web browser , can display the information .
+Then you need another trusting entity to verify that key , and so on .
+Theoretically , you can plug any SCSI device into any SCSI controller .
+There are , of course , advantages to running IP over ATM .
+There are , of course , many other features to look for .
+There are , of course , various other techniques to improve multiplexor performance .
+There are 126 class A networks with 16 million hosts each , 16,384 class B networks with 65,536 hosts each , and over 2 million class C networks with 254 hosts each .
+There are 16,382 Class B network addresses that support 65,000 hosts per address .
+There are 17 AS / 400 models , including a portable AS / 400 and 64 - bit models based on the PowerPC processors .
+There are 24 fractional T1 lines in a full T1 line and each has a bandwidth of 64 Kbits / sec , which is just enough bandwidth to handle one digitized voice call .
+There are 28 T1 channels in a T3 line .
+There are a number of adaptations to the IEEE 802.3 Ethernet standard , including adaptations with data rates of 10 Mbits / sec and 100 Mbits / sec over coaxial cable , twisted - pair cable , and fiber - optic cable .
+There are a number of applications for using satellites in data communications , but time delays and low transmission rates must be considered .
+There are a number of connection methods for remote bridges .
+There are a number of developments underway to add prioritization and QoS to LANs and the Internet .
+There are a number of factors that limit the data rate of a transmission system .
+There are a number of important features to look for in such products , as follows .
+There are a number of initiatives and standards for mapping legacy LANs onto ATM .
+There are a number of issues related to reserving bandwidth .
+There are a number of issues to manage , including a requirement for lots of storage and network bandwidth .
+There are a number of limitations in the local loop ,including a 4,000 Hz bandwidth restriction that limits data throughput to 33.3 Kbits / sec ( or 56 - Kbit / sec downloads with new modem technologies from Rockwell and U . S . Robotics ) 
+There are a number of major network management applications on the market for managing enterprise networks .
+There are a number of other parameters that can be negotiated to improve the efficiency of transmissions .
+There are a number of spread spectrum techniques , but the two methods described next are the most often used .
+There are a number of technologies available for connecting devices together in networks or in a simple data - sharing arrangement .
+There are a number of virus protection programs for desktop computers and for networks .
+There are a number of ways of connecting ATM networks , as illustrated in Figure A15 .
+There are a number of ways to create ELANs or VLANs , as discussed under " LANE ( LAN Emulation ) " and " VLAN ( Virtual LAN ) . " .
+There are a number of ways to handle inbound faxes .
+There are a number of ways to protect data as summarized here :
+There are a variety of other services that network managers can choose for wide area connections or other types of network activity .
+There are a variety of transmission media including copper cable , fiber - optic cable , and unguided wireless techniques .
+There are actually seven types of DSL service , ranging in speeds from 16 Kbits / sec to 52 Mbits / sec .
+There are actually seven types of DSL service , ranging in speeds from 16 Kbits / sec to 52Mbits / sec .
+There are advantages to both centralized management and distributed management .
+There are advantages to running voice over the network infrastructure .
+There are advantages to stateless operation .
+There are also a number of electronic business service providers that offer value - added services such as business yellow pages , vendor databases , parts listings , catalog services , and technical information services .
+There are also issues about where remote users write data ( in the replicated database or the home database ) .
+There are also many vendors products that simplify the whole process .
+There are also parameters related to the following :
+There are also protocol gateways such as AppleTalk - to - TCP / IP , IPX - to - TCP / IP , and others .
+There are also security protocols for exchanging secure electronic mail , including PGP ( Pretty Good Privacy ) and S / MIME ( Secure Multipurpose Internet Mail Extension ) .
+There are also security services and distributed object services .
+There are also share permissions , which give users the ability to access shared files over the network .
+There are also some special techniques , called differential cryptanalysis , in which an interactive and iterative process works through many rounds and uses the results of previous rounds to break ciphertext .
+There are also stream ciphers that work on streams of raw bits and are much faster .
+There are also tunnels that interconnect countries , including tunnels that span the Atlantic and Pacific Oceans .
+There are also Web sites that provide tutorials , they are listed at the end of this topic under " Information on the Internet . " .
+There are an incredible number of IETF RFCs ( requests for comment ) related to network management , too many to list here .
+There are an incredible number of resources on the Internet to help you learn more about firewalls and research available products .
+There are analog transmission systems and digital transmission systems .
+There are cards that display information , cards that prompt for input , and cards that display lists of options for the user to select .
+There are channel - attached cluster controllers and link - attached cluster controllers :
+There are circuit - switching services and packet - switching services .
+There are client / server relationships and server - server relationships .
+There are competing methods that boost signals on the existing local loop , as described under " DSL ( Digital Subscriber Line ) , " and there are new products for multiplexing analog modems , as described under " Inverse Multiplexing . " .
+There are different classes of IP address .
+There are different levels of interoperability .
+There are distributed backbones which tie together distinct LANs and there are collapsed backbones , which exist as wiring hubs and switches .
+There are diverse collections of back - end database systems and methods for accessing those systems .
+There are entire suites of products that provide intranet services on network - connected servers .
+There are few if any companies that have homogeneous networks .
+There are four methods for moving information from the network interface card into the computer once it has been received .
+There are four requirements ( collectively called ACID ) for transaction processing in distributed environments :
+There are gateway services that perform translations .
+There are generally three types of bridges : local , remote link , and translation .
+There are generic and vendor - specific MIB objects .
+There are groups of objects , such as " system , " " interface , " " IP , " and " TCP . " System is a MIB group that contains objects that hold variables such as a devices name , its location , and other descriptive information .
+There are high - orbit geosynchronous satellites , LEO ( low earth orbit ) satellites , and satellites in a variety of mid - orbits .
+There are issues related to building intranets using TCP / IP and Web protocols , as well as WAN , wiring , and cabling issues .
+There are limitations in this design , as with any bridging solution .
+There are limitations to the number of repeaters that can be used , due to propagation delays .
+There are local , regional , national , and global ISPs .
+There are local file systems and shared or network file systems .
+There are local network topologies and enterprise network , or WAN ( wide area network ) , topologies .
+There are low - end and high - end network analyzers .
+There are many additional features of NetWare , too numerous to mention here .
+There are many advantages to using a carrier - based VPN .
+There are many benefits to digital systems , and a number of standards have been introduced .
+There are many different e - mail systems in use on networks , mainframe systems , and public networks .
+There are many different types of objects that can be defined in NDS .
+There are many good books available that fully explain HTML , such as Beyond HTML by Richard Karpinski ( Berkeley , CA : Osborne / McGraw - Hill , 1996 ) .
+There are many levels of service , and these are discussed further under " DSL ( Digital Subscriber Line ) " .
+There are many national ISPs , four NAPs , and many MAEs .
+There are many other changes in IPv6 when compared to IPv4 .
+There are many other communication parameters that TCP must deal with in order to provide reliable services .
+There are many other topics in this book that provide useful information for network designers and administrators , some of which are listed here :
+There are many problems with tape backup .
+There are many stories of misguided attempts to build data warehouses that end up providing inaccurate or inadequate information .
+There are many types of middleware to fit different environments .
+There are many Web sites and white papers available on the topic from individuals and vendors .
+There are many works in progress that are meant to set security standards for electronic commerce .
+There are millions of addresses on the Internet ! .
+There are multiple memory spaces instead of one contiguous memory space , and programs must be divided into segments that run in each node .
+There are one - way and two - way trust relationships .
+There are other access methods such as DQDB ( Distributed Queue Dual Bus ) used with metropolitan area networks and CDPD ( Cellular Digital Packet Data ) used for wireless communications .
+There are other electronic mail security protocols including PGP ( Pretty Good Privacy ) and PEM ( Privacy - Enhanced Mail ) , which are discussed elsewhere in this book .
+There are other issues related to VLANs that must be considered .
+There are other methods of compression , such as the MNP ( Microcom Networking Protocol ) Class 5 and Class 7 series , but the V.42 standard has taken off in recent years as the compression method used by most modem vendors .
+There are other reasons why authentication is important , including a need to ensure that a message has not been altered in transit and that a message is indeed from the person who claims to have sent it .
+There are over 250 million class D multicast addresses , and thus the potential for that many " channels " of multicast information .
+There are performance advantages to stateless operations , but AFS retains some of these advantages by making sure that it does not become flooded with callback promises .
+There are permanent and switched virtual circuits , as described next :
+There are potential problems with translation , as discussed earlier , but it does allow nodes on the Ethernet network to communicate with nodes on the FDDI network .
+There are proprietary network architectures such as IBM 's SNA ( Systems Network Architecture ) and DEC 's DNA ( Digital Network Architecture ) and there are open architectures like the OSI ( Open Systems Interconnection ) model defined by the International Organization for Standardization .
+There are PVCs ( permanent virtual circuits ) and SVCs ( switched virtual circuits ) .
+There are request lines and connect lines used to establish connections , and parity - checking lines to ensure that data is transmitted correctly .
+There are seven major content types and a number of subtypes .
+There are several advantages to this scenario :
+There are several connection methods , including point - to - point , multipoint , and loop .
+There are several different types of mirroring , as described here and pictured in Figure M - 7 .
+There are several Internet sites that provide maps and 3D visualizations of the MBone .
+There are several models for creating distributed applications and providing a way for client , server , and components to communicate :
+There are several motivations for doing this :
+There are several NC and NetPC management initiatives and product strategies , as outlined here :
+There are several other features of the SMTP protocol .
+There are several possible client / server configurations .
+There are several scenarios :
+There are several techniques for wireless data transmission , as described here :
+There are several types of caches and applications that use caches :
+There are several types of firewall devices , as discussed under Firewall . .
+There are several types of hubs , including simple repeater hubs used with traditional twisted - pair Ethernet networks , workgroup hubs , and enterprise hubs .
+There are several types of LECs .
+There are some advantages in this scheme , including always - on service and high - throughput rates .
+There are some advantages to using ISDN .
+There are some incompatibilities between SDLC and HDLC , depending on the vendor .
+There are some restrictions in the local loop .
+There are some unique advantages to connecting remote offices over the Internet .
+There are specific messages for controlling devices and messages for collecting information about the backup process , such as log information .
+There are standard permissions and individual permissions .
+There are stream and datagram sockets .
+There are things to consider when designing a directory tree :
+There are thousands of different newsgroups related to computers , social issues , science , the humanities , recreation , and other topics .
+There are three activities related to newsgroups :
+There are three categories of mobile users :
+There are three different ISDN implementations , as described here and pictured in Figure I - 18 :
+There are three main components in the architecture :
+There are three network hubs , located in Chicago , Los Angeles , and Lexington .
+There are three possible connection methods , as shown in Figure H - 1 .
+There are three possible connection types with Fibre Channel :
+There are three TDMA standards , described here for comparative reference :
+There are three traditional modulation techniques , as described next and pictured in Figure M - 11 .
+There are three types of APIs for communications in a network or Internet environment .
+There are three types of backup : normal , incremental , and differential .
+There are three types of devices that can attach to the ring :
+There are three types of objects :
+There are three types of Web documents :
+There are three ways to identify a host computer system in a TCP / IP network environment : the physical address , the IP host address , or the domain name .
+There are three ways to split the address — after the first byte , the second byte , or the third byte — as pictured in Figure I - 14 , forming class A , class B , and class C addresses .
+There are two approaches to implementing EDI .
+There are two aspects of file - system security for computers connected to networks .
+There are two buses that transmit data in opposite directions .
+There are two categories of protocols to handle traffic within these domains and outside the domains .
+There are two conflicting modulation techniques , so users must make sure that the modems they purchase are compatible with their carrier .
+There are two definitions of distributed processing , and both are related .
+There are two dial - up connection techniques , as described here and pictured in Figure R - 2 :
+There are two forms of the ATM cell header .
+There are two free LDAP server implementations listed at the end of this section under " Information on the Internet . " .
+There are two levels of operation in the frame - relay network .
+There are two mechanisms at the core of the project :
+There are two methods for avoiding these so - called collisions , listed next .
+There are two methods for doing this :
+There are two methods for implementing an operating system on top of a multiprocessing system :
+There are two methods for maintaining synchronization among the versions :
+There are two methods that help overcome this problem .
+There are two optical disk technologies : rewritable and WORM ( write once , read many ) , as discussed in the following sections .
+There are two possible approaches to extending RDBMS systems to support objects :
+There are two possible connection methods .
+There are two possible scenarios :
+There are two primary modulation techniques : amplitude modulation , which varies the amplitude ( height ) of the carrier signal ; and frequency modulation , which modulates the frequency of the carrier .
+There are two primary multiplexing techniques , as pictured in Figure M - 14 .
+There are two primary videoconferencing standards :
+There are two schemes in use :
+There are two solutions to this problem :
+There are two time synchronization schemes .
+There are two types of auditing that you can track with the auditing tools included in Windows NT .
+There are two types of connections in the Internet VPN scenario , as pictured in Figure V - 8 and discussed here :
+There are two types of hubs in the 100Base - TX scheme : class I and class II .
+There are two types of IPCs .
+There are two types of media for data transmission :
+There are two types of modems :
+There are two types of network addresses , depending on whether you are talking about a LAN or an interconnected set of LANs .
+There are two types of proxy servers : circuit - level gateways and application - level gateways , as explained here .
+There are various connectors , such as the BNC Tconnector , the BNC barrel connector , and the BNC terminator , as pictured in Figure B9 .
+There are various DS levels , starting with DS - 0 , a 64 - Kbit / sec line that accommodates one voice telephone call ( after analog - to - digital conversion ) .
+There are various encoding rules built into the presentation layer protocols that handle all the data translations .
+There are various levels of authentication , depending on how involved you want to get in validating a user .
+There can be a class such as " person " and subclasses of that class such as " doctor , " " lawyer , " and " accountant . " .
+There has been little incentive to upgrade the local loop until recently .
+There has been some hesitation by one side to jump into the market of the other .
+There is a growing trend for organizations to connect their remote sites via links created over the Internet .
+There is a lot of apprehension about lack of security on the Internet .
+There is a lot of interest in compression as more organizations have a need to transmit voice , video , and data across in - house networks and the Internet .
+There is a maximum burst rate , called the CBIR ( committed burst information rate ) .
+There is a maximum data rate that the circuit should carry , an average rate over a period of time , and a minimum rate .
+There is a negotiation layer on top of SET and other payment protocols .
+There is a root directory and branching subdirectories , and each subdirectory can have its own set of subdirectories .
+There is a serial connector for a computer terminal or management station .
+There is a strong movement to integrate voice and data over the same network , both private internal networks and the Internet .
+There is also a broadcast address that is used to address frames to every node on the network .
+There is also a factor that determines the precision of the captured signal — the more bits used to record the value of the sampled signal , the higher its resolution and the better it sounds when played back .
+There is also an ODMA Extension for Workflow .
+There is also no login procedure .
+There is also no need to assign addresses to devices .
+There is also no switching , which means that the line is a direct connection into the carrier 's frame relay , ATM , or Internet - connect system .
+There is an element of trust in this arrangement .
+There is an opening tag for a format or property change and sometimes a closing tag , which has a slash / in it .
+There is another important encryption scheme called the one - way function .
+There is considerable discussion about Ipsilon 's IP Switching technique .
+There is currently a lot of development work in the area of running multiple protocols over switched networks .
+There is doubt that APPN itself will survive the TCP / IP , Internet , and Web technology tidal wave .
+There is even parity ( number of 1s must be even ) , odd parity ( number of 1s must be odd ) , space parity ( parity bit is always 0 ) , and mark parity ( parity bit is always 1 ) .
+There is little need for the network to do error checking because few errors occur , so error checking has been shifted to end systems , which usually have the capacity to handle the few errors that do occur .
+There is little need to acknowledge every packet , so acknowledgments are used for groups of packets or not at all .
+There is little room here to predict what the telecommunication system will be like in a few years .
+There is middleware that hides the differences in databases and middleware that provides transaction processing to ensure that multiple servers coordinate their activities .
+There is no connection setup phase in this scheme .
+There is no dial - up .
+There is no dynamic allocation , so this technique is best suited for videoconferencing and not the dynamic requirements of LANs .
+There is no limit on the number of telecommunication closets allowed .
+There is no point buying the best system if the network and telecommunication link cannot deliver high - quality video due to bandwidth limitations .
+There is no requirement that the ISP establish peering agreements nor do the NAP and MAE authorities get involved in these agreements .
+There is no setup time involved .
+There is no special encoding .
+There is one other use for this type of configuration .
+There is one outstanding difference between the BRI / PRI and B - ISDN .
+There is only one problem .
+There is some benefit in knowing what the smallest MTU is along an internetwork path .
+There is some inefficiency in this configuration .
+There is usually a need to maintain backward compatibility with or connections to legacy systems .
+There may be a number of intermediate systems that a communication message has to cross between one end system and another .
+There may be a variety of back - end data systems and a variety of client systems in use .
+There may be many different key exchange protocols , each with different security properties .
+There may be many individual DFS volumes available on a network , and each will have its own distinct name .
+There may be several destinations .
+There must be some method for handling socalled " collisions . " .
+Therefore , a number of techniques , including encoding and compression ,have been developed to squeeze as much digital data into the 300 to 3,300 Hz range as possible 
+Therefore , an IASG is a virtual subnetwork in the IP environment .
+Therefore , an IP address consists of a two - part number that identifies a network and a host on that network .
+Therefore , by running IP over ATM , you can access its QoS features with compatible applications .
+Therefore , clients must periodically check with the server to see if other clients have changed the file they are caching .
+Therefore , connection - oriented services are now primarily handled in the transport layer .
+Therefore , each subnetwork has its own MAC ( medium access control ) methods for putting information into frames and addressing those frames for transmission to other nodes on the same network .
+Therefore , every subnetwork and every host on it can be identified .
+Therefore , ip datagrams are fragmented and encapsulated into frames as shown in Figure F - 17 .
+Therefore , it defines the protocols that directly interact with the physical components of the link , such as the network adapters and cable .
+Therefore , it must be sent to router A / B to reach that network .
+Therefore , many vendors and standards committees have been working to extend the Web for safe and secure business transactions .
+Therefore , more advanced network operating systems like Windows NT and NetWare provide special attributes to access files .
+Therefore , more than one DHCP server might attempt to lease the client an IP address by sending it offers .
+Therefore , networks should be assembled within the standard specifications to avoid problems .
+Therefore , only the TGS can decrypt the TGT after it is sent from the AS .
+Therefore , packets that would normally be routed hop by hop through a network can instead be switched at high speed .
+Therefore , some vendors have come up with their own redundancy schemes .
+Therefore , special name resolution software is required on workstations and / or servers to translate between the human - readable name and the network address , which may be in alphanumeric form .
+Therefore , the ATM switch has more up - front control for preventing congestion .
+Therefore , the network itself is often used to extend the reach of the network administrator by using remote monitoring and control tools .
+Therefore , the object 's interface must be standardized so different objects can be combined and can communicate .
+Therefore , the way that information is stored in one database is largely inconsistent with the way related information is stored in other databases .
+Therefore , they are collectively called 56K modems for simplicity .
+Therefore , this section provides links to sites on the Web that have hotlinks to standards groups , organizations , and associations .
+Therefore , wall plates will normally have two jacks — one for data and one for voice — although this arrangement is flexible .
+Therefore , when you connect workstations to an IEEE network , each workstation has a unique MAC address .
+These accounts may have the following restrictions ( from NetWare ) :
+These activities are performed by internal malicious users and the underground community of pranksters , hardened criminals , industrial spies , and international terrorists who want to break into your systems for profit and pleasure .
+These add - ons do most of the processing based on a relatively small set of commands or data transferred from the Web server , thus reducing excessive dialog between the Web client and server .
+These addresses are either manually configured or discovered using an intradomain and interdomain routing protocol .
+These addressing schemes identify the area or domain where a user or resource exists and the specific node within the area or domain .
+These agents have portable phones .
+These analog lines provide the same data rates as dial - up lines , except that customers contract with the carrier to keep the lines available for immediate use when necessary .
+These APIs are based on NeXT Software Inc . 's OPENSTEP development environment .
+These applications , described next , take full advantage of the security features of Windows NT , including directory services , user account logon , access control lists , auditing , and more .
+These applications are based entirely on open Internet standards like HTML ( Hypertext Markup Language ) , Java , and JavaScript .
+These applications are discussed here .
+These applications only need to make calls to the Java VM , which then converts the application calls to calls that are specific to the platform for which the VM was designed .
+These applications provide a place to post messages that other users see and can respond to , either in real time or over a period of time .
+These are called hops , and the fewer hops the better .
+These are discussed under " IBM Host Connectivity . .
+These are discussed under " Transmission Media , Methods , and Equipment . " .
+These are discussed under IBM Host Connectivity . .
+These are discussed under the main headings referenced in the " Related Entries " section at the end of this topic .
+These are issues that vendors and consortiums are working on .
+These are networked operating systems for desktop computers and servers , respectively .
+These are outlined under " Circuit - Switching Services " and " Communication Services . .
+These are problems that must be dealt with .
+These are some of the key features of workflow software :
+These are the conversation , rpc remote procedure call , and message APIs .
+These are the explosive growth of Web protocols , the use of switched networks that provide dedicated Ethernet , and the use of high - speed backbones ( ATM or Gigabit Ethernet ) .
+These are the files that will be available to network users , either on intranets or the Internet .
+These are the systems that keep a business running .
+These basically act like hardwired dedicated circuits between caller and callee .
+These bits provide enough addition information to determine what a corrupted block of data should really be ( as in FEC ) or to determine if the block is corrupted ( as in ARQ ) .
+These blocks are then divided into seven 60 - bit microblocks , which are then transmitted over the network .
+These books and their authors are the usual sources of reference for firewalls and Internet security .
+These cable types are described here :
+These calls perform standard CPU operations just like any other program that is designed for the platform it is running on .
+These can be dial - up or dedicated lines with a data capacity to meet the needs of the site .
+These channels can support asynchronous or isochronous traffic .
+These characters are used to synchronize a block of information .
+These circuits are extremely fast compared to traditional routers which use memory to store and forward frames .
+These circuits are usually local leased lines or circuit - switched connections that funnel packets from a customer 's site into the packet - switched network .
+These circuits operate at from 6.144 Mbits / sec each to a maximum of 99.072 Mbits / sec .
+These communication techniques are briefly outlined in the following subsections with references to appropriate sections in this book that provide more detail .
+These components access information that is broadcast from the transmitter .
+These components take full advantage of the performance - enhancing features of the Windows NT Server as well as the administrative and client support features .
+These connections are like circuits , and multiple high - bandwidth circuits can exist simultaneously .
+These controls allow file owners to grant specific users different levels of access such as read , write , or execute .
+These controls take the following forms :
+These costs are assigned by the network administrator as a value that can show preference for one router over another .
+These databases are called data sources .
+These devices provide a way to link cluster controllers at remote sites to an IBM host .
+These different types of switches can be connected together to create hierarchical network schemes that utilize structured cabling designs , as discussed under TIA / EIA Structured Cabling Standards .
+These directories range from address books and e - mail information to network operating systems ' user account databases .
+These discussions have assumed that the client is software - compatible with the server , but this is not always the case .
+These documents should not be accessible to anyone else ( since the site is connected to the Internet , anyone could attempt to access them ) .
+These early systems did not benefit from the constant updating of data that can take place in a data warehouse and were limited in use to only a few decision makers .
+These enhancements are called Wide SCSI .
+These error detection and recovery services are instead handled by end systems at higher layers in the protocol stack .
+These extensions are related to bandwidth allocation , compression , and other techniques for extending the functionality of PPP .
+These facilities are made available through a secure means of communication that ensures both integrity and privacy .
+These features are described under " Transaction Processing . " .
+These features are good for traffic that is sent in bursts , rather than long steady traffic patterns .
+These features do not use acknowledgments , which reduces network traffic but requires that higher - layer protocols check for packet delivery .
+These features require that a connection be established before data can be transferred .
+These features use acknowledgments so higher - layer protocols are guaranteed that data will be delivered to the destination .
+These files are stored on Web servers .
+These folders can be replicated to other locations , placing information closer to users who need it and reducing network traffic .
+These front - end tools provide sophisticated methods for displaying and analyzing data .
+These groups are outlined here and discussed further in the following sections :
+These hardware components and the software that runs in them are called and they are interconnected with nodes , data links .
+These highend modular access servers support hundreds of modems and are built with multibus backplanes to provide high performance .
+These highlevel interfaces provide names for software entities that reside in ENs and NNs on the network .
+These hosts include the IBM model 3090 , ibm model 4381 , or IBM model 9370 .
+These hubs are pictured in Figure H - 8 and described here :
+These hubs serve as the point of access to ARDIS for customer host applications .
+These hyperlinks reference other information .
+These include messagingenabled workflow applications that streamline communications , reduce cycle time for business processes , and improve productivity .
+These include worms , Trojan horses , and logic bombs .
+These interfaces allow data sources to share their data through common interfaces without having to implement database functionality not native to the data store .
+These interfaces allow data sources to share their data through common interfaces without having to implement database functionality not native to the data store .
+These interfaces allow data sources to share their data through common interfaces without having to implement database functionality that is not native to the data store .
+These interfaces are described under " Serial Communication and Interfaces . " .
+These interfaces will be used not just by data - consuming applications but also by database providers .
+These Internet - based VPNs ( virtual private networks ) require security and , in some cases , special relationships with ISPs that can reserve bandwidth and stable site - to - site connections .
+These issues are covered further under IBM Host Connectivity . .
+These key schemes are covered in more detail under Private - Key Cryptography and Public - Key Cryptography . .
+These keys can then be used to encrypt and digitally sign messages as discussed under " Digital Signatures " and " Public - Key Cryptography . " .
+These languages consisted of special control characters to indicate the beginning and end of a particular format .
+These larger systems can also be network nodes , as discussed next .
+These lengths must be strictly adhered to if Fast enhancements are used to boost the transfer rate .
+These lines are considered private because the customer maintains all the endpoint equipment and gets full use of the line to deliver any type of information ( data / voice / video ) .
+These lines are suitable for handling constant traffic between two sites .
+These links are handled by data link protocols associated with the underlying networks .
+These low - cost videoconferencing systems operate over standard telephone lines at 28.8 to 33.6 Kbits / sec .
+These mainframes usually run the MVS ( Multiple Virtual Storage ) operating system , running as either XA ( Extended Architecture ) or ESA ( Enterprise System Architecture ) .
+These may be connected to an equipment room on the same floor .
+These messages are exchanged over a bidirectional TCP / IP connection .
+These methods are called signature scanning .
+These methods may be implemented in the data link layers of the protocol stack and in the transport layers of the protocol stack , depending on the physical connections in place and the services required by the systems that are communicating .
+These names appear in the Macintosh graphic interface .
+These network - aware operating systems require a higher level of security since unknown users may access the files over the network .
+These network file systems are covered under their own headings .
+These networks frame data for transport over a shared medium using connectionless methods .
+These objects are either embedded or linked .
+These objects may form the core structure of an organization - wide data processing system .
+These options are discussed further under " Telecommunications and Telephone Systems " and " WAN ( Wide Area Network ) . " .
+These organizations and the standards process are covered under " Internet Organizations and Committees . .
+These overhead components relate to SONET 's physical layer architecture , as pictured in Figure S - 11 .
+These packages are listed later .
+These paths may not be the traditional " shortest path , " but paths that meet the class and quality of service requested by the user .
+These products are built upon ope Internet standards .
+These products are called " platforms " because of their extensive features and ability to manage entire enterprise networks .
+These products are described below as examples of the type of collaborative applications available in the intranet / Internet environment .
+These protocols are also covered elsewhere in this book .
+These protocols are designed to operate in layer 3 ( the network layer ) of the protocol stack and encrypt all data that crosses the link .
+These protocols are discussed further under Virtual Dial - up Services .
+These protocols are often supported by routers and other types of network connection devices available from a variety of network vendors .
+These protocols let routers exchange information about the network topology , which may change often as devices and links go down .
+These protocols only need to bind with the NDIS interface to work with any network adapter .
+These provide error - recovery and retransmission mechanisms to ensure that data is delivered to the destination .
+These providers interconnected at a series of NAPs ( network access points ) .
+These RF transmissions take place between a transmitter and a receiver within a single room or across town .
+These routers use new hardware - based circuitry implemented in ASICs ( application - specific integrated circuits ) that can perform routing at multigigabit speeds .
+These same standards are used in Microsoft 'sNetMeeting videoconferencing software .
+These self - contained programs follow object - oriented program design methods .
+These separate power sources might be in separate buildings or in a multistory office building that has separate power transformers on every floor or every other floor .
+These servers are stripped down and do not require the overhead typically required by a full X.500 service .
+These servers can coordinate with one another to provide data updates and multiprocessing for back - end tasks .
+These services allow users or their applications to request priority on the network .
+These services are discussed elsewhere in this book .
+These services are discussed further under " Circuit - Switching Services , " " Communication Services , " and " WAN ( Wide Area Network ) . " .
+These services are grouped together because they provide similar end results , which are any - to - any connections over shared mesh networks that allow variable data rates .
+These services are in the network layer of the protocol stack .
+These services are provided by the following features : n IP Precedence : This is used to partition traffic into up to six classes of service .
+These services let applications locate users and resources without the need to know physical location information .
+These services offer three important features :
+These services will ensure that a packet of information reaches its destination when traveling across multiple point - to - point links , i . e . , a set of interconnected networks joined by routers .
+These sites " reflect one another " so that similar users can obtain information from the DNS server closest to them .
+These sites are called anonymous FTP sites .
+These specifications are being submitted to the ITU ( International Telecommunication Union ) .
+These standards define protocols for transporting , controlling , and displaying multimedia conferencing information .
+These standards provide a wiring structure that building designers can use to facilitate high - speed data communication equipment without the need to know in advance what that equipment will be .
+These statements are called assertions .
+These subnetworks are connected to backbone networks via routers .
+These switches are connected locally and communicate with one another using a vendor - specific NNI ( Network - to - Network Interface ) .
+These systems , usually called mrouters , are typically workstations that run an operating system that supports IP multicast routing software .
+These systems are called object - relational databases or , more recently , universal databases .
+These systems are designed to work with most underlying networks .
+These systems are discussed further under Storage Management Systems .
+These systems are often referred to as executive management systems .
+These systems gather up and display useful information about the condition of networks and provide statistical information that can help you justify your management techniques and requirements for new equipment .
+These systems include IBM PROFS ( Professional Office System ) and SNADS ( SNA Distributed Services ) , which are used in the IBM mainframe environment .
+These systems perform packetswitching and provide the best service for mobile computer users and users of other digital electronic devices .
+These systems run network operating systems such as Novell NetWare , Windows NT , or a version of the UNIX operating system .
+These tapes are stored offsite .
+These techniques are covered further under " Virtual Dial - up Services " and " VPN ( Virtual Private Network ) . .
+These techniques are discussed further under " Error Detection and Correction . " .
+These techniques are discussed under " MAC ( Medium Access Control ) . " .
+These techniques are often called layer 3 switching , multilayer switching , shortcut routing , or high - speed routing .
+These techniques are possible with digital signatures and public - key cryptography .
+These three groups may be grouped together to form a level - 2 hierarchy ( group ABC ) that exchanges information with other level - 2 groups .
+These topics are explored further under a number of topics in this book , including IP over ATM and IP Switching . .
+These two approaches are pictured in Figure B2 .
+These two areas are slightly different , but are merging as organizations install high - speed networks that can carry both voice and data .
+These two strategies are pictured in Figure D - 19 .
+These valuable assets must be managed and protected .
+These vendors had already introduced incompatible code - signing schemes .
+These vendors have manufactured proprietary products with advanced features , such as support for ISDN and the ability to aggregate ISDN lines when more bandwidth is needed for videoconferencing or other requirements .
+These viruses must be detected while they are in memory .
+They " trust " the credentials issued by an AS for a particular client .
+They acknowledge that they are ready to write the transaction .
+They allow a computer to manipulate telephone devices that are connected to telephone lines .
+They also allow users to access their mailbox and retrieve messages .
+They also improve traffic flow and may help avoid congestion .
+They also may provide links between a company 's internal network and an ISP or to a public packet .
+They also perform message routing , network management , and accounting / billing functions .
+They are also important in verifying electronic mail messages from other users in the organization , and they provide a way to verify document flows in groupware and business - related workflow software .
+They are also more secure than using open networks like the Internet for wide area connections .
+They are also more secure than using open networks like the Internet for wide area connections .
+They are also used at Web sites to provide information for Web users that is safe from corruption ( i . e . , hackers cannot destroy data on CD - ROMs ) .
+They are also used for transmitting computer data .
+They are boxes built on a chassis that typically includes redundant power supplies and a modular plugin board called the backplane .
+They are considered a de facto industry standard , and many vendors have licensed the protocols for use in their modems .
+They are designed to deliver delay - sensitive real - time data such as live audio and video from end station to end station across the Internet or an intranet .
+They are designed to support object transactions over in - house or Internet networks and provide connectivity to legacy systems .
+They are designed with the same specifications as the larger ATM , but without some features , such as the ability to check your account balance .
+They are downloaded and held in the Web server 's cache for a while .
+They are entire data centers that can be brought online when the primary data center goes offline in the event of a major disaster .
+They are especially skilled at break - ins .
+They are good for long , steady transmissions as opposed to short bursts of traffic .
+They are leasing modems as part of the service , although modems are also available in the $ 500 to $ 1,000 range .
+They are like boxes with internal code or data that perform some action when the external interface is manipulated .
+They are listed here as a representative sample of the cable types available from various manufacturers .
+They are listed under " Information on the Internet , " at the end of this section .
+They are logical areas that primarily exist to make access to resources easier for users .
+They are not voice signals .
+They are public organizations such as the U . S . Postal Service that validate the credentials of a person and then bind that person 's public key and credentials into an electronic package called a digital certificate .
+They are similar to Web search engines except that they are designed to find information specific to a user 's request and deliver it in a form that is similar to a newspaper .
+They are synchronous in that the requesting application waits for a response from the server .
+They are typically colocated with their antennae on the tops of multistory buildings or on towers .
+They are typically designed for departmental use as servers or as computers that run specific vertical applications .
+They are typically listed by number , such as RFC 1771 , or name , such as Border Gateway Protocol 4 ( BGP4 ) .
+They are unidirectional in that one pipe is used to read and another is used to write information .
+They are used for large data warehousing systems and to run complex tasks such as weather forecasting .
+They are used to connect similar and heterogeneous network segments into internetworks , as pictured in Figure R - 7 .
+They are useful for occasional file transfers , e - mail transmissions , anad backup links .
+They are usually assigned by network administrators , supervisors , or department managers , depending on the management structure .
+They basically lease high - bandwidth lines that connect into the Internet , then sublease the bandwidth to Internet users and Web sites .
+They call the agents on a continuous basis to collect the information that agents have obtained and enter it in a computer for future analysis .
+They can , for example , be copied to another system that is accessible only by administrators or an auditor .
+They can also receive software and automated updates from servers .
+They can also schedule automatic dial - up sessions to update their desktop .
+They can also set custom rights as appropriate .
+They can also share information with users in other cells , depending on access rights granted by the authorities in those cells .
+They can build two networks or look for a solution that takes advantage of the internetworking features of TCP / IP to transport SNA traffic throughout the enterprise .
+They can carry tapes offsite , and they have the rights / permissions to access all files on systems , giving them the opportunity to steal , corrupt , alter , or use the data for their own benefit .
+They can disconnect themselves from the host adapter to process tasks on their own , thus freeing up the bus for other transmissions .
+They can display images , sounds , and other multimedia objects .
+They can handle multiple queries from multiple users and access vast quantities of data while doing so .
+They can often be removed by simply resetting the computer .
+They can only be used if the frame structures , formats , and addressing schemes are the same between linked networks .
+They can share memory spaces , synchronize tasks , and send messages to one another .
+They can then choose a device to manage and view information that has been collected about that device .
+They cannot be used to send frames to computers on other networks that are interconnected by routers .
+They choose an encryption method that will make the messages unreadable to any person who happens to capture the transmissions .
+They communicate with other users via electronic mail and work in collaborative groups where they share schedules and other information .
+They communicate with peer diplomats in other embassies .
+They consist of software programs that run in portable computers .
+They contain broadcasts within their boundaries and add security .
+They download to a Web browser and either run as separate programs or attach themselves to existing components to enhance the features of those components .
+They ensure that only WAN traffic is delivered across WAN connections .
+They eventually combined their work , and in 1986 the ISO ( International Organization for Standardization ) introduced it as SGML .
+They follow the virtual circuit 's path through the network .
+They formed a group called Sprint Spectrum , with the goal of developing a future wireless telecommunication system .
+They forward packets to the ATM network at layer 2 or layer 3 and are thus multilayer switching devices .
+They fully understand the protocols of the applications that are allowed to interoperate through the gateway and fully manage both inbound and outbound traffic at a level that is not possible with screening routers .
+They gave him a spare office that had a live network connection .
+They grew from earlier point - to - point connections where a single wire connected two systems .
+They have formed CableLabs ( Cable Television Laboratories ) , an industry consortium composed of cable operators such as Comcast Cable Communications , Continental Cablevision , Cox Communications , Rogers Cablesystems , Tele - Communications , and Time Warner Cable , among others .
+They hide the differences between access languages and database APIs .
+They include bus widths of 16 bits ( 2 bytes ) or 32 bits ( 4 bytes ) , allowing higher data transfer rates and addressing of up to 16 devices instead of the original 8 .
+They include distributed file system and diskless workstation support .
+They include RPCs ( remote procedure calls ) , directory services , time services , security services , and threads services .
+They incorporate a 40W transmitter and operate in the 800 MHz band of frequencies .
+They listen to all traffic on a network , not just traffic that has been addressed to them .
+They map network layer addresses to ATM addresses and provide information that is used to establish a virtual circuit between two end systems .
+They may also be used for other lines of defense inside the network , as you 'll see .
+They may also perform activities that go undetected , such as changing critical data values or copying proprietary information and selling it to competitors .
+They may also use SS7 signaling to query a database for information about how to route a call .
+They may be grouped together at a socalled server farm .
+They may be ISDN lines or high - capacity T - 1 ( 1.544 - Mbit / sec ) lines .
+They may even be implemented as software - only products that run in network - connected portable computers .
+They may provide hierarchical storage management functions as well .
+They may switch those roles at any time .
+They merge traditional programming languages and document processing ( markup ) languages , making it much easier to develop applications with custom user interfaces .
+They must back off and try again later , which reduces performance , especially as the number of workstations attached to a network segment increases .
+They often appear as subdirectories of the home directory but in fact may be directories on entirely different servers .
+They only need to be concerned with maintaining compatibility with one well - defined protocol .
+They operate at the physical layer relative to the OSI protocol stack and provide an attachment point for a specific type of cable such as coaxial cable , twisted - pair cable , or fiber - optic cable .
+They operate between systems to allow users to run programs and access resources on multiple systems at the same time .
+They produce unpredictable traffic flows that are unsuitable for realtime traffic like video .
+They provide a single - box solution for dividing networks into multiple segments .
+They provide a standard way for users to access information in the form of text and graphics , but they are limited in their ability to let developers build sophisticated applications that work over intranets or the Internet .
+They provide a way for each VLAN to maintain its autonomy and broadcast nature while forwarding packets between VLANs when necessary .
+They provide bandwidth on demand and the ability to switch connections .
+They provide centralized services to support the new class of NCs ( Network Computers ) and NetPCs .
+They provide Internet / intranet connectivity , systems management , ease of use , and support for Java technology .
+They provide large amounts of storage , fast access , and fault tolerance at a reasonable price .
+They provide packet filtering and are often called screening routers .
+They provide very efficient throughput on existing lines and customers can use the services in the same way that dedicated leased lines are used , or they can use them to make short - haul connections into packet - switched networks .
+They quickly jump out of their local LAN across routers that are already strained by traffic loads .
+They read and write to rewritable optical disks and use an autochanger mechanism that mounts and dismounts disks as requested .
+They receive packets from their upstream neighbor and send them to their downstream neighbor .
+They remove the mystery of the Internet and eliminate the need for users to understand arcane commands .
+They replace repeating information with a symbol or code that represents the information in less space .
+They simply blew the parapets off the top of castle walls to make them indefensible , then scaled the walls .
+They use this information to build routing tables .
+They were modified and implemented in the Windows environment .
+They were replaced with a three - tier model in which users connect with Web servers that in turn connect with back - end systems .
+Thin Ethernet cable : The cabling used for thin Ethernet is a 50 - ohm 0.2 - inch - diameter RG - 58 A / U or RG - 58 C / U coaxial cable .
+Thin Ethernet cable is available from many vendors who have precut standard lengths ready to ship with attached connectors .
+Think of a ferry that shuttles cars across a river .
+Think of a VP as a cable that contains a bundle of wires .
+Think of a VP as a cable that contains a bundle of wires as pictured in Figure V - 1 .
+Think of an object class as a predefined template .
+Think of LU sessions as pipes transmitting data across the network from one application to another .
+Think of SONET as a means to deploy a physical network for a global comminica - tion system in much the same way that Ethernet or token ring are used to deploy a LAN .
+Think of the B channels as two separate phone lines and the D channel as the line that sets up the call .
+Think of the VM as a software box where Java applications run .
+Third - party management tools can help you manage a frame - relay network and track throughput .
+Third - party vendors could then build products that worked with the architecture , but there was no open discussion about the architecture itself .
+Third - party versions of this protocol are also available , such as Samba .
+This " binds " the key to the certificate .
+This " broadcast " address is 48 bits wide and is filled with all 1s .
+This " failsafe " approach ensures that others can gain administrative access to the server should something happen to the administrator .
+This " middleware " layer must deal with a number of problems :
+This " remembering " is called saving the state .
+This " universal " program model has developers scrambling to ensure that VMs are available for nearly every computer platform on the planet and to write Java applets that take advantage of them .
+This access method is used in MAP ( Manufacturing Automation Protocol ) , a factory floor networking scheme .
+This access will depend on the distance from your site to the frame - relay access point , but it often involves a major portion of the cost to implement the service ( approximately 50 percent in many cases ) .
+This acknowledgment scheme is used in a number of ways , as discussed in a moment .
+This address follows an industry standard that ensures that no other adapter has a similar address .
+This address is made up of a 24 - bit number that identifies the vendor of the card and a 24 - bit number assigned by the vendor to identify the card , like a serial number .
+This address is usually called the MAC address because it is defined in the medium access control sublayer of the data link layer in the OSI protocol stack .
+This address packet is broadcast on the network for all to receive because the workstation does not know the IP address of the server that can supply it with an address .
+This address packet is broadcast on the network for all to receive because the workstation does not know the IP address of the server that can supply it with an address .
+This addressing scheme is at a higher level than the addressing scheme used by each individual LAN .
+This adds considerable overhead .
+This adds security , but also restricts functionality .
+This affects performance and increases costs .
+This algorithm is basically merges routing information provided by different routers into lookup tables .
+This alleviates the address shortage problem with ISPs and the Internet .
+This allows 10 meters for the faceplate - to - station connection .
+This allows a router to make more intelligent decisions about how to route packets .
+This allows existing LAN applications to be used without alteration .
+This allows lower - layer networks to be optimized for speed .
+This allows packets that would normally be forwarded through a relatively slow routing process to be forwarded at wire speed through the switching fabric .
+This allows TCP to adjust to network condition and throttle back if traffic peaks on the network .
+This allows the application more access to disk and other system resources .
+This allows the recipient to listen to the message using a phone or on his or her own computer , assuming software and hardware exist for interpreting the format , which is relatively simple .
+This allows the routers to know which port to forward packets on to reach their destination .
+This allows untrusted applets to be combined with trusted applications .
+This alphanumeric value appears on the user 's screen and the user enters it into the token device .
+This also divides each bit period into two intervals in which bits are represented as follows :
+This also works for faxing .
+This amount of compression is necessary to reduce the traffic on networks and ensure that voice traffic does not require excess network bandwidth .
+This analogy is appropriate because the two layers engage in a conversation to make sure that data is reliably delivered .
+This approach has performance problems .
+This approach provides tight integration of processes in the server , but could make the server unstable .
+This architecture , pictured in Figure F - 16 , is similar to the screening host architecture described in the previous section , except that an extra layer of security is added by putting up a perimeter network that further separates the internal network from the Internet .
+This architecture is especially important for corporate intranets where users need to communicate with systems and users all over the network , not just within their department .
+This ARP message is broadcast on the local network so all nodes hear it but only the node that has the IP address in question responds .
+This arrangement became increasingly important as LANs were installed in IBM SNA environments .
+This arrangement is pictured in Figure L - 2 .
+This arrangement makes moves and changes easy .
+This attribute is then turned off when the file is backed up , but is set on again if a user changes the file .
+This avoids loading the program on each user 's computer and allows central updates to take place on the server .
+This avoids the need to send the same information to each user separately and dramatically reduces network traffic .
+This bandwidth can adequately handle voice but severely restricts the data - carrying capacity of the local loop .
+This bandwidth can be used by others , if necessary , at an extra charge .
+This basically avoids moving all but the first few packet through the slow router once it has done its job .
+This benefits users at remote locations who can access the database locally rather than over wide area network links .
+This bit pattern is usually in the form of a specially coded 8bit string .
+This broadcast network metaphor is the opposite of a point to point network in which transmissions take place between two systems over a circuit that is only used by the end systems .
+This browsing is designed to mimic walking around a real store with a shopping basket .
+This cable has four twisted pairs .
+This cable is installed as telephone cabling at many sites .
+This cable is subject to delay skew , which occurs during high - speed transmissions on networks that split the data signal across two pairs , such as 100Base - T4 and 100VG - AnyLAN .
+This cable is the most expensive and hardest to handle , but it has the highest bandwidths and distance ratings .
+This cable must be the same Category 3 or greater twisted - pair variety and not the cables used to connect telephones .
+This cache can become quite large , which introduces consistency problems .
+This caching feature " improves with age " as more routes are added to the list , reducing the number of required route searches .
+This can be accomplished with a leased line , a connection through a packet - switched network , or a virtual circuit over the Internet .
+This can be seen in Figure C - 20 .
+This can be seen with the workstations on the right in Figure S - 14 .
+This can cause excess traffic and performance problems in the middle segment however , only two bridges are required .
+This can exist on a separate wire or be encoded directly into the signal that is transmitted .
+This can help you justify the need for new components or expansion modules .
+This can often be done by building small systems that grow into full production systems .
+This can save some expense in leasing high - speed lines and can make better use of available lines .
+This caused a problem called delay skew , in which parallel signals propagate across a cable at different velocities .
+This causes errors that require retransmission and loss of performance .
+This causes excess LAN traffic in large environments , but is usually a satisfactory method for small LANs .
+This centralized model is easier to administer .
+This changes the way the core transmits light .
+This chart is derived from an article by the same name published for the STA ( SCSI Trade Association ) in the May , 1996 issue of Computer Technology Review .
+This circuit may be preestablished or set up on demand ( switched ) .
+This circuit might be a dial - up line or a dedicated circuit .
+This company received the first contract to build what became the ARPANET ( the forerunner of the Internet ) in July 1968 .
+This component extends the platform - independent Java object model to non - Java objects , allowing Java , JavaScript , and plug - ins to share a common object and messaging model .
+This computer is called the AS ( authentication server ) .
+This computer then has a program that sends a startup disk image to the diskless workstation so it can boot .
+This concept has been extended to the Internet and the Web .
+This concept stimulated the growth of commercial applications development .
+This configuration allows data transfers to bypass the server altogether and move directly to the network backbone .
+This configuration is pictured in Figure I - 1 .
+This configuration is shown on the right in Figure E - 10 .
+This connection is a good fit for ATM virtual circuits .
+This connection is based on the analog signal technologies that have been used in the phone system for the past 100 years .
+This connectionless type of service cannot guarantee that data will be delivered .
+This container is then " signed " by a trusted CA using its private key .
+This core is surrounded by a glass cladding that basically reflects the inner light of the core back into the core .
+This creates excess traffic that is not sending real data .
+This daisy - chaining allows all the devices to be connected to a single port .
+This data link usually runs the PPP ( Point - to - Point Protocol ) , which encapsulates and delivers IP packets to the ISP 's site .
+This demand priority group eventually developed 100VG - AnyLAN ( IEEE 802.12 ) .
+This design approach makes it easy for the user to add new services or remove unnecessary services .
+This design is ideal for enterprise networks that have high - speed backbones ( or hub - based collapsed backbones ) and slower periphery networks .
+This device , sometimes called a digital service unit , is the hardware component you need to transmit digital data over the hardware channel .
+This differentiation between fixed and variable length is crucial to what ATM offers .
+This differs from the older signaling system in which signals were transmitted as multifrequency tones in the same channels as calls .
+This diplomat places the letter in an envelope and writes an instructional message on the envelope addressed to his or her peer at the other embassy .
+This direct connectivity produces ten times the normal throughput to the network and reduces the number of interrupts that network interface cards impose on a server .
+This discussion concentrates on TCP / IP networks .
+This document defines access control methods for computer systems that computer vendors can follow to comply with Department of Defense security standards .
+This document moves through the computerized workflow system to a purchasing agent .
+This DS signal hierarchy is part of the NADH ( North American Digital Hierarchy ) .
+This eliminates the constraints of one - time meetings and phone conversations that are not documented for others to review .
+This eliminates the need to transmit frames through one segment to reach another segment , except for the backbone , which is installed specifically for shuttling frames between networks .
+This enables larger and more efficient applications .
+This ensured that developers did not alter the standard to fit their own needs and possibly cause confusion in the rest of the TCP / IP community .
+This ensures that signal quality is retained and allows high data rates .
+This ensures that your network software is working .
+This environment is a complete native implementation of the Mac OS hosted on Rhapsody 's infrastructure .
+This error checking was important in the days of low - quality analog telephone lines , but today 's high - quality fiber - optic circuits do not usually need these controls .
+This example assumes that two IP subnets exist in separate buildings and the buildings are interconnected via a data center switch .
+This example illustrates how a switch can provide up to four computers with a connection to a pool of four modems .
+This facility may also contain campus - wide backbone connections .
+This feature allows developers to create collections of reusable services that can be used throughout internal networks or the Internet .
+This feature also benefits applications that are configured to access files based on specific location names .
+This feature is increasingly important as registered IP addresses become scarce .
+This feature is useful in client / server network environments and provides information about the actual usage of the network , not just traffic flows .
+This feature lets transmitting systems quickly adapt to the traffic loads on the network and the available buffer size on the receiver .
+This feature prevents credit card numbers from ending up in the wrong hands .
+This field holds the logical connection address and control fields as described here :
+This field is normally 8 bits , but extended addressing is possible for multipoint connections that contain many different addresses .
+This field is used by the receiver to inform the sender to slow down transmissions because the sender is sending data faster than the receiver can process it .
+This flag field holds the " End of frame " marker .
+This flow - control technique essentially creates what has been called a virtual collision .
+This flow is often called a virtual circuit , and the circuit may be preestablished through specific router paths in an internetwork .
+This formula provides great flexibility and cost savings because most of the time you are only paying for what you use , but you can go over if necessary .
+This frees the host computer from being continuously interrupted by external devices and allows it to process applications more efficiently .
+This frees the server from having to continuously provide updates when it may be unnecessary .
+This gave rise to COM , which became the basis for all object binding and eventually DCOM and ActiveX ( which is essentially COM enabled for the Internet ) .
+This generates additional traffic , including the frames required to negotiate a retransmission .
+This gives the appearance of a straight - through wire from one location to another that provides faster delivery and better service .
+This grew into the hierarchy of switches that eventually extended to outlying areas and other cities , and then in the 1950s and 1960s exploded into an automated global switching system .
+This group referred to their specification as Fast Ethernet .
+This hand - off requires a certain amount of time and allocation of a new frequency in the new cell .
+This has advantages for wide area networks .
+This has become even easier with Internet / intranet protocols and so - called extranet technologies , which help companies build secure private networks across the Internet with one another .
+This has been a source of frustration to many users , especially mobile users .
+This has both good and bad connotations .
+This has the added advantage of allowing requests to be distributed among many servers , thus distributing the load .
+This has to do more with the electrical characteristics of the medium than the fact that many early LANs were designed for departments , although the latter accurately describes a LAN as well .
+This helps avoid network bottlenecks .
+This hierarchical design has become an international standard and network vendors have built an array of equipment for building high - speed networks .
+This hierarchical scheme ensures that the enterprise hub only handles traffic that needs to be transmitted across the networks directly connected to it .
+This hierarchy defines levels of digital streams , starting with DS0 , which defines a single channel for carrying a digitized voice signal .
+This hierarchy is pictured in Figure T - 6 .
+This hierarchy minimizes the amount of information that local and regional routers need to know about .
+This host may or may not have a tape drive attached .
+This implies a different payment structure for Internet access than the monthly service charges now used .
+This improves I / O performance and allows servers to better service the high - bandwidth requirements of busy networks .
+This improves overall throughput among networks attached to the switch , which may run 100 - Mbit / sec or 10 - Mbit / sec Ethernet .
+This improves performance when downloading software from Web sites .
+This includes adding and removing information in a folder .
+This includes user systems that are connected to a private ATM switch or a private ATM switch connected to an ATM switch owned by a public carrier .
+This increases contention for the network and causes collisions that further degrade the performance of the network .
+This inexpensive device connects with the digital communication line and provides a termination for the digital signal .
+This information can help managers quickly resolve problems and provide upgrades .
+This information can provide vital information required for network troubleshooting or to monitor changing conditions on the network .
+This information is " pushed " to you on a real - time basis , so the concept of starting up a Web browser and actively searching for information is only one way to access the Web .
+This information is collected to monitor historical trends .
+This information is distributed among tag devices by using TDP .
+This information is entered when the client account is created .
+This information is in a form used by MTAs to route messages .
+This information is kept in a single database .
+This information is provided by neighboring routers .
+This information is recorded by the switching office for future reference .
+This information is strictly defined so that different management systems can access and use the information .
+This information is used to calculate routes through the network .
+This interfacing dates back to the days of dumb terminals and mainframe computers .
+This intermediate LAN typically uses a different protocol , so data is converted for transport over it .
+This involves the advertising of routes via BGP - 4 ( Border Gateway Protocol - 4 ) .
+This involves travel time and expense in many cases .
+This is a carrier offering that expands on Switched - 56 .
+This is a cheap way to build secure links between your remote sites however , the Internet is subject to delays , as you probably well know .
+This is a fiberoptic – based networking standard that defines a hierarchy of transmission rates and data framing formats .
+This is a good idea .
+This is a large amount of time when compared to the speed of most processors .
+This is a normal routing procedure .
+This is a problem if all the accounts are stored on many different legacy systems .
+This is a problem in some environments , especially if you don't know the recipient and need to transport or transmit the key using untrusted people or channels .
+This is a program that may appear to be another program , waiting for an unsuspecting user to execute and unleash it .
+This is a significant improvement over noncompressed voice ( 64 Kbits / sec ) and older compression techniques yielding 32 Kbits / sec .
+This is a task that reliable protocols such as TCP perform .
+This is a temporary configuration that will not be necessary once all routers are multicast enabled .
+This is achieved through support of the pervasive Internet protocols and standards .
+This is all being done with portable computers , PDAs ( personal digital assistants ) , and a variety of small wireless communication devices .
+This is all explained in any book that teaches HTML .
+This is all handled by management software .
+This is an example of an object that expands the functionality of a program , but many objects users might download from the Web are quite simple , such as a rotating logo .
+This is an extension of ODBC that defines access to universal data types ( i . e . , multimedia data , including pictures , sound , and video ) .
+This is an incredible amount of networks for routers to keep track of .
+This is an inefficient use of bandwidth .
+This is an IP - only technique .
+This is an ODBC - compliant set of interfaces that exposes all of the functionality in modern databases through accessible objects .
+This is an open standard architecture that defines how clients can access data on a variety of heterogeneous databases .
+This is an Oracle standard for creating Java applications that can access relational databases .
+This is analogous to initially finding a path to a destination .
+This is basically how switched networking schemes work .
+This is because adjoining cells cannot use the same frequencies .
+This is because as bits are used to define a larger number of subnets , the number of bits available to define hosts on those subnets is reduced .
+This is because it works at a lower layer in the protocol stack .
+This is because the first and last binary values are used for broadcasting and internal use .
+This is because the public - to - private switch connection does not need to exchange the NNI protocol , which has different cell formats and carries different information .
+This is beyond the means of many servers , but a company called Alteon has developed a special NIC that offloads interrupt handling to help in this task .
+This is by design and accounts for the term classical in the name of the model .
+This is called a dual - homed or multihomed system .
+This is called a filebyfile backup .
+This is called ARQ ( automatic repeat request ) .
+This is called attenuation .
+This is called class inheritance .
+This is called cut - through routing and is discussed under " Fast IP . " .
+This is called FEC ( forward error correction ) .
+This is called making micropayments .
+This is called reusing transmission frequencies .
+This is called static routing .
+This is called the call setup time , and it will vary depending on the hardware in use .
+This is called the local loop .
+This is called tunneling .
+This is covered later in this topic under " Internetworking with ATM . " .
+This is described under " ATM ( Asynchronous Transfer Mode ) " and " Cell Relay . " .
+This is discussed further under " MBone ( Multicast Backbone ) . " .
+This is discussed further under " Protocol Concepts . " .
+This is discussed further under " Virtual Dial - up Services . " .
+This is discussed in detail under " Internet Backbone . .
+This is discussed in more detail under " Digital Signatures " .
+This is discussed under " Bandwidth on Demand . .
+This is discussed under " Component Software Technology " and " Distributed Object Computing . " .
+This is discussed under " Fragmentation of Frames and Packets . " .
+This is discussed under " Prioritization of Network Traffic . " .
+This is discussed under " Transmission Media , Methods , and Equipment " .
+This is discussed under Protocol Concepts . .
+This is discussed under the heading " Multicasting . " .
+This is done by limiting frequencies to cells .
+This is done by users with no need to contact a central administrator .
+This is done in one of two ways :
+This is done using standard routing protocols such as BGP ( Border Gateway Protocol ) and OSPF ( Open Shortest Path First ) .
+This is done with digital signatures , identity certificates , packing lists , and content label technologies .
+This is done with IGMP , a protocol that runs between hosts and their immediately neighboring multicast routers .
+This is due to a number of factors , including the following :
+This is easily accomplished by sending a cell reservation message on bus B to all the downstream devices on bus B , which includes station A .
+This is easy if the password is the name of the user 's child , pet , car , and so on .
+This is especially beneficial on multiprocessor systems .
+This is especially true as organizations interconnect department and workgroup networks .
+This is especially true in transaction processing systems where information on both the client and server systems must be written in synchronization and verified .
+This is especially useful for mobile users who might be reading their mail at someone else 's computer .
+This is essential for some database files .
+This is exactly how classical IP works .
+This is explained next .
+This is explored further in the following section .
+This is extremely wasteful of bandwidth , but often there is little choice .
+This is followed by an SOH ( start of header ) command , and then the header .
+This is good for access and performance , but for security reasons it may not be good that any user can reach every station .
+This is handled by a routing function in the backbone switch or by a separate router .
+This is how frame relay is handled .
+This is how traditional routing works .
+This is in contrast to earlier server farms in which some servers provided only file services while others provided e - mail services or communication services .
+This is in contrast to TDM ( time division multiplexing ; i . e . , a T1 line ) , in which time slots are dedicated to a particular circuit and cannot be reallocated if data is not being transmitted on that circuit .
+This is just one more activity that is off - loaded from the server .
+This is like borrowing bandwidth from elsewhere in the network to fill a temporary need .
+This is like getting directions — a person may point you in the right direction at an intersection .
+This is much like the phone system was when it was in transition from a party - line to a private - line system .
+This is no different than any dial - up modem connection except that it takes place over cellular networks .
+This is not much different than allowing your own mobile users to access corporate data and has many of the same security implications .
+This is not much different than making an ISDN call through the telephone company 's ISDN network .
+This is not true with NFS .
+This is often called a multitiered approach .
+This is often called metadata or the " data catalog . " .
+This is one of the biggest concerns with integrating voice over networks .
+This is only mentioned because client and server are sometimes used synonymously but are discussed separately below .
+This is outlined in the following table .
+This is pictured as connection A1 - A2 in Figure C - 5 .
+This is pictured in Figure B7 .
+This is pictured in Figure P - 10 .
+This is pictured in Figure W - 2. FIGURE W - 2 .
+This is possible because MAU interconnect cables contain multiple wire pairs .
+This is possible because the different VLANs overlay the actual switching fabric .
+This is possible due to higher - speed networks and takes advantage of a single cable infrastructure instead of one for voice and one for data .
+This is provided by the data center switch .
+This is provided with MPOA ( Multiprotocol over ATM ) , as discussed under a separate topic in this book .
+This is represented by DFS _ Share _ Name .
+This is sent to Bob .
+This is shown in Figure F - 21 .
+This is shown in Figure T - 3 .
+This is shown on the left in Figure L - 6 .
+This is similar to bridging .
+This is similar to shared Ethernet , in which a workstation must first check to see if the cable is busy before transmitting .
+This is similar to the way in which applications that use the Microsoft Windows printing subsystem do not require drivers for every available printer .
+This is similar to what IGMP ( Internet Group Management Protocol ) does on IP networks .
+This is such a wide category that it is covered under the following specific categories :
+This is symmetric cryptography ( both parties know the same secret key ) , and it is often referred to as just private - key cryptography orsecret - key cryptography .
+This is the case where information is updated in real time and the server broadcasts information on a continuous basis .
+This is the case with Windows NT Server and Novell NetWare 4.x , both dedicated server operating systems .
+This is the client / server model , which has the objective of dividing the processing load among clients and servers .
+This is the data link protocol used by V.32 error - correcting modems .
+This is the dialog box you see if you select a user in the NDS tree .
+This is the function of routers and routing protocols .
+This is the goal of ATM — to allow a user to connect with any other user over a local or wide area ATM network .
+This is the hardwired address on network interface cards .
+This is the mode used to connect stations to X.25 packet - switched networks .
+This is the only conversion that cannot be removed .
+This is the only real error control that takes place .
+This is the primary operating system , introduced in 1974 , for IBM mainframes .
+This is the purpose of using a token .
+This is the purposes of a POP server .
+This is the reverse of the older analog system in which modems were used to convert end - user digital data to analog data for transmission across the local loop .
+This is the routing scheme of the Internet , and it , as well as IP addressing , is discussed in more detail under " IP ( Internet Protocol ) . " .
+This is the sequence number that Host A will use to send segments to Host B .
+This is the sequence number that Host B will use to send segments to Host A .
+This is the simplest error - detection mechanism .
+This is the standard Ethernet medium access method .
+This is the technique used to access the IEEE 802.3 Ethernet network channel .
+This is the usual configuration of a small LAN .
+This is transparent to the user , however .
+This is true of most encryption schemes , so the strength of the system is in the size of the key used and how well the algorithm does its job .
+This is useful for intranet environments where employees must be informed of events or have software distributed to their desktop .
+This is useful for remote mobile users .
+This is useful for updating information on several remote machines .
+This is useful for Web servers that need to represent several different Web sites or provide firewall protection .
+This is usually a short distance , so line costs are dramatically reduced .
+This is usually done on internal networks .
+This is usually done through ORBs ( object request brokers ) .
+This is usually more practical on backbones rather than client / server links , however .
+This is usually not an issue in the local environment , but is an issue for the carriers .
+This is usually the system supervisor / administrator when a system is first installed .
+This is what router switching is all about , as discussed under " Router Switching " below .
+This is where digital signatures and digital timestamps come into play .
+This is where inexpensive screening routers used in conjunction with your firewall can help , as discussed in a moment .
+This is where IP addresses are wasted by the class system .
+This is where key management comes into the picture .
+This is where new network QoS protocols come into play .
+This is where PKIs ( public - key infrastructures ) come into play .
+This is where techniques such as layer 3 switching , also called shortcut routing , come into play .
+This keeps network traffic local .
+This keeps the compound document size small , but if the compound document is transferred to someone else , all the linked objects must be transferred with it .
+This last option is a form of encapsulation , and the FDDI network serves as a backbone for the Ethernet LANs .
+This last point is important in locations where high levels of security must be maintained .
+This latest desktop operating system is an evolutionary upgrade to Windows 95 .
+This latest release has graphical desktop development tools , 64 - bit support , sgml online help and documentation , multilanguage support , and programming enhancements .
+This latter explanation is most relevant when discussing transmissions between systems that may take place across any number of networks and involve any number of routing devices .
+This latter method requires that enough additional information be sent with the frame so the receiver can rebuild it if an error is detected .
+This latter scheme helps routers dispense with large routing tables .
+This layer also supports a multidrop line for the connection of telephones , computers , and other equipment .
+This layer defines specifications related to connector types , pinouts , and electrical signaling .
+This layer is a remnant of mainframe and terminal communications .
+This layer talks with its peer layer in the computer it is communicating with .
+This leaves addresses free for other users .
+This leaves at least 10 meters of cable to connect the workstation to the faceplate .
+This lets you implement any internal IP addressing scheme without the need to register with Internet authorities .
+This level provides quicker writes because the parity information is spread over all the drives rather than being written to a single parity drive .
+This level would be used to set up a private network between two sites .
+This local loop is copper twisted pair wire that has been in place for years and is adequate for voice , but not for highspeed digital transmissions .
+This logical network is called a VLAN ( virtual LAN ) .
+This logon code is synchronized in time with a code that the server knows .
+This made UNIX highly portable , and it now contains system components written in a common , well - known programming language that are easily recompiled to work on a variety of systems .
+This maintains the ring configuration while allowing it to grow .
+This makes it easier for more businesses to join the electronic commerce web , especially those who previously could not afford the expense of EDI .
+This may be incompatible with some carriers and can only be done on private lines .
+This may require a series of connections and reconnections until the document is completely downloaded .
+This may seem confusing , but remember that packets are built in software while frames are built for transmission over physical media .
+This may seem paranoid , but consider that military communications are under constant scrutiny by attackers or foreign defense agencies .
+This means that each department or division can have its own login script in addition to the default user login scripts .
+This means that the middle - tier server is responsible for running the different ODBC drivers that connect with back - end databases .
+This message can only be decrypted with the recipient 's private key .
+This method assumes that nodes on the Ethernet will never need to communicate with nodes attached directly to the FDDI LAN , except for other bridges that are attached to Ethernet networks .
+This method does not mark files with an archive flag to indicate that they have been backed up consequently , they are included in a normal backup .
+This method doesn't work on ATM because ATM does not support broadcast .
+This method easily breaks down .
+This method eliminates a lot of network traffic .
+This method extends fault tolerance to the controller .
+This method handles collisions as they occur , but if the bus is constantly busy , collisions can occur so often that performance drops drastically .
+This method has a high bandwidth .
+This method involves creating rules in software that are followed to determine VLAN membership .
+This method is also called secret - key or symmetrical cryptography .
+This method is commonly used in many forms of communication .
+This method is considered clunky and inefficient .
+This method is easy to implement , but if errors are high , it affects network performance .
+This method is inefficient and has no privacy .
+This method is not popular because it requires excessive overhead that reduces performance .
+This method is often called a reliable network service .
+This method is the easiest to use and understand , because the most recent tape has the most recent backup .
+This method is used in RS232 serial communication .
+This method is used when retransmissions are impractical , such as a transmission to a space probe .
+This method requires custom applications on the PC .
+This method requires that you create a normal backup set on a regular basis .
+This method uses the link efficiently , but the Connect 2 server must be a powerful system to host the session of many users .
+This method was used to break DES .
+This method would be analogous to a gatekeeper remembering some defining characteristics of anyone leaving the castle and only allowing people back in with those characteristics .
+This mode is available in the new FDDI - II standard , which requires new adapter cards .
+This model consists of the standard client on the left and back - end server services on the right .
+This model does not implement layer 3 routing , so separate routers are needed to allow devices in one bridged network to communicate with a device in another bridged network .
+This model evolved into the PDP - 8 minicomputer and other PDP systems with 12 - , 18 - , and 32 - bit architectures .
+This model fully supports component software designs and a highly dynamic Web page construction .
+This model is often called three - tiered .
+This model may seem similar to the old centralized mainframe computing model ; however , these new systems run client / server , component - based programs that are written with Java and ActiveX and that take advantage of Web protocols .
+This model provides a number of benefits for mobile computing , depending on the requirements of the organization that is supporting mobile users .
+This model takes advantages of the processing power of both client and server computers .
+This model uses standard Internet transport and network protocols ( TCP / IP ) and HTTP ( Hypertext Transport Protocol ) .
+This model was supposed to have provided a framework for integrating data processing systems everywhere .
+This modular approach allows the system to be used in a variety of installations and for a variety of bandwidth requirements .
+This NAP is in an interim state as Pacific Bell upgrades from FDDI to ATM switching .
+This network node can be part of a local area network or directly connected to the LEN .
+This new intranet strategy really brought a lot of things into focus .
+This new model even sidesteps Web protocols such as HTTP and HTML in some cases , bypassing Web servers and setting up direct links between clients and core servers over intranets or the Internet .
+This new network is an enhancement of a previous experimental network that will test the ability to transmit complex imaging , multimedia , and supercomputer information .
+This new OS is based on the merging of technologies from NeXT Software , Inc . and Apple .
+This NIC address becomes what is commonly known as the physical address or the MAC ( Medium Access Control ) address .
+This noise combines with and distorts a transmitted signal .
+This Novell NetWare operating system feature maximizes disk space .
+This occurs if a system or communication link fails while information is being written to the disk .
+This officer communicates with a peer at the other embassy regarding translation and documentation procedures .
+This operating system provides an enterprise - wide network computing server platform on IBM S / 390 computer systems .
+This optimizes bandwidth .
+This option appears in the TCP / IP configuration area of most clients ' operating systems .
+This package then goes down to the next - ranking diplomat , who puts it in yet another envelope and writes some instructions addressed to his or her peer at the other embassy .
+This page may contain links to other pages at the same site or at other Web sites .
+This path appears as a circuit .
+This path is saved by the bridge and used for all subsequent deliveries .
+This phone number works no matter where the user travels to on the planet .
+This pipe may carry your ISP 's traffic and the traffic of other ISPs into a NAP ( network access point ) traffic exchange facility such as those in San Francisco , Chicago , New York , and Washington D . C .
+This places more traffic on the backbone than ever before .
+This port becomes the root port of the bridge .
+This predefined path improves performance and reduces the header size of frames and packets , thus improving throughput as well .
+This prevents anyone from hogging bandwidth , but it requires that ISPs have agreements with other ISPs to establish a user 's requested QoS across the Internet and that they have accounting systems in place to charge customers .
+This prevents hackers from attacking internal systems .
+This prevents impersonation .
+This prevents just anyone from writing files to the server .
+This prevents lost packets from circulating endlessly .
+This prevents users from accessing systems in areas where they don't belong during offhours when they could perform illegal activities like downloading the customer database and carrying it out the door .
+This prevents users from logging in at unsupervised workstations where their activities cannot be monitored .
+This prevents wasted addresses as has occurred with class B addressing .
+This private networking strategy gets more expensive as distance between sites grows .
+This problem is only relevant on networks that transmit signals in parallel on multiple cables at high speed , such as 100Base - T4 and 100VG - AnyLAN .
+This procedure ensures that data is written to all the databases involved in exactly the same way , or is not written at all .
+This procedure verifies to the client that the Web server is authentic before it submits confidential information , and it allows Web servers to verify that users are authentic before granting them access to restricted and sensitive information or letting them buy goods .
+This process can be automatic or programmed for specific times of the day .
+This process continues down the ranks until it reaches the " physical " level , where the package is delivered by a courier to the other embassy .
+This process continues until a path is established from the multicast source to the host that wants to receive the multicast .
+This process enables some ports to ensure forwarding paths for some bridges and disables other ports to prevent loops .
+This process includes the capturing of paper documents for archival purposes .
+This process is called digitizing .
+This process is described in more detail under " Protocol Concepts . " .
+This process is discussed further under " Protocol Concepts . " .
+This process is pictured in Figure C - 21 and is greatly simplified in the following description .
+This process is pictured in Figure I - 13 and outlined here .
+This process may continue until the packet reaches the top - level routers connected to the NAPs and MAEs .
+This process may take hours or days , depending on the carrier .
+This produces the first 64 - bit block of ciphertext .
+This produces unnecessary and excessive overhead on modern networks .
+This product assists Web servers in connecting with ODBC drivers .
+This protection comes from a technique that encodes the scattered data to a parity drive .
+This protocol dynamically allocates bandwidth as needed and is supported in most vendors ' routers .
+This protocol is based on T . SHARE / T.120 , an ITU ( International Telecommunication Union ) standard multichannel conferencing protocol tuned for high - bandwidth enterprise environments .
+This protocol is ideal for open communications , but in its native form it does not provide authentication and encryption features .
+This protocol is one of the first routing protocols developed for use on the Internet .
+This protocol was called the NCP ( Network Control Protocol ) .
+This provides backup speeds similar to image backups , but the disk is not copied sector by sector , so there is no need to use a similar storage device in the event of a restore .
+This provides consistency and interoperability in an enterprise 's network , from the mainframe to the desktop .
+This provides each fragment with the destination address just like the original datagram .
+This provides for future growth into faster transmission technologies such as 100Base - T .
+This provides load balancing .
+This provides performance and security .
+This provides the first level of reliability by ensuring that the receiver is ready to receive data .
+This reduces memory latency problems .
+This reduces network traffic .
+This reduces network traffic and eliminates the need to store a copy of each article on every subscriber 's system .
+This reduces network traffic and eliminates the need to store a copy of each article on every subscriber 's system .
+This reduces overhead , not only in memory space but in the time it takes to create the information in memory .
+This reduces performance and causes more contention because workstations still need to compete for access to the cable .
+This reduces the bandwidth requirements and makes virtual reality practical on the Web .
+This reduces transmission rates on the limited - bandwidth public telephone system .
+This relationship is pictured in Figure F - 22 .
+This relationship is viewed as a contract between the entities because they both must agree on what their relationship will be .
+This remote communications linking method is shown on the right in Figure I - 2 .
+This removes SNA from the network environment and simplifies management .
+This request contains the address of the target server and other pertinent information .
+This required a lot more wire , but certainly made customers happy .
+This required acknowledgment adds excess traffic .
+This requires a T1 line and T1 equipment , but the equipment may be cost - justified if the system is used often .
+This requires authentication techniques that use digital certificates .
+This routing table may be constructed by some external router or a route server .
+This same computer also has an IP address , which identifies it on the internetwork .
+This saves much of the cost of leasing long - distance lines .
+This scheme creates a larger LAN that extends the broadcast domains and adds more stations .
+This scheme defines 16,382 networks and 65,534 hosts per network .
+This scheme defines 2,097,150 networks and 254 hosts per network .
+This scheme extends the concept of phase modulation by using two different amplitude levels and by shifting the wave by one fourth , by one half , or by three fourths of its period .
+This scheme is designed for large networks and for use on the Internet .
+This scheme is used on LANs and has high bandwidth requirements .
+This scheme provides a bandwidth of 400 MHz ( 100 MHz per each of the four pairs ) .
+This scheme reduces power requirements and reduces the attenuation of high voltage levels , but still has a high bandwidth .
+This scheme relieves clients of the need to find and directly manage a device on the network .
+This scheme requires high voltage levels and has a relatively high bandwidth .
+This scheme requires that all users carry a smart card ( or software equivalent ) and is usually implemented for remote users .
+This scheme uses publickey encryption and provides a way for a user to provide you with his or her public key so that sessions can be encrypted or secure transactions can take place .
+This scheme works well as long as the number of users remains small .
+This second target may be easier to break into , and once successfully attacked , it may provide a link to the original target that can be exploited .
+This section concentrates on those developed for the Internet .
+This section covers PPTP .
+This section covers security controls in operating systems and security techniques for network - and Internet - connected computers .
+This section covers specific aspects of IP / ATM .
+This section covers the different types of storage devices .
+This section covers the features of Novell NetWare 4.11 .
+This section describes a number of ways you can perform backups , including copying data to magnetic tape or optical disks , or by copying or replicating information to other systems .
+This section describes some of the directory services and related protocols of importance to network administrators .
+This section describes three electronic commerce solutions , ranging from EDI - like business - to - business software to electronic online Internet storefronts .
+This section describes ways to reduce the cost and complexity of remote dial - up networking by taking advantage of ISP ( Internet service provider ) facilities and the Internet .
+This section discussed the TIA / EIA - 568 - A standard .
+This section discusses IP in general and unicast IP , which is host to host .
+This section discusses LAPB and several derivatives of LAPB .
+This section discusses LISTSERV and Majordomo , a similar mailing list program .
+This section discusses management applications and protocols , but of course , there are many other management tasks that will go unmentioned here , such as backing up data , providing security , training users , setting policies , and so on .
+This section discusses NHRP in terms of ATM , although it also applies to frame relay and other NBMA networks .
+This section discusses server - specific features .
+This section evaluates traditional network designs .
+This section explains directory attributes and management for popular network operating systems , namely Novell NetWare , Windows NT , and UNIX .
+This section first discusses backups in terms of magnetic tape , then looks at other backup devices .
+This section gives a very brief introduction to HTML , not for the purposes of helping you learn the language but to merely understand its basic concepts .
+This section guides you through a variety of topics related to network design and construction .
+This section is about client / server computing , which defines an architecture for designing programs that distribute their processing load between a client computer and a server computer .
+This section is about Fast Ethernet , which is also referred to as 100Base - T .
+This section is about the standards and protocols used for information publishing and about future directions in information publishing .
+This section is closely related to the QoS .
+This section is closely related to the section " Prioritization of Network Traffic . " .
+This section jumps around a bit in order to cover the new network technologies , but you are encouraged to refer to the other referenced sections to continue your research .
+This section outlines data communication technologies and makes reference to other sections in this book .
+This section outlines the basic architectures that are described in Chapter 4 of Chapman and Zwicky 's Building Internet Firewalls .
+This section outlines the many techniques that have been devised to run IP over ATM and refer you to appropriate sections in this book where the techniques are covered .
+This section primarily discusses the tools that technicians can carry around with them to troubleshoot network problems and make sure that network cabling has been installed to specifications .
+This section provides only brief information .
+This section will define volumes in NetWare .
+This section will discuss IBM 's traditional mainframe environment .
+This section will explore the state of the server .
+This section will outline some of the traditional backplane designs , but you should refer to " Switched Networks " to learn about new high - performance switching hubs that can provide superior performance and a more practical network topology that accommodates future networking technologies .
+This sequence assumes that both the server and the user have some secret piece of information that is shared in common ( i . e . , the user 's password ) .
+This service does not have the reliability of the connection - oriented method , but it is useful for periodic burst transfers .
+This service is often used for videoconferencing and is not appropriate for the unpredictable bandwidth requirements of LAN traffic .
+This service was initially employed to transmit between microwave stations .
+This setup , when properly implemented , prevents external hackers from breaking through to internal systems .
+This shared key is called a session key .
+This signaling operates in the physical , data link , and network layers relative to the OSI protocol model .
+This significantly reduces traffic and saves network bandwidth .
+This similarity also allows existing routers that relay BOOTP messages between subnets to relay DHCP messages as well .
+This simplifies recovery after the crash .
+This single bit is the subnet address space , but only two values are possible — binary 0 and 1 , so only two subnets are allowed .
+This single memory space makes it easier for programmers to write programs for NUMA systems .
+This situation is analogous to the " best - effort " delivery model of the Internet , where packets are treated equally and must vie for available bandwidth .
+This splitting of tasks between the edge devices and route servers is called distributed routing .
+This standard became known as DIX Ethernet in reference to the developers ' names .
+This standard defines access control methods for computer systems that computer vendors can follow to comply with Department of Defense security standards .
+This standard provides a uniform wiring system and supports multi vendor products and environments .
+This step also validates the user .
+This strategy allows users to continue accessing data if one of the servers fails .
+This strategy clearly outlines the technologies required to build extranets and points out that they are much more than simple communication links between businesses .
+This strategy is not ideal for communication between high - speed workstations and peripheral devices .
+This strategy protects high - end system technology and customers investments .
+This strategy virtually guarantees that no two Ethernet or token ring network interface cards will ever have the same address and prevents conflicts .
+This structure is very similar to star - wired Ethernet , in which every workstation is connected directly to a central hub .
+This supports 32 - bit bus operations , a 64 - bit bus operating at 1,600 Mbits / sec is possible using dual cables .
+This switch can provide a temporary dedicated path from any input port to any output port .
+This switch receives frames from legacy workstations and encapsulates the data in them into ATM cells .
+This system , called DCS - 1800 ( Digital Communication System - 1800 ) , uses a smaller cell size , ideal for dense metropolitan areas .
+This system can be totally automated and run continuously so that the most recent uncorrupted copy of a file can be traced back through the backup server to the archive , as necessary .
+This system is scalable .
+This system of interconnecting cables and hub is often referred to as the backbone network .
+This table associates MAC addresses with a port that leads to a particular network segment that the destination is attached to .
+This table is meant to avoid interference between aircraft and ground communications , car telephones , maritime communications , radio stations , and spacecraft communications .
+This takes only six steps .
+This task has become increasingly more complex in recent years .
+This technique allows data consumers to operate independently of the data they use .
+This technique can be expanded upon to achieve data rates of 28,800 bits / sec .
+This technique can waste bandwidth if a device has nothing to transmit .
+This technique combines public - key cryptography with secret - key cryptography to give you the best of both worlds .
+This technique essentially hides internal systems and ensures that internal users are not directly connecting with external systems .
+This technique has the advantage of hiding the source and destination addresses of the original packet and improves security .
+This technique is simple and elegant , but another method called slotted ALOHA was devised in 1972 to double the capacity .
+This technique is used by groupware and collaborative software packages to send messages to members of a workgroup .
+This technique is useful if information can be sent in just a few frames .
+This technique is vulnerable to wiretapping because the password can be captured and used by someone to log onto the system .
+This technique reduces bandwidth requirements .
+This technique requires encryption to protect data since it travels over public networks .
+This technique was used in some of the early modems but has too many limitations for high - speed data transmissions .
+This technique will usually not cause any overflows at the destination , but if the destination does need to pause before receiving more data , it simply holds up sending the acknowledgment .
+This techniques cuts down on long - distance charges .
+This technology has grown without control , for our benefit in most cases .
+This technology is called by many names , including layer 3 switching , multilayer switching , short - cut routing , and high - speed routing .
+This technology is called by many names , including layer 3 switching , multilayer switching , short - cut routing , and high - speed routing .
+This topic describes the Internet 's backbone topology and how global , national , regional , and local ISPs ( Internet service providers ) fit into the picture .
+This topic discusses ATM .
+This topic discusses the operation of the NNTP protocol .
+This topic is carried further under " Web Middleware and Database Connectivity . " .
+This topic is covered further under " Data Warehousing , ibm has an extensive set of products for building small " datamarts " for single workgroups or fully automated , enterprise - wide data warehouses .
+This topic is covered further under " Extranet . " .
+This topic is covered further under " MBone ( Multicast Backbone ) " and " Multicasting . .
+This topic is covered further under " Modems " and " Signals . " .
+This topic is covered further under " Switched Networks . " .
+This topic is covered further under " Transaction Processing . " .
+This topic is covered further under the heading " Push . " .
+This topic is covered in detail under " Internet Backbone . " .
+This topic is covered under " Multicasting . .
+This tracking is done in a window that is constantly updated as the frames are sent and received — thus the sliding window .
+This tradeoff differentiates the two categories of microprocessors :
+This traffic can burden a network , so mechanisms are available for controlling it .
+This transition serves as a built - in clocking mechanism that the receiver can track .
+This transmission method is superior to CSMA / CD , in which workstations compete for access to the cable on their own as shown on the left in Figure D - 17 .
+This transmission must occur on bus A .
+This trend may appear to be in contrast to distributed computing , but in fact many organizations use both approaches .
+This trend of making computer power more accessible to people continued in the 1980s with the development of personal computers , but that 's a story that DEC does not play into as much as IBM and Apple Computer do .
+This type of attack is often successful if weak passwords are used .
+This type of configuration is compatible with structured wiring strategies as discussed under " TIA / EIA Structured Cabling Standards . " .
+This type of connection is often used to connect " trusted " internal users to the Internet .
+This type of connection is often used to connect " trusted " internal users to the Internet .
+This type of data is usually multimedia such as graphics and sound , but new encoding schemes can be defined at any time .
+This type of hierarchical structure allows administrators and users to " drill down " through the hierarchy to locate people and resources .
+This type of proxy server provides a controlled network connection between internal and external systems .
+This type of service is best for occasional traffic between two points , such as a single - user connection or file transfer .
+This type of service is preferred for periodic connections between a number of different points where speeds higher than dial - up lines is required .
+This type of traffic can saturate the network .
+This type of VLAN uses layer 3 information to build VLANs based on internetwork protocol addresses .
+This upgrade allows the organization to retain existing fiber - optic cabling but improve the aggregate bandwidth tenfold .
+This upgrade provides 1,000 - Mbit / sec throughput to the servers .
+This uses the network more efficiently and reduces usage charges , but packet - switched networks are subject to delays if another customer overloads the network with too much traffic .
+This usually involves connecting PCs within a single office or floor of a building .
+This version works with two pairs of UTP ( unshielded twisted - pair ) or STP ( shielded twisted - pair ) .
+This virus infects files on disk — usually executable files with the extension COM , EXE , or OVL .
+This vision is based on products that are not tied to any one operating system and that take advantage of open Internet standards .
+This volume contains the MFT ( master file table ) , which holds information about every file in the volume .
+This warehouse offers dynamic access to back - end data that has been identified at the front - end system .
+This was a major step in the popularization of UNIX , and from this many variants were created ( the releases originating from AT &amp; T 's original work are now called the System V release or SRV ) .
+This was a project funded by DARPA .
+This was a tedious task , and the tables had to be periodically updated if a workstation or user moved to another location .
+This was followed with work on subnet - to - subnet and host - to - subnet topologies .
+This was one of the most important strategies in the advancement of NetWare as an industry standard .
+This weighting system minimizes traffic congestion by keeping packets local to where they belong .
+This whole process is illustrated in Figures P - 12 and P - 13 .
+This will allow an application to request the kind of service level it needs from a network in order to deliver real - time voice and video without delays that cause distortion .
+This will allow flexible expansion of the design as new requirements appear .
+This will allow traditional long - distance carriers to offer end - to - end services to customers .
+This will involve CTI ( computer - telephony integration ) technologies and standards for packaging and transmitting voice messages for delivery across computer networks .
+This will produce competition that either cuts into the phone company offerings or spurs the phone company to offer DSL service much faster than it took them to offer convenient ISDN services .
+This will require retransmission and add delay .
+This wiring scheme prevents breaks in any one wire from bringing down the whole network and promotes structured cabling methods .
+This work was extended in 1993 when the NCSA ( National Center for Superconducting Applications ) released the graphically oriented Mosaic Web browser .
+This working group defines how the CSMA / CD ( carrier sense multiple access / collision detection ) method operates over various media , such as coaxial cable , twisted - pair cable , and fiber - optic medium .
+This working group defines the IEEE LLC ( Logical Link Control ) protocol , which provides a connection to lower - layer MAC ( Medium Access Control ) networks such as the IEEE 802 standards described here .
+This working group defines the relationship between the IEEE 802 standards and other reference models .
+This working group is chartered to create standards for data transport over traditional cable TV networks .
+This working group is defining standards for wireless networks .
+This working group is defining the 100 Mbit / sec Ethernet standard with the demand priority access method developed by Hewlett - Packard and other vendors .
+This working group is working on the definition of a standard security model that interoperates over a variety of networks and incorporates authentication and encryption methods .
+This working group provides advice to other subcommittees on fiber - optic networks as alternatives to existing copper - cable – based networks .
+This working group provides technical advice to other subcommittees on broadband networking techniques .
+This would allow quick switching of information .
+This would be an intracompany directory service .
+Those changes must be synchronized and completed fully on all servers , or else they must be backed off completely .
+Those fragments may go to still another router , but routers do not normally reassemble fragments , even if they will all fit into a single frame on the next segment .
+Those interested in OpenDoc can visit Apple 's OpenDoc site listed later .
+Those rules may also be difficult to implement and error - prone , which could potentially open up holes in your defenses .
+Those vendors and their products are outlined here :
+Though H.323 doesn't guarantee that different vendors ' products will communicate , more vendors are aiming for interoperability , and within a year or two , interoperability should be common .
+Thousands of users may share the medium using LAN - like access protocols .
+Threads are individual processes that execute simultaneously in multitasking operating systems .
+Threads are scheduled for execution because some threads may need to wait for events to occur or the completion of a task by another thread .
+Threads are useful because they eliminate the need for the operating system to constantly load and unload information to and from memory .
+Threads provide a way to divide a single task into multiple tasks .
+Threats are the reason you need to be concerned about security .
+Three additional rights define access to files in the directory : read , write , and lock .
+Three departments — Marketing , Engineering , and Research — have set up their own name spaces to fit their own needs .
+Three different access methods are described here .
+Three major vendors provide groupware packages that are all - encompassing collaborative computing products .
+Three pairs are used to either transmit or receive data and the other pair is used for collision detection .
+Three subnetworks ( A , B , and C ) are connected by Router AB and Router BC .
+Threetier systems extend the client / server system by adding a middle system ( such as a Web server ) that performs some processing normally done by either the client or the server .
+Threshold settings must be available and properly tuned to warn of attacks without triggering unnecessary alarms .
+Through IIOP , corporations can gradually expose and interconnect their business processes and applications , not only behind the corporate firewall but also through the Extranet to electronic markets , consumers , and other companies . .
+Through its distributed management architecture , vines establishes a framework for highly scalable , standardsbased SNMP ( Simple Network Management Protocol ) management , allowing administrators to cost effectively manage the network from any point .
+Through NDS , NetWare 4.11 provides a single view of the network .
+Through the Information Warehouse and DRDA , ibm plans to keep its mainframes as central components in the enterprise — as storage platforms for all types of information , including multimedia .
+Through this process , users can initiate programs on the remote host and run those programs from their own systems as if they were attached directly to the remote host .
+Throughout this routing process , the destination for the packet remains constant .
+Throughput is a measurement of the rate at which a system can process or transmit information .
+Throughput is typically an overall measure of a system and its components .
+Throughput on a shared LAN is also determined by the number of computers on the system and how often they vie for access to the network .
+Thus , a four - processor system could theoretically complete a task four times faster than a single - processor system .
+Thus , a typical FTP session may have several open connections at the same time if multiple files are being transferred .
+Thus , all the systems use the same protocol and no gateway is required .
+Thus , all the systems use the same protocol and no gateway is required .
+Thus , an application can connect with an application in another system without using the reliability features of TCP .
+Thus , an HTML page actually consists of the HTML file itself along with any additional references , graphics , and multimedia files .
+Thus , applications written to SAA can run on a wider range of systems .
+Thus , bridges and routers are often rated based on packets processing capabilities .
+Thus , bridges can prevent problems in one segment from affecting another .
+Thus , clients can access specific processes running in specific computers by addressing the computer and a socket number .
+Thus , customers can purchase end - to - end services from a single provider rather than creating separate contracts with local and long - distance carriers .
+Thus , dce provides an independence from operating systems and networks .
+Thus , each workstation acts as a repeater .
+Thus , eight bit values can be represented as listed here :
+Thus , fiber cable has high transmission rates and is preferred where distance is a factor .
+Thus , fiber cable is preferred where security is an issue .
+Thus , java applications are portable to any VM because they only need to interface with the top level of the VM .
+Thus , lapf is used for carrying data only and there is no signaling at the data link layer for performing flow control and error control .
+Thus , lower layers provide a service to higher layers by taking their messages and passing them down the protocol stack to the lowest layer , where the messages are transferred across the physical link .
+Thus , new VCs don't need to be made , and network resources are optimized .
+Thus , nns serve as distributed depositories for information about the network .
+Thus , noise on the AC circuit can infiltrate sensitive electronics through the grounding circuit as well as the hot leads .
+Thus , only a local call is made and the user obtains long - distance connections over the Internet , which is essentially free .
+Thus , people often just refer to transmitted blocks of data as packets .
+Thus , performance improves because computers do not need to take turns broadcasting on a shared cable as is the case with traditional shared LANs such as Ethernet .
+Thus , RISC - designed systems are generally faster than CISC systems .
+Thus , tcp became TCP and IP .
+Thus , tcp was reorganized into TCP and IP , with TCP handling flow control and packet recovery and IP providing basic addressing and packet - forwarding services .
+Thus , the DLCI identifies a preestablished portion of a PVC through the frame - relay network .
+Thus , the frame relay network handles all the interconnections with its switching capabilities , and only one leased line per site is required into the frame relay access point .
+Thus , the frames are broadcast .
+Thus , the frames are broadcast .
+Thus , the message digest can be made public with little chance that anyone will be able to derive the original message from the message digest .
+Thus , the operating system can balance the processing load evenly across available processors .
+Thus , the original 8 - bit SCSI - 1 is boosted to 10 MB / sec by applying the Fast enhancements .
+Thus , the token follows a logical ring rather than a physical ring .
+Thus , the user must trust that the certificate authority has validated the owner of the public key and that the public key used to open the certificate is indeed the public key of the certificate authority .
+Thus , the voice bandwidth , or pass band , is approximately 3,000 Hz wide , as pictured in Figure B5. Bandwidth is often used to refer to the throughput of a system , but it is only indirectly related to throughput .
+Thus , there are 832 channel pairs .
+Thus , unix provides in one package the ability to install a powerful operating system on a computer that lets users share files and run programs on other users ' computers through one of the most common and powerful networking protocols in the industry .
+Thus , when the head reads a track , it only reads data written at a specific angle .
+Thus , x.25 provides point - to - point data delivery rather than point - to - multipoint delivery .
+Thus , you are trusting that the CA will vouch for the contents of the certificate .
+Thus a character oriented protocol can only be used with its native character set because that character set has the specific control characters .
+Thus binary 1 is transmitted by applying a positive , or high , voltage , and binary 0 is transmitted by applying a negative , or low , voltage .
+Thus precedence can be set without external signaling or major changes to applications .
+Thus station A receives a message on its bus B connection that station B needs some cells reserved on bus A .
+Thus the security of RSA is related to the assumption that factoring is difficult .
+Thus the service provides a reliable and guaranteed service .
+Thus two items are required to log on : something the user knows ( his or her password ) and something the user has ( the token ) .
+TIA / EIA - 568 - A : Defines a standard for building cable system for commercial buildings that support data networks , voice , and video .
+TIA / EIA - 568 - A Defines a standard for building cable systems for commercial buildings that support data networks , voice , and video .
+TIA / EIA - 569 : Defines how to build the pathways and spaces for telecommunication media .
+TIA / EIA - 569 A standard that defines how to build the pathways and spaces for telecommunication media .
+TIA / EIA - 606 : Defines the design guidelines for managing a telecommunication infrastructure .
+TIA / EIA - 606 Defines the design guidelines for managing a telecommunication infrastructure .
+TIA / EIA - 607 : Defines grounding and bonding requirements for telecommunication cabling and equipment .
+TIA / EIA - 607 Defines grounding and bonding requirements for telecommunication cabling and equipment .
+Tim Berners - Lee derived the Hypertext Markup Language from SGML in 1990 when he put together the first proposals for the World Wide Web .
+Time - division multiplexed channels , in which signals from several sources such as telephones and computers are merged into a single stream of data and separated by intervals of time .
+Time / event synchronous authentication uses the number of passwords already processed by both the token and the authentication server for a particular service on a sequential basis to calculate passwords .
+Time provided by NTP servers is typically accurate within milliseconds .
+Time restrictions : Time restrictions specify the times , in half - hour blocks , when users can log in to the system .
+Time services lets applications schedule activities and determine event sequences and duration .
+Time synchronization helps establish and maintain the order of events .
+Time synchronization helps to ensure that everything is kept synchronized .
+Time to live : A counter that is decremented with every pass through a router .
+Time will tell how well it works in this environment .
+TIP : You can trace the route a packet takes from your computer to a destination with the trace route utility in UNIX or the TRACERT command in Windows .
+TN3270 connections can be made over TCP / IP networks and the Internet .
+TN3270 is a special version of the Internet 's Telnet protocol that allows users with non - 3270 - compatible systems to access IBM hosts .
+To access a server , the client sends a request to the TGS that contains the ID of the target server , the user 's ID , and the TGT to prove the authenticity of the user .
+To accommodate high - volume stations , the network administrator can prioritize the station , basically giving it a longer period of time to transmit before releasing the token .
+To accommodate these users , the following should be considered as part of your network design .
+To achieve frame rates of 20 to 22 fps , 384 to 512 Kbits / sec of bandwidth are needed .
+To acknowledge that it has received Host A 's sequence number , Host B increments the sequence number by 1 and inserts it into the Acknowledgment field of the segment it returns to Host A .
+To applications , all the processors appear as a single processor and all the memory is shared , making it easy for programmers to write software for these systems .
+To avoid this , a high - speed backbone network is installed , as shown in Figure N - 15 ( d ) .
+To be of benefit to users , systems must provide some level of interoperability all the way up to the application layer .
+To become a buyer using First Virtual 's system , you must have an Internet e - mail address and a valid Visa or MasterCard .
+To benefit document imaging applications .
+To buy , you give your VirtualPIN to a seller instead of a credit card number .
+To centralize management , move network resources — servers , hubs , switches , routers , and even printers — to central locations where trained staff can manage the systems in secure and protected areas .
+To compensate , the IETF developed RSVP .
+To connect inhouse systems over longer distances , set up a LAN .
+To connect with a Web site , you type the URL ( Uniform Resource Locator ) for the site into the Address field of a Web browser .
+To connect with systems outside your own building , use a modem and the telephone system or other services provided by local and longdistance carriers ( see " Communication Services " ) .
+To correct these problems , errordetection and errorcorrection methods are used .
+To create a duplicate backup set that you can carry to an offsite location , double the number of tapes .
+To create long - distance network connections , it is often better to lease a short - haul T1 line to create a connection into a carrier 's packet - switched network , as shown on the right in Figure T - 1 .
+To ensure reliable delivery , the UA on a sender 's computer keeps a copy of a message until the receiving computer has stored the message .
+To ensure that critical data is always available , administrators can set up alternate locations for accessing data by simply including the alternate locations under the same logical DFS name .
+To erase the disk , the material is reheated with another laser and returns to its original state .
+To expand the network beyond the devices that can attach to the MAU , a cable is wired from a ring - out port on the first MAU to a ring - in port on the second MAU .
+To extend its component model to a model that supports sophisticated applications , microsoft has integrated DCOM into its ActiveX Server , a series of technology services that speed deployment of component - based applications across the Internet and corporate intranets .
+To fill this need , a number of vendors offer in - house certificate servers , including Certificate Server from Netscape ( http : / / www . netscape . com ) , Sentry CA from Xcert Software ( http : / / www . xcert . com ) , and e - Lock from Frontier Technologies ( http : / / www . frontiertech . com ) .
+To find polymorphic viruses , antivirus software must use special scanning techniques .
+To gain access , they must do so together .
+To get a certificate from Verisign , you go through a process of establishing your credentials in much the same way you apply for a credit card .
+To get a feel for this topic , digress for a minute to the old phone system .
+To get an idea of what frame relay is and how it is useful , picture a corporate network with branch office in different cities .
+To get around this problem , a subnetting scheme was devised that basically divides the host portion of the address into two parts and uses some of the bits to identify subnetworks within your own network .
+To get more information about OBI , send electronic mail to the OBI Consortium , at OBI @ supplyworks . com .
+To get more information about OBI , send electronic mail to the OBI Consortium at OBI @ supplyworks . com .
+To get the address , it creates an ARP request and " broadcasts " the frame on the network .
+To get to that level , the four cornerstones of secure electronic transactions must be present :
+To guarantee delivery of voice and video , QoS ( quality of service ) options are being implemented into networks so administrators can specify exactly which traffic should have priority over other traffic .
+To handle surges in traffic , you negotiate a burst rate , which is what you pay for traffic over the CIR .
+To help integrate these directories , microsoft developed ODSI ( Open Directory Services Interface ) , which is a set of WOSA ( Windows Open System Architecture ) application programming interfaces for developing applications that interoperate with different directories services .
+To help managers make informed decisions and design workable cable systems , cabling standards are available such as those described under " TIA / EIA Structured Cabling Standards . .
+To implement IP Switching , ipsilon developed the IP Switch , which is pictured in Figure I - 16 .
+To keep data at multiple sites consistent , a two - phase commit procedure is used , as described in a moment .
+To listen to a particular station , you tune your radio to the frequency that the radio station broadcasts on .
+To maintain a protective stance against virus threats , you must stay in contact with the organizations and vendors listed at the end of this section .
+To maintain clock synchronization over long periods , a special bit - transition pattern is embedded in the digital signal that assists in maintaining the timing between sender and receiver .
+To make a request , the client can access three different interfaces .
+To make ARP efficient , each computer caches IPtoMAC address mappings to eliminate repetitive ARP broadcast requests .
+To make information on a Windows system available to other users on a network , you share a folder ( or an individual file ) .
+To make matters worse , few modems really deliver on their full potential because they must deal with problems on the local - loop cables such as ambient line noise .
+To make specific data more readily available to users at other sites .
+To minimize network traffic imposed by backups , attach backup systems to the systems that need to be backed up .

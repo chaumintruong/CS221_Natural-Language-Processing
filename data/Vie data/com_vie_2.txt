@@ -1,0 +1,1534 @@
+Do các chương trình chạy trên hệ điều hành này được cách ly với nhau , nên một chương trình khó có khả năng gây ảnh hưởng bất lợi cho một chương trình khác .
+Do cách chip Pentium và các thế hệ sau của nó xử lý các chỉ thị , nên chúng được gọi là các bộ xử lý tựa RISC , nhưng kiến trúc của chúng vẫn được dựa trên điện toán tập lệnh phức hợp .
+Do phí tổn của chúng khá cao nên các máy trạm thường được dành riêng cho các dự án đồ họa đòi hỏi khắt khe nhất như các đoạn hoạt ảnh phức tạp , bản vẽ độ phân giải cao , bản thiết kế kỹ thuật và các hiệu ứng đặc biệt trong điện ảnh .
+Nhờ có vỏ bọc plastic cứng và cửa trập bằng kim loại , các đĩa mềm 3.5 inch cũng bền hơn .
+Do chúng có dung lượng cao và do việc sản xuất một đĩa CD rẻ hơn rất nhiều so với việc sản xuất một bộ đĩa mềm , nên nhiều nhà xuất bản phần mềm xem các đĩa CD như là phương tiện phân phối được ưa thích hơn .
+Do dung lượng lưu trữ lớn , chi phí thấp và dễ dùng , các đĩa compact đã là sự lựa chọn hiển nhiên lúc ban đầu của nhiều nhà phát triển truyền thông đa phương tiện , những người cần một cách nào đó để đưa sản phẩm của họ đến tay những người tiêu dùng .
+Các máy trạm , do sức mạnh và phí tổn của mình , được dành riêng cho các ứng dụng có nhu cầu đồ họa nhiều nhất .
+Do kích cỡ nhỏ , máy tính xách tay thường có đặc tính là màn hình nhỏ hơn , ít bộ nhớ và ít không gian lưu trữ hơn PC bình thường .
+Vì kích cỡ và chi phí của chúng , các siêu máy tính thường hiếm thấy , chúng chỉ được sử dụng ở các tập đoàn lớn , các trường đại học và các tổ chức chính phủ nơi đó có thể có đủ điều kiện .
+Vì giá cả và kích cỡ lớn nên các siêu máy tính tương đối hiếm thấy .
+Nhờ vào những công nghệ xuất phức tạp này , các máy tính trở nên dễ hơn để sử dụng , các dữ liệu trở nên dễ hơn để quản lý , và các thông tin trở nên dễ hơn để truy cập .
+Bởi vì các chương trình tô vẽ kiểm soát mọi và mỗi điểm ảnh trên màn hình nên chúng có cũng có thể thực hiện các tác vụ mà các công cụ của họa sĩ truyền thống không thể làm được - ví dụ , xóa đi một điểm ảnh đơn hay tạo bản sao tức thời của một hình ảnh .
+Vì PC có độ phân giải đồ họa cao hơn tivi thường , nên nhiều tay chơi tin tưởng rằng một PC được trang bị tốt thì cung cấp một trải nghiệm chơi trò chơi tốt hơn .
+Vì các máy PC không ngừng đưa ra các tùy chọn truyền thông đa phương tiện đa dạng , nên mọi người tiêu tốn khá nhiều tiền bạc và thời gian hơn cho các máy tính của họ .
+Bởi vì các chương trình chế tác ảnh ( như các chương trình tô vẽ ) chỉnh sửa hình ảnh ở cấp độ điểm ảnh nên chúng có thể kiểm soát một cách chính xác một hình ảnh sẽ trông ra sao .
+Vì các chương trình thuyết trình giống như một sự kết hợp gồm một trình xử lý văn bản , bảng tính và chương trình vẽ , nên bạn có thể dễ dàng định dạng các slide bằng nhiều cách , bao gồm .
+Vì các tài nguyên bị hạn chế đối với các chủ doanh nghiệp nhỏ , nên các bộ ứng dụng và một dòng phần mềm thương mại mới đang khiến cho việc vận hành một văn phòng nhỏ ( hoặc văn phòng gia đình ) ( SOHO ) trở nên dễ dàng .
+Bởi vì Shockwave hỗ trợ sự tương tác với người sử dụng , nó có thể được dùng để phát triển các trò chơi trực tuyến , các ô chữ và các loại hình nội dung giải trí tương tác khác .
+Vì công việc định khoảng cách thường là một điều quan trọng trong trình bày trang , nên phần mềm DTP cho phép người sử dụng kiểm soát xác lập co kéo ( định khoảng cách giữa các chữ cái riêng lẻ , như được minh họa trong Hình 1.19 ) và xác lập theo dấu ( một xác lập chung cho việc định khoảng cách ký tự cho toàn bộ các khối văn bản ) .
+Vì SQL là một công cụ mạnh mẽ như vậy , nên một số hệ quản trị CSDL chạy trên PC hiện nay cho phép người sử dụng thực hiện các truy vấn SQL .
+Vì các tập tin như vậy phải được giải nén một cách thủ công , nên cần phải tốn rất nhiều công sức để nén nội dung của một đĩa , lựa chọn và giải nén các tập tin khi bạn muốn sử dụng chúng , và sau đó là nén chúng trở lại .
+Bởi vì chữ được cấu thành từ những vector nên phần rìa chữ được hiển thị rất rõ ràng trên màn hình cũng như trong các bản in .
+Vì tập lệnh trong UNIX được gọi là một vỏ ngoài , nên kiểu truy xuất Internet này được gọi là một tài khoản vỏ ngoài .
+Vì cổng USB của máy tính được xây dựng sẵn , nên bạn không cần phải lắp đặt một card mở rộng vào máy tính để bổ sung thêm một cổng mới .
+Bởi vì máy tính có thể nhận dữ liệu nhập từ người sử dụng nên không giống như sách , phim hay chương trình truyền hình , nó có thể chứa các sự kiện truyền thông đa phương tiện tương tác có bao gồm vai trò của người sử dụng .
+Tuy nhiên , vì Internet tạo ra một nối kết tiềm tàng giữa hai máy tính bất kỳ , nên các dữ liệu có thể bị ép buộc phải đi theo một lộ trình dài , vòng vo để tới được đích của chúng .
+Do iPic rất nhỏ và rẻ nên ta có thể dễ dàng hình dung một ngôi nhà có đầy các thiết bị được nối với nhau và được điều khiển từ xa bằng một thiết bị cầm tay , chẳng hạn một PDA với một bộ phận nối với Internet .
+Vì hệ điều hành cần thiết cho việc điều khiển hầu hết các chức năng cơ bản của máy tính nên nó chạy suốt cho đến khi tắt máy .
+Vì khái niệm ban đầu của SCSI là để cung cấp khả năng truy xuất tới bus của hệ thống máy tính cho các thiết bị ngoại vi ( không chỉ riêng các ổ đĩa cứng ) , một cách để xem SCSI là một phần mở rộng của bus máy tính .
+Vì phương tiện lưu trữ có một từ trường nhưng đầu ghi không có , nên phương tiện lưu trữ nạp điện cho nam châm nằm trong đầu ghi , mà điều này gây ra một dòng điện nhỏ chạy qua đầu ghi theo một chiều hoặc chiều kia , tùy theo cực tính của trường .
+Vì cổng USB đã được xây dựng sẵn trong các hệ thống mới hơn , nên bạn có thể không bao giờ cần mở vỏ của hệ thống ra một lần nữa .
+Vì chuẩn USB cho phép 127 thiết bị được nối tới bus thông qua một cổng đơn , nên nhiều chuyên gia tin rằng USB sẽ nổi trội như là một chuẩn bus đơn trong tương lai .
+Vì người dùng không cần phải học các lệnh và các địa chỉ riêng lẻ để nhảy tới một vị trí mới , nên World Wide Web đã tổ chức các tài nguyên nằm rải rác trên diện rộng thành một tổng thể liền .
+Do khối lượng các ô được truyền có thể thay đổi theo băng thông của tín hiệu đi tới , nên ATM được xem là một cách lý tưởng để kết hợp việc truyền tiếng nói , dữ liệu và video trên cùng một mạng có băng thông cao .
+Vì mối quan hệ của chúng là cố định , nên các CSDL phân cấp hầu như không đòi hỏi các dữ liệu trùng lắp và có thể nhanh chóng định vị các dữ liệu .
+Vì chỉ có hai giá trị , nên các máy tính được gọi là hoạt động theo hệ thống cơ số 2 , hay còn được gọi là hệ thống số nhị phân ( bi có nghĩa là 2 trong tiếng Latinh ) .
+Do các ứng dụng này giúp trình duyệt bằng cách được cắm vào ở thời điểm thích hợp , nên chúng được gọi là các ứng dụng trợ giúp hay các ứng dụng cắm thêm .
+Vì các chip nói trên không còn nằm tách riêng , nên chúng không còn phải truyền thông với nhau thông qua bus .
+Vì các máy tính này bao gồm hai loại chính , nên Microsoft đã tách rời Windows NT ra thành hai sản phẩm : Windows NT Workstation và Windows NT Server .
+Vì những kho công cộng này thường đòi hỏi khách viếng thăm sử dụng từ anonymous làm một tên tài khoản , nên chúng còn được gọi là các kho FTP ẩn danh .
+Vì những máy phục vụ này sử dụng giao thức truyền tin trên mạng , nên đôi khi chúng được gọi là các máy phục vụ NNTP .
+Vì các hệ thống này đều hỗ trợ mạng , nên chúng cung cấp cho những người sử dụng truy xuất các dữ liệu từ những địa điểm được đặt xa nhau .
+Vì những người sử dụng này có thể lưu những thay đổi lên các tập tin dùng chung , nên họ có quyền truy xuất đọc .
+Vì chúng trợ giúp những hoạt động bên trong của hệ thống máy tính , nên các tiện ích được xếp chung với hệ điều hành trong loại phần mềm hệ thống .
+Vì chúng đều sử dụng cùng một phương tiện lưu trữ ( vật liệu mà trên đó dữ liệu được lưu giữ ) , nên các ổ đĩa mềm , các ổ đĩa cứng , và các ổ băng từ đều sử dụng các kỹ thuật giống nhau để ghi và đọc dữ liệu .
+Vì chúng có kích thước lớn , nên chúng choán không gian mặt bàn và có thể khó di chuyển .
+Vì chúng cho phép những người dùng làm việc với các trình duyệt Web tiêu chuẩn ( và thường là miễn phí ) , nên chúng cung cấp một giao diện nhất quán , tiện lợi .
+Vì chúng sẵn sàng hoạt động với các bức tường lửa và các công nghệ bảo an Internet tiêu chuẩn khác , nên chúng cung cấp mức độ an toàn tuyệt vời chống lại hành vi xâm nhập , các virus , hành vi ăn cắp dữ liệu , và những vấn đề khác .
+Vì các URL dẫn tới các tài liệu cụ thể trên đĩa của một máy phục vụ , nên chúng có thể cực kỳ dài .
+Vì chúng cung cấp các chức năng - chẳng hạn như kéo rê và thả , cắt , sao chép , và dán , cũng như các công cụ định dạng - được tìm thấy trong hầu hết các ứng dụng máy tính để bàn , nên các chương trình thuyết trình cũng quen thuộc và tiện lợi giống như trình xử lý văn bản ưa thích của bạn .
+Bởi vì các trò chơi trên máy tính và các ngân hàng tư liệu tham khảo có thể cung cấp cho người sử dụng các loại nội dung khác nhau cũng như các tùy chọn để đi đến và hiển thị thông tin đó nên chúng có tính tương tác cao .
+Vì chúng sử dụng các giao thức TCP / IP tiêu chuẩn thay vì các giao thức riêng được các hệ điều hành mạng sử dụng , nên việc lắp đặt và định cấu hình chúng sẽ đơn giản hơn và ít tốn kém hơn .
+Bởi vì hình tròn này được tạo trong một chương trình vẽ hình , nó có thể được tô đầy bằng một màu nào đó ( xanh lục , trong ví dụ trên ) , có thể được di chuyển và sao chép .
+Vì các thiết bị USB đều tuân theo cùng các tiêu chuẩn như nhau , nên bạn chỉ cần cắm thiết bị mới vào cổng USB , bật nó lên ( một bước không bắt buộc đối với một số thiết bị ) , và bắt đầu sử dụng nó .
+Vì người sử dụng không cần phải rời tay khỏi bàn phím khi dùng thiết bị này , nên nó tiết kiệm được một khối lượng lớn thời gian và năng lượng .
+Vì bạn có thể di chuyển đĩa mềm khỏi máy tính , nên chúng được phủ một lớp nhựa hoặc nhựa dẻo để tránh vết tay hoặc bụi bẩn .
+Vì bạn không thể tháo rời đĩa ra khỏi ổ đĩa của nó ( trừ phi nó là một đĩa cứng di động hay một đĩa cứng lắp ngoài ) , nên thuật ngữ đĩa cứng và ổ đĩa cứng được xem là đồng nghĩa với nhau .
+Vì không cần phải di chuyển cả thiết bị , một trackball đòi hỏi ít không gian hơn chuột .
+Vì bạn không muốn mất các bức ảnh mà bạn đã chụp , nên bộ nhớ này phải lưu giữ được các bức ảnh chụp cho tới khi bạn truyền chúng tới máy PC , ngay cả khi máy ảnh đã được tắt đi .
+Trước khi một lệnh có thể được thi hành , đơn vị kiểm soát phải phá vỡ ( hay giải mã ) lệnh này ra thành các chỉ thị tương ứng với các chỉ thị trong tập chỉ thị của CPU .
+Trước khi một máy tính có thể tính toán , nó cần một số thông tin cơ sở - một cơ sở dữ liệu .
+Trước khi một đĩa từ có thể được sử dụng , nó phải được định dạng - một tiến trình vốn quy hoạch bề mặt của đĩa và tạo ra các từ đạo và các cung nơi dữ liệu được lưu trữ .
+Trước khi một chương trình sẵn sàng xuất xưởng , nó có thể cần phải qua một vài chu kỳ thử - và - xem lại sao cho mọi người đều yên tâm với sản phẩm đã hoàn tất .
+Trước khi chuyển sang phim , những nhân vật và cảnh trí ảo này được tạo trên các máy trạm và các máy tính cá nhân trong rất nhiều các phần mềm thương mại và độc quyền .
+Trước khi quyết định cái nào tốt nhất cho mình , bạn hãy xác định rõ công việc mà bạn muốn sử dụng máy tính .
+Trước khi có phần mềm DTP , việc tạo ra các xuất bản phẩm thuộc bất kỳ loại nào là một tiến trình phức tạp , đòi hỏi nhiều người với những kỹ năng khác nhau .
+Trước khi ghi danh vào bất kỳ chương trình cấp chứng chỉ nào , bạn cần xem trước những điều kiện tiên quyết của nó .
+Trước khi cài đặt một hệ điều hành OS , bạn cần bảo đảm rằng phần cứng của bạn hoàn toàn tương thích với nó .
+Trước khi có thể được xem trong một trình duyệt Web , một tài liệu phải được định dạng bằng các thẻ đặc biệt được gọi là các thẻ Ngôn ngữ Đánh dấu Siêu văn bản ( HTML ) .
+Trước khi tìm hiểu thêm về những sức mạnh của các CSDL điện tử , bạn cần biết về cách các dữ liệu được tổ chức trong một CSDL và một vài trong số những thuật ngữ thông dụng hơn .
+Trước khi có sự xuất hiện của World Wide Web , hầu hết các mạng công ty đều là các môi trường chán ngắt , về cơ bản chỉ hỗ trợ việc chia sẻ tập tin và thư điện tử .
+Trước khi có sự ra đời của Windows , Mac OS đã cho phép những người sử dụng chạy nhiều ứng dụng trong một giao diện người sử dụng đồ họa .
+Trước khi máy tính có thể sử dụng một đĩa mềm để lưu trữ dữ liệu , bề mặt của đĩa phải được quy hoạch bằng phương pháp từ tính để máy tính có thể đi trực tiếp tới một vị trí cụ thể trên nó mà không cần phải dò tìm qua các dữ liệu .
+Trước khi CPU có thể thi hành một chỉ thị , đơn vị kiểm soát phải truy lục ( hay tìm nạp ) một lệnh hay dữ liệu từ bộ nhớ máy tính .
+Trước khi các chương trình thuyết trình chạy trên PC đầu tiên được phát triển , việc tạo ra một bản thuyết trình có thể là một thử thách chán ngắt và mất thời gian .
+Trước khi sao lưu , bạn cần kiểm tra đĩa để tìm các lỗi ( bằng cách sử dụng ScanDisk hay một tiện ích tương tự ) , khử phân mảnh cho ổ đĩa , và chạy một tác vụ quét virus hoàn chỉnh .
+Trước khi bạn cài đặt bất kỳ thứ gì , cần thực hiện các biện pháp phòng ngừa sau .
+Trước khi thực hiện các bước dưới đây , bạn hãy đóng bất kỳ chương trình nào đang chạy và bảo đảm rằng không có đĩa trong ổ đĩa mềm của hệ thống của bạn .
+Trước khi sử dụng bất kỳ tài nguyên trợ giúp trực tuyến từ xa nào , bạn cần đọc tất cả các thông tin mà công ty cung cấp về nó .
+Hãy cư xử như thể đích thân bạn đang giao tiếp .
+Tuy nhiên , ở phía sau các giao diện của chúng , các chương trình máy tính này có nòng cốt là một hệ quản trị CSDL .
+Đã từng có thời mà việc là một sinh viên đồng nghĩa với việc sở hữu một kệ đầy các sách tham khảo .
+Bạn có tin nó hay không một số người có thể chơi các trò chơi để kiếm sống .
+Bên dưới thanh tiêu đề , đa số các chương trình chứa đựng một thanh menu và các thanh công cụ cho phép bạn truy xuất nhanh chóng tới các tùy chọn và các lệnh .
+Song song với việc cung cấp các yêu cầu ngắt và các trình điều khiển dùng để làm việc với các thiết bị riêng lẻ , hệ điều hành còn có thể cho phép bạn làm việc với nhiều máy tính trên một mạng .
+Ngoài bộ hiển thị , một thiết bị xuất quan trọng khác là máy in .
+Ngoài các thông điệp một người gửi cho một người vốn phổ biến trên các hệ thống thư điện tử Internet và LAN , thư điện tử Internet cũng được sử dụng cho các thông điệp một người gửi tới nhiều người , trong đó cùng một tập các thông điệp được gửi tới một danh sách gồm nhiều tên .
+Giữa máy phục vụ ở đích đến và máy PC của bạn , yêu cầu và các dữ liệu có thể đi qua nhiều máy phục vụ khác nhau , mỗi máy sẽ giúp gửi chuyển tiếp các gói tin tới đích sau cùng của chúng .
+Giữa hai đợt phát hành của Windows 95 và Windows 98 , sự chú ý của cả thế giới máy tính đã tập trung vào một hệ điều hành mới khác , được gọi là Linux .
+Ngoài ra , bạn có thể thực hiện một loạt các tác vụ sao lưu một phần - hoặc sao lưu dồn ( những tập tin đã thay đổi kể từ lần sao lưu một phần sau cùng ) hoặc sao lưu có phân biệt ( những tập tin đã thay đổi kể từ lần sao lưu đầy đủ sau cùng ) .
+Ngoài các hệ điều hành đi kèm theo với các máy tính , việc thiết lập và định cấu hình mạng trong một mạng gia đình thường không đòi hỏi thêm ứng dụng nào nữa .
+Các trường nhị phân cho phép các hình đồ họa và các hạng mục phi văn bản khác được lưu trữ trong một CSDL .
+Các trường nhị phân lưu trữ các đối tượng nhị phân , hay các BLOB .
+Đồ họa bitmap định nghĩa các hình ảnh như là một khung lưới các ô , mỗi ô được tô một màu .
+Các ảnh bitmap cũng có thể được gọi là các ảnh ánh xạ bit .
+Các đường viền và các nền có thể làm cho một bản thuyết trình chán ngắt trở nên hấp dẫn hơn .
+Các đường viền tách bạch các phần tử khác nhau và giúp thu hút sự tập trung của người xem vào những phần riêng lẻ của slide .
+Cả hai đều nằm trên bo mạch chính của máy tính , tức bo mạch nối CPU với các thiết bị phần cứng khác .
+Cả hai đều thuộc loại lưu trữ từ tính vì chúng ghi nhận dữ liệu như là các từ trường .
+Cả họ Motorola 680x0 lẫn họ Intel 80x86 đều là các bộ xử lý điện toán có tập chỉ thị phức hợp ( CISC ) .
+Cả phần mềm mạng lẫn NIC đều phải tôn trọng triệt để một giao thức mạng , đã được giới thiệu ở một phần trước .
+Cả sóng âm thanh lẫn tín hiệu điện thoại đều là các tín hiệu tương tự ; chúng biến thiên liên tục theo âm lượng và cao độ của tiếng nói của những người nói .
+Cả hai loại đĩa mềm đều tiến hóa từ những mật độ thấp tới những mật độ cao hơn .
+Note - takers , bàn phím , màn hình và máy in dùng chữ Bray ( còn gọi là chữ nổi ) đều có thể làm được .
+BRI cung cấp ba kênh liên lạc trên một đường dây - hai kênh dữ liệu 64 hoặc 56 Kbps và một kênh 19 Kbps được sử dụng để thiết lập và kiểm soát các cuộc gọi .
+Hãy mô tả vắn tắt ý nghĩa của sự hội tụ kỹ thuật số .
+Sự tích tụ của bụi bẩn và dầu ở ngón tay của người sử dụng có thể ảnh hưởng đến sự thể hiện của trackpad , làm cho nó kém nhạy hơn .
+Các tính năng được xây dựng sẵn gồm một tài liệu hướng dẫn người sử dụng , một từ điển , các công cụ dò tìm và đánh dấu , năng lực chú giải , và nhiều thứ khác .
+Các ổ đĩa cứng lắp trong không thể dễ dàng được mang từ máy tính này sang máy tính khác .
+Có micro và loa được gắn sẵn , cho phép người sử dụng ghi âm giọng nói bằng kỹ thuật số .
+Các công cụ vẽ đi kèm cũng cho phép bạn vẽ các hình đồ họa đơn giản và thêm chúng vào các slide của mình .
+Các công nghệ bus như Bus Tuần tự Phổ quát ( USB ) và IEEE 1394 cho phép người sử dụng nối nhiều thiết bị thông qua một cổng đơn .
+Các tổ chức kinh doanh , các cơ quan nhà nước , các trường học , và những cá nhân tạo ra một số lượng không kể xiết các tài liệu dành cho vô số các mục đích .
+Hiện nay các tổ chức kinh doanh và các chính phủ đang duy trì các CSDL khổng lồ chứa những thông tin về các cá nhân .
+Các tổ chức kinh doanh có thể giải quyết vấn đề này bằng cách xác định những dữ liệu nào được sử dụng bởi nhiều hơn một người , sau đó lưu trữ những dữ liệu đó trên một máy phục vụ mạng ( gọi tắt là máy phục vụ ) - một máy tính trung tâm cung cấp một thiết bị lưu trữ và các tài nguyên hệ thống khác mà mọi người sử dụng có thể chia sẻ .
+Hiện nay các tổ chức kinh doanh sử dụng gần 6 , 5 triệu tấn giấy mỗi năm .
+Các tổ chức kinh doanh nối kết mạng của họ tới Internet có thể sử dụng các bức tường lửa để ngăn chặn những người dùng không được phép , không cho họ truy xuất những thông tin thuộc quyền sở hữu .
+Nhưng với sự phát triển của công nghệ , các phương pháp phân phối khác nhau hứa hẹn sẽ trở nên giống nhau hơn sao cho một ngày nào đó , bất kỳ sản phẩm nào cũng trông như nhau và hoạt động như nhau không phụ thuộc vào cách thức nó được đưa đến người sử dụng cuối .
+Nhưng cả hai phép chiếu dành cho các quý ba và bốn đều cần tham chiếu tới ô E6 , tham chiếu này được thực hiện bằng cách sử dụng các tham chiếu ô tuyệt đối .
+Tuy nhiên , mỗi tài liệu đơn lẻ trên World Wide Web đều có riêng URL không trùng lắp của nó .
+Nhưng hiện nay và cả trong tương lai trước mắt , kỹ thuật gõ bàn phím vẫn là cách thông thường nhất để nhập văn bản và các dữ liệu khác vào máy tính .
+Nhưng nếu đoạn chữ là một cảnh trong vở kịch Hamlet và phần video hiển thị cùng cảnh đó với chân dung trong phim của ngài Laurence Olivier thì đoạn trích video trên làm cho phần chữ thú vị hơn .
+Nhưng nếu bạn dự tính tìm một nghề nghiệp trong lĩnh vực lập trình , quản lý cơ sở dữ liệu , quản trị mạng , hoặc quản trị Web , bạn nên tìm một bản sao của Linux và bắt tay vào làm chủ nó .
+Nhưng nếu bạn sử dụng thư điện tử thường xuyên và muốn truy xuất thư của mình từ một trình duyệt bất kỳ ( mà không cần phải đăng nhập vào tài khoản ISP của mình ) , thư điện tử dựa trên Web sẽ tiết kiệm thời gian rất nhiều .
+Nhưng điều đó cũng không hề gì nhất là nếu như bạn cần tạo các hình đồ họa cho các báo cáo , các trang Web hay các dự án khác .
+Nhưng cũng giống như bất kỳ công cụ mạnh mẽ nào , chúng có thể được sử dụng và bị lạm dụng .
+Nhưng việc thêm dây cáp và thiết bị bổ sung ( chẳng hạn như một hub ) sẽ khiến cho mạng của bạn dễ quản lý hơn .
+Nhưng nhu cầu ngày càng tăng đối với truyền thông đa phương tiện đã biến màu sắc , đồ họa , hoạt hình , video toàn động , và âm thanh stereo thành các năng lực quan trọng của hầu như mọi máy tính thế hệ mới và nhiều ứng dụng phần mềm .
+Nhưng có một số lượng hữu hạn các sự kiện hay các trường về mỗi nhân viên .
+Nhưng thế nào gọi là có hiểu biết về máy tính và tại sao nó lại rất quan trọng ?
+Nhưng khi các thông tin này được hiển thị trong một biểu đồ , như trong Hình 2.13 , bạn có thể dễ dàng thấy các sản phẩm nào bán chạy nhất và tháng nào có doanh số cao nhất .
+Nhưng không phải lúc nào bạn cũng tạo mới mọi thứ từ ban đầu , việc bạn bắt đầu bằng một hình ảnh có sẵn , rồi chỉnh sửa hay nâng cao chất lượng của nó thông qua phần mềm đồ họa là rất bình thường .
+Nhưng thậm chí bạn cũng không phải cần tới một ISP để có được một trang Web miễn phí .
+Nhưng bạn có thể cần phải kết nối một thiết bị điều khiển đặc biệt vào PC của mình trước khi chơi một số trò nhất định , vốn có thể đòi hỏi một cần điều khiển , một bánh lái hoặc một tay cầm điều khiển đa chức năng .
+Các nút là những vùng trên màn hình mà bạn có thể nhấn vào để khởi đầu một hành động hay tác vụ .
+Mua một máy tính cũng tương tự như mua xe hơi vậy , bởi vì có rất nhiều kiểu và nhiều lựa chọn để chọn .
+Vào năm 1994 , những phần đầy đủ đã được chắp nối lại với nhau và phiên bản đầu tiên của Linux đã được phát hành cho bất kỳ ai muốn nạp nó xuống .
+Vào năm 1994 , khi có nhiều người bắt đầu lướt trên Internet , mọi người mới bắt đầu nhận thức được tiềm năng của nó .
+Vào năm 2001 , các ổ đĩa DVD - ROM chắc chắn sẽ thế chỗ cho các ổ đĩa CD - ROM như là ổ đĩa quang tiêu chuẩn trên các máy tính để bàn , cung cấp các năng lực lưu trữ ít nhất 17 GB .
+Vào năm 2002 hoặc 2003 , các đĩa cứng 1 TB ( tức tera byte , hay 1 nghìn tỉ byte ) sẽ trở thành thiết bị tiêu chuẩn trên các máy tính để bàn .
+Bằng cách nhận vào dữ liệu nhập từ người sử dụng , các phương tiện tương tác tạo ra một vòng lặp phản hồi , nói chung hoạt động như sau .
+Qua việc truy xuất dữ liệu trên một máy chủ phục vụ trung tâm hoặc chia sẻ các tập tin bằng thư điện tử , những người sử dụng nhận thấy rằng họ có thể giảm bớt sự lệ thuộc của chúng vào các tài liệu in rất nhiều .
+Bằng cách thêm tất cả các loại hình ảnh vào trong các tài liệu HTML , các nhà thiết kế Web làm cho các Web site của họ trở nên hấp dẫn và lôi cuốn người xem hơn .
+Bằng cách xây dựng một mẫu hình trong VR , một nhà thiết kế có thể giải quyết các sai sót của quá trình thiết kế và xây dựng trước khi sản phẩm rời bàn vẽ .
+Bằng cách liên tục chọn các tùy chọn và sử dụng cần điều khiển để điều khiển hành động trên màn hình , người sử dụng có thể kiểm soát mạch chảy nội dung của chương trình .
+Bằng cách nhấp chuột vào các nút nhấn thích hợp , bạn có thể di chuyển tới lui qua nội dung của sản phẩm .
+Bằng cách nhấp chuột vào biểu tượng này , người trình bày có thể kích hoạt một player và phát ra tập tin âm thanh đó trực tiếp từ đĩa của máy PC .
+Bằng cách kết hợp các loại phương tiện khác nhau để biểu đạt thông điệp , nhà phát triển bộ bách khoa toàn thư đã cải tiến khả năng có thể cho người sử dụng hiểu và nhớ thông tin .
+Bằng cách nối kết các mạng của họ tới Internet , các công ty đang tạo ra những cách mới để tiến hành công việc kinh doanh và để các nhân viên làm việc .
+Bằng cách nối kết máy tính của mình với mạng điện thoại , bạn có thể gửi các dữ liệu tới bất kỳ ai trên thế giới người mà có một máy tính và dịch vụ điện thoại , và bạn không cần phải xây dựng một mạng để làm điều này .
+Bằng cách kiểm soát lượng điện áp tại những điểm khác nhau trên lưới , mỗi điểm trở thành một điểm ảnh hiển thị một hình ảnh .
+Bằng cách chuyển đổi bản thuyết trình đó thành định dạng HTML rồi gửi nó lên Internet hoặc một mạng intranet , bạn có thể làm cho bản thuyết trình này khả dụng cho những ai muốn xem trực tuyến .
+Tính theo tương quan , số lượng các sản phẩm có trên CD - ROM vẫn tiếp tục gia tăng với tốc độ rất lớn .
+Bằng cách tạo ra các ứng dụng nhận biết Internet , các nhà thiết kế phần mềm cố gắng làm cho Internet trở nên dễ truy xuất và hữu dụng như đĩa cứng của máy tính của bạn .
+Theo mặc định , các tài liệu được đặt hướng xoay đứng ( hay hướng xoay cao ) , trong đó chiều đứng của tài liệu cao hơn chiều ngang của nó , giống như các trang trong quyển sách này .
+Theo mặc định , gián cách đoạn thì tương tự như gián cách dòng .
+Theo thiết kế , một cổng nối cung cấp hai lợi thế so với một trang chủ cá nhân điển hình .
+Bằng cách rút ra từ những thông tin được lưu trữ trong CSDL của một bộ phận trợ giúp kỹ thuật , những người thiết kế sản phẩm có thể tìm thấy những tính năng không được ưa thích trong những sản phẩm của họ và sửa chữa những vấn đề này trong các phiên bản mới hơn .
+Bằng cách khảo sát các xác lập màu sắc của máy PC của bạn , bạn có thể xác định các xác lập thích hợp nhất cho mình .
+Cho đến hiện giờ , ứng dụng lớn nhất của công nghệ truyền thông đa phương tiện dùng trong thương mại là lĩnh vực giải trí .
+Bằng cách kết hợp các công nghệ mới chẳng hạn như MPEG , Java , shockwave và các dạng thức khác cho phép nén các dòng truyền thông được nhiều hơn , hiệu năng của các sản phẩm trên CD - ROM tiếp tục được nâng cao .
+Bằng cách hít vào ( nhấn vào ) và thổi ra ( phụt ra ) qua một đường ống , người sử dụng có thể điều khiển các chức năng hệ thống khác nhau .
+Qua việc gắn kết nhiều mạng riêng lẻ thành một mạng quy mô lớn duy nhất ( như Internet ) , mọi người trên khắp thế giới có thể chia sẻ các thông tin như thể họ chỉ cách nhau một căn phòng .
+Bằng cách khai thác những công nghệ như vậy , các dịch vụ trực tuyến mới sẽ cung cấp các dịch vụ lưu trữ dữ liệu khối lượng lớn ( lưu trữ chính chứ không phải lưu trữ dự phòng ) cho những người sử dụng gia đình và doanh nghiệp nhỏ .
+Thông qua những thay đổi này , người tiêu dùng mở ra một đường truyền rộng hơn để lưu chuyển nội dung khiến cho các sự kiện truyền thông đa phương tiện trực tuyến dễ truy cập hơn bao giờ hết .
+Qua việc đẩy các kim ra theo nhiều tổ hợp khác nhau , đầu in có thể tạo ra các ký tự chữ số và chữ cái .
+Bằng cách đọc các bài viết trong một mạch , bạn có thể thấy thông điệp đã khởi xướng cuộc thảo luận và tất cả các thông điệp đã được gửi lên để trả lời nó .
+Qua một số đánh giá , linux chạy trên hơn 10 triệu máy tính , một con số đang tăng thêm nhanh chóng .
+Bằng cách nối kết lại với nhau một loạt các hình ảnh ( chẳng hạn như một loạt các tấm ảnh tạo ra một cái nhìn toàn cảnh về toàn bộ một căn phòng hay phần bên trong của một chiếc xe ) , QuickTime VR có thể được dùng để tạo ra các môi trường 3 chiều ảo trông và cảm giác rất giống như các môi trường 3 chiều nhân tạo được tạo bởi các máy trạm VR đắt tiền .
+Bằng cách bao quanh các yếu tố chữ bằng các mã lệnh đặc biệt - gọi là các thẻ HTML - nhà thiết kế có thể khiến cho các phần chữ khác nhau được trình duyệt Web hiển thị theo các cách khác nhau .
+Vào những năm đầu thập kỷ 1990 , sự quan tâm tới Internet đã bắt đầu mở rộng một cách đột ngột .
+Cuối những năm 1980 , họ IBM nhanh chóng đưa con chuột lên vị trí thứ hai của thiết bị nhập .
+Nhiều ngàn người đang sử dụng các phần mềm ứng dụng cơ sở để tạo ra các trang Web .
+Khi Internet bắt đầu trở thành một từ thông dụng trong những năm đầu của thập kỷ 1990 , nó đã tồn tại được hơn ba mươi năm .
+Khi Motorola giới thiệu chip 68060 vào năm 1993 , intel đang quảng cáo mạnh mẽ chip Pentium .
+Vào thời điểm các máy tính cỡ nhỏ đang được phát triển , viện tiêu chuẩn quốc gia Hoa Kỳ ( ANSI ) bắt đầu định nghĩa các tiêu chuẩn mã văn bản mới cho các máy tính .
+Vào thời điểm bạn đọc những dòng này , các tốc độ đồng hồ vượt quá 800 MHz có lẽ sẽ trở nên bình thường .
+Khi bạn đang đọc câu này , tốc độ các ổ đĩa chắc chắn sẽ còn cao hơn nữa .
+Nhiều họa sĩ đồ họa chuyên nghiệp hiện nay , bằng cách đưa các kỹ năng vẽ hình và thiết kế của họ vào máy tính , đã mở rộng danh mục vốn đầu tư và danh sách khách hàng của họ ra rất nhiều .
+Bằng cách sử dụng một ứng dụng cắm thêm để bổ sung thêm năng lực xem 3 - D cho trình duyệt , bạn có thể thăm những thế giới 3 - D chứa đầy các toà nhà , các phong cảnh và các nhân vật hoạt hình , và di chuyển chúng theo ý thích trong một trò chơi video .
+Bằng cách sử dụng một tiến trình được gọi là đồng tác , nhiều người sử dụng có thể cùng lúc gửi các đơn vị công việc in cho một máy in .
+Bằng cách sử dụng một máy tìm kiếm và chỉ rõ chủ đề mà bạn quan tâm , bạn có thể tìm được site hoặc thông tin thích hợp .
+Bằng cách sử dụng một kỹ thuật được gọi là đặt ống dẫn , nhiều CPU có thể nhiều hơn một chỉ thị cùng lúc .
+Bằng cách sử dụng các phần mềm vẽ hình và tô vẽ cơ bản đã được nêu trước đây trong sách này , việc tạo hay chỉnh sửa các hình đồ họa để dùng trong một trang Web là rất dễ dàng .
+Bằng cách sử dụng các tiện ích nén , bạn có thể nén nhiều tập tin vào trong một tập tin lưu trữ đơn lẻ .
+Qua việc sử dụng các biểu mẫu , bạn có thể tạo ra các chế độ xem dữ liệu đơn giản , dễ hiểu vốn chỉ cho thấy mỗi lần một bản ghi .
+Bằng cách sử dụng các chương trình truyền thông đa phương tiện và các cơ chế chuyển tải như Internet và truyền hình , trường học có thể hỗ trợ cơ chế học từ xa cho phép sinh viên theo các lớp mà không cần phải đến trường .
+Bằng cách sử dụng các công nghệ của RealNetworks , các nghệ sĩ chẳng hạn như Jimmy Buffer , ban nhạc Rolling Stones và những nghệ sĩ khác có thể cung cấp âm nhạc và video trên Web và có thể phát các buổi hòa nhạc trực tiếp trực tuyến .
+Tuy nhiên , bằng cách sử dụng các hàm bảng tính , bạn có thể đi tới câu trả lời .
+Bằng việc sử dụng các bảng tính mẫu , các font lớn , các phiên bản chỉ có văn bản của các trang , audio clips , plug - ins , và các kỹ thuật khác , các nhà thiết kế đang làm cho Web trở thành môi trường thân thiện nhiều hơn đối với những người khuyết tật .
+Thông qua máy tính , họ cho ra các bản thiết kế và phác thảo không những thật chính xác mà còn đáp ứng về mặt thẩm mỹ .
+Bằng cách sử dụng PC để điều khiển chương trình , người sử dụng có thể lựa chọn , di chuyển tự do từ phần này sang phần khác của nội dung và trong một số trường hợp tùy biến nội dung để phù hợp với một mục đích cụ thể .
+Bằng cách sử dụng lệnh Save As HTML ( hoặc Save As Web Page ) của chương trình , bạn có thể chuyển đổi một tài liệu có sẵn thành một tập tin HTML , sẵn sàng để được gửi lên một máy phục vụ Web .
+Bằng cách sử dụng các công cụ hỗ trợ Web để tạo ra các biểu mẫu mà các khách hàng có thể sử dụng trong trình duyệt Web của họ , Federal Express ( và nhiều công ty khác ) đã cung cấp cho các khách hàng của họ một cửa ngõ đi vào CSDL của họ .
+Bằng cách ghé thăm các Web site như Hotmail , Mail . com , Yahoo ! và một số site khác , bạn có thể thiết lập một tài khoản thư điện tử miễn phí .
+Thông qua WebTV , một số mạng đã bắt đầu tích hợp các chương trình của chúng với các nội dung đặc biệt chỉ dành riêng cho những người sử dụng WebTV cho phép người xem tham gia vào chương trình .
+Dây cáp có thể truyền không chỉ các dữ liệu mà còn cả âm thanh và video truyền liên tục đồng thời , ở một tốc độ cao hơn nhiều so với tốc độ khả dĩ trên các đường dây điện thoại bình thường .
+Dịch vụ modem cáp không đòi hỏi sử dụng một modem bình thường .
+Dịch vụ modem cáp còn phải mất một thời gian để phát triển vì nó đòi hỏi các hệ thống dây cáp phải thiết lập các máy phục vụ Internet cục bộ ( để cung cấp khả năng truy xuất tới Web , thư điện tử và bản tin ) và thiết lập các nối kết tới xương sống Internet .
+Các modem cáp đang nhanh chóng trở thành một nối kết tốc độ cao phổ biến vì chúng sử dụng dây cáp đồng trục được lắp đặt sẵn trong nhiều gia đình .
+Các modem cáp thường hỗ trợ các tốc độ truyền xuôi dòng ( từ Internet tới máy tính của bạn ) bằng 10 Mbps .
+Các dịch vụ dây cáp đã cố gắng khắc phục những vấn đề liên quan tới công nghệ , đáng chú ý nhất là sự tác động đáng kể lên hiệu suất tổng thể khi số lượng người sử dụng tăng lên .
+Các hệ thống truyền hình cáp gửi các dữ liệu tới những người dùng thông qua cáp đồng trục , loại cáp có thể truyền dữ liệu ở tốc độ nhanh hơn gấp 100 lần so với tốc độ của các đường dây điện thoại bình thường và ở một băng thông lớn hơn nhiều .
+Các dây cáp được sử dụng để nối kết một mạng lại thành một tô pô , như đã được mô tả ở một phần trước .
+Các dây cáp từ các ổ đĩa và từ một số thiết bị bên trong khác cũng có thể được cắm vào bus này .
+Bộ nhớ cache ( đọc là cash ) tương tự như RAM , chỉ khác là nó cực kỳ nhanh so với bộ nhớ bình thường và được sử dụng theo một cách khác .
+Cache bộ nhớ là một loại bộ nhớ tốc độ cao , chứa đựng các dữ liệu và các chỉ thị vừa mới được CPU nạp .
+CAD được dùng rộng rãi trong các lĩnh vực kỹ thuật chẳng hạn như kiến trúc và trong cơ khí , điện tử và kỹ thuật công nghiệp .
+Các chương trình CAD đạt được một độ chính xác cao như vậy bằng ba cách .
+Các chương trình CAD là những chương trình dựa trên toán học và tận dụng ưu điểm của bộ xử lý số thực dấu chấm động để thực hiện các phép tính .
+Thực ra , các chương trình CAD chính xác đến nỗi chúng có thể cho ra các bản thiết kế chính xác đến micro - mét - hay là một phần triệu của mét .
+Các chương trình CAD thường không lưu trữ các đối tượng như các đối tượng ; thay vào đó , chúng lưu trữ các thuộc tính đối tượng trong một cơ sở dữ liệu .
+Các chương trình CAD đã được tạo ra cho nhiều nền máy tính khác nhau .
+Phần mềm CAD cho phép những người dùng thiết kế các đối tượng 3 chiều ( 3 - D ) và có thể cho ra các mô hình khung 3 chiều và mô hình lập thể .
+Phần mềm CAD cũng được dùng trong các ngành nghề thiết kế khác chẳng hạn như thiết kế vải sợi và quần áo , thiết kế sản phẩm và bao bì và những ngành khác .
+Được gọi là các modem fax , những thiết bị này có thể trao đổi các bản fax với bất kỳ modem fax hoặc máy fax nào khác .
+Dây cáp có thể chạy qua các bức tường hay nó buộc phải chạy qua các trần nhà ?
+Người sử dụng luôn có khả năng trở về một điểm bắt đầu duy nhất hay không ?
+Bạn có thể hình dung một tác vụ mà trong đó năng lực này sẽ hữu ích không ?
+Bạn có thấy bảng mạch chính , ram và các bộ xử lý ?
+Bạn có thể biết bộ nhớ có dung lượng bao nhiêu ?
+Có khả năng lập địa chỉ 64 GB bộ nhớ , athlon cũng có các thanh ghi 64 bit .
+Phím Caps Lock không ảnh hưởng đến những phím số hay những phím tạo dấu ngắt hay những ký tự đặc biệt .
+Các đại lý cho thuê ô tô ( như Hertz , Avis , . . . ) lần lượt cung cấp các hệ thống có màn hình xúc giác tại quầy tính tiền của họ để khách hàng có thể nhanh chóng truy cập và in ra các chỉ dẫn về xe .
+Những nghề nghiệp trong các dịch vụ dữ liệu có thể đòi hỏi bạn làm việc với nhiều nền phần cứng và hệ điều hành khác nhau .
+Nghề nghiệp trong lĩnh vực truyền thông đa phương tiện rất đa dạng và nhiều như các sản phẩm truyền thông đa phương tiện .
+Phần mềm dạy học CBT hầu hết được cung cấp trong đĩa compact vốn rất tiện lợi cho những người làm việc tại công trường và các văn phòng ở xa .
+Các sản phẩm CBT là những phương pháp đào tạo nổi tiếng trong các tập đoàn được dùng để đào tạo nhân viên về các sản phẩm , các chính sách của công ty và nhiều thứ khác .
+Các thiết bị cặp nạp điện thường được dùng trong các máy quét , máy quay phim cũng như trong các máy ảnh kỹ thuật số .
+Các ổ đĩa CD - R cho phép bạn tạo ra các đĩa CD - ROM của riêng mình mà chúng có thể được đọc bởi bất kỳ ổ đĩa CD - ROM nào .
+Các thiết bị CD - Ghi lại được ( CD - RW ) đang ngày càng rẻ hơn và phổ biến hơn .
+Mỗi năm , hàng ngàn đĩa CD - ROM và Website được sản xuất cho phép người sử dụng hiển thị các thông tin đồ họa dành cho người lớn trên các PC của họ .
+Các ổ đĩa CD - ROM được đặt tên bằng chữ cái khả dụng đầu tiên sau tên của các ổ đĩa cứng - thường là chữ cái D .
+CD - ROM là phương tiện được sử dụng rộng rãi nhất để phân phối các chương trình truyền thông đa phương tiện .
+Đĩa CD - ROM sử dụng công nghệ giống như công nghệ của một đĩa CD nhạc ; một thiết bị laser đọc các land và các pit trên bề mặt của đĩa .
+CD - ROM sử dụng cùng một công nghệ được sử dụng để sản xuất các đĩa CD nhạc .
+Các đĩa CD - ROM và các đĩa mềm là các thiết bị lưu trữ chậm nhất .
+Các đĩa CD - ROM có các tốc độ từ 300 KBps đối với một ổ đĩa tốc độ kép , tới 900 KBps đối với một ổ đĩa 6X , tới các tốc độ thậm chí cao hơn nữa , với tốc độ truyền dữ liệu tương ứng với tốc độ của ổ đĩa .
+Các ô cũng có thể chứa các hình đồ họa , các tập tin âm thanh , và các tập tin video và hoạt hình .
+Các ô có thể được gửi theo các khối , theo những lộ trình khác nhau nếu cần , thậm chí không theo thứ tự ( vì gói tin chứa đủ thông tin để các dữ liệu có thể được đặt trở lại theo thứ tự đúng ) .
+Các ô chứa các dữ liệu trong phiếu công tác .
+Chắc chắn , như là một công cụ trao đổi thông tin cá nhân , nghiên cứu , thương mại và giải trí , internet là một bửu bối không thể thiếu được mà bạn nên nắm vững .
+Tất nhiên , bạn có thể sử dụng máy tính mà không cần phải gõ phím , và nhiều người đã làm như vậy .
+Phấn vẽ , màu nước và các kết cấu là một ít trong số các hiệu ứng có trong các chương trình tô vẽ tinh vi .
+Việc thay đổi một tài liệu có sẵn được gọi là biên tập tài liệu đó .
+Thay đổi một hình ảnh được tạo bằng một chương trình tô vẽ cũng giống như ta nạy các viên gạch lát sàn lên rồi thay thế chúng bằng các viên gạch lát khác .
+Việc thay đổi tốc độ quay làm mất thời gian - đủ để làm suy giảm nghiêm trọng hiệu suất tổng thể của ổ đĩa CD - ROM .
+Các kênh là các nhóm thảo luận mà trong đó những người dùng họp lại để bàn luận về một chủ đề .
+Hoạt ảnh có nhân vật là nghệ thuật tạo ra một nhân vật và làm cho nó di chuyển trong cách thức giống như thật .
+Các định dạng ký tự bao gồm các font , các kích cỡ font , kiểu dạng font , và màu sắc .
+Việc định dạng ký tự bao gồm những xác lập kiểm soát những thuộc tính của những ký tự văn bản riêng lẻ , chẳng hạn như font , kích cỡ chữ , kiểu dạng chữ và màu sắc .
+Các ký tự được đo từ đỉnh của những chữ cái cao nhất ( chẳng hạn như T và P ) cho tới điểm tận cùng của những chữ cái kéo dài xuống bên dưới đường cơ sở ( chẳng hạn như g và p ) .
+Các biểu đồ làm cho các dữ liệu dễ hiểu hơn - chẳng hạn , khi trình bày dữ liệu cho mọi người xem .
+Các thông điệp hội thoại được gõ trên máy tính của một người dùng và được gởi tới kênh IRC , và ở đó tất cả những người dùng tham gia vào kênh nhận được thông điệp .
+Các phòng hội thoại là các hội nghị công cộng , được tiến hành trong thời gian thực , ở đó mọi người gia nhập vào các kênh để thảo luận về những chủ đề mà họ cùng quan tâm .
+Hãy kiểm tra menu Programs như bạn đã làm trong Bài thực hành .
+Hãy kiểm tra các xác lập trong mỗi thẻ và ghi chúng lại .
+Kiểm tra các xác lập trong các mục Colors và Screen Area và ghi chúng ra giấy .
+Hãy kiểm tra các xác lập này nhưng đừng thay đổi chúng .
+Hãy liên hệ với nhà phát triển của hệ điều hành để xem họ có một danh sách tương thích phần cứng hay không .
+Hãy kiểm tra PC của bạn xem có một cổng trò chơi chuyên dụng hay một cổng USB hay không .
+Hãy kiểm tra trình đơn Programs để biết các chương trình có thể được dùng cho đồ họa .
+Kiểm lỗi chính tả trong một tài liệu trong WordPerfect .
+Các nhà sản xuất chip như Intel , Motorola , Advanced Micro Devices ( AMD ) và các hãng khác vẫn đang tiếp tục chứng minh rằng sức mạnh tiềm tàng của máy tính cá nhân dường như không hề có giới hạn .
+Hãy chọn một bộ chuyển đổi có khả năng khử rung hình .
+Hãy chọn một máy tính để bàn nếu bạn muốn .
+Chọn các xác lập khác theo sự hướng dẫn của giáo viên , sau đó nhấn nút Start .
+Hãy chọn tùy chọn Cut , từ được đánh dấu biến mất khỏi màn hình của bạn .
+Việc chọn một trang khởi đầu là một quyết định cá nhân , dựa trên những dạng thông tin mà bạn muốn thấy khi bạn mở trình duyệt của mình .
+Việc chọn loại tốt nhất thường chỉ là một vấn đề cân nhắc các nhu cầu về tốc độ , dung lượng lưu trữ , tính tương thích ( nó sẽ hoạt động được trong các máy tính khác không ? ) , và giá cả .
+Cisco cũng đưa ra chương trình đào tạo cấp chứng chỉ về nhiều lĩnh vực của các công nghệ nối mạng .
+Rõ ràng là tiếng nói và dữ liệu có các yêu cầu băng thông khác nhau .
+Nhấp chuột vào một từ hay một hình ảnh siêu liên kết , và trình duyệt của bạn sẽ tự động tìm và nạp trang Web do siêu liên kết đó chỉ ra .
+Nhấn vào bất kỳ biểu tượng nào và nội dung của nó sẽ hiện ra ở ô bên phải .
+Hãy nhấp chuột vào bất kỳ nơi nào bên ngoài phím điều khiển âm thanh để đóng nó lại .
+Nhấn Cancel để đóng hộp thoại mà không làm thay đổi gì cả .
+Hãy nhấp nút Cancel để đóng hộp thoại Display Properties , sau đó hãy đóng cửa sổ Control Panel .
+Hãy nhấp nút Cancel để đóng hộp thoại Multimedia Properties ; sau đó hãy đóng cửa sổ Control Panel .
+Nhấn vào phía trước của từ country để đưa con trỏ chèn tới đó ; nhấn phải lần nữa .
+Nhấn vào hộp Address của trình duyệt ( nó có thể được gọi là hộp Location ) và gõ vào địa chỉ của máy tìm kiếm mà bạn muốn xem , ví dụ http : / / www . yahoo . com / .
+Bạn hãy nhấp chuột vào nhiều thư mục và xem lại nội dung của chúng trong khung bên phải .
+Hãy nhấp vào nút Advanced để hiển thị các tùy chọn khác có thể có trên hệ thống của bạn .
+Nhấp chuột vào mũi tên của hộp danh sách thả xuống Colors và chọn xác lập màu sắc thấp nhất .
+Nhấp chuột vào khung trang Device Manager ; sau đó nhấp chuột vào dấu cộng nằm kế card điều hợp Network .
+Nhấn vào mũi tên của hộp danh sách thả xuống kế bên hộp Which drive do you want to defragment ?
+Bạn nhấn vào liên kết đó và một danh sách các hướng dẫn và tùy chọn sẽ xuất hiện .
+Nhấp chuột vào kiểm soát thanh trượt trong khung Screen Area và kéo nó tới xác lập thấp nhất .
+Nhấn nút Start , trỏ tới Programs , trỏ tới Accessories , trỏ tới System Tools , sau đó nhấp chuột vào Disk Defragmenter .
+Nhấn nút Start , trỏ tới Programs , trỏ tới Accessories , trỏ tới System Tools , sau đó nhấn vào ScanDisk .
+Nhấp vào nút Start , trỏ tới Setting , nhấp vào Control Panel .
+Nhấn vào nút Start , trỏ tới Settings , sau đó nhấp chuột vào Control Panel .
+Nhấn vào nút Star trên thanh công cụ Windows để mở thực đơn Star .
+Nhấn vào nút Start trên thanh tác vụ của Windows để mở Start menu .
+Nhấn vào nút Start trên thanh công cụ của Windows để mở thực đơn Start .
+Nhấn vào nút Start để mở thực đơn Start , sau đó nhấn Settings , Control Panel .
+Nhấn vào thanh trên đầu của hộp thoại Keyboard Properties và xem thật kỹ các cài đặt hiện thời .
+Nhấp chuột để tô sáng một hạng mục được liệt kê bên dưới Hard Disk Controllers , sau đó nhấn vào nút Properties .
+Động tác nhấn , nhấn đôi và kéo rê được minh họa trong hình 1.9 .
+Thao tác nhấp chuột lên một thuật ngữ được điểm sáng hiển thị phần định nghĩa cho từ đó .
+Nhấp chuột lên một liên kết có thể sẽ hiển thị một cửa sổ hiển thị tạm thời cung cấp một định nghĩa về thuật ngữ hay một danh sách các liên kết bổ sung .
+Thao tác nhấp chuột lên một từ được gạch dưới mở một cửa sổ trợ giúp mới với các thông tin về thuật ngữ đó .
+Nhấn một vài thứ vào chuột nghĩa là di chuyển con trỏ đến đối tượng trên màn hình và nhấn rồi thả tay ra ngay khỏi nút .
+Việc nhấp chuột vào biểu tượng này khiến máy tính phát ra tập tin âm thanh nếu nó có một card âm thanh và các loa .
+Phần mềm khách hàng ( hoặc người phục vụ ) có thể được sử dụng trên các LAN hoặc các WAN , và một chương trình khách hàng ( người phục vụ ) có thể được sử dụng trên một LAN mà ở đó tất cả các phần mềm khác đều được dựa trên một mối quan hệ máy phục vụ tập tin đơn giản .
+Phần mềm client ( hoặc server ) rất giá trị đối với các tổ chức lớn , hiện đại vì nó phân tán những khối lượng công việc xử lý và lưu trữ giữa các tài nguyên một cách hiệu quả : những người sử dụng nhận được những thông tin mà họ cần nhanh hơn .
+Điện toán client / server cũng là một mô hình thường được sử dụng trên Internet .
+Thư viện hình rời và các ảnh số hóa là những hình ảnh đã có dạng thức số .
+Thư viện hình rời có thể có ở dạng ảnh bitmap lẫn ảnh vector .
+Thư viện hình rời có thể gồm các bức vẽ phác , các hình vẽ cũng như các ảnh chụp chất lượng cao .
+Tốc độ đồng hồ ảnh hưởng rất nhiều tới hiệu suất CPU .
+Các tốc độ đồng hồ 1 GHz ( gigahertz ) đã được đạt tới ( vào đầu năm 2000 ) .
+Hiện nay các tốc độ đồng hồ 500 MHz và cao hơn là điều bình thường , và các tốc độ bộ xử lý đang tăng lên nhanh chóng .
+Đóng cả hai ứng dụng lại mà không lưu bất kỳ tài liệu nào .
+Đóng cửa sổ Exploring bằng cách nhấn vào nút Close ( có ký hiệu X ) ở góc trên bên phải .
+Đóng cửa sổ giúp đỡ bằng cách nhấn vào nút Close ( có ký hiệu X ) ở góc trên bên phải .
+Bạn đóng hộp thoại Modem Properties lại , nhưng để nguyên hộp thoại Control Panel cho bài tập kế tiếp .
+Đóng chương trình bằng cách nhấp chuột vào nút Close ( nút được đánh dấu X trên thanh tiêu đề ) .
+Đóng chương trình bằng cách nhấn vào nút Close ( có một ký hiệu trên nó ) ở góc phải trên của cửa sổ .
+Các kích thước liên cung khác nhau , tùy thuộc vào dung lượng và loại đĩa , nhưng chúng có thể thay đổi từ 4 cung đối với các đĩa mềm cho tới 64 cung đối với một số đĩa cứng .
+Cáp đồng trục , đôi khi được gọi là coax ( đọc là coaxe ) , giống như loại cáp được sử dụng trong các hệ thống truyền hình cáp .
+Các hình đồ họa , các hoạt hình và các văn bản ngắn gọn nhiều màu sắc có thể giúp thuyết phục các khách hàng và cải thiện doanh số .
+Các máy in phun màu có bốn vòi mực : lục lam ( xanh dương ) , đỏ tươi ( đỏ ) , vàng , và đen .
+Các máy in phun mực màu sử dụng bốn màu mực .
+Các máy in laser màu có thể có giá nhiều ngàn đô la .
+Các bộ hiển thị màu hầu như luôn đi kèm theo với các máy tính thế hệ mới .
+Các bộ hiển thị màu có thể hiển thị bất kỳ độ nào , từ 16 màu cho tới 16 triệu màu .
+Các máy in màu luôn đắt tiền hơn các máy in đen và trắng .
+Loại máy quét màu sử dụng các bộ lọc để phân tích các thành phần của màu sắc thành các màu thêm gốc ( đỏ , xanh lá cây và xanh dương ) tại mỗi điểm .
+Các bản tách màu là những trang tách rời được tạo ra cho mỗi màu trong số bốn màu được kết hợp để tạo ảo giác về màu sắc chính thức trên trang in .
+Các màu sắc cho phép bạn tạo nhiều sắc thái khác nhau cho các bản thuyết trình của bạn .
+Các cột là những định dạng hiệu quả đối với những loại tài liệu nào đó .
+Các nhà phát triển phần mềm thương mại cũng đã thực hiện một sự cam kết hỗ trợ Linux , và những người sử dụng có thể trông đợi thấy các ứng dụng phần mềm thông dụng được chỉnh sửa để chạy được trong Linux .
+Các gói phần mềm nhận biết giọng nói máy tính thương mại có các từ vựng được lưu trữ một khối lượng lớn từ hay từ ngữ mà chúng có thể nhận biết .
+Các phiên bản thương mại của Linux , vốn rất rẻ so với giá của các hệ điều hành mạnh mẽ khác , cũng được cung cấp từ Red Hat Software , Corel Corp . , và Caldera Systems , Inc .
+Các dạng thức tập tin phổ biến là BMP , PICT , TIFF , jpeg và GIF .
+Các thiết bị liên lạc thực hiện cả hai chức năng nhập và xuất , cho phép các máy tính có thể chia sẻ thông tin .
+Compact disks ( CDs ) là một loại thiết bị lưu trữ quang học , nó có thể lưu trữ khoảng 74 phút âm thanh audio hoặc 650 MB dữ liệu , hoặc gấp 450 lần so với lượng thông tin lưu trên đĩa mềm .
+Các công ty và các cá nhân cần phải hết sức thận trọng khi mà các tiêu chuẩn vẫn còn đang được định nghĩa .
+Các công ty phải cân nhắc nhiều yếu tố trước khi đầu tư vào một cấu trúc kho chứa dữ liệu .
+Các công ty thường lưu giữ ba bộ bản sao lưu đầy đủ hoặc nhiều hơn nữa , tất cả đều được đặt ở những địa điểm khác nhau .
+Các công ty tập trung vào việc bảo vệ an ninh cho các môi trường điện toán gia đình sẽ nhận thấy những nguồn lợi to lớn trong những thập kỷ sắp tới .
+Các công ty đã từng phục vụ khách hàng theo cách truyền thống là trong các tòa nhà xây bằng gạch và vữa đang dần thiết lập các cửa hàng ảo trên Web .
+Các công ty sử dụng các công nghệ phương tiện mới theo nhiều cách để thực hiện các công việc nội bộ cũng như làm việc với khách hàng hiệu quả hơn .
+Bạn có thể so sánh các con số này với tốc độ quay 300 vòng mỗi phút của một đĩa mềm .
+So với các ổ đĩa cứng , các ổ đĩa CD - ROM hơi chậm , một phần là vì thiết bị laser đọc các pit và các land mỗi lần một bit .
+So với các máy in laser , chi phí hoạt động của một máy in phun mực tương đối thấp .
+So sánh một bộ hiển thị 17 inch với một bộ hiển thị 15 inch .
+Hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hoàn tất các bài tập sau đây như chỉ dẫn bởi giáo viên của bạn .
+Hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hãy hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Bạn hãy hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hãy hoàn tất các bài tập sau theo chỉ dẫn của giáo viên của bạn .
+Bạn hãy hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hãy hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Hãy hoàn tất các bài tập sau theo chỉ dẫn của giáo viên của bạn .
+Hãy hoàn tất các bài tập sau với một máy tính trong lớp học , phòng máy , hoặc gia đình bạn .
+Hãy hoàn tất các bài tập sau với một máy tính trong lớp học , phòng lab , hoặc gia đình bạn .
+Hãy làm các bài tập sau đây bằng cách sử dụng một máy tính ở lớp , trong phòng lab , hoặc ở nhà .
+Hãy làm các bài tập sau đây bằng cách sử dụng một máy vi tính ở lớp của bạn , trong phòng lab , hoặc ở nhà .
+Hãy hoàn tất các bài tập sau bằng cách sử dụng một máy tính trong lớp học , trong phòng thực hành của bạn hay ở nhà .
+Hãy hoàn tất các bài tập sau bằng cách sử dụng một máy tính trong lớp học , trong phòng thực hành của bạn hay ở nhà .
+Các hình ảnh phức tạp và các chương trình dàn trang đòi hỏi bộ nguồn xử lý lớn , và một dàn máy tính để bàn có màn hình rộng giảm sự mệt mỏi cho mắt .
+Các công cụ kết hợp cho phép các nhà sản xuất trò chơi hay các nhà làm phim thêm các nhân vật và các đối tượng vào những cảnh phim mà trước đó vốn không hề có chúng .
+Việc nén các tập tin sẽ không tất yếu cải thiện hiệu năng của một đĩa ; nghĩa là , các tập tin nén sẽ không giảm thiểu thời gian truy xuất của một đĩa .
+Phần mềm thiết kế với sự trợ giúp của máy tính ( CAD ) được dùng trong lĩnh vực thiết kế kỹ thuật để tạo các mô hình cho các đối tượng sẽ được xây dựng hay chế tạo ra .
+Các đoạn hoạt ảnh do máy tính tạo ra thường giống thật đến nỗi thật khó phân biệt chúng so với những thứ trong thế giới thực .
+Hình ảnh do máy tính tạo ra ( CGI ) đã thay đổi thế giới hoạt ảnh theo nhiều cách .
+Thiết kế với sự trợ giúp của máy tính ( CAD ) còn được gọi là Phác thảo với sự trợ giúp của máy tính hay Vẽ hình với sự trợ giúp của máy tính là phiên bản đã được máy tính hóa của quá trình phác thảo bằng tay trước đây từng được thực hiện với một cây bút chì và một cây thước trên bàn vẽ .
+Những nhà tạo hoạt ảnh trên máy tính cũng có ưu điểm là có thể hiển thị các đoạn hoạt ảnh trên màn hình máy tính hay xuất chúng ra CD - ROM , băng video hoặc phim .
+Các dữ liệu máy tính được quy về thành các số nhị phân vì công việc xử lý của máy tính được thực hiện bởi các transistor , vốn chỉ có hai trạng thái khả dĩ : bật và tắt .
+Các dữ liệu máy tính có vẻ rất xa lạ vì con người thường sử dụng cơ số 10 để biểu diễn các con số .
+Các công cụ vẽ phác thảo trên máy tính được dùng trong rất nhiều lĩnh vực thiết kế từ xây dựng đến không gian vũ trụ và đóng gói sản phẩm .
+Đồ họa máy tính đã làm bùng nổ số lượng các công ty quảng cáo sử dụng máy tính để tạo ra mọi thứ từ các trang quảng cáo trên các tạp chí đến các chương trình truyền hình thương mại , quảng cáo .
+Phần cứng máy tính và các phần mềm đồ họa được dùng trong hầu hết mọi lĩnh vực thiết kế .
+Các công ty phần cứng và phần mềm máy tính thường duy trì các site FTP của riêng họ , ở đó bạn có thể sao chép các phần cập nhật cho các chương trình , các phần sửa lỗi , và những dạng phần mềm khác .
+Các máy tính có thể làm việc với các chuỗi số dài một cách dễ dàng , nhưng con người không giỏi về mặt này .
+Sự hiểu biết về máy tính và các kỹ năng mà bạn có thể hình thành do sự hiểu biết đó sẽ là cách nhanh chóng để thành công trong xã hội này , không chỉ trong công việc mà cả trong học tập , quản lý tài chính và nâng cao những chuẩn mực của đời sống của chúng ta .
+Các bộ hiển thị máy tính có thể tạm được chia ra thành hai loại : các bộ hiển thị CRT và các bộ hiển thị tấm phẳng .
+Các kỹ năng về máy tính tạo nên sự khác biệt về khả năng làm việc của mỗi người .
+Các dàn máy tính có mặt khắp mọi nơi - ở những nơi mà bạn không thể hay không nghĩ tìm thấy chúng .
+Tuy nhiên , các công nghệ máy tính còn đưa các sản phẩm truyền thông đa phương tiện trên PC tiến thêm một bước xa hơn .
+Những người sử dụng máy tính nên có trách nhiệm trong việc sử dụng giấy tờ và năng lượng .
+Màn hình xúc giác vi tính hóa cũng xuất hiện trong các máy đánh bạc trong các sòng bài cờ bạc .
+Còn máy tính thì ngược lại , có thể tạo ra các phương tiện tương tác cho phép con người đáp ứng lại - và thậm chí là kiểm soát - những gì họ thấy và nghe được .
+Về mặt lý thuyết , các máy tính có thể trở thành bộ phận của bất kỳ cái gì .
+Các máy tính và phần mềm đồ họa đã cung cấp các công cụ sáng tạo mạnh mẽ cho các họa sĩ và nhà thiết kế nhưng liệu sự bùng nổ về đồ họa máy tính có mặt trái nào không ?
+Các máy tính và truyền thông đa phương tiện giúp các sinh viên và giáo viên chuyển đổi sang mô hình học tập mới này .
+Máy vi tính ngày càng trở nên là một công cụ quan trọng trong tất cả các công sở , từ văn phòng cho đến nhà máy .
+Máy tính là công cụ học tập lạ thường , đặc biệt là khi bạn truy cập dữ liệu trên các CD - ROM hoặc Internet .
+Các máy tính không chỉ càng ngày càng nhanh hơn , mà càng lúc chúng càng trở nên mạnh mẽ hơn theo quy luật hàm mũ .
+Hiện nay máy tính được sử dụng ở khắp các công sở , kể cả nơi bạn nghĩ là không mong tìm ra được ra chúng .
+Người ta dùng các máy tính để tạo ra các loại nội dung kỹ thuật số khác nhau , từ loại chỉ thuần là văn bản đến video .
+Máy tính được dùng để tạo ra các đoạn hoạt ảnh sử dụng trong nhiều lĩnh vực khác nhau bao gồm trò chơi và phim ảnh .
+Máy tính có nhiều kích cỡ và khả năng khác nhau , và các kiểu máy khác nhau có khả năng rất khác nhau .
+Máy tính có nhiều loại khác nhau , bao gồm máy tính cá nhân , những máy tính nhỏ ở trong các thiết bị và xe hơi , và các máy lớn được dùng cho nhiều người đồng thời chạy một công việc .
+Máy tính đã làm đơn giản hóa công việc hoạt ảnh có nhân vật theo nhiều cách .
+Các máy tính cũng có thể được cải thiện hiệu suất khi một tiêu chuẩn bus dữ liệu đơn ( chẳng hạn như chuẩn USB ) được chấp nhận cho tất cả các thiết bị .
+Máy tính không thể nhìn với cùng cách mà con người nhìn , nhưng các kỹ thuật mới cũng cho phép máy tính sử dụng ánh sáng như là một nguồn nhập từ .
+Máy tính sẽ kém hữu dụng nếu chúng không tương tác với người sử dụng .
+Các yêu cầu cấu hình thay đổi tùy theo công dụng của PC , ví dụ , cấu hình chuẩn cho một PC căn bản thì khác với một PC để giải trí hay một máy PC trạm theo tiêu chuẩn .
+Nối mạng và khởi chạy trình duyệt Web của bạn .
+Việc nối kết một máy tính để bàn tới Internet thực sự hàm chứa hai vấn đề riêng biệt : phần mềm và nối kết mạng .
+Việc nối kết tới máy chủ Telnet rất dễ dàng ; bạn gõ địa chỉ vào , và chương trình Telnet sẽ thiết lập một nối kết .
+Những người sử dụng thư điện tử và các nhóm tin có lương tâm thường gửi chuyển tiếp những nguồn kích động hoặc những thứ được gửi lên mang nội dung không thích hợp cho ISP của người đã gửi chúng .
+Do đó , dữ liệu được máy tính hoá là số hóa , nghĩa là nó được chuyển thành các con số , hay số .
+Do vậy , màu lục lam , đỏ tươi , vàng và đen đôi khi được gọi là các màu trừ tính , và công nghệ in màu đôi khi được gọi là in ấn bốn màu .
+Do vậy , sram đắt tiền hơn DRAM và không được sử dụng nhiều bằng DRAM trong các máy PC .
+Một lần nữa chúng ta hãy xét ứng dụng quản lý cơ sở vật chất EDM .
+Chúng ta hãy xét một hệ thống EDM được sử dụng để quản lý các hồ sơ bệnh nhân trong một bệnh viện .
+Hãy xét đến sự thật rằng máy tính là một phần quan trọng của cuộc sống chúng ta ngày nay , dù cho bạn có là một thợ máy hay một bác sĩ phẫu thuật , một nhà báo hay một phi công .
+Hãy cân nhắc nhu cầu của bạn đối với một hệ điều hành mới .
+Các nhà quản lý và giám sát công trình xây dựng sử dụng phần mềm chuyên biệt để phân tích các tài liệu xây dựng và tính toán thiết bị vật liệu và thời gian cần thiết để hoàn tất công trình .
+Người tiêu dùng đã từng nghe những hứa hẹn không bao giờ ngừng rằng vì nó hỗ trợ cơ chế tương tác hai chiều giữa người sử dụng và máy chủ , một ngày nào đó mạng Internet sẽ trở thành địa điểm của các trò chơi trực tuyến , địa điểm dành cho mua sắm , giáo dục và các loại hình truyền thông đa phương tiện trực tuyến khác - thậm chí cả thực tế ảo tương tác .
+Các thông tin lưu chuyển từ đài phát đến người sử dụng nhưng không theo chiều ngược lại ( cơ chế thay đổi kênh không được tính ở đây ) .
+Nội dung vẫn được giữ lại trong bộ lưu trữ khi máy tính bị tắt , ngược lại các chương trình và dữ liệu có trong bộ nhớ sẽ biến mất khi bạn tắt máy tính .
+Tiếp tục thực hành các kỹ thuật điều khiển chuột của bạn .
+Sự tiện lợi là một ưu điểm khác nữa của các máy in laser .
+Ngược lại , một thứ tự sắp xếp giảm dần sắp xếp các bản ghi theo thứ tự ngược lại - tức từ Z tới A , hoặc từ 9 tới .
+Trái lại , các hệ thống tinh thể lỏng LCD rất có hiệu quả về mặt năng lượng nhờ các transistor rất nhỏ của chúng .
+Các cookie không gây hại cho hệ thống của bạn , và nhà cung cấp cổng nối sẽ không sử dụng cookie để truy lục những thông tin cá nhân từ máy tính của bạn .
+Điều phối cách các chương trình làm việc với CPU , RAM , bàn phím , con chuột , máy in , và các phần cứng khác cũng như với các phần mềm khác .
+Các transistor dựa trên đồng giờ đây đã xuất hiện trong các chip mới nhất của Intel và trong máy tính Macintosh G .
+Coppermine được trông đợi sẽ là bộ xử lý đầu tiên của Intel dựa trên công nghệ 0,18 micron .
+Việc sao chép một tập tin từ một máy tính ở xa được gọi là nạp tập tin xuống .
+Việc sao chép một trang lên một máy phục vụ được gọi là gửi trang đó lên , nhưng tiến trình này cũng có thể được gọi là công bố hay nạp lên .
+Việc sao chép công trình của người khác là một mối lo ngại ngày càng tăng , vì ngày càng có nhiều người nạp các bài viết và công trình nghiên cứu của những người khác xuống từ Internet và các đĩa , sau đó sử dụng chúng như của riêng họ .
+Bản quyền là một vấn đề quan trọng mà một nhà thiết kế phải quan tâm nếu muốn sử dụng lại các tác phẩm nghệ thuật được tạo bởi một người khác .
+Các luật bản quyền bảo vệ cách thức mà hình ảnh có thể được sử dụng lại và phân phát và do đó bảo vệ quyền lợi của chủ sở hữu hình ảnh .
+Các bản quyền vẫn có hiệu lực ; việc vi phạm bản quyền là bất hợp pháp và có thể dẫn tới bị kiện .
+Các nhà quản trị mạng công ty và mạng thương mại điện tử cho rằng nhu cầu lưu trữ dữ liệu tăng gấp đôi sau mỗi năm .
+Các mạng công ty mở đã trở thành một phần quan trọng của thương mại điện tử cấp độ công ty qua việc cung cấp cho các công ty khả năng truy xuất tới các thông tin sống còn trên các mạng của nhau .
+Các WAN công ty thường sử dụng kỹ thuật truyền bằng vi sóng để nối kết hai LAN nằm trong cùng một khu vực đô thị .
+Các Web site công ty , các site mạng nội bộ và mạng công ty mở thường được phát triển , thiết kế và bảo dưỡng bởi nhiều đội ngũ chuyên gia .
+Các tập đoàn đã đầu tư hàng triệu đô la để phát triển các khóa học CBT đặc thù liên quan đến nhiều vấn đề khác nhau chẳng hạn như các chính sách của công ty , các hệ thống máy tính tùy biến và các quan hệ khách hàng .
+Các công ty theo dõi những lợi nhuận và những tổn thất , các kế toán viên quản lý các bản quyết toán đồ sộ , và mọi người cân bằng các sổ séc của họ hoặc cố gắng duy trì một ngân sách gia đình .
+Các mức phí này rất khác nhau , tùy thuộc vào các yêu cầu của những khóa học .
+Các trường bộ đếm cũng có thể được sử dụng để tạo các bản ghi được đánh số tuần tự , chẳng hạn như các hóa đơn .
+Tất cả các loại dịch vụ thư tín sử dụng các thiết bị được máy tính hóa giúp nhân viên phân loại thư tín , xác định địa chỉ và chuyển các hóa đơn , truy tìm địa chỉ các gói hàng .
+Là anh em họ với các chương trình tô vẽ , các chương trình chế tác ảnh giờ đây đã thay thế phòng tối của người chụp ảnh trong rất nhiều công việc .
+Các CPU được thiết kế dựa theo lý thuyết này được gọi là các bộ xử lý điện toán có tập chỉ thị rút gọn ( RISC ) .
+Hãy tạo một tài liệu bằng cách sử dụng trình xử lý văn bản và bảng tính của bạn .
+Bạn hãy tạo ra một tập tin trong Notepad , lưu nó vào đĩa , và bổ sung thêm vào tập tin này để thấy kích thước của nó lớn thêm ra sao bằng cách thực hiện những bước sau .
+Bạn hãy tạo một CSDL mẫu bằng cách sử dụng một ứng dụng CSDL , một chương trình bảng tính hoặc tính năng bảng của trình xử lý văn bản của mình .
+Tạo ra nội dung để gửi lên Web hay gửi tới một người khác như một thông điệp thư điện tử .
+Tạo ra một ảnh kỹ thuật số hay chế tác từ một ảnh có sẵn có thể liên quan đến một chuỗi phức tạp các công việc .
+Việc tạo một bản thuyết trình rất đơn giản ; chỉ cần chọn kiểu slide mà bạn muốn tạo rồi bắt đầu thêm nội dung vào .
+Tạo ra chữ thường cần có một trình xử lý văn bản ; làm việc với các hình ảnh số cần có phần mềm đồ họa ; sử dụng video cần có một chương trình bắt hình video và phần mềm chỉnh sửa ; âm thanh cần có phần mềm chỉnh sửa của riêng nó .
+Việc tạo ra các slide hoặc các tấm phim overhead trong suốt thực sự là một tiến trình riêng biệt , vốn có thể đơn giản như việc sử dụng một máy photocopy hoặc một thiết bị nhân bản cơ khí chuyên dụng khác để in nội dung này lên các tấm phim trong suốt , hoặc thuê một thợ chụp ảnh tạo ra các slide 35 mm cho nội dung này .
+Các cơ quan cấp thẻ tín dụng và các ngân hàng thường bán các thông tin về các khách hàng của họ , và sau đó những thông tin này được sử dụng để tạo ra những danh sách tiếp thị trực tiếp .
+Các bộ hiển thị CRT thường rõ ràng vượt trội về mặt này , nhưng các hệ thống tấm phẳng cũng đang sắp đuổi kịp .
+Các bộ hiển thị CRT tiêu thụ khá nhiều điện để làm tươi màn hình liên tục .
+Các bộ hiển thị CRT phát ra bức xạ mức thấp .
+Các bộ hiển thị CRT đã là tiêu chuẩn rất lâu để sử dụng với các máy tính để bàn , vì chúng cung cấp hình ảnh sáng nhất và rõ ràng nhất với giá tương đối thấp .
+Các bộ hiển thị CRT cung cấp các vùng khả kiến trong khoảng từ chỉ hơn 13 inch cho tới hơn 22 inch .
+Các bộ hiển thị CRT đòi hỏi nhiều năng lượng .
+Các màn hình CRT phẳng hơn so với trước đây , và một số model cao cấp hơn gần như phẳng hoàn toàn .
+Tốc hoạt dữ liệu và đưa ra các kết quả .
+Các hệ thống RAID hiện tại cung cấp một dung lượng lưu trữ lên tới 10 TB , đồng thời có các thời gian truy xuất và truyền dữ liệu nhanh đến mức phi thường .
+Hiện nay , một cổng USB có thể chấp nhận tới 127 thiết bị , mở rộng bus hệ thống tới nhiều thiết bị ngoại vi .
+Hiện nay , các PC có trong thương mại thường có cấu hình để sử dụng bởi những người không bị thương tổn thể chất hoặc khuyết tật .
+Hiện nay , ethernet là công nghệ mạng được sử dụng phổ biến nhất .
+Hiện tại , ta vẫn có truyền hình tương tác nhưng chỉ trong một chừng mực nào đó và chỉ vì phải kết hợp các công nghệ bổ sung vào truyền hình .
+Hiện nay , đa số các máy tính cá nhân đều sử dụng một trong hai tiêu chuẩn giao diện ổ đĩa : EIDE hoặc SCSI .
+Hiện tại , thông tin truyền thông đa phương tiện thường được phân phối đến người sử dụng bằng một trong ba phương tiện sau : CD - ROM ( hoặc DVD - ROM ) , mạng Internet hoặc một số loại kết nối mạng hoặc truyền hình .
+Hiện nay tiêu chuẩn được ưa chuộng đối với các modem là 56,6 Kbps .
+Cyrix khởi đầu như một hãng sản xuất các vi chip chuyên dụng , nhưng vào giữa thập kỷ 1990 công ty này bắt đầu chế tạo các bộ xử lý cạnh tranh với các sản phẩm của Intel .
+Cyrix đã khởi đầu như là một hãng sản xuất chip chuyên dụng nhưng sau cùng đã bắt đầu sản xuất các bộ vi xử lý , bao gồm bộ xử lý MediaGX và hiện nay là loạt các bộ xử lý MII .
+Cyrix tập trung sự chú ý của nó vào các máy PC được bán ra với giá rẻ hơn 1000 đô .
+Các máy in sử dụng bánh xe cánh hoa có thể tạo ra các văn bản trơn nhưng không thể in các hình đồ họa .
+Các ổ DAT thường có nhiều đầu đọc và đầu ghi được xây dựng bên trong một bánh xe hoặc xy lanh nhỏ , vốn quay gần băng từ ở một tốc độ cao .
+Dữ liệu có thể gồm những ký tự , các con số , âm thanh hay hình ảnh .
+Các hộp cartridge dữ liệu trông giống như các đĩa cứng tháo lắp cỡ nhỏ và có thể lưu trữ tới 2 GB .
+Việc truyền thông dữ liệu , tức việc truyền tải thông tin bằng phương thức điện tử giữa các máy tính , đã trở thành một tâm điểm chú ý của ngành công nghiệp máy tính .
+Các kỹ thuật nén dữ liệu đã trở nên khá phức tạp , do đó các modem thường có thể truyền dữ liệu ở các tốc độ cao tới 56 Kbps ( 56.000 bps ) .
+Các công nghệ nén dữ liệu , chẳng hạn như MP3 và các công nghệ khác , sẽ tìm thấy những ứng dụng rộng hơn , cho phép các nhà phát triển ép chặt những khối lượng dữ liệu khổng lồ xuống còn các kích thước rất nhỏ .
+Cơ chế nén dữ liệu thường sử dụng các phép phân tích toán học của nguồn dữ liệu số để bỏ đi các bit dữ liệu không cần thiết trước khi gửi nó qua đường truyền .
+Dữ liệu bao gồm các dữ kiện thô , mà máy tính lưu trữ và đọc từ dạng các số .
+Dữ liệu gồm văn bản , các con số , các âm thanh và hình ảnh mà máy tính có thể xử lý được .
+Dữ liệu đều được ghi và đọc từ bộ nhớ này .
+Các dữ liệu được bố trí trên một đĩa CD - ROM theo một hình xoắn ốc dài , liên tục , bắt đầu tại mép ngoài cùng và đi dần vào trong tâm .
+Một bảng được chia ra thành các bản ghi , và mỗi bản ghi được chia ra thành các trường .
+Các dữ liệu được lưu trữ dưới dạng các land , vốn là các vùng bằng phẳng trên bề mặt kim loại , và các pit , vốn là các chỗ trũng hay các hốc lõm .
+Dữ liệu là thuật ngữ được sử dụng để mô tả thông tin được biểu diễn bởi những nhóm các bộ chuyển mạch bật / tắt .
+Các tác vụ quản lý dữ liệu thuộc một trong ba dạng tổng quát sau .
+Các dữ liệu di chuyển trên đường dây nhanh đến mức ngay cả một lượng nhiễu nhỏ nhất cũng có thể đưa vào các lỗi đáng kể .
+Việc xác nhận tính hợp lệ của dữ liệu có thể được thực hiện bằng nhiều cách .
+Xác nhận tính hợp lệ của dữ liệu hay phê chuẩn dữ liệu là tiến trình ngăn chặn các dữ liệu sai sót hoặc các dữ liệu trùng lắp .
+Các dữ liệu được lưu trữ , quản lý và xử lý trong một bảng tính tương tự như một CSDL tập tin phẳng .
+Dữ liệu được dùng bởi chương trình cũng được nạp vào bộ nhớ để truy cập nhanh .
+Những người quản trị CSDL thường sắp đặt , thiết kế và xây dựng các CSDL công ty bằng phần mềm DBMS .
+Những người phát triển CSDL tạo ra các công cụ đặt riêng cho các CSDL công ty , tạo ra các ngõ vào đặc biệt và các công cụ tiếp nhận đơn đặt hàng , sinh ra các truy vấn phức tạp , phát triển những macro sinh báo cáo , và nhiều thứ khác .
+Quản lý CSDL là một trong những lý do chính khiến con người sử dụng máy tính .
+Phần mềm quản trị dữ liệu dùng để xây dựng và tổ chức các tập dữ liệu lớn .
+Phần mềm quản trị dữ liệu làm cho việc tổ chức lại dữ liệu dễ dàng .
+Các lập trình viên CSDL và những người phát triển CSDL .
+Các chương trình CSDL cũng có thể sắp xếp các danh sách dữ liệu , bố trí chúng theo thứ tự bảng chữ cái , thứ tự số hoặc thứ tự thời gian .
+Các công nghệ CSDL đụng chạm tới đời sống làm việc của hàng triệu người mỗi ngày .
+Các CSDL và các hệ quản trị CSDL .
+Chẳng hạn , các cơ sở dữ liệu được tạo ra cho các đĩa CD - ROM sẽ chỉ cho phép những người sử dụng truy cập chứ không thay đổi được các dữ liệu .
+Các trường ngày tháng và giờ khá tiện lợi để tính toán những khoảng thời gian đã trôi qua , chẳng hạn như tìm các bản ghi dành cho các hóa đơn quá hạn 31 ngày .
+Các trường ngày tháng và thời gian thường bao gồm các tính năng kiểm lỗi tự động .
+Các ngày tháng là một bộ phận cần thiết của đa số các phiếu công tác , và các chương trình bảng tính có thể làm việc với các thông tin ngày tháng bằng nhiều cách .
+Định nghĩa và phân biệt các thuật ngữ phiếu công tác và bảng tính .
+Nắm được các thuật ngữ bitmap và vector và phân biệt được các loại tập tin này .
+Định nghĩa các thuật ngữ cơ sở dữ liệu và hệ quản trị cơ sở dữ liệu ( DBMS ) .
+Xác định các thuật ngữ truyền thông đa phương tiện , tương tác và phương tiện truyền thông mới .
+Hãy khử phân mảnh cho một đĩa mềm bằng cách thực hiện các bước sau .
+Delete xóa ký tự bên phải của con trỏ , còn Backspace xóa ký tự bên trái của con trỏ .
+Tùy theo các đặc tính của nó , một máy tính xách tay trang bị hoàn chỉnh có giá từ 500 đô la đến 5000 đô la .
+Tùy theo tập ký tự được sử dụng , một máy in dải băng chất lượng tốt có thể sinh ra 2000 dòng văn bản mỗi phút .
+Tùy thuộc vào các tình huống ( phần mềm nén được sử dụng , chương trình đã sinh ra tập tin dữ liệu , và các nhân tố khác ) , người dùng có thể cần trích các tập tin nén ra một cách thủ công ( tức trả chúng về trạng thái không nén ) trước khi sử dụng chúng .
+Tùy thuộc vào các thế hệ máy tính , phím này được gắn bằng một biểu tượng hình bốn chiếc lá , hình một quả táo , hoặc cả hai hình này .
+Tùy thuộc vào ISP , máy tính của khách hàng có thể được gán một địa chỉ IP cố định , hoặc địa chỉ IP của nó có thể thay đổi mỗi lần nó đăng nhập vào máy phục vụ của ISP .
+Tùy theo vị trí gõ , máy tính sẽ đáp lại bằng việc trình bày dữ liệu mới .
+Tùy theo loại , các PDAs có thể có các đặc tính sau .
+Tùy vào chương trình đang sử dụng , bạn có thể nhấn Home để đưa con trỏ về đầu dòng để bắt đầu một dòng , và End để đưa con trỏ về cuối dòng để kết thúc dòng .
+Tùy theo số lượng người xem và kích thước của khán phòng , bạn có thể hiển thị các slide trên bộ hiển thị của máy PC , chiếu chúng lên một màn hình , hoặc nối máy PC tới một TV hoặc một màn hình lớn hơn .
+Tùy thuộc vào cài đặt cụ thể mà bạn chọn ( tức vị trí bạn đặt hub trong phòng ) , mạng sao của bạn có thể đòi hỏi nhiều dây cáp hơn gấp hai hoặc ba lần so với một mạng bus cơ sở .
+Tùy theo các công nghệ được dùng , một số các sự kiện truyền thông đa phương tiện là những ứng dụng một người sử dụng và chạy đơn độc chẳng hạn như một quyển sách tham khảo hay một chương trình dạy học trên CD - ROM .
+Tùy thuộc vào loại đĩa , đầu đọc có thể chỉ lướt trên bề mặt đĩa hoặc có thể thực sự gõ trên đĩa .
+Tùy thuộc vào loại ổ đĩa và định dạng được sử dụng , các ổ băng từ có thể mất từ một vài giây cho tới một vài phút để tìm một mẩu dữ liệu cụ thể trên bề mặt của băng từ .
+Tùy thuộc vào kiểu của bộ xử lý được sử dụng , một chu kỳ máy có thể bao gồm các bước khác .
+Tùy thuộc vào kiểu phần mềm được sử dụng và số lượng người sử dụng nó , việc mua giấy phép có thể tốn kém tương đương , dù ứng dụng được cài đặt trên máy tính của mỗi người sử dụng hay được chạy thông qua mạng .
+Tùy thuộc vào phiên bản Windows mà bạn đang sử dụng và việc bạn có đang sử dụng một ứng dụng cụ thể hay không , dạng menu này có thể được gọi là một menu tắt hay một menu bối cảnh .
+Tùy thuộc vào kích cỡ , khả năng , và số lượng người sử dụng cần được phục vụ , máy tính lớn có thể có giá cả đắt khủng khiếp .
+Tùy theo công việc của bạn , bạn có thể cần phải học những kỹ năng đặc biệt để làm chủ một thiết bị nhập .
+Tùy thuộc vào định hướng nghề nghiệp của bạn , bạn có thể cần biết tất cả về cách thức xử lý dữ liệu của một máy tính .
+Tùy thuộc vào công việc của bạn , bạn có thể không cần máy tính lắm .
+Tùy thuộc vào những nhu cầu của mình , bạn có thể biến một buổi thuyết trình sử dụng slide cơ sở thành một sự kiện truyền thông đa phương tiện bằng cách sử dụng các tính năng được xây dựng sẵn của những chương trình thuyết trình hiện tại .
+Bạn hãy mô tả một kịch bản mà trong đó một tổ chức lớn có thể sử dụng một hệ quản trị CSDL .
+Mô tả công dụng cơ bản của máy tính lớn .
+Mô tả bốn phương pháp để tạo các mô hình 3 chiều trên máy tính .
+Mô tả cách một hệ điều hành của máy tính có thể định vị các dữ liệu trên bề mặt của một đĩa ra sao .
+Mô tả cách một máy in ma trận điểm tạo ra một hình ảnh trên một trang giấy .
+Mô tả cách một đầu ghi có thể chuyển dữ liệu đến và từ bề mặt của một đĩa từ ra sao .
+Hãy giải thích tại sao một hệ thống e - mail được xem là một sự kết hợp gồm hệ thống bưu điện và một hệ thống trả lời điện thoại .
+Mô tả các trình xử lý văn bản làm thế nào để có thể chuyển đổi các tài liệu bình thường thành các trang World Wide Web .
+Hãy mô tả một lợi ích mà các công nghệ phương tiện truyền thông mới đóng góp vào lĩnh vực thương mại .
+Mô tả cách các sản phẩm truyền thông đa phương tiện được dùng trong gia đình , trường học và các công ty .
+Hãy mô tả những ưu điểm của việc sử dụng các khuôn mẫu được cung cấp bởi một trình xử lý văn bản .
+Hãy mô tả sự khác biệt giữa một tham chiếu ô tuyệt đối và một tham chiếu ô tương đối .
+Hãy mô tả sự khác biệt giữa lệnh Cut và lệnh Copy .
+Hãy mô tả các ví dụ mà bạn đã từng thấy .
+Mô tả chức năng của các land và các pit trên bề mặt của một đĩa quang .
+Hãy mô tả phương pháp được sử dụng trong các mạng Ethernet để phát hiện các xung đột .
+Mô tả vai trò của hệ điều hành trong việc chạy các chương trình phần mềm .
+Hãy mô tả vấn đề và đề ra các giải pháp khả dĩ .
+Mô tả tiến trình tạo một bản thuyết trình .
+Nêu mục đích của con chuột và vai trò của nó trong máy tính .
+Hãy mô tả mục đích của các khe cắm mở rộng trong một máy PC .
+Hãy mô tả chức năng của tác vụ tìm mục tiêu trong một chương trình bảng tính .
+Mô tả sáu giai đoạn của quá trình thiết kế truyền thông đa phương tiện .
+Hãy mô tả bản thuyết trình bằng slide mà bạn sẽ tạo ra .
+Hãy nói thêm về kinh nghiệm sử dụng máy tính của bạn .
+Sự mô tả một mạng như là một LAN hay một WAN đem lại cho bạn một cảm giác về phạm vi vật lý mà mạng này bao trùm .
+Hãy bỏ chọn đoạn này khi bạn làm xong .
+Thiết kế và viết kịch bản là thời gian để xác định bao nhiêu thông tin - chữ , hình ảnh đồ hoạ , các liên kết - sẽ được trình bày trên mỗi màn hình .
+Các nhà thiết còn có thể tạo ra các đoạn hoạt ảnh thông qua các phần mềm gắn thêm .
+Các nhà thiết kế cần phải thành thạo với máy tính và phần mềm đồ họa như họ đã thành thạo với các kỹ năng về mỹ thuật .
+Máy tính để bàn là loại máy tính cá nhân thường gặp nhất .
+Máy để bàn cũng có thể chấp nhận nhiều kiểu thiết bị bổ sung khác nhau để làm cho công việc đồ họa dễ dàng hơn .
+Phần mềm chế bản điện tử ( DTP ) được dành riêng cho việc thiết kế và sắp đặt các tài liệu dài hoặc phức tạp , các tài liệu được tạo ra bằng phần mềm DTP đã sẵn sàng để được gửi tới một máy in chuyên nghiệp .
+Mặc cho sự phát triển của các công nghệ phân phối khác , các đĩa compact vẫn là cơ chế phân phối hàng đầu đối với nhiều sản phẩm truyền thông đa phương tiện .
+Tuy đem lại những sự tiện lợi cho những người dùng , nhưng Internet cũng tràn ngập các cạm bẫy .
+Mặc dù có tên như vậy , phím Scroll Lock không nhất thiết phải cuộn các nội dung có trên màn hình .
+Tuy thành công và bổ sung thêm các năng lực cho các máy tính DOS , nhưng các phiên bản đầu của Windows hầu như không làm gì khác để khắc phục những giới hạn cố hữu của DOS .
+Ngoài các chuẩn trên đây , các thiết bị định vị ( như con chuột chẳng hạn ) cũng được sử dụng như các phím nóng .
+Mặc dù phức tạp trong thao tác , phần mềm OCR vẫn trở nên rất tiến bộ .
+Mặc dù các công nghệ truyền thông đa phương tiện trên PC chỉ mới xuất hiện trong một thời gian tương đối ngắn nhưng chúng đã tìm thấy được rất nhiều ứng dụng khác nhau .
+Tuy có các thời gian truy xuất lâu , nhưng các ổ băng từ rất thích hợp cho các mục đích nào đó , đặc biệt là việc sao lưu toàn bộ đĩa cứng của hệ thống của bạn .
+Bất chấp sự hứa hẹn của các hệ thống máy tính và các công nghệ nối mạng cải tiến , xã hội không giấy vẫn chưa trở thành hiện thực , và hầu hết các chuyên gia giờ đây tin rằng điều đó sẽ không bao giờ xảy ra .
+Bất kể sự hứa hẹn rằng một ngày nào đó Internet có thể sẽ trở nên phổ biến như radio và truyền hình , bạn cảm thấy ra sao về tính thương mại hóa ngày càng tăng của Internet ?
+Mặc dù sự tiến bộ nhanh chóng đã được thực hiện với phần mềm nhận biết chữ viết , bạn có nghĩ rằng bàn phím vẫn còn tiếp tục là thiết bị nhập được ưa thích cho việc phát sinh văn bản ?
+Bất kể các lý do của việc in ra các tài liệu , những người sử dụng máy tính cần cân nhắc những tác động tiêu cực của việc sinh ra quá nhiều bản sao cứng .
+Ngoại trừ sự khác nhau của chúng về kích cỡ và công dụng , tất cả các máy tính này đều là thành phần của một hệ thống .
+Mặc dù có nhiều ưu điểm của chúng , nhưng các bộ hiển thị tấm phẳng đắt tiền hơn rất nhiều so với các bộ hiển thị CRT .
+Tuy có kích thước nhỏ và trọng lượng nhẹ , nhưng các sách điện tử có thể lưu trữ nội dung của nhiều xuất bản phẩm cỡ lớn .
+Xác định xem có những loại ứng dụng Internet nào khác được cài đặt trên hệ thống của bạn .
+Hãy xác định loại phương tiện nào mà nó dùng .
+Hãy xác định xem một chương trình quản trị CSDL có được cài đặt trên máy tính của bạn hay không .
+Hãy xác định xem một trình duyệt Web có được cài đặt trên hệ thống của bạn hay không .
+Xác định xem máy tính của bạn có một modem hay không .
+Hãy xác định xem PC của bạn có tính năng truyền thông đa phương tiện hay không bằng cách kiểm tra các đặc tính phần cứng của nó .
+Các nhà phát triển đang tiếp tục tạo ra các bộ y phục VR như các miếng đệm ngực và găng tay có thể tạo ra các phản hồi xúc giác khi bạn chạm vào một đối tượng ảo .
+Các nhà phát triển đã tạo ra các mũ đeo và các kính đeo lồi ra bên ngoài có thể hiển thị các hình ảnh lập thể ngay sát mắt của người sử dụng .
+Các nhà phát triển hiếm khi làm việc cô lập khi tạo ra một sản phẩm mới .
+Các nhà phát triển sử dụng nhiều công cụ để tạo ra các thành phần riêng lẻ của một chương trình truyền thông đa phương tiện , sau đó dựa trên một ứng dụng sáng tạo truyền thông đa phương tiện chẳng hạn như Macromedia Director để tích hợp mọi thứ vào một thể thống nhất liền lạc đưa ra cho người sử dụng .
+Các nhóm phát triển có thể tốn hàng tuần hay hàng tháng để cố xác định những người sử dụng của họ , để bắt đầu nắm được mọi mong muốn , nhu cầu và nguyện vọng của người tiêu dùng .
+Việc quay số vào mạng có tác dụng tương tự như việc đăng nhập vào mạng tại văn phòng , chỉ khác là việc truyền các tập tin sẽ chậm hơn .
+Các hộp thoại là các cửa sổ đặc dụng vốn xuất hiện khi bạn cần báo cho một chương trình ( hoặc hệ điều hành ) biết phải làm gì kế tiếp .
+Các thiết bị nhập khác nhau được thiết kế để đáp ứng các nhu cầu khác nhau và làm cho việc tính toán dễ hơn và có hiệu quả hơn .
+Các hệ điều hành khác nhau và các chương trình khác nhau cung cấp những tập phím tắt khác nhau .
+Các nền khác nhau cung cấp những sức mạnh và tính năng riêng .
+Phân biệt giữa các cơ sở dữ liệu tập tin phẳng và các cơ sở dữ liệu quan hệ .
+Phân biệt giữa các thuật ngữ các môi trường hoạt động và các hệ điều hành .
+Phân biệt hai loại chính của phần mềm máy tính .
+Phân biệt cách thức hoạt động của các chương trình xử lý đồ họa bitmap và xử lý đồ họa vector .
+Phân biệt trạm làm việc với máy tính cá nhân .
+Hiện nay , rất nhiều nhà sản xuất đang sản xuất các máy ảnh kỹ thuật số .
+Các máy ảnh kỹ thuật số đang ngày càng phổ biến đối với các nhà nhiếp ảnh chuyên nghiệp và không chuyên .
+Các máy ảnh kỹ thuật số đang xuất hiện ngày càng nhiều , đến mức độ ngày nay nhiều nhiếp ảnh gia chuyên nghiệp gần như chỉ sử dụng các thiết bị kỹ thuật số .
+Các máy ảnh kỹ thuật số có thể lưu trữ hình ảnh trong nhiều dạng thức khác nhau , mà có thể đòi hỏi khoản dung lượng lưu trữ khác nhau và ở các độ phân giải khác nhau .
+Camera kỹ thuật số đã trở thành một thiết bị cần thiết cho các nhà thiết kế của tất cả các mặt .
+Các máy chụp ảnh kỹ thuật số cung cấp một cách khác để đưa hình ảnh nhập vào một máy tính .
+Máy quay phim kỹ thuật số ghi các hình ảnh sống động có thể được xem lại và được sửa chữa trên máy tính .
+Camera kỹ thuật số hoạt động rất giống các máy quay video PC , chỉ khác là camera kỹ thuật số là thiết bị nhẹ nhàng , thuận tiện cho việc xách tay , và thu lại các hình ảnh tĩnh .
+Số hóa một bức ảnh luôn có liên quan đến một số loại máy quét nào đó nhưng trong những năm gần đây , quá trình này đã trở nên tinh vi , bảo đảm cho ra các tấm ảnh kỹ thuật số có độ phân giải cao và chất lượng chuyên nghiệp .
+Các bảng kỹ thuật số đa dạng trong kích cỡ ; bảng nhỏ nhất có kích cỡ khoảng bằng một tờ giấy và bảng lớn nhất thì lớn như một cái mặt bàn .
+Tạo chiều là yếu tố cơ bản của quá trình xây dựng thực sự hay tạo ra đối tượng cần được vẽ .
+Các chiều là những khái niệm cho thấy kích thước của một đối tượng và thường được đặt trên lớp riêng của chúng .
+DirecDuo , một kết hợp của các dịch vụ DirecTV và DirecPC , có khả năng cho phép người sử dụng kết nối các ti vi của họ và các máy tính cá nhân vào dịch vụ và do đó có thể thưởng thức chương trình phát hình và dịch vụ Internet băng thông rộng , tốc độ cao .
+Hãy bàn về các ích lợi của việc sử dụng các năng lực liên kết và gắn đối tượng ( OLE ) của các hệ điều hành mới hơn .
+Thảo luận được các vấn đề về bản quyền nảy sinh từ việc sử dụng đồ họa máy tính .
+Hãy thảo luận quan điểm của bạn về giá trị của Internet đối với những người dùng riêng lẻ .
+Các nhóm thảo luận được tổ chức bởi các dịch vụ trực tuyến thường được giám sát bởi một người điều hành hệ thống , viết tắt là sysop , và người này bảo đảm rằng những người tham gia sẽ tuân thủ những luật lệ .
+Các phương tiện dùng đĩa đòi hỏi phải xem xét đến hệ điều hành của người sử dụng , các phương tiện dùng Web đòi hỏi phải xét đến trình duyệt và cấu hình phần cứng ( hoặc phần mềm ) của người sử dụng .
+Các ổ đĩa mềm , cũng được biết như các ổ đĩa mềm đọc và ghi các đĩa mềm .
+Các ổ đĩa mềm có mức trung bình khoảng 45 KBps .
+Các ổ đĩa mềm cung cấp một thời gian truy xuất trung bình bằng 100 mili giây .
+Các dung lượng lưu trữ của đĩa mềm được trình bày chi tiết ở một phần sau của bài này .
+Các đĩa mềm có hai kích thước : 5.25 inch và 3.5 inch , đĩa 5.25 inch rất hiếm được sử dụng ngày nay .
+Các đĩa mềm thì nhỏ và có thể mang đi được ( chúng có thể được lấy ra khỏi các ổ đĩa mềm ) , nhưng các ổ đĩa cứng thường được xây dựng bên trong máy tính , do đó chúng không thể mang đi được ( trừ phi toàn bộ máy tính được đem đi ) .
+Các đĩa mềm được sử dụng nhiều nhất để truyền các tập tin giữa các máy tính , như là một phương tiện để phân phối phần mềm , và như một phương tiện sao lưu .
+Đĩa mềm được dùng để nạp các chương trình hoặc dữ liệu mới vào đĩa cứng , trao đổi dữ liệu với người sử dụng khác , và sao chép bảo quản các dữ liệu trên đĩa cứng .
+Các đĩa mềm quay ở tốc độ xấp xỉ 300 vòng mỗi phút .
+Phân biệt phần mềm chế bản điện tử với phần mềm xử lý văn bản .
+Các thiết bị DLP sử dụng một vi chip đặc biệt , được gọi là một thiết bị phản chiếu siêu nhỏ sử dụng kỹ thuật số , mà thực ra sử dụng các tấm gương để kiểm soát việc hiển thị hình ảnh .
+Các địa chỉ DNS có hai phần : một tên máy chủ ( một tên gọi dành cho một máy tính nối kết tới Internet ) theo sau là một miền vốn thường nhận diện kiểu của cơ quan sử dụng địa chỉ đó .
+Bạn đừng ngây thơ nghĩ rằng những tài liệu hay các hình ảnh này là trong phạm vi công cộng vì bạn tìm thấy chúng trên Internet .
+Không thay đổi bất cứ cài đặt nào nếu không có sự cho phép của người hướng dẫn của bạn .
+Đừng phát tán các tài liệu đã được đăng ký bản quyền .
+Đừng nạp xuống bất kỳ một tập tin nào từ internet nếu bạn chưa được sự chấp thuận của giáo viên của mình .
+Đừng thay đổi gì trong hộp thoại mà hãy để yên nó như vậy cho bài tập kế tiếp .
+Không dừng lại để sửa các lỗi ; cứ gõ cho đến khi bạn hoàn thành .
+Hãy làm tương tự như vậy với lệnh VER và lệnh EXIT .
+Bạn có đồng ý với lời chỉ trích này hay không , hay bạn cảm thấy rằng một hệ điều hành nên kèm theo những phụ kiện như vậy ?
+Bạn có cho rằng một khi một hình ảnh đã được số hóa thì nó sẽ trở thành sản phẩm công cộng và không còn thuộc về người tạo ra nó ? Tại sao có hoặc tại sao không ?
+Bạn có cho rằng chính phủ nên han chế loại thông tin này như đã từng làm với các thông tin dạng bản in ?
+Bạn có nghĩ rằng các nhân viên này đã làm bất kỳ điều gì bất hợp pháp hoặc có thể gây hại hay không ?
+Bạn có cảm thấy rằng thông lệ lưu giữ các thông tin cá nhân là sai hoặc bất hợp pháp hay không ?
+Bạn có biết rằng nhiều công ty bán thông tin này cho các công ty khác hay không ?
+Bạn có cần một hệ điều hành OS khác để sử dụng một ứng dụng đặc trưng hay không ?
+Bạn chỉ cần in văn bản , hay các năng lực đồ họa cũng quan trọng ?
+Bạn dự tính phát triển hoặc thử nghiệm các ứng dụng vốn chạy trên một hệ điều hành đặc trưng ?
+Bạn có định sử dụng máy tính trong các việc này không ?
+Bạn có thấy bất kỳ ích lợi nào khác của việc cài đặt rộng rãi chuẩn Unicode không ?
+Bạn có xem nó như là một ích lợi của sự tiến bộ về mặt công nghệ của chúng ta hay một sự tổn thất ?
+Bạn thấy điều đó có ảnh hưởng tốt hay xấu đến xã hội và nền kinh tế của chúng ta ?
+Bạn có cho rằng đó là một ý tưởng hay khi sử dụng thuật ngữ này để mô tả CPU không ?
+Bạn có xem nó là hợp lệ hay đúng đắn về đạo đức không ?
+Bạn có nghĩ là việc sao chép như vậy là bất hợp pháp hay không ?
+Bạn có cho rằng việc sử dụng một trình kiểm lỗi chính tả và một trình kiểm lỗi ngữ pháp cho mọi tài liệu sau cùng của bạn có thể đủ để thay thế cho việc đọc và sửa bản in thử không ? Giải thích tại sao .
+Bạn có cho rằng khả năng trao đổi dữ liệu toàn cầu được cung cấp bởi tập ký tự Unicode là một mục tiêu đáng giá đối với công nghệ điện toán hay không ?
+Bạn có nghĩ rằng động cơ của việc sử dụng Internet như là một phương tiện đem lại lợi nhuận sẽ có một ảnh hưởng tiêu cực tới nó , xét ở khía cạnh nó là một nguồn thông tin phong phú ?
+Bạn có lo lắng về việc bạn tiêu quá nhiều thời gian vào máy tính của bạn không ?
+Các trạm lắp ghép cũng cung cấp các cổng bổ sung cho phép máy tính xách tay có thể kết nối với các thiết bị khác cùng kiểu như một hệ thống máy tính để bàn .
+Các số đo kích thước của tài liệu cũng được quyết định bởi hướng xoay của giấy .
+Các định dạng tài liệu bao gồm các lề , kích thước và hướng xoay trang , các đầu trang và các chân trang .
+Các tài liệu có thể chứa cả các hình đồ họa lẫn các âm thanh .
+Máy tính có màn hình màu , card âm thanh , bộ loa và một ổ CD - ROM ( hay DVD - ROM ) hay không ?
+Hệ thống của người học viên đó có những nối kết giống như hệ thống của bạn hay không ?
+PC có cung cấp thông tin của nó trong quá trình khởi động ?
+Máy tính của bạn có thiếu thành phần nào cần để nó hỗ trợ các chương trình truyền thông đa phương tiện tốt hơn hay không ?
+Công việc này chỉ chiếm rất ít năng lực xử lý , vì chỉ có 256 ký tự có thể có và 2000 vị trí văn bản khả dĩ trên màn hình .
+Các chương trình dựa trên DOS thường cũng khó sử dụng như bản thân hệ điều hành , đòi hỏi những người sử dụng phải ghi nhớ hàng tá tổ hợp phím bí hiểm để đưa ra các lệnh .
+Các tên tập tin DOS bị giới hạn ở tám ký tự , cộng thêm một phần mở rộng gồm ba ký tự theo sau dấu chấm , như trong tên wordproc . doc .
+DOS bắt buộc các máy tính có hiệu suất cao hơn phải hoạt động ở các tốc độ thấp hơn khả năng của chúng .
+DOS là một hệ điều hành đơn người sử dụng , hỗ trợ chỉ 640 KB bộ nhớ .
+DOS chỉ hỗ trợ một người sử dụng và một bộ xử lý đơn .
+DOS thỏa đáng cho các máy PC tương thích IBM trong đầu những năm 1980 , nhưng những giới hạn của nó đã trở nên đáng chú ý hơn khi các máy PC trở nên mạnh mẽ hơn .
+DOS đã được thiết kế cho các CPU 8 bit và 16 bit ; nó không thể lợi dụng kiến trúc 32 bit của các chip 486 , pentium và các chip mới hơn .
+DOS đã được thiết kế để chỉ nhận diện được 640 KB RAM và do vậy không thể quản lý những khối lượng RAM lớn thường được tìm thấy trong các máy PC ngày nay .
+DOS đã được phát triển trong những năm 1970 và được phân phối trên một số máy PC thương mại thời kỳ đầu .
+Các máy in ma trận điểm thường được sử dụng ở những môi trường làm việc mà trong đó sự va đập vật lý với giấy là điều quan trọng , chẳng hạn như khi người sử dụng muốn in một lúc nhiều biểu mẫu qua giấy than hoặc nhiều biểu mẫu nhạy áp .
+Khoảng cách điểm là khoảng cách giữa các đốm phosphor hợp thành một điểm ảnh đơn .
+Nhấp đôi nút chuột vào biểu tượng System để mở ra hộp thoại System Properties .
+Hãy nhấp đôi nút chuột vào biểu tượng System để mở ra hộp thoại System Properties .
+Nhấp đôi vào từ đó hoặc kéo rê con trỏ chuột ngang qua nó .
+Nhấn đôi vào biểu tượng Keyboard trong hộp thoại Control Panel .
+Nhấn đôi vào từ good lần nữa để chọn nó .
+Nhấn đôi vào một đối tượng nghĩa là trỏ tới con trỏ của chuột rồi nhấn và thả tay ra hai lần liên tiếp khỏi nút chuột .
+Hàng tá các Web site đáng tin cậy cung cấp thông tin về lịch sử của Internet và các vấn đề kỹ thuật , cùng các trình hướng dẫn sử dụng Web , phần mềm liên quan tới Internet , và nhiều thứ khác .
+Hàng tá nhóm tin Usenet và nhiều Web site được dành riêng cho Linux .
+Hàng tá hay hàng trăm máy tính cá nhân được kết nối mạng với cùng một máy tính mini hoạt động như máy chủ .
+Kéo cây chỉ thi tỉ lệ nhấp nháy Cursor sang bên phải rồi bên trái .
+Kéo các cây chỉ thị Repeat delay và Repeat rate hết cỡ về bên phải , sau đó ve bên trái , và phối hợp trái ngược nhau .
+Kéo rê một đối tượng nghĩa là đặt con trỏ chuột trên đối tượng đó , nhấn nút và cứ giữ xuống trong khi bạn di chuyển chuột .
+Các chip DRAM phải được nạp lại nhiều lần mỗi giây , nếu không chúng sẽ bị mất các nội dung của chúng .
+Các chương trình vẽ hình cũng hơn các chương trình tô vẽ ở khả năng xử lý chữ như trên Hình 2.10 .
+Các chương trình vẽ hình được gọi là không phụ thuộc độ phân giải ; hình ảnh trông như nhau ở mọi độ phân giải .
+Các chương trình vẽ hình là những chương trình xử lý đồ họa vector rất thích hợp cho các công việc mà sự chính xác và sự linh hoạt cũng quan trọng như là việc tô màu và các hiệu ứng đặc biệt .
+Các chương trình vẽ hình cho phép người dùng làm việc với các loại hình ảnh nào ?
+Các chương trình vẽ hình làm cho việc tô màu chữ trở nên dễ dàng , các dòng chữ còn có thể bị bẻ cong hay bóp méo , chữ cũng có thể bị ép theo một đường cong .
+Các chương trình vẽ hình còn có hai ưu điểm lớn so với các chương trình tô vẽ .
+Các chương trình vẽ hình hoạt động bằng cách định nghĩa mọi đường thẳng như là một phương trình toán học hoặc vector .
+Các chương trình vẽ hình đều có khả năng xử lý chữ rất tốt .
+Các chương trình vẽ xử lý các hình vector và cung cấp cho nhà thiết kế một sự linh hoạt cao độ trong việc hiệu chỉnh một hình ảnh .
+DriveSpace 3 tăng gấp đôi dung lượng lưu trữ của một đĩa cứng một cách hiệu quả bằng cách nén toàn bộ nội dung của nó .
+DSL , ISDN , t1 và T3 đều có thể được sử dụng một cách hiệu quả để thiết lập các WAN miễn là các mạng này được sử dụng chủ yếu để truyền những kiểu tập tin dữ liệu thông dụng nhất , , các thông điệp e - mail , v . v .
+DSL có thể đạt tới các tốc độ lý thuyết lên tới 52 Mbps , một lợi thế tốc độ to lớn so với các modem quay số nhanh nhất hoặc thậm chí so với một số nối kết kỹ thuật số .
+DSL đang ngày càng được ưa chuộng trong các tổ chức kinh doanh nhỏ vốn cần nối kết một LAN tới Internet và cung cấp cho người dùng các tốc độ truyền dữ liệu nhanh chóng và dịch vụ liên tục .
+DSL mau chóng vượt qua ISDN ở những khu vực mà ở đó nó có thể sử dụng được , vì nó thường ít tốn kém hơn xét về mặt phần cứng , việc thiết lập và các phí tổn hàng tháng .
+Các dịch vụ DSL vẫn chưa khả dụng rộng rãi , nhưng chúng có thể rẻ hơn dịch vụ ISDN .
+DTP cho phép người sử dụng chỉ định các màu sắc tùy theo các tiêu chuẩn công nghiệp in ấn , chẳng hạn như Pantone và TruMatch , để máy in có thể hiểu chính xác những màu nào cần sử dụng .
+Phần mềm DTP cũng chuẩn bị những bản tách màu cho các tài liệu được in màu .
+Phần mềm DTP cũng cung cấp khả năng kiểm soát gần như vô tận xác lập khoảng cách dòng ( đọc là LED - ding ) , vốn là một thuật ngữ trong ngành sắp chữ dành cho giãn cách dòng .
+Phần mềm DTP cho phép một người thực hiện mọi tác vụ được đòi hỏi - thiết kế , trình bày , sắp đặt các hình đồ họa , và nhiều công việc khác - và tạo ra một tài liệu sẵn sàng để được in ra .
+Phần mềm DTP cung cấp cho người sử dụng khả năng kiểm soát trực tiếp việc sắp đặt các hình đồ họa trên trang một cách chính xác , việc bao bọc chữ quanh hình đồ họa , và việc sử dụng các đường viền và bóng nền với các hình đồ họa .
+Các đĩa DVD - ROM hai lớp có thể chứa 17 GB dữ liệu .
+Trong sử dụng bình thường , các dữ liệu trong những chip này chỉ được đọc và được sử dụng - không bị thay đổi - do vậy loại bộ nhớ này được gọi là bộ nhớ chỉ đọc ( ROM ) .
+Trong những năm 1980 , đa số các máy PC đều sử dụng các đĩa mềm 5.25 inch .
+Trong thập kỷ 1980 , các giao diện dòng lệnh thông dụng nhất bao là MS - DOS của Microsoft , người anh em sinh đôi gần giống của nó là PC - DOS của IBM , và UNIX .
+Trong thập kỷ 1980 , khi mà phần lớn các máy PC đều sử dụng DOS chứ không phải Windows , màn hình đã hiển thị các ký tự văn bản .
+Chẳng hạn , trong tiến trình nhập dữ liệu , dbms có thể từ chối tiếp nhận các dữ liệu không tuân thủ theo một định dạng nào đó , không viết đúng chính tả theo một cách thức cụ thể , hoặc bị trùng lắp trong một bản ghi khác .
+Trong những năm đầu của thập kỷ 1990 , Windows 3.0 , Windows 3.1 , và Windows 3.11 ( được gọi là Windows for Workgroups ) đã dẫn đầu thị trường và sau cùng đã được cài đặt trên hầu hết các máy PC mới , và chạy bên trên DOS .
+Trong quá trình định dạng , bạn cũng có thể xác định xem bề mặt của đĩa có những điểm lỗi hay không , và bạn có thể sao chép các tập tin hệ thống quan trọng vào đĩa .
+Tuy nhiên , trong suốt thời gian còn lại , không cần băng thông nào cả .
+Trong thời gian này - có thể chỉ một vài giây - băng thông cần thiết rất cao .
+DVD - ROM đạt được những khả năng lưu trữ cao như vậy bằng cách sử dụng cả hai mặt của đĩa và các công nghệ nén dữ liệu đặc biệt , và bằng cách sử dụng các rãnh cực kỳ nhỏ để lưu trữ dữ liệu .
+DVD - ROM là một phương tiện mật độ cao có khả năng lưu trữ một bộ phim dài trên một đĩa duy nhất có kích thước bằng một đĩa CD .
+Công nghệ DVD - ROM là một biến thể dựa trên CD - ROM bình thường .
+Ổ đĩa DVD hiện đang là thiết bị chuẩn trên nhiều máy tính cá nhân đời mới .
+Các ổ DVD cũng có thể định vị dữ liệu trên đĩa nhanh hơn nhiều so với ổ CD ROM chuẩn .
+Các ổ đĩa DVD có thể phát các đĩa CD nhạc giống y như các ổ đĩa CD - ROM , nhưng cũng có thể phát các đĩa video kỹ thuật số .
+Các máy DVD hiện thấy trên nhiều máy cá nhân và nhiều trung tâm giải trí .
+DVD có thể chứa một mức tối thiểu 4.7 GB dữ liệu và nhiều là đến 17 GB .
+Các đĩa DVD cung cấp các dung lượng lên tới 17 GB .
+Các máy in nhuộm thăng hoa tạo ra những hình ảnh cực kỳ sắc nét , nhưng chúng hoạt động chậm và đắt tiền .
+RAM động ( DRAM ) có tên gọi như vậy là vì nó phải được làm tươi thường xuyên .
+Các đối tác xuất bản sách điện tử bao gồm nhiều nhà xuất bản lớn các sách , các tạp chí , báo chí và báo hàng ngày .
+Hiện đã có các phiên bản sách điện tử của các tờ Wall Street Journal , New York Times và các tờ báo khác , giống như các xuất bản phẩm ngành hẹp chẳng hạn như các sổ tay kỹ thuật và các từ điển .
+Các sách điện tử cố gắng bắt chước cảm giác của những quyển sách in theo một cách nào đó .
+E - mail , hội nghị qua video , và hội nghị từ xa là những ví dụ về những kiểu truyền thông cá nhân có thể được tiến hành trên một mạng hoặc trên Internet .
+E - mail đã đem lại cho thế giới hiện đại một hình thức trao đổi thông tin hoàn toàn mới và vô cùng giá trị .
+E - mail vừa hiệu quả vừa rẻ tiền .
+E - mail có phần nào giống như một sự lai tạp giữa hệ thống bưu điện và một hệ thống trả lời điện thoại .
+Mỗi bit và byte bên trong một cung có thể có các giá trị khác nhau , nhưng ổ đĩa chỉ có thể đọc hoặc ghi mỗi lần nguyên cả cung .
+Mỗi loại đều có các ưu điểm và nhược điểm .
+Mỗi ô được nhận diện bởi một địa chỉ ô , vốn là một sự kết hợp gồm chữ cái cột và số hiệu hàng của ô đó .
+Mỗi phương pháp phân phối đều có ảnh hưởng đến khả năng của sản phẩm trong việc sử dụng các công nghệ nhất định hay ảnh hưởng đến khả năng của người sử dụng trong việc tương tác và điều khiển thông tin .
+Mỗi phần sẽ đề cập đến kỹ thuật được giới thiệu ở phần đó và được thiết kế để giúp bạn hiểu cách thức các kỹ thuật này được sử dụng trong một hoặc nhiều lĩnh vực .
+Mỗi đầu cuối tĩnh đơn giản chỉ là một thiết bị nhập / xuất ( I / O ) có chức năng như một cửa sổ vào máy tính được định vị ở một vài nơi .
+Mỗi giao thức truyền tập tin đều sử dụng phương pháp của riêng nó để kiểm tra các lỗi .
+Mỗi hình ảnh đã quay được gọi là một khung hình .
+Mục đích của mỗi phím chức năng tùy thuộc vào chương trình đang sử dụng .
+Mỗi chiếc búa được rập nổi theo hình dạng của một ký tự chữ số hoặc chữ cái ; hình dạng này được truyền qua ruy băng thấm mực lên giấy , đưa đến kết quả là một ký tự được in .
+Mỗi chỉ thị trong tập chỉ thị đều được biểu diễn bằng vi mã - tức một loạt các hướng dẫn cơ bản báo cho CPU biết cách thi hành các tác vụ phức tạp hơn .
+Mỗi công nghệ được thiết kế cho một kiểu tô pô mạng xác định và có những tính năng tiêu chuẩn xác định .
+Mỗi LAN bị chi phối bởi một giao thức , vốn là một tập các quy tắc và các định dạng dùng để gửi và nhận các dữ liệu , và một LAN riêng lẻ có thể sử dụng nhiều hơn một giao thức .
+Mọi người trong buổi hội nghị từ xa đều có thể thấy được mỗi thông điệp .
+Mỗi nút được nối liên tiếp vào một dây cáp đơn .
+Mỗi phần trong số bốn phần của địa chỉ IP là một con số nằm giữa 0 và 255 , do vậy một địa chỉ IP trông như thế này : 205.46.117.10 .
+Mỗi thiết bị phần cứng được kiểm soát bởi một phần mềm , được gọi là một trình điều khiển ; mà nó cho phép hệ điều hành kích hoạt và sử dụng thiết bị đó .
+Mỗi phím trong số bốn phím mũi tên này được ám chỉ về một hướng nào đó .
+Mỗi hạt sắt trong số này có thể hoạt động như một nam châm , nhận một từ trường khi chịu tác động của một nam châm điện .
+Mỗi loại tiện ích trong số này được minh họa trong phần Visual Essay ở các trang 42 và 4 .
+Đến lượt mỗi bảng trong số này có thể tham chiếu tới các bảng khác vốn lưu giữ các phân nhánh dữ liệu thậm chí còn mịn hơn , chẳng hạn như uy tín của người bán hay các dữ liệu về nhân viên .
+Mỗi phần được lưu trong một cung riêng biệt , lý tưởng là các phần này được lưu trong các cung liền kề .
+Mỗi đặc tính màu hoặc các đặc tính khác của pixel được lưu bằng một mã số .
+Mỗi đĩa được bao bọc bằng một lớp phủ từ tính , và toàn thể đơn vị được bọc trong một khoang niêm kín .
+Mỗi chương trình sẽ mở ra trong cửa sổ của riêng nó .
+Mỗi đầu đọc chỉ đọc một cực tính này hoặc cực tính kia .
+Mỗi Rocket eBook sử dụng một mã mật mã hóa không trùng lắp để bảo đảm rằng nội dung của nó không thể bị thay đổi hoặc được truyền sang một máy tính khác - cho dù sang một eBook khác .
+Mỗi vị trí giao cắt hàng và cột được gọi là một ô .
+Mỗi kế hoạch đều được tài trợ bởi một hiệp hội các công ty trong ngành công nghiệp mà mục tiêu là đạt được tỷ lệ nén cao và sự thỏa thuận về các tiêu chuẩn trong mở rộng ngành công nghiệp .
+Mỗi mặt của một đĩa DVD - ROM tiêu chuẩn có thể lưu giữ lên tới 4,7 GB .
+Mỗi SIMM hoặc DIMM có thể chứa từ 1MB tới 64 MB RAM và nối tới bo mạch chính bằng các nối kết 30 chân , 72 chân hoặc 168 chân .
+Mỗi địa điểm đều cần các tài nguyên , các dữ liệu và các chương trình tại chỗ , nhưng nó cũng cần chia sẻ các dữ liệu với địa điểm kia .
+Mỗi ký hiệu trong một con số được gọi là một ký số , do đó 10 là một con số gồm hai ký số .
+Mỗi bảng được lưu giữ trong tập tin của riêng nó , giống như bất kỳ tài liệu có liên quan nào khác .
+Mỗi lần CPU thi hành một chỉ thị , nó thực hiện một loạt các bước .
+Mỗi từ đạo là một vòng tròn riêng biệt , giống như các vòng tròn trên một tấm bia bắn .
+Mỗi từ đạo trên một đĩa còn được chia ra thành những phần nhỏ hơn .
+Mỗi kiểu thông tin không trùng lắp được lưu trữ trong trường dành riêng cho nó .
+Mỗi năm , có hàng triệu tấn giấy văn phòng bị loại bỏ .
+Các tựa CD - ROM lúc ban đầu chẳng hạn như Myst and Encarta thành công và cho thấy rằng các PC và các máy trò chơi có thể hỗ trợ một tập hợp nhiều công nghệ âm thanh và video , siêu phương tiện và các loại thông tin truyền thông đa phương tiện quan trọng khác .
+Các bộ vi xử lý của PC trước đây không lớn hơn nhiều so với một ngón tay cái .
+Các hệ thống Pentium III thời kỳ đầu khai thác ưu điểm của bus 100 MHz , giống như Pentium II .
+Các máy vẽ thời kỳ đầu là các thiết bị cơ khí đồ sộ , sử dụng các cánh tay tự động để vẽ , theo đúng nghĩa đen , hình ảnh lên một tấm giấy .
+Những lập trình viên thời kỳ đầu nhận thấy rằng họ cần một mã văn bản tiêu chuẩn - một hệ thống mà mọi người đều tán thành - mà trong đó các con số biểu diễn các chữ cái của bảng chữ cái , các dấu chấm câu , và các ký hiệu khác .
+Các chương trình bảng tính thời kỳ đầu chỉ cung cấp mỗi lần một phiếu công tác .
+Các phiên bản cũ của các đĩa mềm đều là loại mật độ kép ( DD ) .
+EBCDIC ( đọc là EB - si - dic ) là chữ viết tắt của cụm từ Mã Chuyển Đổi Thập Phân Mã Hóa Nhị Phân Mở Rộng .
+EBCDIC , ASCII , và Unicode là ba trong số những hệ thống mã văn bản thông dụng nhất đã được nghĩ ra .
+EBCDIC là một mã 8 bit định nghĩa 256 ký hiệu .
+EBCDIC hiện vẫn được sử dụng trong các hệ thống máy tính cỡ lớn và máy tính cỡ trung của IBM , nhưng hiếm khi được bắt gặp trong các máy tính cá nhân .
+Biên tập một macro bằng Visual Basic for Application .
+Biên tập một bản thuyết trình trong chế độ xem Outline của Microsoft PowerPoint .
+Giáo dục đã biết nắm lấy các công nghệ phương tiện mới và là một trong những người tiêu dùng đầu tiên và tốt nhất của các sản phẩm truyền thông đa phương tiện .
+Các sản phẩm chống virus hiệu quả không chỉ phát hiện và loại bỏ các virus , mà chúng còn giúp bạn phục hồi các dữ liệu đã bị mất do một virus .
+Lập trình truyền thông đa phương tiện hiệu quả cung cấp thông tin mà được sắp lớp và đa chiều .
+EIDE đã tiến hóa qua nhiều năm và có nhiều biến thể , tất cả chúng đều trải qua những tên gọi khác nhau .
+Cách khác , chức năng của nó giống nhau - cung cấp khả năng truy xuất nhanh chóng tới các lệnh thường được sử dụng cho hạng mục mà bạn đã nhấp nút chuột phải vào .
+Các bộ hiển thị ELD tương tự như các bộ hiển thị LCD nhưng sử dụng một tấm phim lân quang được kẹp giữa hai tấm kính .
+Tiền mặt điện tử ( còn được gọi là tiền mặt kỹ thuật số ) đã xuất hiện từ năm 1996 nhưng chưa được chấp nhận rộng rãi để mua sắm trực tuyến .
+Tiền mặt điện tử có dạng một giấy chứng nhận điện tử có thể phục hồi quyền sở hữu bằng cách trả tiền mà bạn có thể mua tiền mặt điện tử từ một ngân hàng có cung cấp các dịch vụ tiền mặt điện tử .
+Thư điện tử là một cách hiệu quả và rẻ tiền để gửi và nhận các thông điệp và các tài liệu từ khắp mọi nơi thế giới chỉ trong vòng vài phút .
+Các hệ thống thư điện tử cho phép bạn trao đổi các thông điệp với bất kỳ người dùng nào khác ở bất cứ nơi đâu .
+Tầm quan trọng đã bắt đầu nhanh chóng chuyển từ bàn phím sang màn hình ; ngày nay , nhiều người sử dụng các chương trình phổ biến chắc chắn không thể biết được có những phím chức năng nào đang làm việc !
+Các nhân viên cũng cần bảo vệ những thứ thuộc quyền sở hữu của công ty - chẳng hạn như những bí mật thương mại , các danh bạ điện thoại , các hồ sơ cá nhân , và các quy cách sản phẩm - được lưu trữ trên mạng .
+Được bao bọc bên trong cartridge Pentium II là nhân xử lý và chip cache L2 ; điều này dẫn tới các hoạt động hiệu suất cao .
+Công nghệ mật mã hóa bảo đảm an toàn cho các dữ liệu bằng cách chuyển đổi nó thành một mã mà không ai có thể sử dụng được nếu không có một khoá giải mã .
+Các kỹ sư sử dụng phần mềm này có thể bổ sung thêm những hiệu chỉnh được đánh dấu gạch đỏ vào các bản vẽ tầng nhà máy , và những người giám sát dự án có thể hiển thị các ghi chú của buổi họp .
+Hệ thống điện tử ổ đĩa tích hợp cải tiến ( EIDE ) là một phiên bản cải tiến của một tiêu chuẩn giao tiếp ổ đĩa cũ hơn được gọi đơn giản là hệ thống điện tử ổ đĩa tích hợp ( IDE ) .
+Thưởng thức âm nhạc thu sẵn trên mạng Internet .
+Nhập dữ liệu vào mỗi trường cho sáu người .
+Việc nhập dữ liệu trong một bảng CSDL rất giống với việc nhập dữ liệu trong một chương trình bảng tính .
+Việc nhập dữ liệu trong một phiếu công tác rất đơn giản .
+Các sản phẩm mức xí nghiệp , chẳng hạn như Oracle , db2 và Sybase , được thiết kế để quản lý các hệ CSDL dành cho công ty lớn hoặc chuyên dụng .
+Các ứng dụng xí nghiệp thường đáp ứng những nhu cầu của nhiều người sử dụng cùng lúc , đôi khi trên một vùng rộng lớn .
+Phần mềm xí nghiệp cho phép những người dùng khác nhau dùng chung các dữ liệu , cho dù họ ở cách xa nhau hai đầu thế giới .
+Phần mềm xí nghiệp có thể được cải biến theo yêu cầu riêng để thỏa mãn những nhu cầu của nhiều người sử dụng khác nhau tại những địa điểm khác nhau .
+Phần mềm xí nghiệp là bất kỳ ứng dụng cấp độ lớn nào được dựa trên một DBMS .
+Phần mềm xí nghiệp có thể nối kết nhiều người dùng với một nguồn dữ liệu trung tâm .
+Phần mềm giáo dục và giải trí , với nhiều đặc tính truyền thông đa phương tiện tương tác .
+Toàn bộ các đĩa cứng , các đĩa mềm hoặc các tập tin riêng lẻ có thể được nén ở tỉ số 3 : 1 ( chẳng hạn , kết quả là 300 MB dữ liệu sẽ chỉ chiếm 100 MB không gian ) .
+Cũng quan trọng không kém , một DBMS cung cấp phương tiện cho phép nhiều người sử dụng có thể truy xuất và dùng chung các dữ liệu trong cùng một CSDL thông qua các hệ thống máy tính được nối mạng .
+Bàn phím chuyên dụng được thiết kế để giúp cho tay của người sử dụng được đặt ở vị trí thích hợp , giảm sự gò bó và căng thẳng .
+Sự thuận tiện , vị trí bàn tay và dáng điệu ngay ngắn , và các thiết bị nhập đặc biệt được nói một cách chi tiết ở phần Sống với máy tính .
+Tính năng kiểm lỗi cũng được cung cấp trong những mảng như vậy .
+Về bản chất , một công tắc đang bật hay tắt là toàn bộ những gì chúng có thể hiểu được .
+Thiết lập các mối quan hệ hay các liên kết giữa các bảng để cập nhật các bản ghi .
+Ethernet ban đầu được thiết kế cho một tô pô bus và cáp đồng trục dày , nhưng phần lớn các hệ thống mạng mới đều sử dụng một Ethernet tô pô sao với phương tiện là cáp cặp xoắn hoặc cáp quang .
+Thậm chí một người dùng máy tính gia đình cũng có thể tham gia vào một mạng toàn cầu thực sự .
+Tuy một công ty có thể không cho phép những người dùng Internet truy xuất tới bất kỳ phần nào mạng của nó , nhưng nó có thể cho phép những nhân viên truy xuất mạng này thông qua Internet .
+Thậm chí nếu một máy tính có thể làm các công việc của nó mà không cần người ngồi trước mặt thì con người vẫn thiết kế , xây dựng , lập trình và sửa chữa các hệ thống máy tính .
+Dù một mạng cục bộ không sử dụng các lệnh và các giao thức TCP / IP , nó vẫn có thể cung cấp một số dịch vụ Internet , chẳng hạn như thư điện tử hoặc truyền tập tin .
+Cho dù một máy PC không có một ứng dụng lớn chạy trên nó , hệ thống này vẫn có thể có một giao diện phần mềm cho phép máy PC làm việc với một ứng dụng lớn trên một máy PC khác , một máy chủ phục vụ mạng , hoặc máy tính lớn .
+Cho dù bộ hiển thị trông có vẻ tốt ( hoặc nếu bạn sẽ mua nó thông qua đường thư tín ) , bạn cần kiểm tra nhiều đặc điểm kỹ thuật .
+Dù bạn không có một tài khoản ISP , bạn vẫn có thể sử dụng thư điện tử , nếu bạn có thể sử dụng một máy tính có khả năng truy xuất World Wide Web .
+Dù bạn không dự tính làm việc với các hệ thống máy tính , bạn vẫn cần hiểu rõ những khái niệm cơ sở của lưu trữ dữ liệu .
+Cho dù các bạn không nói bất cứ điều gì với nhau hoặc trong trường hợp truyền bằng modem , nếu các bạn không gửi bất kỳ dữ liệu nào - băng thông này vẫn có hiệu lực .
+Thậm chí nếu bạn không hề có một kỹ năng họa sĩ nào bạn vẫn có thể tạo các tác phẩm đồ họa hiệu quả với phần mềm cơ bản và rẻ tiền ( hay miễn phí ) .
+Cho dù bạn có sở hữu một hình ảnh hay có quyền sử dụng nó cho mục đích thương mại , bạn cũng có thể đoán được rằng một khi đã lên mạng thì nó sẽ bị sao chép và phân phát theo những cách mà bạn không bao giờ muốn .
+Cho dù các hoạt động của bạn chỉ giới hạn ở việc sử dụng một máy tính và không liên quan tới việc hỗ trợ hoặc xây dựng một máy , nhưng vẫn rất hữu ích nếu bạn hiểu rõ các thành phần nào là quan trọng nhất trong việc xử lý dữ liệu , và những thành phần nào ảnh hưởng tới tốc độ của máy tính của bạn .
+Cho dù công việc không đòi hỏi bạn phải làm trực tiếp trên máy tính , thì những kiến thức này có thể giúp bạn có suy nghĩ mới về việc sử dụng máy tính cho công việc , thích nghi với nhiều môi trường làm việc .
+Dù trong một văn phòng nhỏ , thời gian cũng rất giá trị và người ta không thể để lịch trình làm việc bị xáo trộn .
+Thậm chí trong các tổ chức kinh doanh vốn sử dụng các ứng dụng trọng yếu khác , các trình xử lý văn bản và các bảng tính vẫn đóng một vai trò quan trọng .
+Thậm chí trong các tổ chức kinh doanh , nơi mà các tài liệu được sinh ra và được phân phối bằng phương pháp điện tử , nhiều người vẫn in chúng ra và sắp xếp , lưu trữ chúng .
+Thậm chí các chương trình vẽ hình rẻ tiền cũng có thể lưu các tập tin ở độ phân giải cao và với 16 triệu màu .
+Thậm chí các chương trình tô vẽ dạng phần mềm cổ đông cũng hỗ trợ các dạng thức tập tin thường dùng chẳng hạn như JPEG , PCX , tiff và nhiều dạng thức khác .
+Cho dù vậy , đối với nhiều người , các máy ảnh kỹ thuật số vẫn là một lợi ích .
+Dù vậy , sự thành công của Intel trong thị trường này vẫn chưa được bảo đảm cho mãi tới năm 1981 , khi mà IBM đưa ra máy IBM PC đầu tiên , vốn dựa trên bộ vi xử lý 8088 của Intel .
+Dù vậy , nó vẫn chưa được toàn thể các nhà phát triển phần mềm chấp nhận .
+Tuy vậy , việc nạp các tập tin đa phương tiện có thể mất nhiều thời gian hơn so với việc nạp các tài liệu HTML bình thường .
+Cho nên , một số người vẫn đánh đồng nó sai lạc Mac như là một PC .
+Tuy vậy , những ích lợi của ISDN rất to lớn .
+Thậm chí một số loại máy ảnh kỹ thuật số cũng chấp nhận các PC Card để lưu trữ các ảnh chụp kỹ thuật số .
+Ngay cả các thiết bị đặc biệt như các màn hình xúc giác cũng cho phép người sử dụng giao tiếp với hệ thống bằng cách dùng các ngón tay của anh ấy hoặc của cô ấy .
+Thậm chí chính các chỉ thị của máy tính cũng là các con số .
+Thậm chí người mua vật tư vốn theo dõi và đặt hàng các vật tư cũng sử dụng CSDL này để biết được những vật tư nào đã được sử dụng và vật tư nào được cần tới .
+Mặc dù một PC truyền thông đa phương tiện hiện đại đã có tính năng hiển thị các nội dung truyền thông đa phương tiện nhưng các nhà phát triển truyền thông đa phương tiện cũng phải xem xét đến các yếu tố khác .
+Dù cho Apple là công ty đầu tiên đưa ra con chuột như là một bộ phận chuẩn kèm theo máy tính cá nhân , nhưng Apple không nhận thức hết về thiết bị nhập có đuôi này .
+Cho dù các máy ảnh kỹ thuật số lưu trữ các tấm ảnh ở độ phân giải cao ( hàng triệu điểm ảnh trong một tấm ảnh ) thì chất lượng của tấm ảnh được in ra cũng bị giới hạn bởi chất lượng của máy in .
+Tuy các sách điện tử là một dòng sản phẩm mới , nhưng các nhà xuất bản đang nhanh chóng vào cuộc , khiến cho nhiều sản phẩm dạng in khác nhau có sẵn trong định dạng sách điện tử .
+Mặc dù tiếng Anh sử dụng chỉ khoảng 40 âm vị , nhưng một âm thì có thể có nhiều nghĩa khác nhau ( ví dụ two so với too ) , làm cho khó mà dịch chính xác .
+Cho dù các liên kết siêu phương tiện thường rất ích lợi nhưng đôi khi việc để người sử dụng đi lang thang đến các nơi khác , có thể không bao giờ quay lại sẽ rất phiền toái .
+Mặc dù chỉ mất một vài xu trên mỗi trang để tạo ra các tài liệu in , nhưng phí tổn tích lũy của hàng tỉ giấy tờ là vô cùng to lớn .
+Tuy Linux được coi là một hệ điều hành miễn phí , nhưng những chuyên gia công nghiệp đã rất có ấn tượng về sức mạnh , các năng lực và tập hợp tính năng phong phú của nó .
+Mặc dù nhiều máy tính xách tay cũng có các đặc tính truyền thông đa phương tiện nhưng bạn vẫn nên sử dụng máy tính để bàn .
+Cho dù nhiều chương trình có cung cấp một cách thức dễ dàng để thêm chữ vào hình ảnh , phần chữ đó sẽ trở thành một tập hợp khác nữa của các điểm ảnh sau khi nó được đặt vào .
+Mặc dù phần lớn các bộ vi xử lý đều thi hành các chỉ thị một cách nhanh chóng , nhưng các bộ xử lý mới hơn có thể thi hành còn nhanh hơn bằng cách sử dụng một tiến trình được gọi là đặt ống dẫn ( hay xử lý ống dẫn ) .
+Mặc dù thiếu niên này đã sử dụng một bí danh để che dấu tông tích , nhưng các nhân viên liên bang đã dò tìm ra được và tóm gọn hắn .
+Mặc dù ta phải có thành phần gắn thêm Shockwave để hiển thị các Website có dùng các thành phần Shockwave , các tư liệu Shockwave xuất hiện trong cửa sổ trình duyệt chứ không phải trong một cửa sổ tách biệt .
+Dù người sử dụng chỉ gõ mười con số của số điện thoại , nhưng nó xuất hiện với một mã vùng được bao bọc trong các dấu ngoặc đơn , một khoảng trắng , và một dấu gạch ngang theo sau tiền tố - ví dụ , ( 818 ) 555 - 123 .
+Mặc dù các từ dữ liệu và thông tin thường được dùng lẫn lộn , nhưng có một sự khác biệt quan trọng giữa chúng .
+Mặc dù chúng không có bàn phím thực , nhưng ở một số máy có cung cấp một bàn phím bằng hình mà xuất hiện trên màn hình , bạn gõ bằng cách lấy bút điện tử trỏ lên các phím .
+Mặc dù Internet của ngày nay hầu như không còn giống với tiền bối của nó cách nay ba mươi năm , nhưng về cơ bản nó vẫn hoạt động theo cùng cách thức .
+Dù mọi người không thể thấy bạn trên Internet , nhưng bạn vẫn có thể bị nhận diện .
+Mặc dù tốc độ của đĩa thay đổi , nhưng việc đọc các dữ liệu từ một phương tiện quang học là một công việc tương đối đơn giản .
+Mặc dù hiện đã có các thiết bị lưu trữ lớn , nhưng nhiều người dùng vẫn cảm thấy muốn mở rộng những giới hạn cho những thứ họ có thể lưu trữ trên các máy PC của họ .
+Thậm chí trẻ em cũng có thể vừa học vừa vui chơi và chính các sản phẩm truyền thông đa phương tiện trên CD hay trên Internet là những sản phẩm hàng đầu của loại hoạt động này .
+Sau cùng , con người mới bắt đầu kể chuyện ( và để lại một bản ghi chép về cuộc sống của mình ) thông qua các hình vẽ và các bức tranh chẳng hạn như bức tranh hang động nổi tiếng tìm thấy tại vùng Ardèche nước Pháp .
+Mỗi ký tự của một font đơn cách , chẳng hạn như Courier , đều chiếm một không gian theo chiều ngang đúng bằng nhau .
+Mỗi máy tính trên Internet có một địa chỉ dạng số gồm bốn phần , được gọi là địa chỉ giao thức Internet ( địa chỉ IP ) , trong đó chứa đựng các thông tin định tuyến vốn nhận diện vị trí của nó .
+Mỗi máy tính trên Internet đều có một địa chỉ IP dạng số không trùng lắp , và hầu hết đều cũng có một địa chỉ sử dụng hệ thống tên miền .
+Mỗi ngày , hàng triệu người sử dụng phần mềm xử lý văn bản để tạo ra và biên tập các thư thông báo , các bức thư , các báo cáo , và nhiều các dạng tài liệu khác .
+Mỗi tài liệu đều có các lề trên , dưới , trái và phải , và trong bất cứ tài liệu nào tất cả bốn lề có thể giống nhau hoặc khác nhau .
+Sau vài phút , một người trong một văn phòng có thể gửi một tập tin cho một người trong văn phòng khác .
+Mỗi máy vi tính đều có một đồng hồ hệ thống , nhưng mục đích chủ yếu của đồng hồ này không phải là để duy trì giờ giấc .
+Mỗi TV đều có một vùng quét lố hơi khác nhau , do đó bạn có thể mất một phần của hình ảnh của máy PC trên TV .
+Sản phẩm của Everybook , Inc . cố gắng nhân đôi cách thức đọc sách qua việc cung cấp hai màn hình , được tách rời bởi một gáy .
+Mọi việc bạn làm với con chuột gắn liền với bốn kỹ thuật khác nhau : nhấn , nhấn đôi , kéo rê , và nhấn phải .
+Ví dụ như các trò chơi nhiều người có thể được truy xuất thông qua một mạng cục bộ hay mạng Internet , các cuộc hội thảo video cho phép những người tham gia nhìn thấy nhau và chia sẻ dữ liệu trong thời gian thực thông qua các đường dây điện thoại hay các kết nối vệ tinh hoặc các chương trình truyền hình tương tác nhận các dữ liệu nhập người xem thông qua một Website hay một phòng tán gẫu trên Web .
+Các ví dụ về các thuộc tính có thể là màu sắc , kích thước , kiểu dạng , số lượng và giá cả .
+Ví dụ các hệ điều hành bao gồm Windows 2000 , Windows NT , hệ điều hành Macintosh , UNIX , Linux OS / 2 và DOS .
+Một số ví dụ về các chương trình ứng dụng phổ biến là Microsoft Word , CorelDRAW , Auto CAD , và Netscape Navigator .
+Trước đây , ngoại trừ tiếng bíp lâu lâu mới phát ra , các máy tính từng là các bộ máy câm lặng .
+Ngoại trừ lớp phủ plastic , không có gì ngăn chặn nhiễu từ bên ngoài cho loại cáp này , do vậy nó còn được gọi là cáp cặp xoắn không vỏ bọc ( UTP ) .
+Những ngoại lệ gồm các ổ đĩa cứng tháo lắp và các ổ đĩa cứng lắp ngoài , vốn có thể dễ dàng được tháo rời ra khỏi hệ thống .
+Những lượt thi hành được thực hiện theo từng giai đoạn : khi chỉ thị đầu tiên hoàn tất giai đoạn tìm nạp , nó chuyển sang giai đoạn giải mã và một chỉ thị mới được tìm nạp .
+Các công nghệ hiện có rốt cuộc sẽ đạt tới những giới hạn của chúng ; chẳng hạn , một ngày nào đó các bộ xử lý silicon bình thường sẽ không còn đủ chỗ trống để chứa thêm các transistor cực nhỏ .
+Việc bảo dưỡng tốn kém hiếm khi cần tới , và bộ phận duy nhất cần thay thế đều đặn là hộp mực , vốn có giá thay đổi từ 20 đô la tới 35 đô la .
+Những người sử dụng máy tính kinh nghiệm có thể gọi thư mục này là cặp hồ sơ gốc hay thư mục gốc .
+Thực hành với các công cụ Pointer Speed và Show Pointer Trails và xem chúng ảnh hưởng đến hoạt động của con chuột của bạn ra sao .
+Hãy thử các công cụ vẽ hình của chương trình để tạo một hình ảnh đơn giản .
+Những chuyên gia đã mường tượng một xã hội không giấy tờ : một thế giới mà trong đó các tài liệu được tạo ra , được phân phối , và được đọc trên các hệ thống máy tính .
+Những chuyên gia đề nghị giữ chúng ở một nơi cách xa máy tính .
+Giải thích cách một máy tính xuất ra âm thanh .
+Giải thích cách một bộ hiển thị CRT hiển thị các hình ảnh .
+Giải thích cách các địa chỉ ô được sử dụng ra sao trong các chương trình bảng tính .
+Giải thích cách sử dụng các loại phương tiện khác nhau để tạo ra các sự kiện truyền thông đa phương tiện .
+Hãy giải thích cách một siêu phương tiện cho phép một người sử dụng duyệt qua các nội dung số mà không cần phải theo một trình tự tuyến tính .
+Giải thích cách hệ điều hành cho phép người sử dụng quản lý các tập tin ra sao .
+Giải thích tiến trình mà một máy in laser hoạt động .
+Giải thích mục đích của các bộ lọc và các biểu mẫu .
+Giải thích một công thức là gì và các công thức có thể được sử dụng ra sao trong các chương trình bảng tính .
+Giải thích ý nghĩa của việc chọn các phần của một tài liệu .
+Giải thích tại sao DOS không còn là hệ điều hành OS thống trị đối với các máy tính cá nhân .
+Hãy khảo sát nhiều site cổng nối để tìm những tùy chọn mà bạn ưa thích nhất .
+Bạn hãy khảo sát nội dung của đĩa cứng của bạn .
+Khảo sát giao diện của chương trình thuyết trình của bạn .
+Mở rộng sức mạnh của bộ xử lý tới các thiết bị khác .
+Các thiết bị lắp ngoài - chẳng hạn như các thiết bị được sử dụng để nhập và xuất - được nối tới hệ thống thông qua các cổng nằm ở phía sau máy tính .
+Các ổ đĩa cứng lắp ngoài , chẳng hạn như ổ đĩa được chế tạo bởi Hewlett - Packard này , có thể được cắm vào một trong các cổng của máy PC .
+Hầu hết các công ty phần mềm đều có các Web site chứa các danh sách các câu hỏi thường gặp .
+Các ổ đĩa cứng cao cấp , tốc độ cao thường có các giao diện SCSI , và các máy quét , các ổ băng từ , và các thiết bị lưu trữ quang học chẳng hạn như các ổ đĩa CD - ROM cũng vậy .
+Các máy trạm hay các PC tốc độ nhanh với các chương trình mô hình 3 chiều có thể tạo tính thực vào , thậm chí , là các chủ thể kỳ dị nhất .
+Các chip SRAM nhanh hơn hỗ trợ các thời gian truy xuất khoảng 10 nanô giây .
+FAT32 cũng tiết kiệm những khối lượng lớn không gian đĩa bị lãng phí bằng cách tạo ra những liên cung nhỏ hơn nhiều .
+Tuy nhiên , fat32 không tương thích với các hệ thống DOS hoặc Windows NT .
+Những tính năng chẳng hạn như hỗ trợ các tập volume cho phép bạn kết hợp không gian lưu trữ trên nhiều đĩa khác nhau lại để chúng có vẻ như và hoạt động giống như một ổ đĩa đơn .
+Rất ít lĩnh vực điện toán nào có tính mở rộng như là lĩnh vực đồ họa máy tính .
+Cáp quang cũng cung cấp băng thông đặc biệt ; nó không những cực kỳ nhanh và có thể truyền cùng lúc một số lượng khổng lồ các thông điệp , mà nó còn là một phương tiện truyền dẫn rất an toàn .
+Cáp quang cũng không bị ảnh hưởng bởi nhiễu điện từ , vốn là một vấn đề đối với dây dẫn bằng đồng .
+Các đường cáp quang sử dụng các tia sáng dạng xung để truyền các dữ liệu và hoạt động nhanh hơn gấp nhiều lần so với các công nghệ bus dữ liệu bình thường .
+Các nhà quản lý và người lao động thường giống nhau ở việc sử dụng máy tính xách tay để kiểm tra kế hoạch và các tài liệu xây dựng khác hoặc để quản lý việc cung cấp nguyên vật liệu .
+Các máy in nung nóng được sử dụng trong các xưởng in như là một lựa chọn thay thế cho công nghệ in ấn bằng áp lực .
+Hình 1.1 cho thấy một slide được thiết kế bằng Microsoft PowerPoint 2000 , một chương trình thuyết trình thông dụng .
+Hình 1.10 cho thấy dấu nhắc DOS , vốn vẫn còn được cung cấp trong Windows 95 và 98 cho những ai muốn chạy các chương trình DOS hoặc muốn làm việc với các lệnh bàn phím của DOS .
+Hình 1.11 cho thấy một bản thuyết trình được tạo ra trong Corel Presentation và được xem trong một cửa sổ trình duyệt .
+Hình 1.13 cho thấy một slide khi nó xuất hiện trong chế độ slide show trên một màn hình máy tính .
+Hình 1.14 cho thấy một danh sách của thư mục chính của một đĩa cứng , như được thấy trong tiện ích Windows Explorer .
+Hình 1.15 cho thấy các địa chỉ được sử dụng trong các chương trình thư điện tử ra sao .
+Hình 1.15 cho thấy cách bộ nhớ cache hoạt động với CPU và RAM ra sao .
+Hình 1.16 cho thấy các dữ liệu chảy ra sao qua một giao diện tuần tự 9 ghim .
+Hình 1.16 cho thấy độ cao bay lơ lửng của một đầu đọc của đĩa cứng so với các kích thước của các hạt bụi , các dấu tay và bề dày của một sợi tóc .
+Hình 1.17 cho thấy một loạt các bài viết và các bài trả lời tạo thành một mạch .
+Hình 1.17 cho thấy các dữ liệu di chuyển ra sao qua một giao diện song song .
+Hình 1.19 cho thấy một bo mở rộng PC đang được lắp đặt .
+Hình 1.2 cho thấy giao diện Windows 98 với menu Start mở , một chương trình đang chạy , và một hộp thoại mở .
+Hình 1.3 cho thấy một con trỏ trong tài liệu mà đang được soạn thảo bằng chương trình chung cho máy để bàn gọi là Frame Maker .
+Hình 1.3 cho thấy một nối kết Internet điển hình .
+Hình 1.4 cho thấy một bộ hiển thị CRT điển hình hoạt động như thế nào .
+Hình 1.5 cho thấy tiến trình gửi và nhận e - mail .
+Hình 1.8 cho thấy một danh sách thư mục điển hình trên một hệ thống Windows NT .
+Hình 1.8 là một ví dụ về con chuột trong cửa sổ chương trình .
+Hình 1.8 cho thấy menu File trong WordPerfect .
+Hình 1.9 cho thấy một đĩa mềm và một ổ đĩa mềm .
+Hình 1.9 cho thấy một hộp thoại điển hình và mô tả một vài trong số những đặc trưng thông dụng nhất của hộp thoại .
+Hình 1.9 cho thấy các thành phần nêu trên có thể được bố trí ra sao trên bo mạch chính của máy tính .
+Hình 2.1 minh họa phần tổng quan của một quá trình phát triển thông tin truyền thông đa phương tiện .
+Hình 2.1 cho thấy cách các máy tính liên lạc thông qua các modem và một nối kết điện thoại .
+Hình 2.10 cho thấy các ví dụ về mỗi kiểu trường này .
+Hình 2.11 cho thấy một phép chiếu dành cho các quý ba và bốn .
+Hình 2.13 minh họa một hình ảnh đã được tạo hình của mô hình khung ở Hình 2.1 .
+Hình 2.14 cho thấy một bảng như vậy ; nó tính toán khoản trả lãi thế chấp hàng tháng đối với nhiều lãi suất khả dĩ .
+Hình 2.2 cho thấy một ví dụ về một tiện ích nén tập tin đang làm việc .
+Hình 2.3 minh họa tốc độ truyền dữ liệu .
+Hình 2.4 : Các máy in theo dòng hoạt động nhanh đến mức đáng kinh ngạc và có thể in ra nhiều trang văn bản trơn trong một phút .
+Hình 2.5 cho thấy một bảng thông tin về khách hàng như nó xuất hiện trong một ứng dụng CSDL thông dụng dành cho PC , Lotus Approach .
+Hình 2.5 cho thấy các ứng dụng , giao diện Winsock , và các trình điều khiển mạng ăn khớp với nhau ra sao .
+Hình 2.6 Công nghệ in phun mực là cơ sở cho nhiều hệ thống dùng trong văn phòng tất cả trong một thế hệ mới .
+Hình 2.7 : Cách một máy in laser tạo ra một trang in .
+Hình 2.7 minh họa cho quá trình này .
+Hình 2.7 cho thấy cách một máy in laser hoạt động .
+Hình 2.8 : Các máy in laser sinh ra kết xuất có độ phân giải cao một cách nhanh chóng và yên lặng ; tuy nhiên , chúng có xu hướng đắt tiền hơn các máy in phun .
+Hình 2.9 cho thấy một bảng CSDL với các trường được đặt tên rõ ràng .
+Các Hình 2.6 và 2.7 cho thấy một công thức đơn giản vốn lấy tổng doanh số của mỗi nhân viên và tính toán số tiền hoa hồng cho tổng số đó .
+Nén tập tin , hay nén dữ liệu , là công nghệ cho phép thu nhỏ kích thước của một tập tin , nhờ đó giải phóng thêm không gian để chứa được nhiều dữ liệu và chương trình hơn trên đĩa .
+Nén tập tin , phần mềm được sử dụng các thuật toán toán học để ép chặt các dữ liệu thành các mẩu nhỏ hơn bằng cách lược bớt những thông tin không quan trọng đối với tập tin hoặc dữ liệu đó .
+Công nghệ nén tập tin được sử dụng để thu nhỏ kích thước của các tập tin để chúng chiếm ít không gian đĩa hơn .
+Các dạng thức tập tin và các vấn đề về tương thích .
+Các dạng thức tập tin có thể có tính độc quyền hay phổ biến .
+Giao thức truyền tập tin ( FTP ) là công cụ Internet được sử dụng để sao chép các tập tin từ một máy tính sang một máy tính khác .
+Các tập tin và các chương trình được sử dụng bởi nhiều hơn một người sử dụng ( tại các nút mạng khác nhau ) thường được lưu trữ trên máy phục vụ .
+Các tập tin ở các định dạng khác có thể cũng có các URL .
+Bạn hãy điền đầy các ô từ A1 tới D5 bằng các dữ liệu thuộc kiểu bất kỳ .
+Hãy điền vào chỗ trống trong mỗi câu sau bằng một thuật ngữ đã được liệt kê trong phần .
+Điền vào mỗi chỗ trống bằng một trong những thuật ngữ được liệt kê trong phần Key Terms .
+Điền vào mỗi chỗ trống bằng một trong những thuật ngữ được liệt kê trong phần các thuật ngữ quan trọng .
+Phim phải được xử lý trước khi ta có thể thấy kết quả .
+Các bộ lọc là một tính năng DBMS cho phép hiển thị một danh sách được chọn hay một tập con của các bản ghi từ một bảng .
+Các bộ lọc cho phép bạn duyệt qua toàn bộ những bản ghi được chọn vốn thỏa một tập các tiêu chí .
+Sau cùng , như bạn đã biết trong Chương 1 của HỆ ĐIỀU HÀNH VÀ GIAO DIỆN NGƯỜI SỬ DỤNG , nhiều người nhận thấy rằng giao diện dòng lệnh của DOS khó học và khó sử dụng hơn một GUI được thiết kế tốt .
+Cuối cùng , bởi vì các bản vẽ CAD được tạo từ một cơ sở dữ liệu của các thuộc tính , các nhà thiết kế có thể sử dụng thông tin đó theo các cách khác .
+Cuối cùng , xử lý và rửa phim có thể là một quá trình rất lâu và đắt tiền .
+Sau cùng , các máy in phun mực đem lại một giải pháp hiệu quả về mặt kinh tế cho việc in ấn màu .
+Sau cùng , để hoàn chỉnh thêm kiến thức của bạn và do đó có thể giải quyết nhiều sự cố phần cứng hơn , bạn cần làm quen với các chủng loại bộ nhớ khác nhau mà một máy PC sử dụng và các loại bus dữ liệu hiện có .
+Tìm tất cả các bản ghi của những công dân New York sống trong các khu nằm ngoài Manhattan .
+Hãy tìm hiểu xem máy PC của bạn có khả năng chơi trò chơi hay không .
+Hãy xác định xem loại máy in nào được nối tới máy tính của bạn .
+Việc tìm kiếm và khởi động các chương trình từ một dấu nhắc dòng lệnh có thể so sánh được với việc di chuyển trong đêm với một bản đồ đường đi trong đầu bạn .
+Tìm kiếm nội dung bằng một máy tìm kiếm .
+Các quy tắc phòng chống cháy không cho phép việc đi dây cáp mạng bình thường ở những nơi nó có thể bắt lửa nhưng khó thấy , vì hơi độc sẽ thoát ra trong đám cháy .
+Các bức tường lửa đóng vai trò như là các rào cản đối với sự xâm nhập trái phép vào trong một mạng được nối tới Internet , cho phép những người bên ngoài truy xuất vùng công cộng nhưng ngăn chặn họ xâm nhập vào các vùng cần được bảo mật của mạng .
+Trước hết , tình trạng phá rừng là một vấn đề toàn cầu vì chúng ta đốn hạ cây cối để làm ra giấy .
+Trước hết , đối với những chương trình được thiết kế bằng kỹ thuật xử lý 32 bit , hệ điều hành này có thể trao đổi thông tin với các máy in , các mạng và các tập tin bằng các đoạn 32 bit thay vì các đoạn 16 bit như trong Windows 3.x và DOS .
+Trước hết , các đĩa cứng được niêm kín trong một khoang , và thứ hai , đĩa cứng chứa đựng một đĩa kim loại cứng ( thường là nhôm ) , thay vì mylar dẻo .
+Trước hết , anh ta muốn tạo ra một hệ điều hành OS mạnh mẽ , giàu tính năng , có khả năng cung cấp những chức năng tương tự như của UNIX .
+Thứ nhất , thay vì phải vẽ các nhân vật nhiều lần , các nhà tạo hoạt ảnh trên máy tính chỉ cần vẽ một lần ; máy tính có thể nhân bản nhân vật bất kỳ khi nào cần thiết .
+Trước hết , nó là một phương tiện lưu trữ ảnh chụp tiện lợi .
+Cách thứ nhất là nhìn vào phần mở rộng ( DOC , html và những loại khác ) ở phần cuối của mỗi tên tập tin , giả sử rằng hệ thống của bạn được xác lập để hiển thị các phần mở rộng của tên tập tin .
+Trước hết , hãy quan sát bộ hiển thị được gắn với máy tính của bạn .
+Trước hết , chi phí mua phần mềm có thể cao .
+Thứ nhất , các nhà thiết kế Web đang sử dụng các công nghệ nén để chắc chắn rằng các trang Web ( nhất là các thành phần truyền thông đa phương tiện ) có thể được tải và hiển thị , phát lại nhanh hơn bao giờ hết .
+Thứ nhất , sau khi các đối tượng được tạo ra , đối với máy tính chúng vẫn là đối tượng .
+Ra đời đầu tiên vào những năm 1960 , các máy tính mini có tên gọi như vậy vì kích thước nhỏ nhắn so với các loại máy tính khác ngày đó .
+Những kẻ kích động có thể bị ngăn cấm không cho vào các listserv và các phòng hội thoại , và những người dùng khác có thể ngăn chặn các thông điệp của kẻ kích động dựa vào các tài khoản thư điện tử và bản tin của hắn .
+Cấu trúc cơ sở dữ liệu tập tin phẳng và cơ sở dữ liệu quan hệ .
+Các CSDL tập tin phẳng là các bảng hai chiều gồm các trường và các bản ghi , chúng không thể thiết lập những mối quan hệ với các bảng khác .
+Các CSDL tập tin phẳng hữu ích đối với các tình huống một người sử dụng hay nhóm nhỏ nào đó , đặc biệt đối với việc duy trì các danh sách địa chỉ hay các bản kê .
+Tuy nhiên , các bộ hiển thị tấm phẳng loại để bàn khá đắt tiền và chỉ được sản xuất bởi một số nhà sản xuất ít ỏi .
+Các bộ hiển thị tấm phẳng thường có một góc nhìn nhỏ hơn các bộ hiển thị CRT .
+Các bộ hiển thị tấm phẳng đang ngày càng phổ biến , nhưng giá cả của chúng quá cao đối với nhiều người sử dụng .
+Các bộ hiển thị tấm phẳng đang ngày càng phổ biến hơn vì trọng lượng tương đối nhẹ của chúng .
+Các bộ hiển thị tấm phẳng dạng để bàn đang ngày càng trở nên phổ biến hơn .
+Các bộ hiển thị tấm phẳng loại để bàn thay đổi trong khoảng từ 14 inch cho tới hơn 18 inch , nhưng các vùng nhìn lớn hơn vẫn đang liên tục được phát triển .
+Các máy quét hình phẳng cho ra bản sao chất lượng cao hơn các máy quét cầm tay và có thể quét một trang giấy trong một lần di chuyển đơn .
+Cơ chế điều hướng linh hoạt , do vậy cho phép người sử dụng di chuyển vòng quanh nếu muốn hoặc thậm chí điều chỉnh lại dòng nội dung thông tin .
+Các đĩa mềm thì phổ biến vì chúng vô cùng cơ động và có giá rẻ .
+Các đĩa mềm là các phương tiện lưu trữ thông dụng , tuy chúng chỉ cung cấp những năng lực lưu trữ giới hạn .
+Các chuyến bay ảo và các chuyến đi ảo là những loại hoạt ảnh trên máy tính .
+Các chuyến bay ảo và các chuyến đi ảo được xem như là các dạng thức đơn giản của hoạt ảnh bởi vì nhân vật ( trong trường hợp này là tòa nhà ) không hề di chuyển .
+Các chuyến bay ảo và các chuyến đi ảo có thể được máy tính xuất ra băng từ và đĩa compact nhưng đây là một phương cách cung cấp chuyến du hành ảo tĩnh , tức là bạn không thể đi khác lộ trình của chuyến du hành ảo sau khi nó đã được ghi lại .
+Các thư mục có thể chứa các tập tin hoặc các thư mục khác , do vậy bạn có thể thiết lập một hệ phân cấp các thư mục trên máy tính của bạn , giống hệt như cách bạn đặt các cặp hồ sơ bên trong các cặp hồ sơ khác trong một tủ hồ sơ .
+Các thư mục có thể chứa nhiều thư mục khác , do vậy bạn có thể tạo ra một hệ cấu trúc được gọi là hệ tập tin phân cấp .
+Bạn hãy làm theo những hướng dẫn trên màn hình để hoàn tất chuyến du lịch .
+Làm theo các hướng dẫn để đăng nhập vào site và khảo sát .
+Hãy làm theo các bước kết nối sau và nghiên cứu các thông tin trên đó .
+Hãy làm theo các chỉ dẫn sau đây để xem một kỹ thuật tìm kiếm và hãy tìm thông tin trên Web .
+Bạn hãy làm theo những hướng dẫn của giáo viên để xem danh sách các khuôn mẫu được chương trình thuyết trình của bạn cung cấp .
+Nối gót ngay sau đó là chip 603 , một bộ xử lý điện năng thấp thích hợp cho các máy tính notebook .
+Các font cũng được chia thêm thành hai nhóm khái quát : có chân và không chân .
+Các font có các tên gọi như Times Roman , Helvetica , và Palatino .
+Để được những giải thích chi tiết cho các gói tin , hãy xem Chương 1 , các khái niệm cơ bản về mạng của MẠNG VÀ TRUYỀN THÔNG DỮ LIỆU .
+Với một khoản lệ phí , một dịch vụ như vậy có thể nối kết tới máy tính của bạn từ xa ( thông qua một nối kết Internet hoặc một nối kết quay số ) và sao lưu các dữ liệu của bạn tới các máy chủ của họ .
+Để một tập tin có thể được truyền từ một máy tính tới một máy tính khác thông qua một cặp các modem , cả hai đều phải sử dụng cùng một giao thức truyền tập tin ( FTP ) - tập hợp các quy tắc hay các nguyên tắc quyết định định dạng của các dữ liệu sẽ được gửi .
+Đối với một số lượng người dùng ngày càng tăng , máy PC là một phần của hệ thống giải trí gia đình hoặc đang thế chỗ cho một số thiết bị giải trí gia đình một cách hoàn toàn .
+Trong một thời gian dài , các nhà tương lai học và các nhà khoa học máy tính đã tìm cách làm cho máy tính có thể nhìn thấy được .
+Tuy nhiên , để một bản ghi tồn tại , nó phải có dữ liệu trong ít nhất một trường .
+Đối với một thiết bị lưu trữ , thời gian truy xuất trung bình ( hay thời gian tìm kiếm ) là lượng thời gian mà thiết bị cần tới để định vị các đầu đọc hay các đầu đọc của nó tại bất kỳ điểm nào trên phương tiện .
+Đối với tất cả các mục đích thực tế , gần như mọi thứ xảy ra trên Internet đều là một biến thể của một trong những hoạt động này .
+Vì tất cả những lý do này , linux đã mau chóng trở thành một OS phổ biến trong những giới nào đó .
+Các bài viết , các nhận xét , các thông tin kỹ thuật và các liên kết đến các tài nguyên Linux được cung cấp tại : http : / / www . linuxgazette . com / .
+Để sao lưu toàn bộ đĩa cứng của bạn lên một thiết bị dung lượng cao , bạn hãy sử dụng phần mềm truyền tập tin đi kèm với thiết bị đó .
+Để có kết quả tốt nhất khi in các bức ảnh kỹ thuật số , hãy sử dụng giấy in ảnh đắt tiền chất lượng cao có tại bất kỳ cửa hàng văn phòng phẩm nào .
+Đối với một số loại sản phẩm nhất định , mục tiêu của người sử dụng là để học một cái gì đó .
+Đối với những người sử dụng máy tính trong gia đình và trong phần lớn các môi trường kinh doanh trung bình , linux không phải là một vấn đề .
+Đối với các cơ sở dữ liệu được tạo ra cho các đĩa cứng , chuyên viên thiết kế phải nắm được kích thước tối đa mà cơ sở dữ liệu có thể đạt tới ( vốn bao gồm các dữ liệu có sẵn trong cơ sở dữ liệu cũng như các dữ liệu sẽ được bổ sung thêm trong tương lai ) dựa trên độ lớn của các phương tiện lưu trữ .
+Khoảng vài thập niên , nhiều chuyên gia đánh máy đưa ra một cách sắp xếp khác cho các phím chữ số có tên gọi là bàn phím DVORAK .
+Hãy xem lại Bảng 1.1 để biết các đặc tả của các dạng thức tập tin khác nhau .
+Xem các thiết bị sau đây , bạn xếp nó vào bộ phận nào và hãy nêu vắn tắt chức năng của nó trong hệ thống máy tính .
+Đối với mỗi người sử dụng , phần mềm khách hàng trưng ra những thông tin theo một cách có nghĩa .
+Chẳng hạn , một bộ hiển thị 15 inch có kích thước 15 inch tính từ góc dưới bên trái tới góc trên bên phải .
+Chẳng hạn , một tổ chức kinh doanh có nhiều chi nhánh có thể có một miền con cho mỗi văn phòng - chẳng hạn như boston . widgets . com và newyork . widgets . com .
+Chẳng hạn , một trường Catalog trong một bảng Customer có thể báo cho một nhân viên đại diện phục vụ khách hàng biết một khách hàng đã đặt mua một catalog mới ( Có ) hay không ( Không ) .
+Chẳng hạn , một công ty có thể đặt văn phòng đầu não và cơ sở sản xuất trong một thành phố và văn phòng tiếp thị của nó trong một thành phố khác .
+Chẳng hạn , một máy tính có thể được tăng cường bằng một card tăng tốc , một thiết bị độc lập vốn nâng cao tốc độ xử lý nhờ khả năng truy xuất tới CPU và bộ nhớ của máy tính thông qua bus .
+Chẳng hạn , một tài liệu máy tính có thể là một tập tin văn bản ( như một ký tự ) , một nhóm các con số ( như bản ngân sách ) , một video clip ( gồm âm thanh và hình ảnh ) , hay bất kỳ một sự kết nối nào của các thành phần này .
+Chẳng hạn , một DBMS có thể thực hiện những công việc sau .
+Chẳng hạn , một đĩa có thể sẽ thi hành chậm chạp hơn do máy tính phải giải quyết tất cả các công việc nén và giải nén trong chế độ nền , và nguy cơ lỗi dữ liệu gia tăng .
+Chẳng hạn , một đĩa mềm là phương tiện lưu trữ trong khi một ổ đĩa mềm là một thiết bị lưu trữ .
+Chẳng hạn , một mạng cục bộ có thể cũng có một nối kết tới một mạng thông tin lớn , chẳng hạn như American Online hoặc Internet .
+Ví dụ , một phiên bản sau sản xuất hàng loạt của iPic ( hay một hệ thống tương tự ) có thể được thay thế bên trong nhiều loại thiết bị , cho phép chúng được nối bởi mạng lưới làm việc và được truy cập trên Internet .
+Ví dụ , con chuột cho bạn định vị con trỏ ở bất cứ nơi đâu trên màn hình một cách nhanh chóng và dễ dàng mà không cần sử dụng các phím mũi tên .
+Chẳng hạn , một ổ đĩa cứng cụ thể có thể có sáu đĩa ( tức 12 mặt ) nhưng chỉ có 11 đầu đọc ; điều này cho thấy rằng một mặt không được sử dụng để chứa dữ liệu .
+Chẳng hạn , một máy PC với 16 MB RAM có khả năng chạy được Microsoft Windows 98 , mặc dù chương trình này thực sự chiếm khoảng 195 MB không gian lưu trữ trên đĩa .
+Chẳng hạn , một trường số điện thoại phải chứa số điện thoại của một bản ghi - nó không thể chứa tên hoặc Mã bưu chính của một người .
+Chẳng hạn , một miền B3 : D14 bao gồm toàn bộ khối mà nó có B3 là góc trên bên trái và D14 là góc dưới bên phải .
+Chẳng hạn , một quản trị viên bán hàng có thể tạo ra một truy vấn để liệt kê các đơn đặt hàng theo quý .
+Ví dụ , một bản thiết kế cấu trúc kỹ thuật của một tòa nhà văn phòng có thể tạo ra các lớp như các lớp điện , các lớp của hệ thống ống nước , các lớp cấu trúc , v . v .
+Chẳng hạn , một đường dây T3 cung cấp 672 kênh với 64 Kbps mỗi kênh ( cộng thêm các đường dây kiểm soát ) , tạo nên một tổng số 44,736 Mbps .
+Chẳng hạn , một bus USB có một tốc độ truyền dữ liệu bằng 12 Mbps .
+Chẳng hạn , một bộ kiểm soát video là một card cung cấp một cổng nằm phía sau của máy PC mà tại đó bạn có thể cắm bộ hiển thị vào .
+Chẳng hạn , một trình xử lý văn bản duy trì nhiều CSDL .
+Chẳng hạn , a1 là một tham chiếu ô tương đối , và $ A $ 1 là một tham chiếu ô tuyệt đối .
+Ví dụ , theo mặc định thì phần mềm Adobe Photoshop lưu các tập tin ảnh của nó trong dạng thức độc quyền PSD nhưng nó cũng có thể lưu các tập tin trong một vài các dạng thức phổ biến chẳng hạn như TIF , GIF , JPEG , pict và TGA .
+Chẳng hạn , mọi cửa sổ đều có chứa một thanh tiêu đề ở trên cùng để nhận diện nội dung của cửa sổ .
+Chẳng hạn , American Online đã trở nên nổi tiếng nhờ các phòng hội thoại bình dân của họ , và chắc có lẽ CompuServe nổi tiếng nhất nhờ các diễn đàn thảo luận của họ được nhắm tới những người dùng ưa thích kỹ thuật .
+Chẳng hạn , một sổ địa chỉ , một danh bạ điện thoại của một công ty , một danh mục thẻ của một thư viện , và một danh sách các sinh viên của một giáo viên đều được tổ thức thành các danh sách dữ liệu .
+Chẳng hạn , một nhân viên phải có một tên .
+Chẳng hạn , bạn có thể định dạng nó , gõ đè lên nó , hoặc xóa nó hay không ?
+Chẳng hạn , nhiều công ty sử dụng một loại phần mềm xí nghiệp , được gọi là hệ thống quản lý tài liệu điện tử ( EDM ) , để theo dõi các tài liệu , kết hợp những ý tưởng có liên quan lại với nhau , và trợ giúp trong việc quản lý cơ sở vật chất .
+Ví dụ , so sánh PC cách đây 10 năm và máy cùng một giá bây giờ nhưng ngày nay thì RAM nhiều hơn khoảng 10 lần , khả năng lưu trữ cũng hơn 100 lần , bộ vi xử lý làm việc nhanh hơn ít nhất là 100 lần .
+Chẳng hạn , xét câu sau : Here are some words .
+Chẳng hạn , xét hai LAN văn phòng được nối kết bằng hệ thống điện thoại .
+Chẳng hạn , các từ điển , các từ điển bách khoa , các thư viện tham khảo chuyên nghiệp , âm nhạc và video đều đòi hỏi những khối lượng dữ liệu rất lớn mà bạn thường không muốn thay đổi cho dù bạn có thể .
+Chẳng hạn , bạn đừng truy xuất các nhóm tin mang tính chất tiêu khiển trên nối kết Internet của công ty hoặc nạp xuống các hình ảnh tục tĩu hoặc khiêu dâm từ các Web site dành cho người lớn .
+Chẳng hạn , mỗi khoản mục có một trường dành cho Tên và một trường khác dành cho Họ , cùng những trường khác dành cho Địa chỉ , Thành phố , Bang , mã bưu chính và Số điện thoại .
+Ví dụ , nhiều gia đình có thể sử dụng Internet hay một trong các sản phẩm trên đĩa để kết nối đến một công ty đầu tư ( ví dụ một vài công ty như Fidelity Investments , Charles Schwab &amp; Co . và Prudential ) để có các hướng dẫn về việc tạo ra một quỹ đầu tư về hưu .
+Chẳng hạn , Hình 1.18 cho thấy một nối kết Telnet tới danh mục trực tuyến của một thư viện .
+Ví dụ , Hình 1.9 minh họa một màn hình từ hệ thống Trợ giúp của Microsoft Word có tận dụng siêu phương tiện .
+Chẳng hạn , Hình 2.1 cho thấy gói kế toán cá nhân thông dụng Quicken .
+Ví dụ , Hình 2.4 minh họa một hình ảnh trong một chương trình tô vẽ trước và sau khi hiệu ứng Mosaic được áp dụng ; hiện nay đang có nhiều chương trình tô vẽ khác nhau , gồm có như Photoshop của hãng Adobe , PaintShop Pro của Jasc Software , và Painter của Meta - Creations , một số khác nữa .
+Chẳng hạn , các tập tin có thể được bảo vệ ở cấp độ từng tập tin , cấp quyền truy xuất tới một tập tin cho một người sử dụng hoặc một nhóm nhưng không cấp cho người sử dụng hoặc nhóm khác .
+Chẳng hạn , đối với khối lượng màu sắc tối đa 24 bit , hay 3 byte , trên mỗi điểm ảnh sẽ thể hiện hàng triệu màu ) ở độ phân giải 1024 x 768 , máy tính phải gửi 2.359.296 byte tới bộ hiển thị cho mỗi màn hình .
+Ví dụ , hệ thống H / PC Pro có bàn phím và màn hình màu gần như bình thường .
+Ví dụ , ta có thể khoan các lỗ vào trong các đối tượng 3 chiều và tạo góc tròn hay vuông bằng cách chọn các mục trình đơn thích hợp .
+Chẳng hạn , icq có thể báo cho bạn biết khi một người bạn thân đang trực tuyến , do đó bạn có thể bắt đầu hội thoại .
+Chẳng hạn , nếu tốc độ đồng hồ của một máy tính là 300 MHz , nó tích tắc 300 triệu lần mỗi giây .
+Ví dụ , nếu một bức ảnh có các đốm bụi mờ hay mắt của một người nào đó trông có vẻ đỏ do đèn nháy của máy ảnh , người họa sĩ hay người tạo ảnh nghệ thuật có thể vẽ lại đúng số lượng điểm ảnh màu thích hợp một cách công phu vào những vùng bị ảnh hưởng để giải quyết vấn đề .
+Ví dụ , nếu một bức ảnh của một nhóm người đã được quét vào máy tính , các công cụ đặc biệt có thể xóa các điểm ảnh từ hình ảnh của một trong số những người này và thay thế chúng bằng các điểm ảnh của vùng ảnh nền - tức là đưa người đó ra khỏi bức hình một cách hiệu quả .
+Chẳng hạn , nếu lãi suất hiện hành nằm trong ô A1 và nhiều công thức được dựa trên lãi suất đó , bạn muốn có thể sao chép các công thức mà tham chiếu tới A1 không thay đổi .
+Chẳng hạn , nếu bạn đang lưu trữ các dữ liệu về nhân viên , về lý thuyết , bạn có thể có một số lượng các nhân viên không hạn chế .
+Chẳng hạn , nếu bạn dựa vào một tác vụ sắp xếp tăng dần trên một trường Last Name , các bản ghi sẽ được sắp xếp theo thứ tự bảng chữ cái dựa theo họ .
+Chẳng hạn , nếu bạn chọn Find rồi sau đó chọn Files or Folders từ menu Start của Windows , một hộp thoại xuất hiện , yêu cầu bạn mô tả tập tin hay thư mục mà bạn muốn tìm .
+Chẳng hạn , nếu bạn không dự tính duyệt World Wide Web hoặc sử dụng các sản phẩm truyền thông đa phương tiện , chắc bạn không cần sử dụng các xác lập màu sắc cao nhất của hệ thống ; .
+Chẳng hạn , nếu bạn có một máy tính cấp độ Pentium II kèm theo 64 MB RAM và một đĩa cứng lớn , bạn không nhất thiết phải chạy Windows 9x .
+Chẳng hạn , nếu bạn đã từng đăng nhập vào Web site Federal Express ( www . fedex . com / ) và theo dõi vị trí của một bưu kiện , thì bạn đã móc nối vào CSDL của công ty này .
+Chẳng hạn , nếu bạn cần tìm các thông tin về Aristotle , bạn có thể thăm một site máy tìm kiếm chẳng hạn như Alta Vista hay Lycos rồi gõ Aristotle vào hộp Search của site .
+Ví dụ , nếu bạn dự định phát triển một phần hướng dẫn truyền thông đa phương tiện về chủ đề xây boong tàu , bạn nên biết được loại người nào quan tâm đến việc xây boong tàu .
+Ví dụ , nếu bạn quét một tấm ảnh , bạn có thể dùng Adobe Photoshop - một chương trình đồ họa - để làm tăng thêm độ phản chiếu hoặc điều chỉnh màu sắc cho hợp lý hơn .
+Chẳng hạn , nếu bạn ra lệnh hệ điều hành liệt kê các tập tin trong một thư mục , nó gửi một yêu cầu ngắt tới CPU của máy tính .
+Ví dụ , khi bạn gõ chữ r , thì bộ điều khiển ngay lập tức đưa ra một yêu cầu ngắt .
+Chẳng hạn , nếu bạn gõ URL http : / / www . cnn . com / vào hộp địa chỉ của trình duyệt của mình , trang chủ CNN mở ra trong cửa sổ trình duyệt của bạn .
+Chẳng hạn , nếu bạn muốn trợ giúp trong việc in đậm các ký tự trong tài liệu của mình , các thuật ngữ bold , format , font và style có thể đem lại những câu trả lời thích hợp .
+Ví dụ , nếu bạn muốn tô sửa một bức ảnh chụp , tạo các kết cấu lát mẫu liền lạc cho Web hay cho các bề mặt 3 chiều hoặc tạo một ảnh trông giống như là một bức tranh bạn sẽ chọn phần mềm xử lý ảnh bitmap .
+Chẳng hạn , nếu bạn muốn thấy bản sao mới nhất của USA Today Online khi bạn khởi động trình duyệt của mình , hãy sử dụng địa chỉ http : / / www . usatoday . com / làm trang chủ cá nhân của bạn .
+Chẳng hạn , nếu bạn muốn thăm Web site của Internal Revenue Service , hãy nhấp chuột vào hộp địa chỉ của trình duyệt ( để đặt một điểm chèn vào đó ) rồi gõ như sau .
+Ví dụ , trong một nhà máy bụi bặm hay trong một kho hàng , bàn phím và con chuột có thể bị tắc vì bị bụi bám một cách nhanh chóng .
+Ví dụ , trong một bảng các sản phẩm , bạn có thể sắp xếp các bản ghi theo thứ tự số dựa theo số hiệu ID sản phẩm hoặc theo thứ tự bảng chữ cái dựa theo tên sản phẩm .
+Ví dụ , trong một chương trình xử lý văn bản , bạn có thể nhấn phím Backspace để quay lại ký tự sai và xóa nó .
+Chẳng hạn , ngoài phép bằng với còn có phép không bằng với .
+Chẳng hạn , trong Hình 1.12 , các cột được phân cách bằng gián cách tab ( thay vì bằng các khoảng trắng được chèn bằng thanh Space bar ) .
+Ví dụ , trong hầu hết các chương trình , f1 là phím trợ giúp .
+Chẳng hạn , trong đa số chương trình bạn có thể nhấn F1 để truy xuất hệ thống trợ giúp trực tuyến .
+Ví dụ trong lĩnh vực của thiết kế trang Web , camera kỹ thuật số cho phép người thiết kế thu lại một chủ đề và nhanh chóng nạp hình vào máy tính của họ .
+Chẳng hạn , trong các chương trình Windows , một chữ cái được gạch dưới trong tên của mỗi menu và trong nhiều lệnh của menu .
+Chẳng hạn , bạn có thể gắn một liên kết trỏ tới một tài liệu Word , một trang Web , một clip âm thanh , hoặc một đoạn video toàn động vào trong một slide .
+Chẳng hạn , chúng ta hãy xem URL dành cho kho FTP chứa phần mềm PC có tên SunSite tại Đại học Bắc Carolina .
+Chẳng hạn , nhiều công ty có một địa chỉ DNS mà phần đầu của nó là tên công ty , theo sau là . com - một thủ thuật quảng cáo tên tuổi mà hiện nay đã bị lạm dụng quá mức .
+Ví dụ , nhiều tòa nhà mang tính chất lịch sử chẳng hạn như các trụ sở tòa án thường có các bức tường gạch bên trong , ( và các tổ chức bảo tồn lịch sử ) thường hạn chế việc khoan đục những tòa nhà như vậy .
+Chẳng hạn , nhiều modem sử dụng cùng một trình điều khiển thống nhất trong Windows 9x .
+Chẳng hạn , nhiều lập trình viên phải viết các phiên bản khác nhau của các chương trình để chúng chạy trên các hệ điều hành khác nhau .
+Chẳng hạn , nhiều chương trình có một menu File , vốn thường chứa các lệnh để mở , đóng , lưu và in các tập tin .
+Chẳng hạn , nhiều người nghĩ rằng trong thập kỷ tới trí thông minh nhân tạo sẽ được phát triển tới mức các máy tính có thể bắt đầu biết suy luận - đánh giá các sự kiện , giải quyết các vấn đề , có thể thậm chí đưa ra các quyết định .
+Chẳng hạn , Microsoft Office được bán ra trên một hoặc hai đĩa compact ( tùy theo phiên bản bạn mua ) và kèm theo một phiên bản trực tuyến của các tài liệu hướng dẫn dạng in , hàng ngàn hình ảnh clip art , các tập tin mẫu , và nhiều thứ khác .
+Chẳng hạn , mindlink là một nhà cung cấp dịch vụ Internet thương mại nằm trong địa phận British Columbia của Canada .
+Ví dụ , hầu hết các chương trình xử lý ảnh bitmap đều có thể mở , đọc , lưu các tập tin trong dạng thức GIF và chuyển đổi nó sang một dạng thức bitmap khác , chẳng hạn như TIF .
+Ví dụ , hầu hết các chương trình vẽ hình giờ đây đã có khả năng nhập vào các bức ảnh hay các hình ảnh nghệ thuật được tạo bởi các chương trình tô vẽ mặc dù đa phần chúng không có khả năng chỉnh sửa các hình ảnh này ở cấp độ điểm ảnh .
+Chẳng hạn , hầu hết các máy in phun mực và các máy in laser chất lượng trung bình đều có thể in 300 hoặc 600 điểm trên mỗi inch , một độ phân giải tốt đối với hầu hết các ứng dụng nghiệp vụ hàng ngày .
+Chẳng hạn , phần lớn các card video và card âm thanh thế hệ mới hơn đều có riêng RAM được xây dựng trên chúng , và nhiều loại máy in khác cũng vậy .
+Ví dụ , một khi bạn đã tạo một vòng tròn hay một nét vẽ thì bạn có thể xóa hay chắp nối từng điểm ảnh riêng lẻ , thực hiện những chỉnh sửa nhỏ cho đến khi hình ảnh được chính xác như những gì bạn muốn .
+Ví dụ , các dữ liệu thích hợp có thể được sử dụng để tính toán các tổng phụ và các tổng cho các bản tổng kết hóa đơn hoặc tổng kết doanh số .
+Chẳng hạn , các site như broadcast . com , netradio . com , và thậm chí cả Microsoft cũng cung cấp khả năng truy xuất tới các đài phát radio từ khắp mọi nơi thế giới , ngoài radio dành cho Internet .
+Chẳng hạn , một số trường đại học cộng đồng kèm theo cc trong địa chỉ DNS của họ , trong khi một số trường kèm theo K12 trong địa chỉ của họ .
+Chẳng hạn , một số bộ xử lý sử dụng nhiều bộ giải mã khi dịch các chỉ thị thành vi mã ; các bộ xử lý khác bỏ qua bước này .
+Chẳng hạn , một người nào đó sử dụng một máy tính Macintosh vẫn có thể trao đổi dữ liệu được với một máy tính UNIX trên Internet .
+Chẳng hạn , giả sử rằng CSDL là một danh sách gồm các giao dịch mua hàng của khách hàng .
+Chẳng hạn , giả sử rằng bảng tính và bản ghi nhớ được minh hoạ trong Hình 1.12 được tạo ra theo từng quý .
+Ví dụ , giả sử bạn đang phát triển một từ điển truyền thông đa phương tiện .
+Chẳng hạn , giả sử bạn có một người bạn tên là John Smith , làm việc ( và có một tài khoản thư điện tử ) tại một công ty có tên là Widgets , Inc .
+Chẳng hạn , đơn vị kiểm soát có thể nạp hai con số từ bộ nhớ vào các thanh ghi trong ALU .
+Ví dụ , phím Ctrl nối thành Ctrl - O cho phép bạn mở một tập tin mới .
+Chẳng hạn , dbms có thể không xử lý đúng một con số nếu người sử dụng nhập nó vào với một dấu đô la - cho dù con số này sẽ được hiển thị như là một số lượng đô la .
+Ví dụ , sức lôi cuốn của bộ phim hoạt hình dài trên máy tính đầu tiên , Toy Story chỉ bị giới hạn bởi các khả năng cao cấp của kỹ thuật .
+Chẳng hạn , máy PC thế hệ đầu tiên hoạt động ở 4,77 megahertz , Hertz ( Hz ) là một số đo các chu kỳ trên giây .
+Chẳng hạn , các chân trang trong quyển sách này chứa chỉ số chương hoặc tiêu đề chương ( luân phiên , tùy theo việc chúng nằm trên một trang bên trái hay một trang bên phải ) và chỉ số trang .
+Chẳng hạn , nút Open và nút Cancel được tìm thấy trong nhiều hộp thoại , như được minh họa trong Hình 1. .
+Chẳng hạn , có những danh sách thư tín dành cho các nhà sản xuất kịch , các nhà sản xuất rượu táo , và những thành viên của các lớp đại học riêng biệt muốn giữ liên lạc với các bạn học cũ của họ .
+Ví dụ , chúng có thể tính diện tích của một phòng khách hay thể tích của một bể chứa .
+Chẳng hạn , để di chuyển một đoạn văn trong một tài liệu của trình xử lý văn bản , bạn chọn đoạn văn đó , sau đó chọn lệnh Cut ; lệnh này di chuyển dữ liệu và đặt nó trên Clipboard .
+Ví dụ , đào tạo là công việc không bao giờ dừng trong các tập đoàn lớn , nhất là khi các công ty mong muốn các nhân viên của mình làm chủ được các công nghệ máy tính mới nhất .
+Chẳng hạn , hai phòng ban khác nhau trong một tổ chức kinh doanh lớn có thể có riêng mỗi phòng một LAN , nhưng nếu nảy sinh nhu cầu truyền thông dữ liệu giữa hai phòng ban này , có thể bạn cần phải tạo ra một liên kết giữa hai LAN .
+Chẳng hạn , hai máy tính lớn ở cách xa nhau cũng có thể liên lạc thông qua một WAN , dù cả hai đều không thuộc về một mạng cục bộ .
+Chẳng hạn , các card Type I thường chứa bộ nhớ , các card Type II được sử dụng cho các bộ điều hợp mạng , và các card Type III thường chứa các ổ đĩa cứng siêu nhỏ .
+Chẳng hạn , người sử dụng vẫn phải đối phó với những giới hạn sử dụng bộ nhớ của DOS , mặc dù Windows đã cho phép việc truy xuất 1 MB bộ nhớ trở nên dễ dàng hơn .
+Ví dụ , người sử dụng phải có những kỹ năng hay kinh nghiệm gì trước khi sử dụng chương trình ?
+Ví dụ , khi bạn vẽ một hình vuông trong một chương trình vẽ hình , máy tính sẽ nhớ nó như là một hình vuông có kích thước cố định tại một vị trí cụ thể , có thể có tô màu hay không chứ không phải là một chùm các điểm ảnh trong hình dạng của một hình vuông .
+Chẳng hạn , khi bạn muốn tìm một từ trong một tài liệu , cpu thực hiện một chuỗi liên tiếp các phép toán bằng để tìm một sự trùng khớp cho loạt mã ASCII mà tạo nên từ mà từ đó bạn đang tìm .
+Chẳng hạn , khi muốn chương trình xử lý văn bản của bạn truy lục một tập tin , bạn sử dụng hộp thoại Open để liệt kê các tập tin trong thư mục mà bạn chỉ định .
+Chẳng hạn , Windows NT Server hỗ trợ nhiều cấp độ bổ sung của Mảng các Đĩa độc lập dư thừa ( RAID ) dành cho việc tạo kép đôi đĩa , tạo dải đĩa , và tạo gương đĩa .
+Ví dụ , các mô hình khung biểu diễn cho các dạng hình học 3 chiều bằng cách hiển thị phần đường viền và rìa của chúng .
+Chẳng hạn , bạn có thể nối kết một PC , máy điện thoại và máy fax vào một đường dây ISDN duy nhất và sử dụng chúng cùng lúc .
+Ví dụ , bạn có thể chuyển đổi một hình ảnh theo một số cách thức kỳ quái .
+Chẳng hạn , bạn có thể sao chép một địa chỉ từ một bức thư sang một bức thư khác và do đó tránh việc phải gõ lại nó .
+Chẳng hạn , bạn có thể tạo ra một bộ lọc vốn hiển thị chỉ những bản ghi có chứa dữ liệu Gold trong trường Status , như được minh họa trong Hình 2.1 .
+Chẳng hạn , bạn có thể tạo ra ba phiếu công tác , mỗi phiếu chứa các dữ liệu doanh số dành cho một tháng khác nhau .
+Chẳng hạn , bạn có thể kèm thêm các kiểm soát vốn tự động di chuyển điểm chèn tới trường kế tiếp khi người nhập liệu nhấn phím Enter hay Tab , hoặc bạn có thể chuyển đổi toàn bộ đầu vào thành các chữ cái viết hoa để duy trì tính nhất quán dữ liệu .
+Chẳng hạn , bạn có thể tạo ra một nam châm bằng cách lấy một thỏi sắt và cọ xát vào nó theo một chiều bằng một nam châm .
+Ví dụ , bạn có thể dàn lại danh sách này theo tên sản phẩm hay các loại sản phẩm .
+Chẳng hạn , bạn có thể gửi một thông điệp tới một người bạn và đính kèm một tài liệu xử lý từ hay một tập tin khác cùng với thông điệp .
+Chẳng hạn , bạn có thể xây dựng một trường State sao cho mã gồm hai ký tự của một bang luôn xuất hiện ở dạng viết hoa ( TN ) , bất kể dữ liệu được gõ vào ra sao ( tn , Tn , tN , hoặc TN ) .
+Chẳng hạn , bạn có thể xem nội dung của một đĩa trong một cửa sổ , chạy một chương trình và biên tập một tài liệu bên trong một cửa sổ , xem một trang Web trong một cửa sổ , hoặc thay đổi các xác lập hệ thống trong một cửa sổ .
+Chẳng hạn , bạn có thể muốn sao chép một biểu đồ từ một chương trình bảng tính và đặt bản sao này vào một tài liệu trong một trình xử lý văn bản .
+Chẳng hạn , bạn có thể tạo một báo cáo về khách hàng vốn liệt kê các khách hàng theo Mã bưu chính .
+Chẳng hạn , bạn cần bổ sung thêm 5000 byte vào một tập tin 10.000 byte vốn không còn chỗ trống xung quanh nó .
+Chẳng hạn , card âm thanh của bạn phải nhận diện được những giao thức của Windows 2000 , và Windows 2000 phải có một trình điều khiển thiết bị hoạt động được với card âm thanh của bạn .
+Đối với ít bản sao hơn hoặc thậm chí đối vơi các bản sao đơn lẻ , một ổ đĩa CD - Ghi được ( CD - R ) có thể được gắn vào một máy tính như một thiết bị ngoại vi bình thường .
+Để biết thêm thông tin , bạn hãy thăm www . comptia . org / rồi nhấp vào liên kết Certification .
+Đối với các thông tin di chuyển bên trong máy tính , hiệu quả này tương tự như việc tăng gấp đôi số lượng các làn xe trên một con đường cao tốc .
+Ví dụ , các trường ngày tháng có thể xác nhận sự đúng đắn của một ngày tháng và tính đến ngày được thêm vào trong một năm nhuận .
+Ví dụ , nếu một công ty nối kết các máy PC nối mạng của họ bằng dây cáp , thì quyền sở hữu hệ thống cáp này thuộc về họ và họ chỉ phải trả một chi phí cố định để truyền tải dữ liệu qua mạng .
+Chẳng hạn , trong DOS , bạn gõ DIR tại dấu nhắc để xem một danh sách các tập tin trong một thư mục cụ thể ( khái niệm tương đương của một cặp hồ sơ ) .
+Chẳng hạn , việc bổ sung thêm những người sử dụng mới vào một một mạng sao có thể sẽ dễ dàng hơn so với khi sử dụng một mạng bus .
+Ví dụ , ta có thể sử dụng nhiều sản phẩm trên CD trong các môi trường đa người sử dụng , sử dụng trên các mạng và thậm chí kết hợp với các Website riêng biệt hay các nguồn tài nguyên trên Internet .
+Chẳng hạn , bạn có thể kéo rê một biểu tượng dành cho một tập tin từ một thư mục tới một thư mục khác và do vậy di chuyển tập tin .
+Chẳng hạn , bạn nhấp đôi vào biểu tượng của một chương trình xử lý văn bản để nạp chương trình đó vào bộ nhớ và bắt đầu sử dụng nó .
+Ví dụ , bạn có thể nhấp chuột hay di chuyển con trỏ chuột của bạn lên một phần hoạt ảnh Shockwave để điều chỉnh lại hướng hoạt động của nó , để làm cho một sự kiện khác xảy ra hoặc khởi xướng việc nhảy đến một siêu văn bản .
+Ví dụ , bạn trông đợi tìm thấy số hiệu dành cho một máy sưởi trong một bản kê các bộ phận xe hơi , nhưng bạn không trông đợi xem bản ghi tiền lương của một nhân viên trong bảng này .
+Đối với những số lượng lớn , các đĩa CD - ROM có thể được chế tạo bởi các nhà sản xuất có các thiết bị nhân bản đắt tiền .
+Đối với nhiều tổ chức kinh doanh nhỏ , nối mạng có nghĩa là nối kết nhiều trạm làm việc để cho phép các nhân viên cộng tác và chia sẻ dữ liệu .
+Trong nhiều năm qua , chúng cần một loại giấy đặc biệt , và mỗi tờ phải thật khô trước khi bạn có thể chạm vào nó .
+Đối với các thiết bị nhớ , các thời gian truy xuất được đo bằng đơn vị nanô giây ( ns ) , hay một phần tỉ của một giây .
+Để biết thêm thông tin về các công cụ này , hãy xem phần Các yêu cầu cơ bản ở phần đầu quyển sách .
+Đối với hầu hết những người sử dụng máy tính , dù ở nhà hay ở nơi làm việc , máy in là thứ không thể thiếu được .
+Trong suốt chiều dài lịch sử , thông tin đã được chuyển tải thông qua một phương tiện duy nhất đơn giản .
+Bây giờ , hãy tìm hệ thống giúp đỡ của hệ điều hành hiện có để biết thêm về máy tính của bạn .
+Đối với các máy tính cũ hơn , có thể ta cần phải thêm một hay nhiều các thành phần sau để biến một PC thành một PC truyền thông đa phương tiện .
+Đối với các thiết bị truy xuất ngẫu nhiên ( tất cả các thiết bị lưu trữ đã được giới thiệu , ngoại trừ các băng từ ) , bạn thường muốn một thời gian truy xuất thấp và một tốc độ truyền dữ liệu cao .
+Trong vài năm , các chuyên gia đã hình dung được mạng Internet ( và phần mở rộng là các mạng riêng lẻ liên kết vào Internet ) như là một phương tiện sau cùng để phân phối thông tin truyền thông đa phương tiện .
+Đối với những hình vẽ đơn giản ( chẳng hạn như những dạng hình học và đường thẳng đơn giản ) , hãy bắt đầu với chương trình Paint của Windows đi kèm với mọi bản sao của Windows .
+Đối với những tổ chức kinh doanh nhỏ và những người dùng riêng lẻ , mạng số các dịch vụ tích hợp ( ISDN ) là một khả năng thay thế hấp dẫn .
+Đối với những nhân viên SOHO muốn thiết kế các trang Web của riêng họ , một trình xử lý văn bản có thể là công cụ duy nhất mà họ cần tới .
+Theo họ , chuột đòi hỏi quá nhiều chỗ trên mặt bàn - đây là điều rắc rối thực sự khi bạn không phải lúc nào cũng làm việc trên bàn !
+Ở một số dạng của các trò chơi , người chơi sử dụng bàn phím và con chuột .
+Hãy hỏi giáo viên của bạn để biết các bước cụ thể hơn .
+Đối với các thiết bị lưu trữ , các thời gian truy xuất được đo bằng đơn vị mili giây ( ms ) , hay một phần ngàn của một giây .
+Để ổ đĩa có thể đọc mỗi cung trong cùng một lượng thời gian như nhau , nó phải quay đĩa nhanh hơn khi đọc các cung nằm gần chính giữa và chậm hơn khi đọc các cung nằm gần mép ngoài .
+Trong vài năm trước đây , bộ hiển thị 15 inch đã là kích thước tiêu chuẩn của hầu hết các hệ thống máy tính để bàn .
+Đối với người làm việc từ xa , việc thiết lập một văn phòng tại gia đình hầu như luôn đòi hỏi một máy tính và một modem .
+Đối với những nhà phát triển này , kết xuất âm thanh và video là điều tối quan trọng .
+Đối với những người này , nhu cầu về các tài liệu in sẽ không giảm .
+Vì những lý do trên , các hệ thống lưu trữ trên máy tính đã gia tăng cả về năng lực lẫn tốc độ với một nhịp độ tương đương các bộ xử lý .
+Vì những lý do này và thêm một số lý do khác nữa , các nhà sản xuất phần cứng đã cải tiến các thiết bị nhập khác mà vẫn có các chức năng như con chuột nhưng tương tác với người sử dụng bằng các cách khác nhau .
+Đối với những người này bàn phím có thể không đủ để điều khiển công việc .
+Vì lý do này , nhiều người cho rằng máy tính thật khó hiểu và khó sử dụng .
+Vì lý do này , máy tính mini còn được gọi là máy tính trung .
+Vì lý do này , phần lớn các đĩa cứng đều cấp phát nhiều cung hơn cho các từ đạo dài hơn trên bề mặt đĩa .
+Vì lý do này , các nhà phát triển truyền thông đa phương tiện thường sử dụng các công cụ vốn trước đây dành riêng cho những nhà thiết kế Web chẳng hạn như các chương trình hiệu chỉnh HTML .
+Vì lý do này , các chương trình như DriveSpace 3 rất hữu ích .
+Vì lý do này , một số các sản phẩm mới đã được phát hành trên nhiều đĩa tức là người sử dụng phải tạm ngưng khi đang sử dụng để hoán đổi đĩa .
+Vì lý do này , các câu trả lời cho các câu hỏi có liên quan đến người xem là các yếu tố quan trọng nhất trong việc tạo hình cho sản phẩm cuối cùng .
+Vì lý do này , nút trái chuột đôi khi được gọi là nút chuột chính .
+Vì lý do này , biên tập trưởng đã miễn cưỡng để thuê bạn với mức lương được quảng cáo của vị trí .
+Vì lý do này , thuật ngữ PC còn dùng để chỉ họ máy vi tính bao gồm các máy của IBM và các máy tương thích với IBM .
+Vì lý do này , những dạng thức này được gọi là có tính tương thích với những chương trình như vậy .
+Vì lý do này và một số lý do khác , hai hệ thống Windows 98 bất kỳ có thể trông khác nhau .
+Đối với kiểu nhập âm thanh này , bạn cần một micro và một card âm thanh để dịch tín hiệu tương tự ( đó là , các sóng âm thanh ) từ micro sang các mã số để máy tính có thể lưu và xử lý .
+Đối với những người sử dụng thích một giao diện đồ họa hơn khi truy vấn một CSDL , một số chương trình cung cấp một giao diện , giống như một biểu mẫu hoặc một lưới , vốn thu thập những sự kiện về một truy vấn từ người sử dụng rồi soạn ra các phát biểu SQL hay các phát biểu truy vấn ở hậu trường .
+Trong suốt hai thập kỷ kể từ lúc khai sinh máy tính cá nhân , hãng sản xuất lớn nhất trong thị trường CPU dành cho PC luôn là Intel Corporation .
+Đối với những người sử dụng của Windows 3.x , Windows 95 có nhiều điểm hấp dẫn .
+Đối với những người sử dụng gặp rắc rối khi phải nhấn hai phím cùng một lúc , thì lựa chọn sticky key cho phép người sử dụng kích hoạt phím hỗ trợ bất kỳ bằng cách nhấn nó rồi thả ra .
+Trong nhiều năm , các công ty đã thu thập và quản lý những khối lượng dữ liệu rất lớn thuộc đủ mọi loại .
+Tuy nhiên , trong nhiều năm , các hệ điều hành máy tính đã sử dụng các giao diện dòng lệnh , vốn là các môi trường sử dụng các lệnh được gõ vào thay vì các đối tượng đồ họa để thi hành các tác vụ và xử lý dữ liệu .
+Trong nhiều năm , các bus hệ thống đã hoạt động ở tốc độ 66 MHz ; các hệ thống hiện tại cung cấp các tốc độ bus 100 MHz và 200 MHz .
+Những định dạng bao gồm âm nhạc thuộc đủ mọi thể loại , các tin tức thời sự và tin thể thao , các buổi trò chuyện , các buổi trò chuyện qua điện thoại , và nhiều thứ khác .
+Các dạng thức chẳng hạn như Shockwave của hãng Macromedia cho phép các nhà phát triển tạo ra các hoạt ảnh giải trí đầy màu sắc không chỉ hiển thị trực tiếp trong một trình duyệt mà còn nhận dữ liệu nhập từ người sử dụng .
+Việc định dạng văn bản trong một chương trình thuyết trình giống hệt như việc định dạng văn bản trong một trình xử lý văn bản .
+Định dạng các giá trị , các nhãn , và các ô .
+Các biểu mẫu là các màn hình tùy biến dùng để hiển thị và nhập những dữ liệu có thể được gắn liền với các bảng và các truy vấn CSDL .
+Các công thức được sử dụng để thực hiện các phép toán trong phiếu công tác , các công thức có thể sử dụng các tham chiếu ô để sử dụng các dữ liệu trong các ô khác .
+Các công thức thường tham chiếu tới các giá trị trong các ô khác trên toàn bộ phiếu công tác .
+May mắn là cả hai vấn đề này đang ngày càng giảm dần yếu tố quan trọng theo thời gian .
+May mắn là các công ty điện thoại , các dịch vụ truyền hình cáp và các nhà cung cấp khác đã cung cấp các mạch dữ liệu tốc độ cao chuyên dụng .
+Thật may là nếu bạn đã có một máy PC và bạn quyết định rằng nó cần thêm RAM , bạn có thể mua thêm , mở máy tính của mình ra , và cắm nó vào .
+Điều may mắn là việc mua modem ngày nay đã trở nên dễ dàng hơn vì hầu hết các modem mới hơn đều hỗ trợ các tiêu chuẩn phổ biến nhất và đồng thời cũng hỗ trợ các tiêu chuẩn cũ .
+May mắn là có nhiều Web site chuyên dụng , được gọi là các máy tìm kiếm , sử dụng các kỹ thuật dò tìm dữ liệu mạnh mẽ để phát hiện ra kiểu của nội dung có trên Web .
+May mắn là bạn không cần phải có những kỹ năng máy tính xuất sắc để có thể tạo ra được các tài liệu HTML .
+Bốn trong số các cách thức thường dùng nhất là dùng các máy quét , máy chụp ảnh kỹ thuật số , thư viện hình rời và các ảnh chụp được số hóa .
+Dưới đây là bốn trong số những ích lợi quan trọng nhất .
+Sự phân mảnh làm chậm hiệu suất đĩa vì OS phải tốn thời gian tìm kiếm các mảnh của các tập tin được lưu trữ trong những nơi khác nhau .
+Các tập tin bị phân mảnh gây ra những tác động ngoại ý , quan trọng nhất là khiến cho việc lưu và nạp các tập tin lâu hơn .
+Các công cụ thiết kế miễn phí cũng thường được cung cấp .
+Gần như ngay từ lúc bắt đầu , unix đã là một hệ điều hành mạnh mẽ và linh hoạt một cách khó tin , nó có thể hoạt động trên một máy tính đơn hoặc trên một mạng .
+Từ những con tem bưu điện đến các hình ảnh minh họa trong các tạp chí , từ các tấm bảng quảng cáo cho đến các chương trình truyền hình đều được tạo và chỉnh sửa thông qua các máy tính và phần mềm đồ họa .
+Từ những chai dầu gội đầu đến xe ô tô , từ các đặc tả ban đầu đến mô hình và sự mường tượng về sản phẩm , hầu hết các bản thiết kế sản phẩm đều được thực hiện trên máy tính .
+Từ đầu tiếp nhận , mạng tỏa ra tới các địa điểm thuê bao thông qua những sự kết hợp gồm cáp quang và cáp đồng , thường chấm dứt ở vị trí của người dùng cuối bằng cáp đồng trục .
+Từ danh sách thả xuống Look in , bạn hãy chọn đĩa cứng của máy tính của bạn ( thường là C : ) .
+Từ danh sách thả xuống Port , bạn chọn telnet .
+Từ menu Start , bạn có thể nhấp chuột vào một biểu tượng chương trình để khởi động một chương trình , chọn Help để tìm các thông tin trợ giúp khi bạn đang làm việc , hoặc chọn Shut Down khi bạn đã sẵn sàng để tắt nguồn máy tính .
+Trên quan điểm của người sử dụng , các thiết bị nhập cũng quan trọng như CPU .
+Từ trang này , bạn có thể đi tới các trang khác trên Web site đó ( và có thể tới các site khác ) .
+Từ góc độ này , việc đánh bại truyền hình trong việc chuyển tải khối lượng và sự đa dạng của nội dung đến người xem là rất khó khăn .
+Đôi khi bạn có thể thấy thuật ngữ Windows 3.x .
+FTP là một công cụ Internet dùng để sao chép các dữ liệu và các tập tin chương trình từ một máy tính sang một máy tính khác .
+Các site FTP cung cấp khả năng truy xuất tới nhiều kiểu tập tin khác nhau .
+Tuy nhiên , việc nén toàn bộ đĩa không phải là không có khả năng gặp rủi ro .
+Các phím chức năng cũng trở nên quan trọng .
+Xa hơn nữa , phòng IS thường phải xây dựng và quản lý hệ thống máy tính PC của công ty .
+Các kỹ thuật DVD tương lai hứa hẹn khả năng lưu trữ trong một đĩa đơn cao hơn rất nhiều .
+Một cách tổng quát các bộ điều khiển trò chơi được phân thành hai loại chính : các bảng điều khiển trò chơi và các cần điều khiển .
+Những nhà thiết kế trò chơi và những nhà làm phim sử dụng nhiều các công nghệ giống nhau để tạo các nhân vật và phông nền .
+Những nhà sản xuất trò chơi và những nhà làm phim dựa rất nhiều vào các kỹ thuật kết hợp với sự trợ giúp của máy tính để pha trộn hình ảnh do máy tính tạo ra với những hình ảnh đã được quay phim hay có sẵn từ các băng từ của các nhân vật và các đối tượng thực .
+Trò chơi , một vài trong số chúng dành cho một người và nhiều người có thể chơi được nhiều người trên mạng làm việc hoặc trên Internet .
+Thông thường , các trình duyệt đều có thể mở và hiển thị các hình ảnh trong các dạng thức GIF , jpg và PNG trực tiếp trong cửa sổ trình duyệt mặc dù các hình ảnh dạng thức PNG không được dùng phổ biến .
+Nói chung , các máy in rơi vào hai loại sau : va đập và không va đập .
+Thông thường , một cửa sổ hoặc biểu mẫu như vậy cung cấp một vùng để lựa chọn các bảng mà truy vấn sẽ làm việc với , và các cột để nhập vào các tên trường , vốn là nơi mà truy vấn sẽ thu thập hoặc xử lý các dữ liệu .
+Một cách tổng quát , một máy tính càng có nhiều RAM thì nó càng có thể làm nhiều và thực hiện nhanh các thao tác nào đó .
+Nói chung , hai công nghệ được sử dụng để kiểm soát các kho chứa dữ liệu : Đa xử lý đối xứng ( SMP ) hoặc xử lý song song cấp độ cao ( MPP ) .
+Thông thường , các nhà thiết kế Web chỉ sử dụng hai dạng thức tập tin - GIF và JPEG - với các xác lập màu cụ thể và các ứng dụng cụ thể .
+Nói chung , nó được gọi là một thiết bị trỏ tích hợp .
+Ngoài khoảng cách địa lý , sự khác biệt chủ yếu giữa một WAN và một LAN là phí tổn của việc truyền tải dữ liệu .
+Hãy chuyển sang sử dụng hệ điều hành này bằng cách tìm các thông tin mới nhất về nó trên Web .
+Hãy cho biết những lý do khiến bạn chọn chương trình đó .
+Hãy cho biết lý do tại sao bạn chọn đơn vị đó .
+Khi đã thấy sự phổ biến của các CSDL trong đời sống hàng ngày của bạn , bạn sẽ không còn ngạc nhiên khi biết rằng phần lớn những nỗ lực xây dựng và lập trình cho các máy tính đều xuất phát từ một nhu cầu lưu trữ và xử lý các danh sách dữ liệu lớn .
+Vật liệu in có độ bóng , dày , cho chất lượng ảnh chụp , vốn được sử dụng để in các ảnh chụp , có thể có giá nhiều đô la mỗi tờ tùy theo kích thước .
+Tìm mục tiêu và sắp xếp là các công cụ phân tích dữ liệu phổ biến khác được tìm thấy trong các bảng tính .
+Tìm mục tiêu tìm các giá trị dành cho một hoặc nhiều ô vốn làm cho kết quả của một công thức bằng với một giá trị mà bạn chỉ định .
+Những nhà thiết kế tốt đều có khả năng tạo ra cảm giác về màu sắc và sự cân xứng cho trang Web và sử dụng các hình ảnh đồ họa để nâng cấp cũng như làm rõ thông điệp của web site và làm cho nó lôi cuốn hơn và dễ duyệt hơn .
+Các tổ chức chính phủ , chẳng hạn như Ủy ban phân tích quốc gia , trạm điều hành Không gian Liên bang , và Cục điều tra dân số , sử dụng các máy tính lớn để lấy thông tin về cả khu vực đông dân số , các bảng thu thuế từng cá nhân , tổng số lượng trả cho nhân viên , và những việc khác nữa .
+Những người tốt nghiệp được xác nhận là đã có một cấp độ thành thạo chuyên môn và đã được đào tạo về một hoặc nhiều công nghệ .
+Các kiểm lỗi ngữ pháp hoạt động giống như các kiểm lỗi chính tả , nhưng chúng khảo sát tài liệu của bạn để tìm các vấn đề ngữ pháp .
+Các họa sĩ và người tạo ảnh nghệ thuật đồ họa cũng đánh giá cao giao diện đồ họa dễ dùng của Macintosh với các tính năng nổi bật như là các kiểu chữ tinh xảo và khả năng phóng to hình ảnh và cơ chế hủy bỏ các lỗi .
+Các nghệ sĩ đồ họa và những nhà xuất bản bằng máy tính .
+Các họa sĩ đồ họa và người tạo ảnh nghệ thuật thường sử dụng các bức ảnh truyền thống đã được chuyển đổi sang dạng số bằng cách quét ảnh .
+Các hệ điều hành có giao diện đồ họa cho phép bạn chạy nhiều chương trình và tài nguyên đồng thời , nhưng ở một thời điểm bạn chỉ có thể làm việc trong một cửa sổ .
+Các giao diện người sử dụng đồ họa được gọi như vậy là vì bạn sử dụng một con chuột ( hoặc một thiết bị trỏ khác nào đó ) để trỏ vào các đối tượng đồ họa trên màn hình .
+Đồ họa có thể làm cho gần như bất kỳ trang Web nào cũng trở nên dễ dùng hơn hay đơn giản là có tính lôi cuốn hơn .
+Các tập tin đồ họa cấu thành từ một trong hai đặc tính sau .
+Các tập tin đồ họa được dùng để tạo các nút nhấn và các dấu chấm liệt kê , các đường kẻ nằm ngang , các công cụ điều hướng và nhiều thứ khác .
+Các tập tin đồ họa thuộc về một trong hai loại cơ bản sau : bitmap và vector .
+Các chương trình đồ họa - và những nhà thiết kế sử dụng chúng - đã trở nên tinh xảo đến nỗi ta thường không thể biết được một hình ảnh đồ họa do máy tính sinh ra là hình ảnh chụp hay hình ảnh minh họa được vẽ tay .
+Các chương trình đồ họa giành cho thiết kế hình minh họa hay xử lý ảnh , phim , hoặc phim hoạt hình .
+Phần mềm đồ họa đã tiến một bước dài trong một thời gian ngắn .
+Hiện nay có nhiều phần mềm đồ họa cho nhiều môi trường máy tính khác nhau bao gồm các máy tính Macintosh và các máy PC tương thích IBM .
+Phần mềm đồ họa cho bạn tạo và sửa chữa các loại hình ảnh .
+Các bộ hiển thị thang độ xám hiển thị những cường độ xám khác nhau ( từ xám rất nhẹ cho tới đen tuyền ) trên một nền trắng hoặc trắng xám , và về bản chất là một loại bộ hiển thị đơn sắc .
+Ta phải rất cẩn thận để giữ lại hình âm bản được tạo ra trên phim .
+Tuy nhiên , khi được nhóm lại với nhau , chúng chuyển tải những ý nghĩa cụ thể .
+Các nhóm dữ liệu được định tuyến đi qua hub và được gửi tới tất cả các nút được nối kết , do vậy sau cùng đi được tới đích của chúng .
+Phần mềm nhóm cho phép nhiều người sử dụng trên một mạng hợp tác với nhau trên các dự án .
+Phát minh của H . Shrikumar sử dụng 512 byte cho ROM và 16 byte cho RAM trong một chip vi xử lý chuẩn .
+H / PC Pro đòi hỏi loại pin đặc biệt và cài sẵn trong máy , nhưng chúng không có đĩa .
+Máy tính xách tay thường thích hợp cho việc làm lịch và lên kế hoạch , nó cho phép bạn lập lịch hẹn , kiểm tra các dự án và ghi lại các sự kiện đặc biệt .
+Máy tính cá nhân cầm tay là loại thiết bị tính toán nhỏ nhất .
+Các máy quét cầm tay thì dễ mang theo hơn nhưng lại thường đòi hỏi có nhiều di chuyển trên một trang giấy đơn vì chúng không đủ rộng như giấy cỡ viết thư .
+Các núm kiểm soát là các hộp nhỏ ( thường có màu trắng hoặc đen ) mà bạn có thể kéo rê để thay đổi kích thước khung .
+Những ổ đĩa cứng chạy nhanh hơn nhiều so với những ổ đĩa mềm ; các đĩa của chúng quanh nhanh hơn và có thể định vị dữ liệu trên bề mặt đĩa trong khoảng thời gian ít hơn .
+Trong khi đó , các đĩa cứng cung cấp các dung lượng từ khoảng một vài trăm megabyte và hơn nữa .
+Tuy nhiên , các đĩa cứng có các dung lượng khác nhau rất nhiều ( và có thể cấp phát các cung và các liên cung theo những cách khác nhau ) , do vậy dung lượng của chúng khác nhau rất nhiều .
+Các đĩa cứng có thể lưu trữ nhiều dữ liệu hơn các đĩa mềm vì chúng sử dụng phương tiện có chất lượng cao hơn , tốc độ quay nhanh hơn , và có khoảng cách rất nhỏ giữa đầu đọc và bề mặt của đĩa .
+Các đĩa cứng đã trở thành thiết bị lưu trữ chủ yếu cho các máy PC vì chúng tiện lợi và đem lại hiệu quả kinh tế .
+Các đĩa cứng cũng phải được định dạng để máy tính có thể định vị các dữ liệu trên chúng .
+Các đĩa cứng cung cấp các tốc độ truyền dữ liệu nhanh nhất trong bất kỳ thiết bị lưu trữ nào .
+Các ổ đĩa cứng nhanh hơn gấp nhiều lần .
+Các nhà sản xuất phần cứng và phần mềm đã phát triển các bộ tiêu chuẩn cho các hệ thống máy tính sẽ được dùng với các sản phẩm truyền thông đa phương tiện .
+Phần cứng là các thiết bị điện tử , các phần mà bạn có thể nhìn thấy được .
+Phần cứng chứa cả các thiết bị điện tử kết nối bên trong mà bạn có thể dùng để điều khiển thao tác , sự nhập và xuất của máy tính .
+Phần cứng rất khó lắp đặt và định cấu hình trong DOS vì mỗi thiết bị đòi hỏi một trình điều khiển duy nhất .
+Kinh nghiệm về máy tính trước đây của bạn có ảnh hưởng đến quyết định nghiên cứu chúng ?
+Kiểm tra thời gian của một bạn cùng lớp khi bạn gõ đoạn đầu trong sổ tay Norton ở trang bên .
+Chúng ta đã đạt tới mức độ đó chưa ?
+Bạn đã từng xem một cảnh kỳ thú trên phim hay đã từng xem một bức tranh mà trông như thật đến nỗi bạn nghĩ là một bức ảnh chưa ?
+Trước đây bạn có làm việc ( hay chơi ) với máy tính không ?
+Tuy nhiên , việc sử dụng một nơi để chứa tất cả mọi dữ liệu dẫn tới một câu hỏi khác : bạn làm thế nào để tìm những thứ bạn cần trong tất cả các dữ liệu đó ?
+Khi đã biết tất cả những điều trên , bạn có cần nghiên cứu về Linux không ?
+HDTV cung cấp một hình ảnh không quét xen kẽ kỹ thuật số , với độ phân giải theo chiều dọc cao gấp hai lần TV hiện tại .
+HDTV vẫn còn trong những giai đoạn đầu của tiến trình thâm nhập thị trường , nhưng khi nó xuất hiện , nhu cầu sử dụng các bộ chuyển đổi sẽ không còn nữa .
+Anh ta hay cô ta tạo ra các mẫu nghệ thuật khác nhau , thường trong một lĩnh vực đặc biệt chẳng hạn như thiết kế đồ họa , chữ đẹp , minh họa , nhiếp ảnh , chế tác ảnh , đóng gói hay sắp chữ .
+Anh ta hay cô ta tạo ra các cảnh phim có sử dụng công nghệ tương tác của sản phẩm .
+Anh ta hay cô ta thiết kế và tạo ra phần mềm cơ sở có thể chạy một chương trình truyền thông đa phương tiện và thực hiện các mệnh lệnh của người sử dụng .
+Anh ta hay cô ta chỉ đạo quá trình tạo ra của tất cả những yếu tố nghệ thuật trong dự án .
+Anh ta hay cô ta phải đảm bảo rằng quá trình có tính công nghệ của một dự án phải tiến triển và rằng nó phải thích hợp với tất cả các thành phần và phương tiện của dự án .
+Các đầu trang và các chân trang là các dòng văn bản luôn xuất hiện ở trên cùng và dưới cùng của mỗi trang .
+Những người sử dụng khuyến thính có thể cài trong PC của họ các dấu hiệu hiển thị bằng hình ảnh thay vì các dấu hiệu âm thanh để nghe .
+Các chuyên viên hỗ trợ kỹ thuật và hỗ trợ sản phẩm .
+Các nhân viên trực tổng đài trợ giúp kỹ thuật phải quen thuộc với những hệ thống tập tin khác nhau mà các hệ điều hành sử dụng và cách các hệ điều hành này làm việc với các thiết bị lưu trữ khác nhau ra sao .
+Các ứng dụng trợ giúp và nội dung đa phương tiện .
+Do vậy , các bus 64 bit mới nhất thường được xem là các bus nhanh nhất .
+Trong hình bên , một mặt chiếu kiến trúc đang được in ra .
+Dưới đây là một vài chương trình cấp chứng chỉ mà bạn nên xem xét .
+Dưới đây là một số ví dụ về những ngành nghề sử dụng các trình xử lý văn bản hoặc các chương trình bảng tính trong công việc hàng ngày của họ .
+Đây là một vài ví dụ về các ngành nghề mà dựa trên các thiết bị nhập riêng biệt .
+Dưới đây là một vài các cải tiến đang được trông đợi .
+Dưới đây là một vài Web site cung cấp các dịch vụ cổng nối .
+Sau đây chỉ là một ít các lĩnh vực mà đồ họa máy tính thường được dùng .
+Dưới đây mới chỉ là một vài ví dụ về các tùy chọn giải trí mà bạn có thể truy cập bằng một máy PC truyền thông đa phương tiện điển hình .
+Sau đây là một số loại chính của các ứng dụng này .
+Sau đây là một số bước bạn có thể theo để bảo đảm rằng bạn đang sử dụng các hình đồ họa số hóa một cách đúng đắn .
+Sau đây là một số chỉ dẫn giúp bạn bắt đầu một thủ tục sao lưu đều đặn .
+Dưới đây là ba ví dụ về những loại chương trình đặc biệt dành cho doanh nghiệp , được nhắm tới các doanh nghiệp nhỏ .
+Dưới đây là ba bước đơn giản mà bạn có thể thực hiện .
+Dưới đây là một vài hệ thống sách điện tử hiện có mặt trên thị trường .
+Dưới đây là một vài ví dụ về các tính năng thiết kế tài liệu cao cấp được tìm thấy trong phần mềm DTP .
+Sau đây là một cách thức dễ dàng để tìm hiểu về sự không tương thích giữa các tập tin và các chương trình .
+Sau đây là một cái nhìn tổng quan về một số các tư liệu tham khảo mà bạn có thể tìm thấy trên mạng Internet .
+Sau đây là cách phân tích dung lượng cho một đĩa cứng cực lớn ( 50 GB ) , giả sử rằng đĩa này có 11 đĩa , 264.528 từ đạo , và khoảng 369 cung trên mỗi từ đạo .
+Ở đây bạn thấy được một nhóm các tập tin trong chương trình Windows Explorer .
+DSL tốc độ bit cao ( HDSL ) cho phép công ty điện thoại cung cấp các tốc độ T1 ở một mức giá thấp hơn T1 , nhưng đòi hỏi hai cặp dây dẫn .
+Các đĩa mềm dung lượng cao đang trở thành một phần phụ bổ sung phổ biến cho nhiều máy tính .
+Các đoạn video số chất lượng cao đòi hỏi hàng triệu bit dữ liệu phải được truyền ra màn hình mỗi giây .
+Các liên kết dữ liệu tốc độ cao chẳng hạn như ISDN và xDSL là các tùy chọn đắt tiền , nhưng chúng cung cấp dịch vụ nhanh hơn nhiều so với các nối kết đường dây điện thoại bình thường qua một modem .
+Các hệ thống in màu có độ phân giải cao đắt tiền hơn đáng kể .
+Các hình ảnh với độ phân giải cao còn đòi hỏi nhiều không gian lưu trữ hơn cũng như cần nhiều thời gian hơn để tải xuống máy tính của người duyệt .
+Băng thông cao hơn sẽ cho phép bạn giám sát ngôi nhà của mình bằng hình ảnh ( giả sử bạn vẫn còn làm việc bên ngoài ngôi nhà của mình ) và kiểm soát toàn bộ gia đình từ xa .
+Tuy nhiên , các xác lập cao hơn không phải lúc nào cũng tốt hơn , vì chúng có thể khiến cho các đối tượng trên màn hình xuất hiện quá nhỏ , điều này có thể khiến bạn phải nheo mắt và gây ra hiện tượng mỏi mắt .
+Các khám phá và phát minh của ông trong các lĩnh vực mạng , siêu văn bản , công nghệ giao diện với người sử dụng , và các môn học về máy tính khác đang tiếp tục ảnh hưởng hàng ngày đến người sử dụng máy tính .
+Hệ điều hành của anh ta có thể chạy trên gần như bất kỳ máy tính nào , bất kể kiến trúc của nó và dạng các ứng dụng mà nó hỗ trợ .
+Những người sử dụng gia đình và nghiệp vụ sẽ tiếp tục được cung cấp các tùy chọn lưu trữ càng ngày càng đa dạng hơn , và những tùy chọn đó sẽ đem lại những dung lượng và tốc độ mỗi lúc một cao hơn .
+Máy tính trong gia đình ngày càng được sử dụng rộng rãi cho nhiều công việc chẳng hạn như gửi tiết kiệm , đầu tư , mua hàng , truyền thông .
+Việc nối mạng trong gia đình đã trở nên phổ biến khi số lượng các gia đình có các máy tính truyền thông đa phương tiện gia tăng , kèm theo đó là số lượng những người làm việc từ xa .
+Các mạng gia đình thường hoạt động trên các phương tiện sẵn có chẳng hạn như các đường dây điện thoại hoặc hệ thống dây cáp của gia đình .
+Những người sử dụng trong gia đình có lẽ là những người tiêu dùng nhiều nhất của các sản phẩm truyền thông đa phương tiện .
+Những người sử dụng gia đình tiêu thụ rất nhiều loại sản phẩm truyền thông đa phương tiện để giải trí và học tập .
+Những người sử dụng gia đình có thể muốn giữ các bản sao lưu của họ trong một hộp chống cháy .
+Các thanh trượt ngang và dọc với các hộp cuộn cho phép bạn cuộn từ đầu tới cuối một tài liệu mà lớn không thể để vừa trong vùng tài liệu .
+Các ổ đĩa cứng tráo đổi nóng được trông giống như các phiên bản tháo lắp của các đĩa cứng bình thường .
+Cách một bộ hiển thị CRT tạo ra một hình ảnh .
+Cách một máy in ma trận điểm tạo ra một hình ảnh .
+Cách một máy in phun mực tạo ra một hình ảnh .
+Các máy trạm thường được dùng như thế nào trong lĩnh vực đồ họa và tại sao chúng thường được dành riêng cho những ứng dụng như vậy ?
+Làm thế nào mà các máy chiếu sử dụng cơ chế xử lý ánh sáng bằng kỹ thuật số ( DLP ) có thể chiếu các hình ảnh tốt hơn các máy chiếu LCD bình thường ?
+Cách các dữ liệu được tổ chức trên một đĩa từ tính .
+Đa số các người dùng máy tính riêng lẻ nối kết tới Internet bằng cách nào ?
+Các mạng giúp các tổ chức kinh doanh tiết kiệm tiền bạc như thế nào ?
+Các bảng tính thực hiện các phép toán chứa các ngày tháng như thế nào ?
+Khi tạo một slide , bạn làm thế nào để thêm văn bản vào một hộp văn bản ?
+Bạn nhấn đôi vào một biểu tượng bằng con chuột như thế nào ?
+Bạn cảm thấy ra sao về khả năng này ?
+Bạn làm thế nào để bắt máy PC của mình nói chuyện được với TV ?
+Một bộ hiển thị CRT màu sinh ra các hình ảnh trên màn hình bằng cách nào ?
+Làm thế nào mà một bộ hiển thị LCD quét kép có thể sinh ra hình ảnh rõ ràng hơn một bộ hiển thị ma trận thụ động bình thường .
+Một trình kiểm lỗi ngữ pháp hoạt động ra sao trong một trình xử lý văn bản ?
+Người sử dụng được hưởng lợi ra sao từ những năng lực đa nhiệm của một hệ điều hành ?
+Bạn muốn con trỏ của bạn nháy nhanh chậm ra sao ?
+Bộ xử lý có tốc độ bao nhiêu và máy có bao nhiêu RAM ?
+Bạn nghĩ rằng Internet quan trọng đến mức nào đối với những người dùng gia đình bình thường ?
+Vậy khối lượng công việc có liên quan đến một sản phẩm truyền thông đa phương tiện được hoàn tất như thế nào ?
+Có bao nhiêu đối tượng ( thư mục ) được lưu trữ trên đĩa cứng ?
+Một byte gồm 8 bit có thể biểu diễn được bao nhiêu ký tự hoặc ký hiệu ?
+Bao nhiêu dây cáp sẽ được để lộ ra ngoài ?
+Bằng cách nhìn vào nó , bạn có biết giá của nó là bao nhiêu ?
+Có bao nhiêu không gian trống khả dụng ?
+Bao nhiêu thông tin họ nên được phép thu thập về mỗi cá nhân ?
+Người sử dụng sẽ chấp nhận bỏ ra bao nhiêu thời gian để khám phá nội dung thông tin này ?
+Một máy PC cần phải mạnh mẽ tới mức nào ?
+Bạn muốn các tài liệu của mình được in ra nhanh cỡ nào ?
+Cách thức máy tính nhận tín hiệu từ bàn phím .
+Cách hệ điều hành truyền thông với CPU .
+Cách hệ điều hành tìm dữ liệu trên một đĩa .
+Bạn sẽ thu lợi được gì từ sự hiểu biết về máy tính ?
+Bạn nghĩ sao về tình huống này ?
+Tuy nhiên , khi nhiều sản phẩm truyền thông đa phương tiện được phát hành trên DVD ( và khi nhiều người tiêu dùng sắm các máy tính có ổ đĩa DVD hơn ) thì tầm quan trọng của vấn đề lưu trữ hứa hẹn là sẽ ít dần .
+Tuy nhiên , vì phần mềm DTP được thiết kế riêng cho việc tạo ra những tài liệu phức tạp , nhiều màu sắc , sẵn sàng cho máy in , nên nó là sự lựa chọn tốt hơn cho việc thiết kế tài liệu chuyên nghiệp .
+Tuy nhiên , bởi vì các ký tự thay thế cho màu nền thay vì được sắp lớp trên nó , thao tác xóa cũng bỏ đi phần nền nằm dưới .
+Tuy nhiên , hiện nay các bus còn được đo lường theo các tốc độ truyền dữ liệu của chúng - khối lượng dữ liệu mà chúng có thể truyền được trong một giây .
+Tuy nhiên , các modem cáp cũng đang được chấp nhận trong các tổ chức kinh doanh từ cỡ nhỏ tới cỡ trung như là một lựa chọn thay thế cho các công nghệ khác , chẳng hạn như DSL và ISDN .
+Tuy nhiên , các máy tính không thể hiểu bất kỳ điều gì .
+Tuy nhiên , càng ngày càng có nhiều người tiêu dùng mua các hệ thống đi kèm với các ổ đĩa DVD - ROM thay vì các đơn vị CD - ROM bình thường .
+Tuy nhiên , các mạng công ty và trường đại học đang được thay đổi cấu hình thường xuyên hơn để trở nên giống với Internet .
+Tuy nhiên , các nối kết trực tiếp không phổ biến lắm .
+Tuy nhiên , dos thực sự vẫn là hệ điều hành phổ biến nhất dành cho các máy PC tương thích IBM vì nó được cần tới để chạy các môi trường điều hành Windows .
+Tuy nhiên , dos đã chiến thắng trong những cuộc chiến giành thị trường hệ điều hành thời kỳ đầu vì IBM đã chọn cấp phép cho nó thay vì CP / M như là một hệ điều hành tiêu chuẩn dành cho máy IBM PC .
+Tuy nhiên , nén tập tin có thể cho phép bạn lưu trữ nhiều dữ liệu hơn trên một đĩa , làm tăng dung lượng đĩa một cách hiệu quả .
+Tuy nhiên , các GUI đã trở thành tiêu chuẩn vì đa số người sử dụng đều ưa thích chúng , một phần là do chúng dễ học hơn .
+Tuy nhiên , nó cũng đắt tiền hơn và trở nên ít phổ biến hơn khi công nghệ cặp xoắn được cải tiến .
+Tuy nhiên , nhiều công ty phần mềm ưu tú khác đang liên tục tìm những cách để cải thiện các hệ điều hành .
+Tuy nhiên , nhiều ứng dụng nghiệp vụ phổ biến ngày nay chứa đựng nhiều công cụ khác nhau có liên quan tới Internet .
+Tuy nhiên , nhiều card video và bộ hiển thị có thể làm tươi ở các tần số cao hơn nhiều , mà dẫn tới một hình ảnh không bị rung rinh trên bộ hiển thị của bạn .
+Tuy nhiên , không có chuẩn NC đơn nào nổi lên cả vì các nhà chế tạo phần mềm và phần cứng không thích loại mới này .
+Tuy nhiên , một thay đổi quan trọng trong Windows 98 là phần kèm theo của trình duyệt Web Internet Explorer .
+Tuy nhiên , các card âm thanh trên máy tính PC cũng có thể là các thiết bị MIDI .
+Tuy nhiên , người ta cũng sử dụng chúng để tạo ra các bản sao bất hợp pháp của các đĩa CD phần mềm và đĩa CD nhạc .
+Tuy nhiên , một số dịch vụ thư điện tử dựa trên Web miễn phí sẽ lưu trữ các thông điệp của bạn chỉ trong một khoảng thời gian nào đó rồi sau đó tự động xoá chúng .
+Tuy nhiên , các chương trình bảng tính cũng cho phép bạn tạo ra các báo cáo phức tạp kèm theo các biểu đồ , văn bản , các màu sắc , các hình đồ họa , và nhiều thứ khác nữa từ các dữ liệu của bạn .
+Tuy nhiên , đó chỉ mới là sự khởi đầu .
+Tuy nhiên , lượng chương trình mà được nạp vào bộ nhớ càng nhiều thì chương trình càng chạy nhanh hơn .
+Tuy nhiên , trong cả hai trường hợp thì họ đều sai .
+Tuy nhiên , các cung này được bố trí hơi khác biệt so với cách chúng được bố trí trên các đĩa từ tính .
+Tuy nhiên , giao diện song song tiêu chuẩn dành cho các thiết bị ngoài như các máy in thường truyền mỗi lần 8 bit ( 1 byte ) qua 8 dây dẫn riêng biệt .
+Tuy nhiên , những mối quan hệ cố định của các bảng hạn chế tính linh hoạt của CSDL , khiến cho một số dạng truy vấn hay báo cáo trở nên khó khăn hoặc không thực hiện được .
+Tuy nhiên , thuật ngữ màn hình xúc giác muốn nói đến hệ thống mà nhận dữ liệu bằng cách cho phép người sử dụng tiếp xúc với màn hình bằng một ngón tay .
+Tuy nhiên , web đơn thuần chỉ là một phần của Internet - một loại dịch vụ khả dụng đối với những người có thể truy xuất các tài nguyên của Internet .
+Tuy nhiên , các kiểu dịch vụ này không phải lúc nào cũng thích hợp để truyền tại chỗ video và âm thanh .
+Tuy nhiên , sự phân loại này không cho bạn biết bất kỳ điều gì về cách các máy tính riêng lẻ trên một mạng , được gọi là các nút mạng , tương tác với nhau .
+Tuy nhiên , khi các công ty điện thoại hoàn tất bước quá độ này và các đường dây kỹ thuật số được lắp đặt cho mọi tòa nhà , hệ thống truyền dữ liệu sẽ đơn giản hơn rất nhiều .
+Tuy nhiên , các trình xử lý văn bản cũng quan trọng đối với một số người chủ yếu chỉ sử dụng các chương trình khác , như các kiến trúc sư , các kỹ sư , các kế toán viên , và những người khác vốn dựa vào các chương trình thiết kế , phân tích hoặc bảng tính .
+Tuy nhiên , bạn cũng có thể lưu trữ các lệnh MIDI trong một tập tin MIDI .
+Tuy nhiên , bạn có thể điều chỉnh phần mềm để tự động kèm thêm không gian trước hoặc sau mỗi đoạn .
+Tuy nhiên , bạn cần hiểu sự khác biệt giữa các đĩa mềm , các ổ đĩa cứng , các ổ đĩa CD - ROM và các thiết bị lưu trữ tháo lắp .
+Tuy nhiên , bạn không cần trở thành một chuyên gia chuyên về máy tính để tăng thêm thu nhập của bạn .
+Tuy nhiên , bạn cần phải có nhận thức về sự tồn tại của chúng và ảnh hưởng mà chúng tạo ra đối với trải nghiệm truyền thông đa phương tiện của bạn và rằng một số cần có phần mềm đặc biệt để hoạt động đúng trên hệ thống của bạn .
+Các khuôn mẫu tài liệu HTML cung cấp những công cụ điều hướng được thiết kế sẵn : những nơi mà người sử dụng có thể chèn các siêu liên kết , các khung , và nhiều tính năng khác được tìm thấy trong các trang Web được thiết kế tốt .
+HTML thường được dùng trong các chương trình truyền thông đa phương tiện tương tác cũng như trong các trang Web cho nên các chương trình hiệu chỉnh HTML là các công cụ quan trọng trong nguồn tài nguyên của nhà phát triển .
+Các thẻ HTML được đặt bao quanh các phần của tài liệu mà chúng tác động .
+HTTP sử dụng các địa chỉ Internet ở một định dạng đặc biệt , được gọi là một bộ định vị tài nguyên đồng dạng ( URL ) .
+Các kho chứa dữ liệu khổng lồ có thể đáp ứng các yêu cầu dữ liệu cho vài chục ngàn người sử dụng trong một tổ chức lớn .
+Các kho dữ liệu khổng lồ có thể được lưu trữ bằng kỹ thuật số trong một thiết bị có kích thước của một cái hộp nhỏ , với bất kỳ byte nào có thể được .
+Hàng trăm các Website hướng về việc học tập cho phép trẻ em tham gia vào các dự án tương tác , các câu đố và các trò chơi .
+Hàng trăm cuộc thảo luận bằng danh sách thư tín đang diễn ra mọi lúc , bàn về vô số chủ đề khác nhau .
+Siêu phương tiện : Cơ chế điều hướng bởi người sử dụng .
+Siêu phương tiện cũng có thể có với quy mô nhỏ hơn .
+Siêu phương tiện thường được dùng trong các sản phẩm truyền thông đa phương tiện .
+Các liên kết siêu văn bản là nền móng của World Wide Web .
+Token Ring là một công nghệ mạng của IBM .
+OS / 2 Warp của IBM là hệ điều hành dựa trên GUI thực sự đầu tiên dành cho các máy PC dựa trên chip Intel .
+Nguyên thủy , các bàn phím của họ IBM có 10 phím chức năng , sau đó con số này được mở rộng lên thành 12 .
+IBM tiếp tục phát triển và tiếp thị OS / 2 , nhưng sản phẩm này đã rơi vào một tình trạng thua cuộc .
+Các biểu tượng , các cửa sổ , các menu , các hộp thoại , và các đối tượng đồ họa khác xuất hiện trên desktop để người sử dụng tương tác .
+Các biểu tượng là các hình ảnh biểu diễn những phần của máy tính mà bạn làm việc với - các máy in , các font chữ , các tập tin tài liệu , các cặp hồ sơ ( một cách để tổ chức các tập tin thành những nhóm luận lý ) , các ổ đĩa , các chương trình . v . v .
+Nhận diện năm tính năng đặc biệt thường được tìm thấy trong các trình xử lý văn bản hiện đại .
+Nhận diện bốn thành phần được tìm thấy trong đa số các giao diện người sử dụng đồ họa .
+Nhận diện bốn thành phần giao diện được tìm thấy trong phần lớn các chương trình thuyết trình .
+Xác định bốn kiểu phần cứng máy tính .
+Nhận diện bốn loại dữ liệu có thể được nhập vào một phiếu công tác .
+Xác định bốn kiểu máy tính cá nhân .
+Nhận diện bốn cách để đưa các tập tin đồ họa vào máy tính .
+Nêu một công nghệ hỗ trợ luồng âm thanh và video trên môi trường Web .
+Xác định năm kỹ thuật chủ yếu để sử dụng con chuột .
+Định nghĩa năm nhóm phím trên một bàn phím chuẩn .
+Nhận diện ba công cụ xử lý văn bản cơ bản cho phép đơn giản hóa việc biên tập tài liệu .
+Xác định ba biến thể của chuột .
+Nhận diện ba môi trường máy tính được sử dụng rộng rãi trong lĩnh vực thiết kế đồ họa .
+Nhận diện ba loại hoạt ảnh quan trọng do máy tính tạo ra .
+Nhận diện hai loại bộ hiển thị tấm phẳng và giải thích sự khác biệt giữa chúng .
+Xác định hai đặc trưng duy nhất của siêu máy tính .
+Nếu nghề thiết kế hoặc quản trị mạng hấp dẫn bạn , bạn nên nghĩ tới việc trang bị cho mình chứng chỉ về một hoặc nhiều công nghệ mạng được sử dụng phổ biến .
+Nếu một ô đã chứa các dữ liệu , bạn có thể biên tập nó trong thanh công thức .
+Ví dụ , nếu một nhân vật phải đi từ điểm A đến điểm B thì nhà thiết kế phải bắt đầu bằng cách vẽ nhân vật tại điểm bắt đầu rồi sau đó lại vẽ tại điểm kết thúc của đường đi .
+Nếu một công ty có các tòa nhà nằm ở hai đầu của thành phố , họ có thể xây dựng một ăng ten vi sóng trên nóc mỗi tòa nhà để truyền tải dữ liệu qua lại một cách nhanh chóng .
+Nếu một đĩa mềm có 80 từ đạo trên mỗi mặt , và mỗi mặt chứa 18 cung , thì đĩa này có 1440 ( 80 x 18 ) cung trên mỗi mặt , dẫn tới một tổng số là 2880 cung .
+Nếu một tập tin quá lớn đến mức không thể được lưu trong một cung đơn trên một đĩa , nó phải được chia ra thành những phần nhỏ .
+Nếu một thiết bị lưu trữ lớn hơn được cần tới sau khi người chuyên viên thiết kế đánh giá các yêu cầu lưu trữ hiện tại , anh ta hoặc cô ta phải cân nhắc việc giảm bớt các yêu cầu lưu trữ cơ sở dữ liệu hoặc nâng cấp phần cứng lưu trữ hiện có .
+Nếu một mạng cục bộ sử dụng các giao thức TCP / IP để truyền thông trong nội bộ mạng , sẽ rất đơn giản để nối kết tới Internet thông qua một bộ định tuyến , một máy tính lưu giữ và gửi chuyển tiếp các dữ liệu tới các máy tính khác trên Internet .
+Nếu một người không thể thả tay ra khỏi một phím một cách nhanh chóng sau khi nhấn nó , thì lựa chọn này bảo máy tính bỏ qua việc lặp lại phím được gõ .
+Nếu một máy in được nối tới hệ thống của bạn , nó sẽ xuất hiện trong cửa sổ Printers .
+Nếu một yêu cầu hay dữ liệu không vượt qua được sự kiểm tra bảo an của bức tường lửa , nó sẽ bị chặn đứng không cho đi xa thêm .
+Giá như chúng ta có được một tập ký tự chứa đựng mọi ngôn ngữ , thì các chương trình máy tính và các dữ liệu có thể trao đổi được với nhau .
+Nếu một bảng tính được cài đặt trên máy tính của bạn , bạn hãy hoàn tất bài tập sau theo sự hướng dẫn của giáo viên .
+Nếu một bộ phần mềm có kèm theo một tài khoản với một ISP cụ thể , rất có thể là nhà cung cấp dịch vụ đã làm việc với nhà phát triển phần mềm để bảo đảm rằng không có những sự không tương thích giữa phần mềm và mạng của họ .
+Nếu một người sử dụng có quyền truy xuất ghi tới những tập tin nào đó , anh ta có thể mở , thay đổi , và lưu các tập tin này nhưng không thể xóa hoặc di chuyển chúng .
+Nếu một trang Web được bảo vệ bằng SSL , url của nó sẽ bắt đầu bằng https : / / thay vì http : / / .
+Nếu một trình xử lý văn bản được cài đặt trên máy tính của bạn , bạn hãy hoàn tất các bài tập sau theo sự hướng dẫn của giáo viên .
+Nếu tất cả mọi nhân tố khác đều bằng nhau , một CPU có các thanh ghi 32 bit có thể xử lý các dữ liệu nhanh gấp hai lần một CPU có các thanh ghi 16 bit .
+Nếu một ISP thu thập đủ những lời than phiền về một chủ tài khoản , họ có thể xoá bỏ tài khoản của người đó .
+Nếu có bất kỳ card điều hợp nào được lắp đặt , danh sách này mở rộng để cho thấy chúng .
+Nếu có bất kỳ chương trình nào cần , chương trình đang chạy sẽ nhường quyền kiểm soát CPU cho chương trình kế tiếp .
+Nếu trang Web có bất kỳ các nút điều hướng , các biểu tượng , các dấu chấm liệt kê , các thanh hay hình ảnh nào xuất hiện trên trang nào đó thì chúng đều là các tập tin đồ họa tách biệt được hiển thị cùng một lúc .
+Nếu bất kỳ phần nào của công thức này ( hoặc tổng doanh số hoặc phần trăm hoa hồng ) thay đổi , công thức này có thể tự động tính toán lại số tiền hoa hồng kết quả .

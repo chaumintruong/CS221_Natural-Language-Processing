@@ -1,0 +1,657 @@
+Amount of access time over 200 min per month  , 10 yen per 1 min .
+Amplitude modulation of this type is called ON - OFF ASK or ON - OFF – Keying ( OOK ) .
+Amplitude modulation of this type is called phase turned - over ASK or phase reversal keying ( PRK ) .
+Amplitude shift keying for digital signal transmission changes the amplitude of the carrier according to the signal to be transmitted .
+Amuse that the antennal is completely matched  , then the thermal noise is given as follows :
+An additional benefit of the common transmission format is the traffic from different types of sources can be intermixed in a single transmission medium without mutual interference .
+An additional benefit of the source independent signal structure in a digital transmission system is that the quality of the received signal can be ascertained with no knowledge of the nature of the traffic .
+An ADM with TSI ( or DCS ) has no default configuration and needs a command to cross - connect tributary signals .
+An aerial subscriber line route should be as follows taking economy  , work convenience and maintenance convenience into account .
+An alternative to 1 : 1 APS is 1 + 1 APS  , where the head and bridge is permanent , as depicted in Fig.1.60 .
+An alternative transmission line configured with an FAP system is outlined in figure 2.30  , and emergency restoration work is illustrated in figure 2.31 .
+An amplitude modulated wave A ( t ) can be given by the following equation in which the base band signal is S ( t ) and the carrier is cost :
+An amplitude modulated wave is designed to change the carried amplitude in proportion to the baseband  , and is generally obtained by multiplying the sinusoidal carrier by the baseband signal .
+An amplitude modulation system changes the amplitude of a carrier in proportion to the voltage ( current ) of the signal to be transmitted .
+An analog exchange employs electromechanical switches such as compact crossbar switches and SMM switches for the switches which compose the switching network .
+An analog exchange switches continuous voice signals  , that is , analog signals , as they are .
+An area subject to expansion work is so determined as to cover a route leading to a fixed distribution area or areas requiring facilities expansion .
+An array is configured with the input side of the vertical axis and output side of the horizontal axis .
+An artificial light source  , the laser realized such light for the first time in the world , and played an important role in bringing optical fiber communication into practical use .
+An authentication service preventing illegal use and a ciphering service to protect signals from criminal monitoring have requested as security features .
+An automatic testing device has been developed for detecting these types of errors beforehand by monitoring subscriber lines routinely .
+An earth station consists of a communication facility  , orderwire facility , power supply facility and station building facility .
+An effective way of making a video codec more economical is to introduce LSI technology .
+An equivalent circuit of this network is shown in the lower section of the slide where there appears a rectangular crosspoint array with 24 terminals on the incoming and outgoing sides of the network .
+An example of a signal point layout for 16 levels is shown in Fig 3.10 .
+An example of an overall BCSM for existing switch processing of a basis two - party call is depicted in Fig.2 - 6 and Fig.2 - 7 .
+An example of construction of horn - reflector antenna and feeding system for three frequency bands is shown in Fig . 1.4 .
+An example of interpolation in a restored signal is shown in Figure 6.9 .
+An example of noise allocation for the hemispheric transponder of INTERSAT IV - A satellite in the multiple carrier transmission mode .
+An example of restricted RF bandwidth while maintaining low chip rate is a technique adopted to FH system .
+An example of spectrum of each modulation method is given in fig 5.7 .
+An example of the present antenna and feeding system in the 11 or 15 GHz band is shown apparatus constructed of many components .
+An example of these areas is where the path loss between a mobile unit and one adjacent base station or two is about the same as that between the mobile and the corresponding busy base station .
+An example of this scheme for originating call control is shown in figure 8.16 ( b ) .
+An existed national cable has been installed using to 2 - wire way with each group in order to escape the near - end crosstalk of upward and downward because the first range was almost all  , it is composing the 8 ~ 12 circuit with using the lower group 12 ~ 60 kHz ( 6 ~ 54 kHz ) , the higher group 72 - 120kHz ( 60 ~ 108kHz ) .
+An extremely minimum condition of an circuit attenuator on the regular circuit is RC &gt; LG  , but a uniform circuit is RC = LG .
+An image showing the use of a transponder in the SSMA is given in ( 3.14d ) of the figure .
+An important factor in sampling is how frequency the analog signal should be sample on the transmit side in order to reconstruct the original signal the receive side .
+An in network interface for network restructuring that would match the user network interface .
+An increasing number of highly sophisticated and powerful means such as data and video communications for transferring various types of information and offering non - telephony services are being installed and operated and in the process  , revolutionalizing our lives .
+An individual channel signal can be monitored at multiplexing level .
+An individual subsystem of a digital network  , on the other hand , need only be designed to ensure a certain minimum error rate - usually a readily realizable goad .
+An input buffer type switch is the one with a buffer on its input end  , and the crossbar and the batcher banyan are typical examples .
+An integer M is fixed by MPU ( CPU ) telling PLL - IC that a received frequency is f0 .
+An integration of services is possible and eventually it is expected that integrated ser - vices digital network  , ISDN , will be constructed in the future .
+An intelligent network ( IN ) infrastructure is being introduced into public switched telephone networks to support the rapid deployment of new network services .
+An intensive  , detailed field survey is then carried out to find how much demand exists for individual developments .
+An interframe differential coder is shown in Fig.6.6 .
+An intra – office interface using the new synchronous interface has a structure where the interface packages and intra - office cables have stand - by ones  , so intra - office restructure can be implemented without service interruption during operation .
+An ISDN is a network which can support various services such as telephone  , telex and facsimile at different transfer rates in different modes .
+An ISDN may be implemented in a variety of configurations according to the specific national situations .
+An ISDN number is given to point S or T which is an ISDN interface .
+An ISDN will contain intelligence for the purpose of providing service features  , maintenance and network management functions .
+An more researches are carried out an ATM network  , ietf organized a subgroup called IOA ( IP over ATM ) to establish the standard for implementing IP communication through ATM network .
+An optical cable with the same diameter as a metallic cable can accommodate a greater number of fiber cores than the number of wires in its metallic counterpart .
+An originating call is setup according to this subscriber data .
+An output buffer type switch equipped with a buffer on its output end can establish exclusive paths that do not interfere with other ports between the input ends and the output ends and make HOL blocking not occur .
+An output terrestrial channel disconnected from a satellite channel carries no signal at all .
+An overall demand growth rate for an office 's service area ( m = demand at N + 5 / demand at survey time ) is calculated from the overall demand in the service area based on the number of currently used circuits including miscellaneous circuits ( excluding both development demand ( on a rough estimation basis ) and individually estimated demand in each fixed distribution area ) .
+An RFC ( RFC1155 ) stipulates the general description method and identification method for the SMI .
+An SHR is a ring network that provides redundant bandwidth and / or network equipment so disrupted services can be automatically restored .
+An SHR is a ring network that provides redundant bandwidth and / or network equipment so disrupted services can be automatically restored following network failures .
+An SLP is a service application program invoked by the SLEE and is used to realize service processing under the control of the SLEE .
+An STP is a point where a message received on one signaling link is transferred to another link .
+An total circuit noise 10  , 000 pWOp divided into the transmission line noise of 7 , 500 pWOp ( 3pWOp / km ) and the end office noise of 2 , 500 pWOp , 5 , 000km HRC consists of 12 synchronous area about 420 km .
+An underground distribution must be designed based on the underground distribution plan with close attention given to the conditions of existing aerial cables  , the distribution of buildings , and trends in demand .
+An unfortunate result was that many varieties of control signal format and procedures evolved .
+Analog circuit must being designed to minimize these noises in each stage because a noise is continuously accumulated on analog mode as differing from the regeneration of digital mode .
+Analog information are connected to the digital switching system via an MDF .
+Analog integrated circuits have also progressed significantly - allowing traditional analog implementations to improve appreciably .
+Analog modulation includes linear modulation such as amplitude modulation ( AM )  , and exponential modulation such as frequency modulation ( FM ) and phase modulation ( PM ) .
+Analog signal such as voice is PCM coded in accordance with CCITT Recommendation G.711 .
+Analog subscriber information sources include residential  , commercial , and public telephones .
+Analog transmission system sends the waveform having information to the destination and regenerates it without using digital coding technology .
+Analysis of the total installation cost of transmission lines  , however , showed that the construction cost of transmission terminal stations accounted for a very large percentage .
+Analysis revealed the following when the distribution of demand - forecast errors was examined with demand in a fixed distribution area used as the measure .
+And 3 dB is an empirically obtained value  , which can be applied to a wide range of carrier sizes of the INTELSAT IV - A and V satellite systems .
+And 878 Mbps or 1.7 Gbps optical communication can be made by processing this 6 or 12 units of signal into WIM ( Word Interleaved Multiplexing )  , and then through LTE .
+And a mutual synchronization method carried out by securing a variable frequency oscillator on each telephone office  , comparing the phase difference between the clocks of local offices and those from other multi - offices , and then controlling the oscillating frequency so that the average value of these phase difference becomes 0 for the synchronization of the entire - network .
+And also  , interference signals from the base station in use are fading with the desired signal , interference signals from the adjacent base station show different fading phenomenon .
+And as it is shown in eq ( 2.12 )  , the transmission power is 1 / 2 A2 without regarding to the message signal u ( t ) because the amplitude of FM and PM wave are always constant .
+And can be further classified as horizontal or vertical networks .
+And co - channel interference is another problem that can be generated by dividing frequency spectrum to small  , it needs guard band between channels in order to minimize this .
+And coefficients  , it is possible to represent the all signal points of multilevel modulated waves .
+And comparing the multi - zone type  , signal zone not reuse of the geographical of frequency , so the frequency using rate is lower than the multi - zone .
+And computers that communication between computers  , so there is no optional communication between computers .
+And derive reuse cell No ' N ' with related position between a cell and the reuse cells .
+And developed its own network architecture to promote effective and efficient decentralized processing using its products .
+And F1 be gotten by this circuit is five times by MPC .
+And finally  , super - wideband information having a bandwidth of MHz , used for commercial TVs or precision video communications .
+And further  , in 1990 a card type display page , in 1991 a top type display pager and in 1992 a watch type display pager were developed .
+And here in addition to business service using radio - wave privately  , there is MCA system that use radio channels in company , personal radio communication , such as walkie - talkie and citizen band radio , which can use in personal .
+And I = 1  , 2 … and .. M w1 , is selected to [ Vi ( t ) ] taking orthogonal characteristics to minimize the transmission bandwidth , if define f = R = 1 / T , minimum transmission bandwidth under the power limited channel , and then , M - ary PSK can be derived .
+And if the message bandwidth is w in basic bandwidth  , the transmission bandwidth needed to transmit amplitude modulating signal BT is exactly two times of message bandwidth ( BT = 2w ) , not so much attractive .
+And if the relative delay time between each frequency component is different  , the pulse waveform received is distorted into waveform different from the original signal .
+And ILMI ( Interim Local Management Interface ) reference regulated on the basis of SNMP ( Simple Network Management Protocol ) that is inter - network management standard .
+And in 1830  , Michael Faraday discovered the electro - magnetic induction law .
+And in FDMA  , it does not need initial network synchronization , and bit timing recovery or frame synchronization is easy , and the hardware is simple in modern realizing .
+And in order to transmit power totally  , not only impedance matching of two circuits but also consistency of the electric field and magnetic field distribution at the connecting point are needed .
+And it also needs broadband antenna for the frequency sharply converted on many cases .
+And it can be regenerated the voice data by deinterleave and decoder .
+And it is easy to make integrated circuit logic design .
+And it is shown in Figure 2 - 2 at the time axis .
+And L  , m and N among them mean the same as the preceding ones , k means the number of DS - 3 level signal , and J is the size of DS - 1 representing the overhead attached to all of them .
+And matching circuit is used to connect impedance of transmitter / receiver and antenna for the purpose of improving transmission and receiving efficiency .
+And network supervises if the parameters are kept .
+And service aspects and application group was added in July  , 1993 .
+And so the reason why the Short Burst consisting only of a preamble is transmitted is so as to avoid causing damage to other bursts .
+And SONET is the connection standard of the optical communication system which was afterwards suggested by Bell Communication Research  , and adopted and developed for the North American standard by T1 committee .
+And the base station increases the transmit output by an increment of prearranged 0.5 dB when requested for output increase from each mobile unit .
+And the fifth - order group provides 5760 channels at 397.2Mbit / s multiplexing four fourth – order groups .
+And the input amplitude values within the same interval is represented by one output values i.e ..one quantizing level .
+And the original managed objects regulated by the manufacturer or user are placed as individual entries under those codes .
+And the portability of TE2 combined with TA is assured at point S .
+And the power spectrum WE ( w )  , corresponding to equation ( 2.17 ) can be given by :
+And the quality is defined a channel S / N ratio among these telephone and video channels .
+And the specification of data transfer between the communication network and user terminal is none other than the interface .
+And the switching station should have function that all information  , such as dialed number , billing information and the other service information , is stored in switching system in order to connect mobile subscribers to other mobile subscribers and to PSTN subscribers .
+And then  , bisdn internal transmission signal of BISDN is formed as ATDM with ATM cells .
+And there is a method of digital conversion at the point where a symbol language change to other language like amplitude shifting keying ( ASK )  , frequency shifting keying ( FSK ) and phase shifting keying ( PSK ) .
+And to make it possible to limit the adding or updating of functions to a specific layer .
+And two frequently employed transceiver block diagram are show in Fig 2.20 ( a ) and Fig.2.20 ( b ) .
+And V ( t ) = 0  , 1 , 2 ... W - 1 .. considering M - ary FSK , it will be :
+And we have thermal noise produced in the demodulator  , baseband equipment and local oscillator .
+And when radio wave goes through ionospheric layer  , it is attenuated by the collision with molecules .
+And with an understanding of demand structure  , attention must also be paid to material prices , construction costs , and shared use of utility poles with power companies .
+Angle modulation  , is different from the linear amplitude modulation which fixes phase angle and changes amplitude , fixes the amplitude and changes the phase angle in proportion to the message signal .
+Angle modulation is called non - linear exponential modulation wave becomes the exponential function type when modulated wave turns up the phasor type .
+ANM is the answer message which indicates that the terminating user ( called party ) has answered .
+Another advantage of TDMA is that a large increase in transmission capacity can be achieved by adopting the Digital Speech Interpolation technique .
+Another advantage of TDMA is that connection with terrestrial digital communication networks can easily be achieved .
+Another advantage of using the digital switching system is that it improves transmission quality .
+Another approach involves inserting special control codes into the message channel and having digital logic in the receiving terminals decode that control information .
+Another consideration in chip rate is the effect according to signals that have phase difference with the same frequency .
+Another development of communication satellite is communication with mobile bodies or vehicles such as ships and airplanes .
+Another disadvantage is that the connecting cable from its feed horn to the transmitter and receiver tends to be long .
+Another feature of the INTELSAT TDMA system is that it is capable of Burst Time Plan change without interruption of operation .
+Another important character of light is that its propagation velocity changes when the refractive index of a medium through which it propagates changes .
+Another important characteristic of this technique is that it is the first time orthogonal processing has been introduced into speech coding .
+Another important requirement is thus the development of an effective means of eliminating background noise from the input signal .
+Another major communications revolution took place when men learned how to record their thoughts and ideas by using written characters .
+Another major feature of INTELSAT DSI is the use of overload satellite channels .
+Another method available for recovering the carrier is remodulation .
+Another problem is that the speech quality varies significantly depending on whether Japanese . English  , german or some other language is spoken .
+Another Silent Mode using vibration and light without sound .
+Another technique form measuring in - service transmission quality is used in T - carrier lines .
+Another way to avoid interference is to use hills  , buildings , etc . , as a screen against interfering radio waves .
+Answer which signals come at 1  , 2 and 3 on the outgoing highways .
+Antenna and feeder system for a radio - relay system need to be economical and to have low transmission loss .
+Antennas are required to have high directivity and low sidelobe characteristics so that they will not interfere with other systems ( satellite and terrestrial ) .
+Antennas are required to have the following characteristics in order to receive weak waves from a satellite and to transmit the power efficiently to a satellite .
+Any abnormality must be prevented form influencing the entire communication network ( transmission line switching  , talky guidance , etc . ) .
+Any channel for in use can be selected by any set in the system .
+Any deviation in the receive signal  , other than nominal amounts planned for in the design , represents a degradation in transmission quality .
+Any DS type has high side lobe energy in spite of the fact that side lobe does not improve signal transmission quality .
+Any facilities expansion must be planned so as to insure that the increased capacity is available when the fixed main line requires the additional capacity .
+Any one of the previously mentioned networks can be installed according to the subscribers ' needs and requirements .
+Any other signals are transmitted in the highest data rate and the transmit waveform is made with six Walsh symbol groups .
+Any two signaling points for which the possibility of communication between their corresponding user parts exist are said to have a signaling relation .
+APK is a modulation method of amplitude and phase and has strong point that uses less power to given error rate and symbol quantity M than PSK but weak point that is more sensitive to non - linear characteristic happened in channel as well as cost happened by complexity of system design .
+APON is a variable broadband allocation system that uses ATM cells and accordingly  , it can accommodate a greater number of subscribers and can support interactive services requesting a more wider bandwidth .
+Application Entity : Application processing is done inside the open system for service programs  , terminal programs , etc … , to perform the work while maintaining mutual communication .
+Application guidelines for aerial or underground distribution .
+Application includes use as a trunk network that interconnects lower speed LANs using the CSMA / CD system on - premises and for high - speed interconnection of general - purpose computer at plants  , laboratories , colleges and large - scale buildings .
+Application Layer is the highest layer in the OSI basic reference model .
+Application of this system also requires that the PSTN be provides with data transmission functions  , so it is necessary that the common channel signaling network is widely used .
+Application programmers can easily develop such various multi - media application programs as the remote education and multi and transplantation can be guaranteed via ATM API interface .
+Application service elements can be classified into those for common use in various work processed and those for individual use in specific work processing .
+Applied for all the switching systems or transmission equipment .
+Applies mathematical algorithm ( e . g . addition / subtraction ) to data to produce a data result .
+Appropriate man - machine interfaces must be provided ( Ex : Display screen English display - &gt; Japanese display ) .
+Appropriate measures to be taken in the event an abnormality is generated .
+APS automatically reroutes signals from a working line to a protection line during signal outage .
+APS has two major purposes : to provide a method to carry service for planed outages  , such as new equipment installation and routine maintenance , and to provide a line restoration capability in case of unexpected outages , such as network failures .
+APS is the simplest and fastest facility restoration technique .
+Area based registration : This is carried out when a corresponding mobile unit moves into a new area .
+Area C and D will install the system after the B city 's digitization .
+Area conditions  , and sizes and locations of vacant land ( areas of possible development ) .
+Area E and F will install HF system at first  , and later change into satellite system .
+Areas built up with buildings and underground shopping centers .
+Areas congested with cables where safe installation and maintenance work cannot be guaranteed with aerial lines .
+Areas not suitable for demand estimation by computer include the following .
+Areas subject to facilities expansion design and collection expansion .
+Areas to be intensively surveyed and survey items are narrowed down based on the preparatory survey results .
+Areas where administrations or local governments have requested the replacement of aerial lines with underground distribution on the basis that aerial lines obstruct road traffic  , as well as hamper fire - fighting and emergency rescue activities , and where local conditions are not suitable for aerial distribution .
+Areas where the installation and maintenance of the aerial lines are prohibited by obstacles such as the street conditions  , road side trees or residential buildings ( more concretely , areas where road traffic has been obstructed for several consecutive days due to heavy rains or snows and where the traffic is subject to similar constraint in the future , including isolated islands and out - of - the - way places where typhoons and other disasters have affected telecommunications facilities in the past and are likely to inflict similar damage in the future as well ) .
+Areas with a remarkably large demand growth rate compared with other areas .
+Areas with high demand densities ( those areas where demand density is 150 subscribers or more / ha and the legal floor space index is 400 % or more ) must have higher selection priority .
+Around at that time  , AT &amp; T Bell Communications Research proposed that Metrobus internal standard signal which has 88W structure and 146 Mbps be adopted as a standard signal .
+Around this time  , the Bell Laboratory of the U . S . A invented and patented a cathode ray tube for oscilloscopes and Lee de Forest became a pioneer in the field of electronic circuit through his invention of the tripolar vacuum tube .
+Around this time the Bell Lab of the U . S . A announced the successful development of the stored program control method that became the foundation of currently used electric switching systems .
+As ( Fig.2.45 ) shows  , a cell 's center is O0 and 6 cell 's centers are O1 ~ O6 which can reuse the frequency of the first cell .
+As a further complication a car phone may part way through a call move into an area served by a different exchange necessitating a switched connection .
+As a general design example  , consider a case of increasing the capacity of an existing one or two - cable section .
+As a general rule  , 50 % of the circuits are aerial by one route and the other 50 % are routed underground , both up to the lead - in point of users ' buildings .
+As a media  , there are copper wires , coaxial cables , radios , wave guides and optical fiber cables .
+As a next step  , bellcore also issued the generic requirements for Release 0.2 in 1993 .
+As a part of the safety measures for the ever - expanding transmission line network  , two - route and multi - route programs were established .
+As a personal communication service subscriber may use a mobile terminal  , hierarchical mobility management covering both types of mobility would be required .
+As a result  , a link for circuit switching call is established and data transfer starts .
+As a result  , a packet – switched link is established and data transfer starts .
+As a result  , it is necessary to generate the chrominance sub - carrier in the color television receiver and use it for color demodulation .
+As a result  , a mobile transit switching function is necessary for efficient use of trunk lines between offices .
+As a result  , a parallel path is provided as in the case of soft handoff .
+As a result  , a radio unit can precisely know both its location and the timing of changing cell , and this contributes to efficient and confident by reducing the voice coding speed , applying the high - efficiency digital QPSK modulation system and miniaturizing cell size with efficient radio link control .
+As a result  , ever since 1986 , ITU - T has been accommodating all the existing North American and European Mode asynchronous signaling hierarchies , capable of accommodating the wideband signals ( h2 , h4 ) of wideband ISDN ( B - ISDN ) and related interfaces .
+As a result  , giving extra capacity corresponding to forecast demand can equalize this demand - meeting factor of facilities .
+As a result  , it become a fixed Walsh chip rate of 307 , 200 cps per second .
+As a result  , it is likely that variable - rate coding will become the mainstream technology for low - bit - rate speech coding in both of these areas .
+As a result  , its standardization activity hardly proceed for about one year after the SONET concept was introduced .
+As a result  , metallic lines have encountered several problems that must be solved in the face of a new era for competition in the telecommunications industry and the construction of the information network system ( INS ) .
+As a result  , problems such as signing , echo and time delay were encountered .
+As a result  , relatively simple circuits can be used for interfacing switching systems and transmission equipment and for higher economy .
+As a result  , signal B ' appears on outgoing circuit a ' , signal A on outgoing circuit b ' , signal N ' on outgoing circuit c ' and signal C on outgoing circuit n ' .
+As a result  , snmp and CMOT were approved as network management protocols in the TCP / IP environment .
+As a result  , symbols are modulated on the PN carrier and in this case the PN sequence is selected by the address assigned to each traffic . .
+As a result  , T1 ( telephone set 1 ) system is used for public telecommunication using the PCM method in Chicago of America in 1962 , PCM - 24 method is practiced in Japan in 1965 , a current European method ( CEPT method ) was developed and practiced in 1970s .
+As a result  , the areas in need of pairs and the distribution areas downstream are subject to expansion .
+As a result  , the noise level due to the wave interference between and among the transmission lines was reduced much closer to the allowable limit , whereas development of new route was not permissible .
+As a result  , the time delay is several tens and hundreds longer than other factors .
+As a result  , the waveform easily becomes distorted as shown by the dotted line in Fig . 2.23 ( b ) .
+As a result  , up to existing DS4 ( 139 Mbps ) should be accommodated .
+As a single path method element having only one path between the input and output ports  , there are a crossbar , fully interconnected , and banyan system illustrated in Figure 4 - 5 .
+As a solution  , a multiplexing scheme which unifies various signals with identical format externally and piles them up one by one was arranged .
+As a solution for this  , the proposal far s ` indardizinci various types of service signals so as to make their external forms the same and then , overstocking these for multiplexing was made .
+As a step toward solving this problem  , use of the new 250 MHz band and a radio paging system that has improved functions such as a smaller pager and a longer continuous use time and that increases the number of subscribers per radio frequency was studied .
+As an alternative to the 1 : 1 / ODP architecture  , a 1 : 1 / ODP architecture having an OPM that uses two 1x2 optical switches at both ends may be used .
+As an attentive to the 1 : N / DP architecture  , full 1 : 1 / DP , including - 1 : 1 equipment and diverse fiber - system protection , provides 100 percent survivability for a fiber cable cut and equipment failure .
+As an example  , a system equipped with 1000 available frequencies has an excellent operational performance when interference or other noise distributes evenly throughout all available frequencies .
+AS an example  , the 16 , 384 time slot system should be capable of writing and reading data every 76.3 nsec ( 125m sec / 16 , 384 ) .
+As an example of pulse stuffing  , if three C bits of the first column are all ' 1 ' , it means that the first bit at the end of the column is a stuffing bit .
+As an important supportive technology in the implementation of the ISDN  , the digital radio - relay system is expected to play a strong role in the rapid digitalization of the trunk transmission lines during the ISDN construction phase .
+As another example  , the T _ Alerting PIC in the terminating BCSM in Fig 2 - 7 is entered when the terminating party is alerted of incoming call ( DP 28 - T _ Termination _ Seized ) .
+As application of advanced telecommunications services to business was popular and competition in the telecommunications industry was introduced rather early  , the concept of IN ( intelligent network ) first emerged and was developed in USA .
+As can also be seen from the equation  , the free - space loss ( γ ) is proportional to the square of the propagation distance ( R ) .
+As can be clearly seen when comparing equations ( 1.1 ) and ( 1.2 )  , the particle theory of Newton and the wave theory of Huygens differs greatly from each other .
+As can be seen  , the effect of an error ( error sensitivity ) depends heavily on the position of the erroneous bit within the entire signal .
+As car phones belong to the public system  , every call from one must be charged .
+As car phones move about  , the number of a car phone receiving a call does not identify either that phone 's location , or therefore , the exchange covering the area in which the car phone is located .
+As depicted in &lt; Fig.1.64 &gt;  , this modified architecture has the same basic structure as &lt; fig.1.62 &gt; except that it uses 2x2 instead of 1x2 optical switches to terminate Working Fiber - 1 ( WF - 1 ) and Diverse Protection Fiber - 1 ( DPF - 1 ) systems .
+As depicted in &lt; Fig.1.68 &gt;  , the ring architecture has the following advantages over the 1 : 1 / DP hubbing architecture : ( 1 ) potential decrease in fibers , optical / electronic devices , and regenerators and ( 2 ) complete survivability fir fiber cable cuts and node failure ( except the failed node ) .
+As depicted in figure 1  , following communications described are available for MESSAVIA users .
+As described above  , bisdn service is classified into type A ~ type D according to constant bit rate , real time feature , connection feature , etc .
+As described above  , both external and internal noise exist in a system , so the total noise figure for that system is the sum of its internal and external noise power .
+As described above  , frequencies are selected according to their applications , striving for their most effective use .
+As described above  , in this pseudo - linear transmission line , which is almost free of frequency spectrum distortion as important relation as described below can hold between the signal spectrum and transmission , line characteristics .
+As described above  , mobile communication switching functions are required in both the mobile communication network and the PSTN .
+As described in 6.1 above  , it is important to provide the services with good QOS .
+As described in DS system  , it is identical to the operation of DS system from the viewpoint of spurious removal and desired signal regeneration .
+As described in section 2.1.1 activities on AIN ( Advance IN ) conducted by Bellcore and the regional Bell Operating Companies ( BOCs ) triggered the activities in ITU - T .
+As described in Section 2.12. the pulse waveform where the pulse width is and the pulse amplitude is A has infinite frequency components .
+As described in Section 8.3. in the area - undesignated system the receiving switching office cannot be determinate form the number dialed by the calling party .
+As described in the item 1  , the transmission bandwidth of FM is usually wider than that of AM .
+As described in the preceding section  , telecommunication have rapidly developed around analog technologies .
+As described in the previous section  , receiver C / N is an important element in the design of a communication link that provided the required quality , but receiver C / N is determined by the characteristics of the individual equipment in the earth station ( capacity , size , etc ) .
+As described previously  , in the multiplexer , data are read from the memory at the clock frequency F1 which is higher than in the input clock frequency F0 .
+As described previously  , snmp performs the exchange and setting up of information for objects managed on the agent side using five basic PDUs .
+As devices for high - power amplifiers  , traveling wave tubes ( TWT ) , klystrons ( KLY ) and field effect transistors ( FET ) are available and used according to the transmitter output and frequency band .
+As discussed previously  , apd can be used for obtaining electrical signals having certain strength .
+As each node receives the busy token  , it checks the address in the signal to see if it is its own address or not .
+As emulated LAN ( ELAN ) is composed of several LECs ( LAN Emulation Client ) and a LESV ( LAN Emulation Service ) .
+As examples of mobile radio communication land mobile and train radio telephones are given .
+As exchange manufacturers have more experience and expertise on telephony - based application services  , they are generally taking lead of the computer manufacturers in the market of IN equipment , at present .
+As existing LAN  , unlike ATM , uses the non - connection protocol that the connection setup is not required before transmitting data and uses the common media , it can support or broadcast function with ease and use MAC addressing independent of the network configuration .
+As explained above about the standardization process of the synchronous transmission method  , sdh and SONET have a very close relationship .
+As explained before  , it is required to keep the C / N of the earth station above a certain level in order to maintain acceptable communications quality in the satellite communications circuit .
+As explained in Chapter 2  , the car phone radio channel suffers flutter in quality because of fading caused by the change in the location of the car and multiple wave propagation effects .
+As factors for causing delay in the ATM network  , there are cell creation delay , signal transfer delay , cell transmission delay , and the queuing delay in the node , and cell processing delay due to software operation .
+As factors for causing delay in the ATM network  , there are cell creation delay , signal transfers delay , cell transmission delay , and the querying delay in the node , and cell processing delay due to software operation .
+As far as practicable  , new services introduced into an ISDN should be arranged to be compatible with 64kbps switched digital connections .
+As far as the relationship between IN and Directory components is concerned  , a SLPI ( activated in SCF ) and a SDF are mapped onto DUA ( Directory User Agent ) and DSA ( Directory System Agent ) respectively .
+As for the 2 PSK signal the 4 PSK signal also shifts momentarily on the circumference  , if the baseband signal is not band limited .
+As for the history of radio communication  , at the beginning of this century , marconi succeeded in the radio communication across the Atlantic Ocean , kenelly and Heaviside found the fact that the ionospheric layer which can be used for reflecting material against the electromagnetic wave exits in the upper part of the atmosphere .
+As for the location point raised in ( D ) above  , the zone from which the mobile station is calling can be identified by receiving a signal burst from a mobile station at several different base stations and comparing reception levels .
+As for the method of registration into a UPTN terminal  , beside dialing the registration , it is effective to use an IC card which has recently seen a rapid application to telecommunications systems .
+As for the multiple selection  , the forward and reverse traffic channel are same each other .
+As has been described  , bisdn is capable of providing broadband services of several Mbps and frequencies used by it and usage time : distribution are wide ranged .
+As has been described  , facilities can be shared according to service requirements and therefore can be flexibly used for offering various types of existing services as well as new services .
+As has been described  , it is very important to set up communications networks economical and efficiently .
+As has been described  , synchronous multiplexing handles all the digital hierachy signals equally and set up STM - n signal .
+As has been described  , the discrimination circuits should have a uniformly equalized waveform of amplification in order to evaluate the existence of pulses using a certain threshold voltage as standard .
+As has been described  , three important functions are reshaping , retiming , and regenerating functions .
+As has been described previously  , power control increases the capacity of CDMA to almost the expected level .
+As has been discussed  , this method will be widely used in the future .
+As has been discussed in the previous section  , the common marker system is a method of controlling the entire operation of the circuit network selection connection through the utilization of the call switch .
+As has been explained  , several arrays can be activated simultaneously during a certain time slot period and therefore , the number of possible simultaneous connections is one of either m or n whichever is the smaller .
+As has been stated before  , bisdn is a concept proposed to deal with the increasing demand on broadband services .
+As have been discussed so far  , when being compared with the existing asynchronous transmission , synchronous transmission has several predominant features .
+As illustrated in Fig .2.28  , the closed connection is a service that enables the user to use the packet network as a leased network .
+As illustrated in figure  , sohs in the upper and lower part of the pointer are used for regenerator section and multiplexer section respectively .
+As illustrated in Figure 4 - 3  , cells that arrive to all the input ports are multiplexed sequentially and then , converted into the serial / parallel state before being stored on the shared memory .
+As illustrated in the flow chart of Figure 2 - 3  , we can see that the relationship of TAT = X + LCT exits between parameters respectively used at the completion instance of flow - chart execution times and accordingly , the two algorithms are mutually equivalent functionally .
+As in ( a ) and ( b ) of Fig . 1.8  , the amplitudes of waves the integral multiple of whose half - wavelength is equal to the length of the string are increased by the interference .
+As in fig . 3.12  , when the number of encoded digits per sampling is increased by one bit , S / NQ is improved by 6bB .
+As in Figure 5 - 5  , the messages SETUP , connect and CONNECT _ ACK are Q.2913 messages and for a LAN emulation service , we define and use the messages READY _ IND and READY _ QUERY .
+As in the above  , each stage is controlled somewhat differently from each other .
+As in the above  , the communications networks can be classified further according to the needs and requirement of the users .
+As in the above  , the formats of signaling units used for SS No.7 signaling differ for MSU , LSSU , and FISU .
+As in the above  , the simply designed partial common control method were widely used in the early versions of the crossbar switching system .
+As in the case of a telephone call  , the virtual call is a call that sets up a logic circuit for data communication and then , sends data through this channel only , and finally , clears the channel upon completing the communication .
+As in the case of analog transmission method where it is leveled as BG  , SG , and MG , the digital transmission method , too , is leveled from the primary multiplex level to the highest multiplex level .
+As in the case of Cotas loop  , the remodulator generates loop error signal that is proportional to two times the phase error between the received phase and VCO phase .
+As in the case of the conventional methods are expected to become more popular .
+As in the case of the general electronic calculator  , the system has only basic circuits having logic and arithmetic functions .
+As in the case of time slot conversion  , a control memory having information for activating gates on the desired time slot is required .
+As in the case of two original period m sequence  , this process creates the gold sequence of ( 2m + 1 ) .
+As indicated  , the multiplexing function involves nothing more than cyclically sampling the 16 input data streams .
+As indicated in Fig 2.16 E ( w ) is a spectrum that S1 ( w ) is shifted in parallel to the position of ( ± ) wc on the frequency axis .
+As information included in billing records  , there are service or characteristic identification , the measurement of the resources used , equipment identification , and user identification .
+As information included in billing records  , there are service or characteristics identification , the measurement of the amount of resources used , equipment identification , and user identification .
+As information society environment matures  , the necessity of broadband information communication network that can accommodate high speed , broadband and multimedia functions has increased .
+As inter - network access is frequently made  , unauthorized access and monitoring need to be carefully restricted .
+As is clear  , the each zero point of baseband frequency shifts to the carrier frequency .
+As is evident  , the three problems have also had a major impact on the development and implementation of digital radio - relay system .
+As is evident from equation ( 2.34 )  , S ( t ) can be represented by the direct current component , the fundamental wave component dependent on pulse repetitive frequency , and its nth - degree high harmonic component .
+As is evident from Fig . 3.14  , if the voltage of the modulation input pulse ( P ) is positive , diodes a and d are in the ON state , and the carrier is output via the circuit shown in Fig . 3.15 ( a ) .
+As is evident from this Figure  , the bipolar gate function has no direct current component and the energy is concentrated in the low - frequency side , so that the bipolar gate function may be more suitable for baseband transmission .
+As is the case with IN CS - 1  , these AIN Release do not address all possible IN requirements .
+As it is often necessary to bury the line distribution cable instrument metropolitan areas because of environmental conditions  , underground distribution cable plants are recently increasing .
+As IXC identification is normally realized making use of the IN architecture  , 800 Portability , independent LECs ( i . e . not BOCs ) are making use of a shared SS7 signalling network called SIGNET 7 for IXC identification as shown in Fig 3 - 5 .
+As jitter noise  , there are elements generated by the change of code pattern and other elements not dependent on the code patterns .
+As loading cable couldn't be used for digital signal transmission because of having a detects  , essential cut - off frequency and an increasing of transmission delay , incurrent it is restrict used for a local trunk line or a national line of a small size short distance .
+As long as ITU _ T Cs - 1 is connected call party handling capability ; i . e  , to manipulate communication paths by IN service logic , is not provided .
+As long as the degradations on any particular regenerated segment of a transmission link do not cause errors  , their effects are eliminated .
+As loopback applications  , there are an inter - end point loopback , the loopback between the user and network , the loopback between domains , and the loopback in a corresponding domain .
+As loopback applications  , there are an inter - end point loopback , the loopback between the user and network , the loopback between domains , and the loopback in a corresponding domain .
+As major B - ISDN maintenance and repair functions  , there are a performance monitoring , performance deterioration / fault detection , system switch over and fault detection function , performance information collection and fault localization , and recovery functions .
+As may be seen from the graph  , a large DSI gain cannot be obtained when the number of input terrestrial channels is smaller than 60 .
+As may be seen in the slide  , the detected colors have no phase distortion and cause only a little saturation distortion .
+As may easily be understood  , with such a large amount of variation , it is necessary to evaluate the variation and compensate for it with high accuracy .
+As mentioned above  , modulation is the systematic variation of carrier by the characteristics of message waveform .
+As mentioned above  , poh is classified into a high level layer POH for VC - 4 VC - 3 and lower level layer POH for VC - 11 , VC - 12 and VC - 2 .
+As mentioned before  , since the services provided by BISDN has various features , several basic technologies are required for the realization of BISDN .
+As mentioned earlier  , we will study in detail the individual subjects according to the schedule of this course .
+As mentioned previously  , it is the encrypt ability of digital voice that has attracted military interest .
+As MIBs for venders continue to expand  , it may become necessary to summarize MIBs for similar equipment .
+As millimeter frequency elements and circuits are becoming more developed  , a VDT distribution network that combines optical and wireless system is introduced .
+As much as 9B x 9 among them is the section overhead and AU pointer area and as much as 9B x 261 is the pay load envelope  , and the bit rate becomes 155.520 Mbps .
+As of February 1993  , there was one million subscriber to this service .
+As of March  , 1988 , a total of 115 countries have joined as members of the INTELSAT and a total of 784 earth stations are operating .
+As of March 1993 there were 6  , 6 million customers nationwide .
+As of November 1988  , there were over 54 million subscribers to the NMT systems .
+As one of more type of digital switching systems were successfully commercialized  , the switching system started to demand more strict requirements ; they demanded the removal of A / D – D / A overlapped part to reduce the cost of the interface between the switching systems and transmission devices and some switching systems absorbed transmission devices into them .
+As opposed to the heterodyne principle  , this is called the homodyne principle .
+As parameters for ensuring end - to - end compatibility specified in Table 2 - 3  , there are AAL types , protocol multiplexing ( Ex : LLC vs . VC ) method , AAL parameters , and the high - level protocol of AAL layer .
+As PON structure  , the 2F ( Fiber ) star type that has separated uni - directional optical fiber into the sending and receiving part , 1F WDF used to carry out the two way communication to the use of WDM element , and 1F coupler structure used to carry out the two way communication through the use of coupler .
+As PON structure  , the 2F ( Fiber ) star type that has separated uni - directional optical fiber into the sending and receiving part , 1F WDF used to carry out the two way communication to the use of WDM element , and 1F coupler structures used to carry out the two way communication through the use of couple .
+As portable phones become more widespread  , it is expected that the balance of their market will shift from business users to personal users .
+As protocol standardization around OSI is regarded as of importance in multi vendor environment of general computer network  , standardization of ATM environment is being developed for mutual compatibility throughout various fields .
+As recent response to the rapid increase in demand for digital transmission lines directly resulting from expansion of non - telephone system services  , ntt made its digital radio - relay system operation in the 4 , 5 , and 6 GHz band range available for practical use .
+As result of these development and the enhancement in technologies they promise  , radio - relay system digitalization will take rapid strides and play an important role in digital network construction .
+As seen from the figure  , the space available to NTT limits the number of its own aerial cables although 16 - meter shared - use poles have been used recently .
+As service management is outside the scope of CS - 1  , information flows only between SSF and SCF , scf and SDF , and SCF and SRF are defined .
+As show in Fig ( c )  , the star network is concentrated into one switching point .
+As show in Fig . 1.4  , when the refractive indexes of the two media are in the relationship , n1 &gt; n2 which corresponds to the case in which a light ray proceeds through the water and comes out into the air .
+As show in Figure 1.1.3  , the basic press supports the handing of an arriving call on a fixed telephone while the person to whom the call is placed is out .
+As show in figure 2.10  , if there is no line - of - sight path between the sending antenna and the receiving antenna , the transmitted ray is received by way of multiple propagation paths due to reflection , scattering and diffraction .
+As show in figure 2.11  , the average received electric field for even short - distance movement ( about 50 meters ) fluctuates quite broadly because the propagation path configuration changes as the mobile moves .
+As show in Figure 2.6  , even when the propagation distance between the sending antenna and receiving antenna is line - of - sight , in addition too the radio wave that reaches the receiving antenna directly ( Direct Ray ) .
+As show in figure 2.9  , in the two - ray interaction region , the temporary electric field changes periodically , but the mean value of the received electric field is almost same as it would be in free space .
+As show in Table 1.1.5  , an antenna radiation system has been adopted for the Tokaido and Sanyo Shinkansen Lines , while a leaky coaxial cable system is used on the Tohoku and Joetsu Shinkensen .
+As show in that figure  , the LAN is an effective network for communication at high speed over short distances .
+As show in the figure  , the composite electric field intensity of the two overlapped rays differs according to the phase difference between the two rays is 0 degree , that is , they are in phase , the electric field intensity is two time stronger .
+As shown  , DS - 1 signal is mapped into C - 11 first and then VC - 11 POH is load over that to change it into VC - 11 .
+As shown  , the process is carried out in the exact reverse order of that of the sampling process described in fig.3.10 .
+As shown  , there are two input lines and each of them is multiplexed with three channels .
+As shown by equation 4.7  , if the gain of the first stage is big enough , the noise occurring in the second and subsequent amplifiers can be ignored .
+As shown if Fig.3.33 where a signal frame having a repeat cycle of 125 Ms is illustrated .
+As shown in Equation ( 3.9 )  , and Vp are determined with a certain value and does not change any longer according to frequency .
+As shown in Fig  , the color burst consists of about 9Hz of the color sub - carrier frequency .
+As shown in Fig . 1.21  , in a bent optical fiber , the light rays whose angle of incidence exceed the critical angle are radiated outside causing some loss .
+As shown in Fig . 1.21 the former includes absorption loss due to the Rayleight scattering  , and dispersion loss arising from non - uniformity in structure .
+As shown in Fig . 1.23  , a blue sky , and the red glow in the sky at sunset are both caused by the scattering of light .
+As shown in Fig . 1.27 ( a )  , for metallic wires , two conductors to be connected need only to be in contact with each other in any way , and the way of contact is not important .
+As shown in Fig . 1.5  , optical fibers are structured in such a way that a medium ( dielectric substance ) called the core is covered with another substance called the clad whose refractive index is a little smaller than the core 's .
+As shown in Fig . 1.7  , light propagating in a uniform medium is an electromagnetic wave whose strength of electric and magnetic fields changes in the direction perpendicular to its traveling direction .
+As shown in Fig . 2.4 letting the amplitude be A and pulse width be t  , the frequency component , F ( jw ) of this pulse waveform becomes :
+As shown in Fig . 3 - 8  , a subset of INAP defined for IN CS - 1 Refinement has been adopted for usage between location registers to transfer the location and authenticating information .
+As shown in Fig . 3.7  , the transmission process , despite the existence of certain imperfections , does not alter the essential nature of the information .
+As shown in Fig 1.1  , the objective when designing a link for satellite communication is to provide a link with the required quality as cheaply as possible .
+As shown in Fig 3 - 2  , AIN 0.1 and 0.2 only address the basis call model which has roughly a third as many detection points as IN CS - 1 .
+As shown in Fig 4 - 16 depolarization interference occurs in dual - polarization communication systems .
+As shown in fig 4.12  , thermal noise is generated in the transmitter , and combines with outside noise coming into the receiving antenna and internal noise generated in the receiver antenna and feeder system .
+As shown in Fig 4.19  , when determining the unavailability time ratio , the allowable rain rate should be found from the rain characteristics for the earth station location .
+As shown in Fig 4.8 the satellite communication link is actual a set of links  , one sending radio waves from the earth station to the satellite ( up link ) and the other sending radio waves from the satellite to the earth station ( down link ) .
+As shown in Fig.1.10  , at the point of incidence on the optical fiber , there are three neighboring media different in refraction index .
+As shown in Fig.1.64  , the 2x2 switch is in the bar state when the WF - 1 is in the normal state ; it is switched to the cross state only when a fiber cable cut occurs .
+As shown in Fig.1.66  , implementing the DH ( D ) / DP architecture requires four fiber spans having four terminals at each special office : two for working and diverse protection spans to its home hub , and two for working and diverse protection spans to its foreign hub .
+As shown in Fig.2.17  , sub - reflecting mirror between main - reflecting mirror of parabola face and its focus is used as reflector of cassegrain antenna .
+As shown in Fig.2.25  , the packet of subscriber 1 can be sent to any one route among b , c , and d .
+As shown in Fig.2.26  , when an originating subscriber initiates a call , he sends a call request packet that includes the telephone number of the counter part and the number of the logic channel he will be using to the network .
+As shown in Fig10.2 the mobile telecommunications networks calls for the assurance of TM  , while PM must be assured in common with and over both of the fixed - communications network and mobile - communication network .
+As shown in figure overhead bits  , the multiplex section overhead is located on the 5th to 9th rows .
+As shown in figure overhead bits  , the SOH can be further decided into that for the regenerator section and that for the multiplex section and the OPH defined for each VC _ 3 , VC _ 21 and VC _ 11 of respective layers .
+As shown in figure  , available pointer types are AU - 4 PTR , AU - 3 PTR , TU - 3 PTR , and TU - 11 PTR , TU - 2 PTR , TU - 12 PTR and so forth .
+As shown in Figure 1 - 4 ATM cell is composed of 53 bytes .
+As shown in Figure 2 - 13  , two transmit and receive ends are located and the transmitter on the other line acts as an interference source when the line is set up .
+As shown in Figure 2 - 4  , quality degrade of correlation function incurs loss in precise time control .
+As shown in Figure 2.3 and 2.4  , the proceeding movement type mechanical switch is a switch that performs mechanical operation similar to that of the rotary switch .
+As shown in figure 2.5  , this is the same principle as when light diverges and weakens as it moves away from the light source .
+As shown in Figure 3 - 1  , the functions of TMN are made up of basic functions called a TMN function block and reference points .
+As shown in Figure 3 - 3  , sometimes base stations experiencing small traffic size that corresponds to about 30 % of normal traffic may encircle base stations having higher traffic .
+As shown in Figure 5 - 6  , the reference models of the native ATM service contains both the case in which you develop application programs utilizing the new ATM API and develop application services utilizing the existing transport API ( Socket , XTI , Winsock , NetBios , etc . ) .
+As shown in figure 6.7  , a LAN is composed of various terminals ( stations ) that originate and terminate information , controllers that manage the sending or receiving of information between terminals , transceivers that convert signal to meet the format of the transmission lines , and transmission lines that deliver the information .
+As shown in Figure 6.8  , a star type LAN has a central control unit that connects to the terminals by transmission lines in a star configuration .
+As shown in Figure 7.1  , the control of connections in a fixed network is managed as follows . ( In the following text the numbers ( 1 ) to ( 11 ) refer to the figure ) .
+As shown in Table  , optical fibers are classified in various ways , that is , by dielectric material in use , by propagation mode or by refractive - index distribution profile of the core , etc … .
+As shown in Table 1 - 5  , fixed VPI / VCI values are pre - assigned in UNI to indicate meta - signaling VC and general broadcasting signal VC .
+As shown in Table 1.1  , loss experienced by optical fiber was minimized to 0.18dB / km .
+As shown in Table 9.1  , revision / updating of these are also now in progress .
+As shown in that figure  , propagation loss is quite significant .
+As shown in that figure  , the FDDI network has a duplexed ring that provides optical transmission in opposite direction .
+As shown in the above equation  , characteristics is reduced as .
+As shown in the above illustration  , two carrier waves with the phase difference of 90 degrees are respectively phase converted and then , combined later .
+As shown in the figure  , ssf checks the service triggering condition at each DP .
+As shown in the figure Example of an Earth Station Configuration  , the high - power transmitter comprises an intermediate - frequency amplifier , a transmitting frequency converter and a high - power amplifier .
+As shown in the figure  , 63 forward channels available for use are classified further into 7 paging channels ( max . tolerable value ) and 55 traffic channels .
+As shown in the figure  , input time slots are stored onto Address 1 ~ Address X of the frame representing input flow .
+As shown in the figure  , there are two streams of development : one for fixed telephone networks and the other for mobile communication networks .
+As shown in the figure  , there is an energy difference the conduction band of AlGaAs which is doped into n - type and that of GaAs which is not doped ; the electrons in AlGaAs thus from an electron accumulation layer close to the surface of junction with the GaAs .
+As shown in the figure  , vci does not change in case of VP switching , and both of VCI and VPI change in case of VC switching .
+As shown in the point D of the Figure 3 - 12  , the interleaving algorithm follows the arrangement mode of 32 rows and 18 columns .
+As shown in the slide  , if the frequency response of the phase angle of the transmission characteristics of the FM system is linear , no distortion is produced , because each frequency compont arising from modulation reaches the output terminal with identical time delay .
+As shown in the slide  , the output S / N is proportional to the input C / N when the input C / N of the FM demodulator is large enough .
+As shown in this figure  , in case of the radio waves with frequencies of 10 GHz or more , the influence of rain becomes evident .
+As shown in this figure  , the DH ( C ) / 1 : 1 / DP architecture requires a designated special CO [ e . g . , Office C in &lt; Fig.1.67 ( a ) &gt; as a pseudo - hub from where signals are broadcast to two hubs for dual - homing protection ( for each special CO in the cluster of COs ) if the home hub fails .
+As society develops and firms grow  , the demand for various multi - media services and broad band services has increased rather drastically .
+As soon A . H . Reeves advocated the PCM ( pulse code modulation ) .
+As soon as a moving object becomes stationary  , it will quickly be reproduced with full resolution .
+As stated above  , 1 : N BSHRs are not entirely self healing , and thus , this chapter does not discuss them .
+As stated so far  , a number of bearer services are available by properly combining the attribute values of bearer services .
+As such  , functional entities are not explicitly addressed in AIN 0.1 AIN 0.2 .
+As such  , it identifies a set of basis call and connection activities in a CCF and show how these activities are joined together to process a basis call and connection .
+As such  , some mechanisms to avoid trombone connections would be needed .
+As such  , the BCSM is an explanatory tool for providing an external view of CCF activities that can be analyzed to determine the IN service logic tok be applied .
+As such  , the extent that Metrobus contributed to the SONET standardization and SONET to the standardization of synchronous digital hierarchy is very great .
+As such  , the synchronous digital hierarchy has played the essential role for the establishment of BISDN concept as well as making the advent of the new synchronous transmission method .
+As supplementary functions  , the termination , insulation , and balanced conversion functions for alternating signals are available .
+As television signals have a more than 4 MHz bandwidth  , it is necessary for an A / D converter to sample the signal at a higher rate than 10 MHz .
+As the air density changes  , the air refraction ratio also charges slightly .
+As the altitude above the ground increases  , the density of the air decreases .
+As the amount of traffic increases  , more collision occur , which increases the number of times signals are resent , thus lowering traffic efficiency .
+As the basis of standardization from this viewpoint  , the IN conceptual model ( INCM ) was defined .
+As the congestion control cannot be applied to the real time CBR or real time VBR service  , you must guarantee the service quality according to the preventing congestion control , while as the ABR service guarantees only the minimum cell transmission rate and uses the bandwidth dynamically to the maximum cell transmission rate depending on the state of the link , you must prevent the lost cell efficiently via the transmission rate control byk .
+As the degree of diffraction is in inverse proportion to wave length  , the higher frequency used is , the weaker ground wave is in propagation of low frequency .
+As the delay introduced by speech codes becomes larger  , the echo is detected on the mobile station side and speech quality is degraded .
+As the demand for telephones increased  , cable gradually took the place of open wire , because open wire could not accommodate many circuits .
+As the distance between sending station and receiving station go far away  , the communication by direct wave became impossible because of the curved surface of the earth as shown in ( Fig.2.1 ) , but the propagation of radio wave down toward the earth surface is possible on account of being of surface wave and sky wave by diffraction phenomenon .
+As the examples of synchronous multiplexing  , given in figure is the multiplexing process on the paths of DS - 1 / C - 11 / VC - 11 / TU - 2TUG - 3 / VC - 4 / TU - 4 / AUG / STM - n indicated by thick lines .
+As the external interfaces of following the standard INAP  , the SCP is connected to three different types of exchanges the standard INAP , the SCP is connected to them via the conversion function to absorb the differences .
+As the figure shows  , the mobile station generally has either the status of standby or call .
+As the final process of PCM generation  , baseband signal can be modulated to RF carrier for transmission , ASK , FSK , PSK , which are digital modulation type , can be used .
+As the first requirement in the timing relationship  , it is necessary to adjust the clocks used in the digital exchange in relation to each other .
+As the former  , there are the number of CRD errors generated the number of frame errors , and the number of LOSs or LCDs generated whereas invalid VPI / VCI cells correspond to the later .
+As the frequency increases  , the available frequency bandwidth can be widened .
+As the frequency increases as in microwave  , the usable frequency bandwidth can be widened .
+As the main purposed of the LAN emulation is to connect ATM network via the existing LAN protocols such as APPN  , Netbios , IPX , and AppleTalk without correcting existing high - level layer protocol , it is defined that the ATM network also provides the service primitive provided by the existing LAN MAC device driver interface ( NDIS , ODI , DLPI , ect . ) in the LAN emulation service .
+As the medium for address allocation  , a simple encoding system rather than a special spread spectrum system is used .
+As the method of carrying out encoding or decoding  , linear coding , non - linear coding , and estimated coding can be selected according to the types of information sources .
+As the mobile station moves from the zone I to the zone II shown in figure 8.13  , the receiving level at the MBS in zone I decrease .
+As the mobile unit does not set up the system time like the base station  , it can not perform the coherent detection for the reverse channel signal received .
+As the noise power evaluated at the receiver input is kTB  , every effort is made to keep the system noise of N low by using a low sidelobe antenna and low noise amplifier .
+As the number of digital system increases  , instantaneous interruption of lines due to fading is being closed up as a serious problem , which was not a problem in analog system .
+As the number of nodes in the ring increase to eight or more  , the 1 : 1 / DP network becomes less - attractive than the ring .
+As the number of nodes increases  , the waiting time gets longer .
+As the number of phase increases  , the number of codes that can be transmitted increases , and a large quantity of information can be transmitted .
+As the number of subscribers in an area increases it becomes necessary for one location registration area to have multiple D - AMS .
+As the phase of each path is determined through the pilot modulation before combining  , this combination is carried out in aligning .
+As the prediction error signal distribution in combinational difference coding has a clear deviation  , it possible to shorten the average code word length and reduce the number of quantizing levels by using variable length coding and non - linear quantizing . Channel error protection .
+As the quantity of data increases  , the bandwidth needs to be increased .
+As the radio wave frequency increases  , the radio wave is attenuated by rain .
+As the radio wave propagates in the air and space in radio communication  , it is affected by the air or ionosphere .
+As the related intermediate signal unit is different  , sdh and SONET are different in the multiplexing structure .
+As the requirements of ATM switching system  , cell processing should be completed within 1 msec per node and in the case of CBR traffic , 10 - 9 per node and in the case of VBR traffic , the cell loss rate of about 10 - 7 should be assured per node .
+As the result  , american proposal changed to 149 Mbps of 13B structure based on STS signal at the conference in Hamburg in July of that year , and CEPT proposed 155 Mbps signal of 9B against this .
+As the result of intensive research and development activities carried out during the 1970s  , multi - mode optical communication technology are now being utilized widely through the world .
+As the size of block  , the both end points can select one among 128 , 256 , 512 , and 1024 .
+As the standard design frequency synthesizer is used for this conversion  , the receiver can be aligned to any frequency in the frequency band used for the cellular phone .
+As the third step  , OS , upon receiving the failure state notices information that NEs fail to perform the network functions properly , carries out the diagnostics procedure such as continuity inspection or loopback function in order to check whether reported problems actually exist .
+As the third step  , OS , upon receiving the failure state notices informing that NEs fail to perform the network functions properly , carries out the diagnostics procedure such as continuity inspection or loopback function in order to check whether reported problems actually exist .
+As the underground cable is usually buried more than one meter under the ground  , it is stable against natural and artificial disturbance .
+As the wave over the water surface is formed by high and low water levels  , the electromagnetic wave is formed by high and low electric or magnetic fields , and propagated at the speed of light as shown in fig 2.2 .
+As there are many uncertain aspects converting service building blocks as shown above  , it would be wise that each network operator has enough capability to design and implement new building locks by themselves .
+As these types of overhead messages  , there are system parameter messages , access parameter messages , adjacent office list messages , and CDMA channel list messages .
+As this time  , the most important parameters are the time of base station 's pilot PN sequence related to system time and data rate of paging channel .
+As very service attribute has attribute values  , every connection type has attribute value .
+As was show in Figure 2.6  , the path length for the reflected ray is longer than that of the direct ray .
+As we have learned  , the total link noise consists of up - link thermal noise , intermodulation noise in the satellite transponder , down - link thermal noise and the interference noise within the system .
+As we have seen  , a geostationary satellite can also be called an earth synchronized satellite , because it rotates around the earth in the same period as the period of the rotation of the earth on its axis , so that it looks as if it were at a fixed point when viewed from the earth .
+As we have seen  , communications using a geostationary satellite have a number of advantages greatly different from communications using a submarine cable system which are basically communications between two points .
+As we have seen  , satellite communications have developed and spread rapidly for various reason .
+As we have seen so far  , communications satellites are launched to be put in the geostationary satellite arbit located at an altitude of about 36 , 000km above the equator .
+As we have studied  , satellite communications , whether international or domestic , are capable of easily interconnecting desired points within sight of the satellite by using communication circuits .
+As with IN CS - 1  , a call model is used in AIN .
+As you see from this  , S / N can be improved by increasing the r . ms . test tone deviation fr .
+As you see in the figure DRn - 5 through DBn  , dr and DB are arranged sequentially .
+ASN.1 is also used coding rule for conversion of transfer syntax .
+ASN.1 is also used to express the PDUs  , and the transfer syntax for deliver of management information is the ASN.1 in addition , the presentation layer consists of a simple subset of the ASN.1 abstract syntax processes .
+Associated with this change will be an increase in the expectations of their speech quality  , so that portable phones will have to provide speech quality a least as good as that of fixed telephones .
+Association control service element ( ACSE ) : on establishment of application association  , the Application layer designates the application service element required for communication .
+Assume that digital number of code word is v  , each takes one of m discrete , then about the mv different capable cord word .
+Assume that the relative cost of a 565 - Mbps terminating equipment is 1 and the cost of 2.4 - Gbps equipment is three times that cost .
+Assumed value for overall gamma approximately 1  , 2 , the gamma of the picture tube is defined as the slope of the curve giving the logarithm of the luminance reproduced as function of the logarithm of the video signal voltage when the brightness control of the receiver is set so as to make this curve as straight as possible in a luminance range corresponding to a contrast of at least 1 / 40 .
+Assuming an ordinary value of η = 0  , 6 and using the commonly used decibel unit ( dB ) , we obtain .
+Assuming N black and white vertical bars are uniformly placed in the picture  , the signal contains at least ( 1 / 53.45 sec ) .
+Assuming that a pulse of zero - width ideal waveform ( call an impulse ) is injected into an optical fiber  , the pulse , after propagating over a certain distance , is observed as a pulse with a certain pulse - width due to the dispersion of light .
+Asynchronous signal with the same band as that of local reference signal becomes twice of the reference bandwidth at middle frequency .
+Asynchronous terminals such as PCs which are accessible to KDD system public switched packet network ( VENUS - P ) through asynchronous - PAD based on recommendation x.28 and x.29 .
+AT &amp; T SCPs and SNs are utilized but much software developed by BellSouth itself .
+At 4800bps  , the transmission sequence follows the sequence described below based on which the rows are transmitted .
+At 9600 bps  , the transmission sequence follows the ascending powers by row up to 32 rows .
+At 9600bps  , the transmission sequence follows the ascending powers by row up to 92 rows .
+At a collection point  , which connects a transfer line and distribution line , multiple access equipment , remote switching unit or line concentrator is likely be installed .
+At a result  , in November , 1998 , STM - 1 and STM - 4 ( 622.080Mbps ) with a basic speed of 155.520Mbps have been recommended .
+At any rate  , services requiring Internetwork arrangement seam to increase in number to respond to the customers 'request on seamless services .
+At each portion  , the circuit quality is degraded by some degree due to the noise generated therein .
+At first  , if 1st modulated voice data ( 9.6kbps ) in transmitting side is a ( t ) , pn system is c ( t ) , transmitted wave is y ( t ) , and when we can obtain the following relation formula .
+At first  , technical committee started with 8 technical sub - working groups of physical layer group , network management group , private network - node interface group , traffic management group , signaling group , lan emulation group , B - ICI ( Broadband Intercarrier Interface ) and testing group .
+At first  , the traffic station attempting initial acquisition receives reference bursts and establishes receive synchronization .
+At first it examined the bit rate of 30 ~ 40  , 60 ~ 70 Mbps for the standard target , but later was given the proposal of 149 Mbps based on SONET standard by T1 committee .
+At first sight  , the method ( 1 ) seems to be better since it requires less computation , but it also results in a large amount of quantization noise ( discrepancies between the input speech and the decoded speech ) .
+At higher frequencies  , it is also easier to develop highly directional antennas for propagation of radio waves in only one specific direction , which allows repeated use of radio waves just by changing the location or direction of such antennas .
+At initial acquisition  , the reference station cannot measure the actual position of a burst in the TDMA frame because no burst has been transmitted by the traffic station before that instant .
+At initial standardization of ITU - T  , aal types were called AAL - 1 - 4 corresponding to the 4 types .
+At least one element would be a tracking element capable of scanning the signal strength to each pilot sequence offset and of performing pre - estimation .
+At most 16 overload satellite channels can be formed .
+At most 16 overload satellite channels can be generated per sub - burst .
+At nodes  , the amplitude of vibration is always zero , and nodes will not move as time passes .
+At present  , ITU – T Recommendation I.430 is set out for the layer 1 specification for basic access , and Recommendation I.431 is set our for the layer 2 specification for primary group access .
+At present  , as an ultra great capacity method has been developed the FT - 1.7G , F - 1.6G and so forth .
+At present  , atmf is a company union which establishes appropriate specification and determines equipment standard in a short time to implement system promptly for the purpose of early development of ATM system and service .
+At present  , high - capacity submarine cable system using fiber optic cables are being introduced as cable communications which handle international communications .
+At present  , MA &amp; E consists of End User Focus Group , Education Group and Market Communication &amp; Public Release Group as shown in Figure 1 - 1 .
+At present  , NTT 's standards specify the installation of up to three cables for designing aerial subscriber lines .
+At present  , the international Telegraph and Telephone Consultative Commute ( ITU - T ) is proceeding with the standardization of Universal Personal Telecommunication ( UPT ) .
+At present  , the parametric amplifier or the conventional amplifier with a low - noise device such as a gallium arsenide field effect transistor is often used at earth stations .
+At present  , there are star , bus and ring topology .
+At present earth stations with of sizes  , configurations and objectives are used .
+At that time  , atdm is a statistic multiplexing method which performs the time division multiplexing for ATM cells of several channels entered asynchronously .
+At that time  , it was already a multivendor network , and the TCP / IP protocal was installed sometime during the early and middle 1980s .
+At that time  , ITU - T recommended the G.733 as a North America method ( NAS Method ) and the G.732 as an European method respectively .
+At that time  , mts must accommodate the max , absolute jitter and wander in the STM - n signal .
+At that time  , the internal configuration of POH is as ( b ) in figure .
+At that time  , the system operated with 50 kHz channel separation , but that was improved to 24 kHz separation in 1996 .
+At that time  , the virtual path means the bundle of virtual channel which share certain paths and cell header classifies else payload type ( PT ) and indicates cell loss priority and provides header error control .
+At the abstract level  , gdmi generically defines events , attribute information and actions as properties and repeats them as managed object .
+At the alarm occurrence  , the reporting function is necessary so that it will not be late .
+At the boundaries between air and the core  , and the core and the clad , Snell 's law gives the following two equation .
+At the earth station  , the transmitter and receiver are placed as close to the antenna as possible to minimize wave guide losses .
+At the earth stations  , equalizers are provided to compensate for the group delay distortion .
+At the first step of synchronous multiplexing process  , the signals of each hierarchy are mapped into corresponding container .
+At the foreign hub  , one protection OLTM is required for each dual office in the considered cluster .
+At the head of a burst signal in the TDMA system  , there is a portion called a preamble which contains a carrier recovery code and clock recovery code .
+At the intermediate points other than reduction and branch points  , all 10 - pair units , though free , must be spliced .
+At the ITU conference of 1979  , the range of radio frequency distributed was expanded to 9KHz - 400GHz and RR was generally reviewed and amended .
+At the junction of jointed optical fibers  , coatings are completely removed , and it reduces mechanical strength which required reinforcement of some form .
+At the MBS and MCU  , the location registration signal is examined for errors .
+At the mobile unit the decoder must process the received vocoder frame four times .
+AT the output of demodulator of the earth station  , the total noise power is evaluated .
+At the output point  , the reflected signal appears with a time delay that is caused by the round trip of the reflected signal over the transmission line .
+At the point F in Figure 3 - 12  , the data burst randomizer generates the mask patterns of 0 and 1 which perform the random mask of the overlapped data caused by the code repetition .
+At the point G in Figure 3 - 12  , the reverse traffic channel and the access channel are spreaded directly by the long code prior to transmission .
+At the present  , ccitt recommends the digital hierarchies from the primary group to the third - order group used in Japan and those from the primary group to the fourth - order group used in Japan and those from the primary group to the fourth – order group used in European countries .
+At the receive end the modulated wave is down - converted to an IF frequency and in most systems is coherently demodulated .
+At the receive side  , f alpha + beta is detected by the U and V axes .
+At the receive side  , the connections between satellite channels and output terrestrial channels are changed according to assignment messages received from the transmit side .
+At the receive side  , the output terrestrial channel corresponding to international channel # 1 is found and connected to satellite channel # j .
+At the receive side  , the output terrestrial channel corresponding to the international channel # I is disconnected from the overload satellite channel # k and connected to the normal satellite channel # j .
+At the receive side  , there exists no output terrestrial channel corresponding to international channel # 0 .
+At the receiving end  , the two multiplexed signals on the input port are demu ' tiplexed to two separate output fibers that can be separately by one optical receivers .
+At the receiving side  , as shown in the figure 5.6 , the radio frequency carrier received by the antenna is frequency - converted in the IF bandwidth and demodulated by the demodulator for video signals .
+At the receiving side  , the digital code is translated into a PAM signal the original picture is obtained through the reverse procedure of the transmission feedback .
+At the receiving side  , pulses corresponding to each channel are selected from multiplexed pulse rows to generate PAM signals .
+At the receiving side  , received signals are de - multiplexed and then , separated to remove stuffing pulses , and finally original signals are reproduced after the time of pulse series are stabilized .
+At the receiving side  , the first half portion of the demodulation unique word is compared with the predetermined pattern and phase ambiguity is resolved so that the signal can be properly received .
+At the regenerator output  , the signal which has been impaired by band limitations and channel noise is reconstructed to it original digital format .
+At the same time  , attenuation of the black - and - white luminance signal can be minimized .
+At the same time  , cross talk noise , heat noise , sampling distortion , sampling pulse loss , compression distortion , coding noise , and smooth noise are generated while carrying out the sampling and coding .
+At the same time  , it is also required to use a large aperture antenna at the earth station to receive the weak signals arriving from the satellite .
+At the same time  , ITU - T , atmf and IETF cooperate with each so as not to overlap , the direction of technical standardization .
+At the same time  , on _ line processing systems that enabled many users to utilize the computer from terminals in remote locations via communication circuits appeared .
+At the same time  , signal B 'stored at address # 2 is read out .
+At the same time  , special bits called stuffing bits and stuffing control bits are combined with the data read from the memory to keep the bit rate of the output data constant .
+At the same time  , the framed cycles of 125us multiples were set up and utilized as one super frame in order to recognize the signals on the multi - levels .
+At the same time interval  , signal A stored at address # 1 is read out .
+At the same time interval  , signal N 'stored at address # in the preceding frame is read out .
+At the same time the message appears on the display .
+At the satellite  , the reference burst and traffic bursts are allocated in a proper order without overlapping in each TDMA frame .
+At the satellite it is in compact form  , so feeder loss is small .
+At the terminating user ( called party ) side message type ALERT which indicates that the terminating user ( called party ) is being called is issued .
+At the time  , foh is merely used as an overhead filled in order to adjust the size .
+At the time  , however , i bits are reversed and invalid data are load onto the next byte of H3 or V3 and the address is increased by 1 .
+At the time  , positive / zero / negative justification or positive justification in bit unit is used for synchronization .
+At the time  , the payload area of each TU allocates addresses onto the byte immediately after V2 and then , in the order of 0 , 1 , 2 … .
+At the time  , wait until the amount of data accumulated due to frequency difference becomes 1 byte ( in the case of VC - 4 , 3 byte ) and then , load them onto a H3 or V3 byte ( in the case of VC - 4 , 3 byte ) while reversing D bits .
+At the time  , zovalue becomes the characteristic impedance value designated by the cable manufacturer .
+At the time of a fault  , the service is restored in reduced time by switching traffic between these joints .
+At the time when the synchronous digital hierarchy standard was first settled  , the synchronous multiplexing system had a perfect structure as figure .
+At the transmitting end  , a pair of pulse trains modulates the microwave carrier after code conversion in the logic circuit for the differential phase modulation .
+At these times relatively mow - level crosstalk may be noticeable .
+At this moment  , AIN Release 1 is considered to be the target AIN architecture .
+At this moment the intermediate variable of coding signal depends on the number of quantizing level Q .
+At this moment the voice data of other channel  , such as noise and interference , and the original voice data can be divided and obtained like Fig.2.40 .
+At this PIC  , an indication is sent to the originating BCSM that the terminating party is being alerted and call setup ( e . g . ringing , audible ring indication ) processing continues while supervising the call to be answered by the terminating party .
+At this PIC  , routing address and call type ( e . g . local , transit call , international call ) is determined by analysis and / or translation of the information according to dialing plan .
+At this point part or all of the data information can be dropped and new data inserted  , or the complete multiplexed data stream might be cross - connected to the next modulator in the chain .
+At this terminal  , file transfer , text transfer , etc .. , are achievable for digital data while using the telephone service .
+At this time  , data on each frame are replaced by new one time .
+At this time  , DS - 1C or DS - 5E signals are not used .
+At this time  , if the result does not exceed the equivalent bandwidth reserved by the network , the call is admitted .
+At this time  , if the switching circuit processes M subscriber as the single time slot switching end , the memory made up of M number of words used at proper speed is required .
+At this time  , management object such as threshold values , monitoring schedules , and service quality , used as monitoring criteria during the performance monitoring stage should be controlled appropriated in order to carry out the performance monitoring function on general or specified management objects .
+At this time  , management objects such as threshold values , monitoring schedules , and service quality , used as monitoring criteria during the performance monitoring stage should be controlled appropriately in order to carry out the performance monitoring function on general or specified management objects .
+At this time  , n is a integer and 1 , 4 and 16 are the major interests , the bit rates corresponding to these numbers are 155 Mbps , 622 Mbps , and 2488 Mbps respectively .
+At this time  , noise that is generated only in APD , called shooting noise is amplified at the same time as well .
+At this time  , noises and waveform distortions interfere with discrimination .
+At this time  , padding bit is inserted from the end of the message to the end of the frame .
+At this time  , the address of the secondary time switch is equal to the No . of the time slot .
+At this time  , the both base stations receive a power control command .
+At this time  , the end point sends the VP - RDI ( VC - RDI ) OAM cell to the backward direction thus enabling the end points located at the upstream can know the status of faults received .
+At this time  , the glass of the optical fiber is suddenly cooled from the high temperature down to the room of about 20 ° C .
+At this time  , the initialization value of CSLB algorithm is assumed to be X - &gt; 0 and LCT can be calculated based on the arriving time of the first cell created by the individual ATM connection ( Ta ( 1 ) ) .
+At this time  , the mobile unit is reidentified and shared secret messages are upgraded newly .
+At this time  , the multiplexed cell needs not to be continuous flow necessarily .
+At this time  , the penetration angle is called critical angle f1 .
+At this time  , the research using the space wave and optical bin guide as a transmission using the optical fiber as a transmission media is advocated in 1966 , the main part of the optical communication research was concentrated with the optical fiber cable transmission using the optical fiber as a transmission media through completing the optical fiber of transmission loss 20dB / km in 1970 .
+At this time  , transmission capacity is assigned on call set - up by the user 's request , and flexible transmission capacity can be assigned for all services including non - connected type service .
+At this time  , two codes are generated and each of generated ones is used as the carrier wave of QPSK and then result in quadriphase PN modulated .
+At this time  , VPI / VCI values are converted into new values for the next switching process .
+ATDM ( Asynchronous Time Division Multiplexing ) stores low speed service signals input in each buffer first and reads out the signals one by one according to priority rules of the multiplexing system for the insertion into multiplexing slot .
+ATM  , a connection type system , sets up virtual channels for transferring service information .
+ATM Adaptation Layer ( AAL )  , atm layer and physical layer , and each layer function is described in Table 1 - 4 .
+ATM Adaptation Layer is classified into CS ( Convergence Sublayer ) and SAR ( Segmentation And Reassembly ) sublayer .
+ATM adaptation layer requests ATM layer to send ATM SDU  , and then ATM layer indicates that ATM SDU sent from the ATM adaptation layer is ready .
+ATM adopts connected type that establishes virtual channel to transfer service information .
+ATM cell can be classified according to the creation layer and function as shown in Table 1 - 3 .
+ATM cell is a basic information transfer unit in ATM communication method .
+ATM cells were used to standardize the external forms of service signals and asynchronous time division multiplexing system ( ATDM ) was used to multiplex a group of ATM cells ; a communication system based on ATM cells and ATDM is called a ATM communication system .
+ATM communication method can be regarded as an integration of digital communication system of the existing line mode and packet mode communication system .
+ATM connection for the corresponding VP and VC is shown in Figure 1 - 6 ( b ) .
+ATM connection includes two types of connection  , VC ( Virtual Channel ) and VP ( Virtual Path ) .
+ATM is a communication system that divides various types of services evenly and then  , maps them onto same - sized ATM cells and finally , transfers them via ATMD .
+ATM is a compound of transmission and switching technologies through standardized communication network based on ATM technology that divides and multiplexes voice  , data , image , etc . into the blocks of fixed length called cell .
+ATM is a packet type transferring system having a special form  , using ATDM .
+ATM is a special type of packet transmission system employing asynchronous time division multiplexing .
+ATM is the communication system for implementing BISDN .
+ATM layer cell is created in ATM layer and physical layer cell is created in physical layer .
+ATM layer cells are classified into assigned cells and unassigned cells  , and physical layer cells are classified into idle cells and physical layer OAM cells .
+ATM layer controls the connection and information flow in UNI by utilizing GFC section .
+ATM layer executes ATM cell header relevant function to transfer payload space transparently and physical layer transfers ATM cells converted into transmission bit stream .
+ATM layer is independent from the physical layer and provides functions as shown in Table 1 - 4 .
+ATM layer network is subdivided into the virtual channel sublayer and virtual path sublayer .
+ATM layer requests physical layer to send SDU ( Service Data Unit )  , and then the physical layer indicates that SDU sent from the physical layer is ready .
+ATM layer transfers data without SAR protocol overhead by providing a function to indicate end point of SAR - SDU .
+ATM layer uses GFC section to control interface and information flow in UNI .
+ATM network includes usually only VCs with the same service characteristics in a VP to ensure the service of VP unit .
+ATM standardization in public network led by government and communication carriers was initiated by former CCITT in 1987 and recommendations of specifications have been established by current ITU - T .

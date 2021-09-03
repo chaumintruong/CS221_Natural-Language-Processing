@@ -1,0 +1,1534 @@
+Because of the way the OS isolates programs from one another , it is much less likely for one program to affect another adversely .
+Because of the way the Pentium and its spin - offs process instructions , they are called RISC - like , but their architecture is still based on complex instruction set computing .
+Because of their expense , workstations typically are reserved for the most demanding graphics projects , such as complicated animation , high - resolution mapping , technical drafting , and cinematic special effects .
+Because of their hard plastic shell and the sliding metal shutter , the 3.5 - inch diskettes are also more durable .
+Because of their high capacity and the fact that one CD is much cheaper to produce than a set of diskettes , many software publishers regard CDs as the distribution medium of choice .
+Because of their large storage capacities , low cost , and ease of use , compact disks were the obvious early choice of multimedia developers who needed a way to put their products in the hands of consumers .
+Because of their power and expense , workstations are reserved for the most demanding graphics applications .
+Because of their size , notebook computers often feature a smaller display , less memory , and less storage space than a full - size PC .
+Because of their size and cost , supercomputers are relatively rare , used only by large corporations , universities , and government agencies that can afford them .
+Because of their size and expense , supercomputers are relatively rare .
+Because of these sophisticated output technologies , computers are easier to use , data is easier to manage , and information is easier to access .
+Because paint programs keep track of each and every pixel placed on a screen , they can also perform tasks that are impossible with traditional artists ' tools - for example , erasing a single pixel or creating instant copies of an image .
+Because PCs offer higher graphics resolution than standard televisions , many gamers believe a well equipped PC provides a better game playing experience .
+Because PCs provide an ever increasing variety of multimedia options , people are spending more and more time at their computers .
+Because photo - manipulation programs ( like paint programs ) edit images at the pixel level , they can control precisely how a picture will look .
+Because presentation programs are like a combination of a word processor , spreadsheet , and paint program , you can easily format slides in many ways , including .
+Because resources are so limited for the small - business owner , application suites and a new breed of financial software are making it easy to run a small office ( or home office ) ( SOHO ) .
+Because Shockwave supports user interaction , it can be used to develop online games , puzzles , and other types of fun interactive content .
+Because spacing is often a concern in page layout , dtp software enables the user to control kerning ( the spacing between individual letters , as shown in Figure 1.19 ) and tracking ( a general setting for character spacing for entire blocks of text ) .
+Because SQL is such a powerful tool , some PC - based database management systems now enable users to perform SQL queries .
+Because such files must be expanded manually , a lot of effort would be required to compress a disk 's contents , select and expand files when you want to use them , and then recompress them .
+Because text is made of vectors , edges are clean when viewed on the screen and in print .
+Because the command set in UNIX is called a shell , this kind of Internet access is known as a shell account .
+Because the computer 's USB port is already built in , you do not need to add a new port to the computer by installing an expansion card .
+Because the computer can accept input from the user , it can host interactive multimedia events , involving the user unlike any book , movie , or television program .
+Because the Internet creates a potential connection between any two computers , however , the data may be forced to take a long , circuitous route to reach its destinations .
+Because the iPic is so small and cheap , it is easy to imagine a house filled with networked appliances that are remotely controlled via a handheld device , such as a PDA with an Internet connection .
+Because the operating system is necessary for controlling the computer 's most basic functions , it continues to run until the computer is turned off .
+Because the original concept of SCSI was to provide peripherals ( not just hard disk drives ) access to the computer system 's bus , one way to think of SCSI is as an extension of the computer 's bus .
+Because the storage medium has a magnetic field but the head does not , the storage medium charges the magnet in the head , which causes a small current to flow through the head in one direction or the other depending on the polarity of the field .
+Because the USB port is already built into newer systems , you may never need to remove the system 's cover again .
+Because the USB standard allows 127 devices to be connected to the bus via a single port , many experts believe that USB will emerge as the single bus standard of the future .
+Because the user does not have to learn separate commands and addresses to jump to a new location , the World Wide Web organizes widely scattered resources into a seamless whole .
+Because the volume of cells being transmitted can vary with the bandwidth of the incoming signal , atm is considered an ideal way to combine voice , data , and video transmission on the same high - bandwidth network .
+Because their relationships are fixed , hierarchical databases require little duplicated data and may locate data quickly .
+Because there are only two values , computers are said to function in base 2 , which is also known as the binary number system ( bi means 2 in Latin ) .
+Because these applications help the browser by being plugged in at the right moment , they are called helper applications or plug - in applications .
+Because these chips were no longer separate , they no longer had to communicate through the bus .
+Because these computers fell into two primary categories , microsoft separated Windows NT into two products : Windows NT Workstation and Windows NT Server .
+Because these public archives usually require visitors to use the word anonymous as an account name , they are known as anonymous FTP archives .
+Because these servers use the network news transfer protocol , they are sometimes called NNTP servers .
+Because these systems are network - enabled , they provide data access to users in wide - ranging locations .
+Because these users can save changes to the shared files , they have read access .
+Because they aid the inner workings of the computer system , utilities are grouped with the operating system under the category of system software .
+Because they all use the same medium ( the material on which the data is stored ) , diskette drives , hard disk drives , and tape drives use similar techniques for writing and reading data .
+Because they are big , they take up desktop space and can be difficult to move .
+Because they enable users to work in standard ( and usually free ) Web browsers , they provide a consistent , friendly interface .
+Because they function readily with firewalls and other standard Internet security technologies , they provide excellent security against infiltration , viruses , theft , and other problems .
+Because they lead to specific documents on a server 's disk , urls can be extremely long .
+Because they provide functions - such as drag - and - drop , cut , copy , and paste , and formatting tools - found in most desktop applications , presentation programs are as familiar and comfortable to use as your favorite word processor .
+Because they provide the user with different types of content and options for navigating and displaying that content , computer - based games and reference banks are highly interactive .
+Because they use standard TCP / IP protocols rather than the proprietary protocols used by network operating systems , they are simpler and less expensive to install and configure .
+Because this circle was created with a draw program , it can be filled with a color ( green , in this case ) , moved , and copied .
+Because USB devices all adhere to the same standards , you plug the new device into the USB port , turn it on ( an optional step for some devices ) , and start using it .
+Because users do not have to take their hands off the keyboard to use this device , it can save a great deal of time and effort .
+Because you can remove diskettes from a computer , they are encased in a plastic or vinyl cover to protect them from fingerprints and dust .
+Because you cannot remove the disk from its drive ( unless it is a removable or external hard disk ) , the terms hard disk and hard drive are used interchangeably .
+Because you do not move the whole device , a trackball requires less space than a mouse .
+Because you do not want to lose the pictures you have taken , the memory must store the pictures until you can transfer them to your PC , even when the camera is turned off .
+Before a command can be executed , the control unit must break down ( or decode ) the command into instructions that correspond to those in the CPU 's instruction .
+Before a computer can compute , it needs some base of information - a database .
+Before a magnetic disk can be used , it must be formatted - a process that maps the disk 's surface and creates tracks and sectors where data can be stored .
+Before a program is ready for release , it may need to go through several testing - and - revision cycles so that everyone is comfortable with the finished product .
+Before being transferred to film , these virtual landscapes and characters are created on workstations and personal computers in a wide variety of commercial and proprietary software .
+Before deciding which computer is best for you , identify the type of work for which you want to use the computer .
+Before DTP software , producing publications of any kind was a complex process involving multiple people with different skills .
+Before enrolling in any certification program , be sure to check its prerequisites .
+Before installing an OS , make sure that your hardware is completely compatible with it .
+Before it can be viewed in a Web browser , a document must be formatted with special tags called Hypertext Markup Language ( HTML ) tags .
+Before learning more about the powers of electronic databases , you need to learn about how data is organized within a database and some of the more common terms .
+Before the advent of the World Wide Web , most corporate networks were bland environments that basically supported file sharing and e - mail .
+Before the advent of Windows , the Mac OS enabled users to run multiple applications in a graphical user interface .
+Before the computer can use a diskette to store data , the disk 's surface must be magnetically mapped so that the computer can go directly to a specific point on it without searching through data .
+Before the CPU can execute an instruction , the control unit must retrieve ( or fetch ) a command or data from the computer 's memory .
+Before the first PC - based presentation programs were developed , creating a presentation could be a tedious and time - consuming ordeal .
+Before you back up , test the disk for errors ( by using ScanDisk or a similar utility ) , defragment the drive , and run a full virus scan .
+Before you install anything , take these precautions .
+Before you take the following steps , close any running programs and make sure there is no disk in your system 's floppy disk drive .
+Before you use any remote online help resource , read all the information the company provides about it .
+Behave As Though You Are Communicating in Person .
+Behind their interfaces , however , these PC programs have the heart of a database management system .
+Being a student once meant owning a shelf filled with reference books .
+Believe it or not , some people play games for a living .
+Below the title bar , most programs contain a menu bar and toolbars that give you quick access to options and commands .
+Besides providing interrupt requests and drivers for working with individual devices , the operating system can also allow you to work with multiple computers on a network .
+Besides the monitor , the other important output device is the printer .
+Besides the one - to - one messages that are popular on both the Internet and LAN e - mail systems , internet e - mail is also used for one - to - many messages , in which the same set of messages goes to a list of many names .
+Between the destination server and your PC , the request and data may travel through several different servers , each helping to forward the packets to their final destination .
+Between the release of Windows 95 and Windows 98 , the computer world 's attention focused on another new operating system , called Linux .
+Beyond that , you can do a series of partial backups - either incremental ( files that have changed since the last partial backup ) or differential ( files that have changed since the last full backup ) .
+Beyond the operating system included with the computers , there are generally no other applications required to enable or configure networking in a home network .
+Binary fields allow graphic images and other nontext items to be stored in a database .
+Binary fields store binary objects , or BLOBs .
+Bitmap graphics define images as a grid of cells , with each cell filled with a color .
+Bitmap images may also be referred to as bitmapped images .
+Borders and backgrounds can make a dull presentation more appealing .
+Borders separate different elements and help hold the viewer 's attention on individual parts of the slide .
+Both are located on the computer 's motherboard , the circuit board that connects the CPU to the other hardware devices .
+Both fall into the category of magnetic storage because they record data as magnetic fields .
+Both the Motorola 680x0 and Intel 80x86 families are complex instruction set computing ( CISC ) processors .
+Both the network software and the NIC must adhere to a network protocol , discussed earlier .
+Both the sound wave and the telephone signal are analog signals ; they vary continuously with the volume and pitch of the speakers ' voices .
+Both types of diskette have evolved from lower to higher densities .
+Braille note - takers , keyboards , displays , and printers ( also called embossers ) are all available .
+BRI provides three communication channels on one line - two 64 or 56 Kbps data channels and one 19 Kbps channel that is used to set up and control calls .
+Briefly describe what is meant by digital convergence .
+Buildup of dust and oils from the user 's fingers can affect a trackpad 's performance , making it less sensitive to the touch .
+Built - in features include a user 's guide , a dictionary , search and bookmarking tools , annotation capability , and more .
+Built - in hard disk drives cannot be moved easily from one computer to another .
+Built - in microphone and speaker , enabling the user to record speech digitally .
+Built - in paint tools also enable you to draw simple graphics and add them to your slides .
+Bus technologies such as Universal Serial Bus ( USB ) and IEEE 1394 enable the user to connect many devices through a single port .
+Businesses , government agencies , schools , and individuals create an untold number of documents for myriad purposes .
+Businesses and governments now maintain huge databases filled with information about individuals .
+Businesses can solve this problem by determining which data is used by more than one person , then storing that data on a network server ( or just server ) - a central computer that provides a storage device and other system resources that all users can share .
+Businesses now use nearly 6.5 million tons of paper every year .
+Businesses that connect their networks to the Internet can use firewalls to prevent unauthorized users from accessing proprietary information .
+But as technology develops , various distribution methods promise to become more similar so that someday , any product will look and behave the same , regardless of how it reaches the end user .
+But both the projections for the third and fourth quarters needed to refer to cell E6 , this reference was accomplished using absolute cell references .
+But every single document on the World Wide Web has its own unique URL .
+But for now and the foreseeable future , keyboarding remains the most common way to enter text and other data into a computer .
+But if the text is a scene from Hamlet and the video displays that same scene with Sir Laurence Olivier 's film portrayal , then the video enlivens the printed text .
+But if you plan a career in programming , database management , network management , or Internet hosting , you would be well advised to get a copy of Linux and start mastering it .
+But if you use e - mail regularly and want to access your mail from any browser ( without having to log on to your ISP account ) , Web - based mail is a big time - saver .
+But it cannot hurt , especially if you need to create graphics for reports , Web pages , or other projects .
+But like any powerful tool , they can be used and abused .
+But the additional cabling and equipment ( such as a hub ) may make your network easier to manage .
+But the increasing demand for multimedia has made color , graphics , animation , full motion video , and stereo sound important capabilities for nearly every new computer and many software applications .
+But there are a finite number of facts or fields about each employee .
+But what is computer literacy , and why is it so crucial ?
+But when the information is displayed in a chart , as in Figure 2.13 , you can see easily which products have performed best and which month had the best sales results .
+But you do not always start from scratch ; it is common to begin with an existing image , which you can edit or enhance using graphics software .
+But you do not even need an ISP to get a free Web page .
+But you may need to connect a special controller to your PC before playing certain games , which may require a joystick , steering wheel , or multi - function game pad .
+Buttons are areas of the screen you can click to start an action or task .
+Buying a computer is a lot like buying a car because there are so many models and options from which to choose .
+By 1994 , enough pieces had been stitched together and the first version of Linux was released to anyone who wanted to download it .
+By 1994 , when people began surfing the Internet in large numbers , its potential was only beginning to be understood .
+By 2001 , DVD - ROM drives will probably replace CD - ROM drives as the standard optical drive on desktop computers , offering capacities of at least 17 GB .
+By 2002 or 2003 , 1 TB ( that 's terabyte , or 1 trillion bytes ) hard disks will become standard equipment on desktop computers .
+By accepting input from the user , interactive media create a feedback loop , which generally works as follows .
+By accessing data on a centralized server or sharing files by electronic mail , users found they could greatly reduce their reliance on printed documents .
+By adding all sorts of images to HTML documents , web designers make their sites more attractive and appealing to visitors .
+By building a prototype in VR , a designer can work out design and construction flaws before the product leaves the drawing board .
+By choosing options continually and using the joystick to guide the action on - screen , the user can control the flow of the program 's content .
+By clicking the appropriate button , you can move forward or backward through the product 's content .
+By clicking the icon , the presenter can launch a player and play the sound file directly from the PC 's disk .
+By combining different types of media to present the message , the encyclopedia 's developer improves the chances that users will understand and remember the information .
+By connecting their networks to the Internet , companies are creating new ways to conduct business and for employees to work .
+By connecting your computer to the telephone , potentially you can send data to anyone else in the world who has a computer and telephone service , and you do not need to set up a network to do it .
+By controlling the amount of voltage applied at various points on the grid , each point acts as a pixel to display an image .
+By converting the presentation to HTML format and posting on the Internet or an intranet , you make the presentation available for those persons to view online .
+By correlation , the number of products available on CD - ROM continues to grow at a tremendous pace .
+By creating Internet - aware applications , software designers try to make the Internet as accessible and useful as your computer 's hard disk .
+By default , documents are set up with portrait orientation ( or tall orientation ) , where the document is taller than it is wide , like the pages of this textbook .
+By default , the paragraph spacing is the same as the line spacing .
+By design , a portal offers two advantages over a typical personal home page .
+By drawing from the information stored in a help desk 's database , product designers can find unpopular features in their products and fix those problems in new versions .
+By experimenting with your PC 's color settings , you can determine the settings that work best for you .
+By far , the largest application for commercial multimedia is in the entertainment field .
+By incorporating new technologies such as MPEG , Java , Shockwave , and other formats that allow tightly compressed streaming media , the performance of CD - based products continues to improve .
+By inhaling ( sipping ) and blowing ( puffing ) through a tube , the user can control different system functions .
+By interconnecting many individual networks into a massive single network ( like the Internet ) , people around the world can share information as though they were across the hall from one another .
+By leveraging such technologies , new online services will offer mass data storage services ( primary storage , not backup ) for home and small business users .
+By making these changes , consumers are opening a much larger pipeline for content to travel , making online multimedia events more accessible than ever .
+By pushing out pins in various combinations , the print head can create alphanumeric characters .
+By reading the articles in a thread , you can see the message that initiated the discussion and all the messages that have been posted in response to it .
+By some estimates , linux runs on more than 10 million computers , a number that is growing rapidly .
+By stitching together a series of images ( such as a series of photographs creating a panoramic view of an entire room or the interior of a car ) , QuickTime VR can be used to create immersive environments that look and feel a lot like artificial 3 - D environments created by expensive VR workstations .
+By surrounding the text elements with special codes - called HTML tags - the designer can cause different pieces of text to be displayed in different ways by the Web browser .
+By the early 1990s , interest in the Internet began to expand dramatically .
+By the late 1980s , ibm compatible PCs were quickly adopting the mouse as a secondary input device .
+By the thousands , people are using basic application software to create Web pages .
+By the time it started becoming a household word in the early 1990s , the Internet had existed for more than thirty years .
+By the time Motorola introduced the 68060 chip in 1993 , intel was promoting the Pentium .
+By the time small computers were being developed , the American National Standards Institute ( ANSI ) had begun to define new text code standards for computers .
+By the time you read this sentence , clock speeds exceeding 800 MHz will probably be common .
+By the time you read this sentence , the speed will undoubtedly be higher .
+By transferring their drawing and design skills to the computer , many of today 's professional graphic artists have greatly expanded their portfolios and client lists .
+By using a plug - in application to add 3 - D viewing capacities to your browser , you can visit 3 - D worlds filled with buildings , landscapes , and animated characters , and navigate them as you would a video game .
+By using a process called spooling , multiple users can send print jobs to a printer simultaneously .
+By using a search engine and specifying your topic of interest , you can find the right site or information .
+By using a technique called pipelining , many CPUs can process more than one instruction at a time .
+By using basic paint and draw software as described earlier in this book , it is easy to create or edit graphics for use on a Web page .
+By using compression utilities , you can shrink multiple files into a single archive file .
+By using forms , you can create simple , easily understood views of your data that show just one record at a time .
+By using multimedia programs and delivery mechanisms like the Internet and television , schools can support distance learning , which allows students to take classes without actually traveling to school .
+By using RealNetworks ' technologies , artists such as Jimmy Buffet , the Rolling Stones , and others provide music and videos over the Web and can broadcast live concerts online .
+By using spreadsheet functions , however , you can arrive at the answer .
+By using style sheets , large fonts , text only versions of pages , audio clips , plug - ins , and other techniques , designers are making the Web a much more user friendly environment for persons with disabilities .
+By using the computer , they produce designs and renderings that are not only highly accurate but also aesthetically pleasing .
+By using the PC to control the program , the user can make choices , move freely from one part of the content to another , and in some cases customize the content to suit a specific purpose .
+By using the program 's Save As HTML ( or save as Web page ) command , you can convert an existing document into an HTML file , ready to be posted on a Web server .
+By using Web - enabled tools to create forms that customers can use in their Web browser , Federal Express ( and many other companies ) has provided its clients with a simplified front end into its database .
+By visiting Web sites like Hotmail , Mail . com , Yahoo ! , and others , you can set up a free e - mail account .
+By working with WebTV , some networks have begun to integrate their programs with special content exclusively for WebTV users , enabling the audience to participate in the programming .
+Cable can transmit not only data but also streaming audio and video simultaneously , at a much higher speed than is possible over standard telephone lines .
+Cable modem service does not require the use of a standard modem .
+Cable modem service took some time to get off the ground because it required cable systems to set up local Internet servers ( to provide access to the Web , e - mail , and news ) and to establish connections to the Internet backbone .
+Cable modems are quickly becoming a popular high - speed connection because they use coaxial cable already installed in many homes .
+Cable modems typically support downstream ( from the Internet to your computer ) transmission speeds of 10 Mbps .
+Cable services have struggled to overcome problems with the technology , most notably a significant impact on overall performance as utilization goes up .
+Cable television systems send data to users over coaxial cable , which can transmit data as much as 100 times faster than common telephone lines and at a much greater bandwidth .
+Cables are used to link a network together in a topology , as described earlier .
+Cables from disk drives and some other internal devices may also be plugged into the bus .
+Cache ( pronounced cash ) memory is similar to RAM , except that it is extremely fast compared to normal memory and it is used in a different way .
+Cache memory is a type of high - speed memory that contains the most recent data and instructions that have been loaded by the CPU .
+CAD is used extensively in technical fields , such as architecture , and in mechanical , electrical , and industrial engineering .
+CAD programs achieve such a great degree of accuracy in three ways .
+CAD programs are math - based and take advantage of the computer 's floating - point math processor to perform calculations .
+CAD programs are so precise , in fact , that they can produce designs accurate to the micrometer - or one - millionth of a meter .
+CAD programs generally do not store objects as objects ; rather , they store the object 's attributes in a database .
+CAD programs have been created for many different computer platforms .
+CAD software allows users to design objects in three dimensions ( 3 - D ) , and can produce 3 - D wireframe and solid models .
+CAD software is also used in other design disciplines , such as textile and clothing design , product and package design , and others .
+Called fax modems , these devices can exchange faxes with any other fax modem or fax machine .
+Can cabling run through the walls or must it run through ceilings ?
+Can the user always return to a single starting point ?
+Can you envision a task where this capability would be helpful ?
+Can you find the motherboard , RAM , and processor ?
+Can you tell how much memory it has ?
+Capable of addressing 64 GB of memory , the Athlon also features 64 - bit registers .
+Caps Lock does not affect the numeric keys or the keys that produce punctuation or special characters .
+Car rental agencies ( such as Hertz , Avis , and others ) frequently provide touch screen systems at their counters so that customers can quickly access and print out driving directions .
+Careers in data services may require you to work with several different hardware platforms and operating systems .
+Careers in multimedia are as varied and as numerous as multimedia products .
+CBT courseware is provided most commonly on compact disk , which is convenient for workers in the field or remote offices .
+CBT products are popular training methods in corporations used to teach employees about products , company policies , and more .
+CCDs are commonly used on scanners and video cameras as well as digital cameras .
+CD - R drives allow you to create your own CD - ROM disks that can be read by any CD - ROM drive .
+CD - ReWritable ( CD - RW ) devices are getting cheaper and more popular .
+CD - ROM disks and Web sites are produced by the thousands each year , enabling users to view graphic adult - oriented content on their PCs .
+CD - ROM drives have the first available letter following the hard drives - often the letter D .
+CD - ROM is the most widely used vehicle for distributing multimedia programs .
+CD - ROM uses the same technology as a music CD does ; a laser reads lands and pits on the surface of the disk .
+CD - ROM uses the same technology used to produce music CDs .
+CD - ROMs and diskettes are the slowest storage devices .
+CD - ROMs range from 300 KBps for a double - speed player , to 900 KBps for a 6X drive , to even higher speeds , with the data transfer rate corresponding to the drive 's speed .
+Cells can also hold graphics , audio files , and video or animation files .
+Cells can be sent in clumps , by different routes if necessary , even out of order ( because the packet includes enough information to put the data back into the proper order ) .
+Cells contain the data in the worksheet .
+Certainly , as a tool for personal communication , research , commerce , and entertainment , the Internet is an indispensable asset you should master .
+Certainly , you can use a computer without being able to type , and many people do .
+Chalk , watercolors , and textures are a few of the effects available in sophisticated paint programs .
+Changing an existing document is called editing the document .
+Changing an image created with a paint program is like scraping tiles off the floor and replacing them with different tiles .
+Changing the speed of rotation takes time - enough to seriously impair the overall performance of the CD - ROM drive .
+Channels are discussion groups where chat users convene to discuss a topic .
+Character animation is the art of creating a character and making it move in a lifelike manner .
+Character formats include fonts , type size , type styles , and color .
+Character formatting includes settings that control the attributes of individual text characters , such as font , type size , type style , and color .
+Characters are measured from the top of the tallest letters ( such as T and P ) to the bottom of letters that descend below the baseline ( such as g and p ) .
+Charts make data easier to understand - for example , when presenting data to an audience .
+Chat messages are typed on a user 's computer and sent to the IRC channel , where all users who have joined that channel receive the message .
+Chats are public conferences , conducted in real time , where people join channels to discuss topics of interest .
+Check the Programs menu as you did in Lesson Lab .
+Check the settings in each tab and write them down .
+Check the settings in the Colors and Screen Area boxes and write them down .
+Check these settings but do not change them .
+Check with the operating system 's developer to see if a hardware compatibility list is available .
+Check your PC for either a dedicated game port or a USB port .
+Check your Programs menu for programs that might be used for graphics .
+Checking the spelling in a document in WordPerfect .
+Chip makers such as Intel , Motorola , Advanced Micro Devices ( AMD ) , and others keep proving that there seems to be no end to the potential power of the personal computer .
+Choose a converter that eliminates flicker .
+Choose a desktop computer if you want to .
+Choose other settings as directed by your instructor , then click Start .
+Choose the Cut option , the highlighted word disappears from your screen .
+Choosing a start page is a personal decision , based on the kinds of information you want to see when you open your browser .
+Choosing the best type is usually a matter of balancing your needs for speed , storage capacity , compatibility ( will it work in different computers ? ) , and price .
+Cisco also provides certification training in several areas of networking technologies .
+Clearly , voice and data have different bandwidth requirements .
+Click a hyperlinked word or image , and your browser automatically finds and loads the Web page indicated by the hyperlink .
+Click any icon and its contents will appear in the right pane of the Exploring window .
+Click anywhere outside the volume control to close it .
+Click Cancel to close the dialog box without making changes .
+Click Cancel to close the Display Properties dialog box ; then close the Control Panel window .
+Click Cancel to close the Multimedia Properties dialog box ; then close the Control Panel window .
+Click in front of the word country to place the insertion point ; right click again .
+Click in the browser 's Address box ( it may be called the Location box ) , and type the address of the search engine you want to visit , such as http : / / www . yahoo . com / .
+Click several folders and review their contents in the right pane .
+Click the Advanced button to view any other options that may be available on your system .
+Click the Colors drop down list arrow and choose the lowest color setting .
+Click the Device Manager tab ; then click the plus sign next to Network adapters .
+Click the drop - down arrow next to the Which drive do you want to defragment ?
+Click the link and a list of instructions and options will appear .
+Click the Screen area slider control and drag it to the lowest setting .
+Click the Start button , point to Programs , point to Accessories , point to System Tools , and then click Disk Defragmenter .
+Click the Start button , point to Programs , point to Accessories , point to System Tools , and then click ScanDisk .
+Click the Start button , point to Settings , and then click Control Panel .
+Click the Start button , point to Settings , then click Control Panel .
+Click the Start button on the Windows taskbar to open the Start menu .
+Click the Start button on the Windows taskbar to open the Start menu .
+Click the Start button on the Windows taskbar to open the Start menu .
+Click the Start button to open the Start menu , then click Settings , Control Panel .
+Click the tabs at the top of the Keyboard Properties dialog box and inspect the current settings .
+Click to highlight an item listed under Hard Disk Controllers , then click the Properties button .
+Clicking , double clicking , and dragging are illustrated in Figure 1.9 .
+Clicking a highlighted term displays the definition for that word .
+Clicking a link may display a pop - up window , which provides a definition of a term or a list of additional links .
+Clicking an underlined term opens a new help window , with information about that term .
+Clicking something with the mouse means to move the pointer to the item on the screen and to press and release the mouse button once .
+Clicking the icon plays the sound file if the PC has a sound card and speakers .
+Client ( or server ) software can be used on LANs or WANs , and a single client ( server ) program can be used on a LAN where all the other software is based on a simple file server relationship .
+Client ( or server ) software is valuable to large , modern organizations because it distributes processing and storage workloads among resources efficiently : users get the information they need faster .
+Client / server computing is also a commonly used model on the Internet .
+Clip art and electronic photographs are images that are already available in digital form .
+Clip art can be found in both bitmap and vector formats .
+Clip art can include sketches and drawings as well as high - quality photographs .
+Clock speed has a tremendous impact on CPU performance .
+Clock speeds of 1 GHz ( gigahertz ) have already been achieved ( early 2000 ) .
+Clock speeds of 500 MHz and higher are common , and processor speeds are increasing rapidly .
+Close both applications without saving either document .
+Close the Exploring window by clicking the Close button ( with an X on it ) in the top right - hand corner .
+Close the help window by clicking the Close button ( with an X on it ) in the top right - hand corner .
+Close the Modem Properties dialog box , but leave the Control Panel dialog box open for the next exercise .
+Close the program by clicking the Close button ( the button marked with an X on the title bar ) .
+Close the program by clicking the Close button ( with a symbol on it ) in the upper right corner of the window .
+Cluster sizes vary , depending on the size and type of the disk , but they can range from four sectors for diskettes to sixty - four sectors for some hard disks .
+Coaxial cable , sometimes called coax ( pronounced coaxe ) , is similar to the cabling used in cable television systems .
+Color graphics , animation , and concise text can help persuade clients and close sales .
+Color ink jet printers have four ink nozzles : cyan ( blue ) , magenta ( red ) , yellow , and black .
+Color ink jet printers use four colors of ink .
+Color laser printers can cost several thousand dollars .
+Color monitors are almost always included with new computers .
+Color monitors can display anywhere from 16 colors to 16 million colors .
+Color printers always cost more than black and white printers .
+Color scanners use filters to separate the components of color into the primary additive colors ( red , green , and blue ) at each point .
+Color separations are separate pages created for each of the four colors that are combined to give the illusion of full color on the printed page .
+Colors enable you to create a wide range of moods for your presentations .
+Columns are effective formats for certain types of documents .
+Commercial software developers have also made a commitment to Linux , and users can expect to see popular software applications to be modified to run under Linux .
+Commercial speech recognition software packages have large stored vocabularies , or words they can recognize .
+Commercial versions of Linux , which are very inexpensive when compared to the cost of other powerful operating systems , are also available from Red Hat Software , Corel Corp . , and Caldera Systems , Inc .
+Common bitmap file formats are BMP , PICT , TIFF , JPEG , and GIF .
+Communications devices perform both input and output functions , allowing computers to share information .
+Compact disks ( CDs ) are a type of optical storage device , that can store about 74 minutes of audio or 650 MB of data , or about 450 times as much information as a diskette .
+Companies and individuals must remain cautious while the standards are being defined .
+Companies must consider several factors before investing in a data warehousing structure .
+Companies often keep three or more full sets of backups , all at different sites .
+Companies that focus on providing secure home computing environments will see considerable financial success in the coming decades .
+Companies that have traditionally served customers from brick - and mortar buildings are increasingly setting up virtual stores on the Web .
+Companies use new media technologies in many ways , to perform internal tasks more efficiently and to reach customers more effectively .
+Compare these figures to a diskette 's spin rate of 300 rpm .
+Compared to hard disk drives , CD - ROM drives are quite slow , in part because the laser reads pits and lands one bit at a time .
+Compared to laser printers , the operating cost of an ink jet printer is relatively low .
+Comparison of a 17 inch monitor to a 15 inch monitor .
+Complete the following exercise as directed by your instructor .
+Complete the following exercise as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises as directed by your instructor .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complete the following exercises using a computer in your classroom , lab , or home .
+Complex graphics and page - layout programs require a great deal of system resources , and a desktop system 's large monitor reduces eye fatigue .
+Compositing tools allow game makers and filmmakers to add characters and objects to scenes that did not originally contain them .
+Compressing files will not necessarily improve a disk 's performance ; that is , compressing files will not reduce a disk 's access time .
+Computer - Aided Design ( CAD ) software is used in technical design fields to create models of objects that will be built or manufactured .
+Computer - generated animation is often so lifelike that it is hard to distinguish from the real thing .
+Computer - generated imagery ( CGI ) has changed the world of animation in many ways .
+Computer Aided Design ( CAD ) , also called Computer Aided Drafting or Computer Aided Drawing , is the computerized version of the hand - drafting process that used to be done with a pencil and ruler on a drafting table .
+Computer animators also have the advantage of being able to display their animation on the computer screen or output them to CD - ROM , videotape , or film .
+Computer data is reduced to binary numbers because computer processing is performed by transistors that have only two possible states : on and off .
+Computer data looks especially strange because people normally use base 10 to represent numbers .
+Computer drafting tools are used in a huge array of design fields , from building and construction to aerospace and product packaging .
+Computer graphics have exploded in popularity among advertising agencies , which use computers to create everything from magazine ads to program - length television infomercials .
+Computer hardware and graphics software are used in almost every design field .
+Computer hardware and software companies frequently host their own FTP sites , where you can copy program updates , bug solutions , and other types of software .
+Computer have no trouble working with long strings of numbers , but humans are not so skilled .
+Computer literacy and the skills you can build with that literacy are essential to success in this society , not just in our working lives , but in the way we learn , manage our finances , and improve our standard of living .
+Computer monitors are roughly divided into two categories : CRT and flat panel displays .
+Computer skills can make a difference in a person 's employability .
+Computer systems are everywhere - in places you cannot see or would not expect to find them .
+Computer technologies , however , enable PC - based multimedia products to go one step further .
+Computer users should be responsible about using paper and energy .
+Computerized touch screens also appear on slot machines in gambling casinos .
+Computers , however , make it possible to create interactive media , which enable people to respond to - and even control - what they see and hear .
+Computers , in theory , could become part of anything .
+Computers and graphics software provide powerful creative tools to artists and designers , but is there a downside to the explosion of computer graphics ?
+Computers and multimedia help students and teachers make the transition to this new mode of learning .
+Computers are becoming increasingly important tools in all types of workplaces , from offices to factories .
+Computers are incredible learning tools , especially when you have access to data on CD - ROMs or the Internet .
+Computers are not just getting faster , they are becoming exponentially more powerful all the time .
+Computers are now used in a surprising variety of workplaces , including places where you might not expect to find them .
+Computers are used to create all kinds of digital content , from plain text to video .
+Computers are used to create animation for use in various fields , including games and movies .
+Computers come in many different sizes and ranges of power , and different types of computer systems have varying capabilities .
+Computers come in many varieties , including the personal computer , tiny computers built into appliances and automobiles , and mainframe machines used by many people simultaneously to run a business .
+Computers have greatly simplified character animation in several ways .
+Computers may also gain improved performance when a single data bus standard ( such as the USB standard ) is adopted for all devices .
+Computers may never see in the same way that humans do , but new technologies allow computers to use light as a source of input .
+Computers would be useless if they did not provide interaction with users .
+Configuration requirements vary according to the PC 's use ; for example , the standard configuration for a basic PC is different from an entertainment PC or a workstation PC under the standard .
+Connect to the Internet and launch your Web browser .
+Connecting a desktop computer to the Internet actually involves two separate issues : software and the network connection .
+Connecting to a Telnet host is easy ; enter the address , and the Telnet program sets up a connection .
+Conscientious users of e - mail and news - groups commonly forward flames or inappropriate postings to the poster 's ISP .
+Consequently , computerized data is digital , meaning that it has been reduced to digits , or numbers .
+Consequently , cyan , magenta , yellow , and black are sometimes called subtractive colors and color printing is sometimes called four color printing .
+Consequently , sram is more expensive than DRAM and is not used as frequently in PCs .
+Consider again the EDM facilities management application .
+Consider an EDM system that is used to manage patient records in a hospital .
+Consider the fact that computers are an essential part of business today , whether you are an auto mechanic or a surgeon , a journalist or an airline pilot .
+Consider your need for a new operating system .
+Construction managers and estimators use specialized software to analyze construction documents and to calculate the amount of materials and time required to complete a job .
+Consumers have heard endless promises that , because it supports two - way interaction between users and servers , the Internet will someday become the place to go for online gaming , shopping , education , and other multimedia experiences - even interactive virtual reality .
+Content travels from the broadcaster to the user , but not vice versa ( changing channels does not count ) .
+Contents are retained in storage when the computer is turned off , whereas the programs or the data you put into memory disappear when you shut down the computer .
+Continue practicing your mouse techniques .
+Convenience is another advantage of laser printers .
+Conversely , a descending sort order arranges records in the opposite order - that is , from Z to A , or from 9 to .
+Conversely , lcd systems are energy efficient because of their tiny transistors .
+Cookies are not harmful to your system , and the portal provider will not use the cookie to retrieve personal information from your computer .
+Coordinates how programs work with the CPU , RAM , keyboard , mouse , printer , and other hardware as well as with other software .
+Copper - based transistors are now available in Intel 's newest chips and in the Macintosh G4 computer .
+Coppermine is expected to be Intel 's first processor based on 0.18 - micron technology .
+Copying a file from a remote computer is known as downloading the file .
+Copying a page onto a server is called posting the page , but the process may also be referred to as publishing or overloading .
+Copying other people 's work is a growing concern because more people are downloading others ' writings and research from the Internet and disks and then using them as their own .
+Copyright is an important concern if a designer wants to reuse art created by someone else .
+Copyright laws govern the way images can be reused and distributed and thus protect the rights of the images ' owner .
+Copyrights still apply ; copyright infringement is illegal and can lead to prosecution .
+Corporate and e - commerce network administrators say that the need for data storage doubles every year .
+Corporate extranets has become an important part of corporate - level e - commerce by giving companies access to vital information on one another 's networks .
+Corporate WANs often use microwave transmission to connect two LANs within the same metropolitan area .
+Corporate Web , intranet , and extranet sites are developed , designed , and maintained most often by teams of professionals .
+Corporations invest millions of dollars to develop custom CBT courses dealing with various issues , such as company policies , customized computer systems , and customer relations .
+Corporations track profits and losses , accountants manage huge balance sheets , and people balance their checkbook registers or try to maintain a household budget .
+Costs vary widely , depending on the courses ' offerings .
+Counter fields may also be used for creating records that number sequentially , such as invoices .
+Courier services of all types use computerized terminals to help dispatchers schedule deliveries , locate pickup and drop - off points , generate invoices , and track the location of packages .
+Cousins to paint programs , photo - manipulation programs now take the place of a photographer 's darkroom for many tasks .
+CPUs designed according to this theory are called reduced instruction set computing ( RISC ) processors .
+Create a document now using your word processor and spreadsheet .
+Create a file in Notepad , save it to disk , and add to the file to see how it grows by taking the following steps .
+Create a sample database by using a database application , a spreadsheet program , or your word processor 's table feature .
+Create content for posting on the Web or sending to another person as an e - mail .
+Creating a digital image or manipulating an existing one can involve a complex array of processes .
+Creating a presentation is simple ; just choose the type of slide you want to create and then start adding the content .
+Creating text often requires a word processor ; working with digital images requires graphics software ; using video requires a video - capture program and editing software ; sound often requires its own editing software .
+Creating the actual slides or overhead transparencies was a separate process , which could be as simple as using a photocopier or another specialized mechanical duplicating device to print the content onto transparency sheets , or hiring a photographer to create 35 - mm slides of the content .
+Credit agencies and banks commonly sell information about their customers , which is then used to create direct marketing lists .
+CRT monitors are usually hands down winners in this category , but flat panel systems are catching up .
+CRT monitors consume a great deal of electricity to keep the screen refreshed .
+CRT monitors emit low level radiation .
+CRT monitors have long been the standard for use with desktop computers because they provide the brightest and clearest picture for relatively low cost .
+CRT monitors offer viewable areas ranging from just over 13 inches to more than 22 inches .
+CRT monitors require a lot of power .
+CRT screens are flatter than they once were , and some higher end models are almost completely flat .
+Crunching Data and Presenting the Results .
+Current RAID systems offer up to 10 TB of storage and incredibly fast access and data transfer times .
+Currently , a USB port can accept as many as 127 devices , extending the system 's bus to many peripherals .
+Currently , commercially available PCs are configured for use by persons who do not suffer from physical impairments or disabilities .
+Currently , ethernet is the most common network technology used .
+Currently , interactive television is possible to a limited extent and only because additional technologies have been incorporated into television .
+Currently , most personal computers use one of two drive - interface standards : EIDE or SCSI .
+Currently , multimedia content is typically delivered to users by one of three means : CD - ROM ( or DVD - ROM ) , the Internet or some sort of network connection , or television .
+Currently , the preferred standard for modems is 56.6 Kbps .
+Cyrix began as a maker of specialized microchips , but in the mid - 1990s the company began making processors that competed with Intel 's products .
+Cyrix began as a specialty chip maker but eventually began producing microprocessors including the MediaGX processor and now the MII series of processors .
+Cyrix focuses its attention on PCs that sell for less than $ 1000 .
+Daisy wheel printers can create clean text but cannot print graphics .
+DAT drives typically have multiple read and write heads built into a small wheel or cylinder that spins near the tape at a high speed .
+Data can consist of letters , numbers , sounds or images .
+Data cartridges are like small removable hard disks and can store up to 2 GB .
+Data communications , the electronic transfer of information between computers , became a major focus of the computer industry .
+Data compression has become quite sophisticated , so modems can often transmit data at rates as high as 56 Kbps ( 56,000 bps ) .
+Data compression technologies , such as MP3 and others , will find wider applications , enabling developers to squeeze huge amounts of data down to miniscule sizes .
+Data compression typically uses mathematical analyses of digital source material to strip away unnecessary bits of data prior to sending it across the wire .
+Data consists of raw facts , which the computer stores and reads in the form of numbers .
+Data consists of text , numbers , sounds , and images that the computer can manipulate .
+Data is both written to and read from this memory .
+Data is laid out on a CD - ROM disk in a long , continuous spiral that starts at the outer edge and winds inward to the center .
+A table is divided into records , and each record is divided into fields .
+Data is stored in the form of lands , which are flat areas on the metal surface , and pits , which are depressions or hollows .
+Data is the term used to describe the information represented by groups of on / off switches .
+Data management tasks fall into one of three general categories .
+Data moves through the line so quickly that even the smallest amount of static can introduce significant errors .
+Data scrubbing can be handled in many ways .
+Data scrubbing or data validation is the process of safeguarding against erroneous data or duplicate data .
+Data that is stored , managed , and manipulated in a spreadsheet is similar to a flat - file database .
+Data used by the program is also loaded into memory for fast access .
+Database administrators typically lay out , design , and construct corporate databases using the DBMS software .
+Database developers create custom tools for corporate databases , create special front ends order - entry tools , generate complicated queries , develop report - generation macros , and more .
+Database management is one of the primary reasons people use computers .
+Database management software for building and manipulating large sets of data .
+Database management software makes it easy to reorganize data .
+Database Programmers and Developers .
+Database programs can also sort lists of data , arranging them in alphabetical , numeric , or chronological order .
+Database technologies touch the work lives of millions of people each day .
+Databases and Database Management Systems .
+Databases created for CD - ROMs , for instance , will allow users only the ability to access , not change , data .
+Date and time fields are quite handy for calculating elapsed time periods , such as finding records for invoices thirty - one days overdue .
+Date and time fields typically include automatic error - checking features .
+Dates are a necessary part of most worksheets , and spreadsheet programs can work with date information in many ways .
+Define and differentiate the terms worksheet and spreadsheet .
+Define the terms bitmap and vector , and differentiate these file types .
+Define the terms database and database management system ( DBMS ) .
+Define the terms multimedia , interactivity , and new media .
+Defragment a floppy disk by taking the following steps .
+Delete erases characters to the right of the cursor , and Backspace erases characters to the left of the cursor .
+Depending on its features , a fully equipped notebook computer can cost between $ 500 and $ 5000 .
+Depending on the character set used , a good quality band printer can generate 2000 lines of text per minute .
+Depending on the circumstances ( the compression software used , the data file 's native program , and other factors ) , the user may need to extract the compressed files manually ( that is , return them to their uncompressed state ) before using them .
+Depending on the computer 's age , this key may be labeled with a symbol that resembles a four leaf clover , a picture of an apple , or both .
+Depending on the ISP , the customer 's computer may be assigned a permanent IP address , or its IP address may change each time it logs on to the ISP 's server .
+Depending on the location of the touch , the computer responds by displaying new data .
+Depending on the model , pdas may include the following features .
+Depending on the program you are using , you may be able to press Home to move the cursor to the beginning of a line , and End to move to the end of a line .
+Depending on the size of your audience and room , you can display slides on the PC 's monitor , project them onto a screen , or connect the PC to a television or larger display .
+Depending on the specific implementation you choose ( that is , where you place the hub within the room ) , your star network may require two or three times more cable than a basic bus network .
+Depending on the technologies used , some multimedia events are strictly standalone , single - user applications , such as a reference book or training program on CD - ROM .
+Depending on the type of disk , the read heads may float just above the disk 's surface or may actually touch the disk .
+Depending on the type of drive and format used , tape drives can take from a few seconds to a few minutes to find a specific piece of data on the tape 's surface .
+Depending on the type of processor in use , a machine cycle may include other steps .
+Depending on the type of software being used and the number of people using it , licensing can cost about the same , whether the application is installed on each user 's computer or run through the network .
+Depending on the version of Windows you are using and whether you are using a specific application , this type of menu may be called a shortcut menu or a context menu .
+Depending on their size , capabilities , and the number of users they must support , mainframe systems can cover a huge price range .
+Depending on your career , you may need to learn special skills to master an input device .
+Depending on your career track , it may be necessary to learn all you can about how a computer processes data .
+Depending on your job , you may not need to use a computer much .
+Depending on your needs , you can turn a basic slide show into a multimedia event using the built - in features of current presentation programs .
+Describe a scenario in which a large organization might use a database management system .
+Describe a typical use for mainframe computers .
+Describe four methods for creating 3 - D computer models .
+Describe how a computer 's operating system can locate data on a disk 's surface .
+Describe how a dot matrix printer creates an image on a page .
+Describe how a write head can pass data to and from the surface of a magnetic disk .
+Describe how an e - mail system is a combination of the postal system and a telephone answering system .
+Describe how word processors can convert normal documents into World Wide Web pages .
+Describe one contribution that new media technologies have brought to business .
+Describe one way in which multimedia products can be used in homes , schools , and businesses .
+Describe the advantages of using the templates provided by a word processor .
+Describe the difference between an absolute cell reference and a relative cell reference .
+Describe the difference between the Cut and Copy commands .
+Describe the examples you have seen .
+Describe the function of lands and pits on the surface of an optical disk .
+Describe the method used in Ethernet networks to detect collisions .
+Describe the operating system 's role in running software programs .
+Describe the problem and possible solutions .
+Describe the process of creating a presentation .
+Describe the purpose of a mouse and the role it plays in computing .
+Describe the purpose of expansion slots in a PC .
+Describe the purpose of goal seeking in a spreadsheet program .
+Describe the six phases of the multimedia design process .
+Describe the slide presentation you would create .
+Describe your experience with computers so far .
+Describing a network as a LAN or a WAN gives you a sense of the physical area the network covers .
+Deselect the paragraph when you are done .
+Design and storyboarding is the time to determine how much information - text , graphics , links - will be presented on each screen .
+Designers can also make animation available through plug - ins .
+Designers need to be as skilled with computers and software as they are with artistic techniques .
+Desktop computers are the most common type of personal computer .
+Desktop models also can accept many different types of pointing devices that can make graphics work easier .
+Desktop publishing ( DTP ) software is specialized for designing and laying out long or complex documents , documents created in DTP software are ready to be sent to a professional printer .
+Despite advances in other delivery technologies , compact disks remain the leading delivery mechanism for multimedia products .
+Despite all the conveniences it offers to users , the Internet is filled with pitfalls .
+Despite its name , the Scroll Lock key does not necessarily make the screen 's contents scroll .
+Despite its success and the capabilities it added to DOS computers , early versions of Windows did little else to overcome the built - in limitations of DOS .
+Despite such standards , pointing devices ( such as the mouse ) came along none too soon for hotkey weary computer users .
+Despite the complexity of the task , ocr software has become quite advanced .
+Despite the fact that PC - based multimedia technologies have been around a relatively short time , they have found many different applications .
+Despite the long access times , however , tape drives are well suited for certain purposes , especially for backing up your system 's entire hard disk .
+Despite the promise of improved computer systems and networking technologies , the paperless society has yet to materialize , and most experts now believe it never will .
+Despite the promise that the Internet will perhaps be as universal one day as radio and television , how do you feel about the growing commercialization of the Internet ?
+Despite the rapid advancements being made with handwriting recognition software , do you think that the keyboard will continue to be the preferred input device for generating text ?
+Despite the reasons for printing documents , computer users should consider the negative effects of producing so many hard copies .
+Despite their differences in size and use , all these computers are part of a system .
+Despite their many advantages , flat panel displays are much more expensive than CRT monitors .
+Despite their small size and light weight , e - books can store the contents of several large publications .
+Determine what other types of Internet applications are installed on your system .
+Determine what types of media it uses .
+Determine whether a database management program is installed on your computer .
+Determine whether a Web browser is installed on your system .
+Determine whether your computer has a modem .
+Determine whether your PC is multimedia - capable by taking stock of its hardware features .
+Developers are working on VR clothing , like chest pads and gloves , that provide tactile feedback when you touch a virtual object .
+Developers have created helmets and goggles that display stereoscopic images close to the user 's eyes .
+Developers seldom work in isolation when creating a new product .
+Developers use multiple tools to create the individual components of a multimedia program , then rely on a multimedia authoring application such as Macromedia Director to incorporate everything into a seamless whole for the user .
+Development teams may spend weeks or months trying to define their product 's users , getting to know the consumer 's every want , need , and wish .
+Dialing into the network has the same effect as logging into it at the office , except that transmitting files is slower .
+Dialog boxes are special - purpose windows that appear when you need to tell a program ( or the operating system ) what to do next .
+Different devices are designed to accommodate different needs and to make computing easier and more productive .
+Different operating systems and programs provide different sets of keyboard shortcuts .
+Different platforms offer unique strengths and features .
+Differentiate between flat - file databases and relational databases .
+Differentiate between the terms operating environments and operating systems .
+Differentiate the two main categories of computer software .
+Differentiate the way bitmap - and vector - based graphics programs work .
+Differentiate workstations from personal computers .
+Digital cameras are available from a wide range of manufacturers .
+Digital cameras are gaining popularity among professional and casual photographers .
+Digital cameras are rapidly increasing in popularity , to the point that many professional photographers now use digital equipment almost exclusively .
+Digital cameras can store photos in a variety of formats , which may require different amounts of storage and provide varying resolutions .
+Digital cameras have become standard equipment for designers of all kinds .
+Digital cameras provide another way to import images into a computer .
+Digital cameras record live images that can be viewed and edited on the computer .
+Digital cameras work much like PC video cameras , except that digital cameras are portable , handheld devices that capture still images .
+Digitizing a photo always involves some type of scanner , but the process has become sophisticated in recent years , ensuring high - resolution , professional - quality digital images .
+Digitizing tablets vary in size ; the smallest are about the size of a pad of paper and the largest are as big as a tabletop .
+Dimensioning is essential to the process of actually building or manufacturing the object being drawn .
+Dimensions are notations showing the measurements of an object and are usually placed on their own layer .
+DirecDuo , a combination of the DirecTV and DirecPC services , enables users to connect their home televisions and personal computers to the service , and thus enjoy broadcast programming and high - speed , high - bandwidth Internet service .
+Discuss the benefits of using the object linking and embedding ( OLE ) capabilities of newer operating systems .
+Discuss the various copyright issues that arise from the use of computer graphics .
+Discuss your view of the Internet 's value to individuals users .
+Discussion groups hosted by online services are often monitored by a system operator , or sysop , who ensures that participants follow the rules .
+Disk - based media require that the user 's operating system be considered , and the Web requires that the user 's browser and hardware ( or software ) configuration be considered .
+Diskette drives , also known as floppy disk drives , read and write to diskettes .
+Diskette drives average about 45 KBps .
+Diskette drives offer an average access time of 100 milliseconds .
+Diskette storage capacities are discussed in detail later in this lesson .
+Diskettes are available in two sizes : 5.25 inch and 3.5 inch , the 5.25 - inch diskette is rarely used today .
+Diskettes are small and portable ( they can be removed from diskette drives ) , but hard disks are usually built into the computer , so they are not portable ( unless the entire computer is ) .
+Diskettes are used most often to transfer files between computers , as a means for distributing software , and as a backup medium .
+Diskettes are used to load new programs or data onto the hard disk , trade data with other users , and make backup copies of the data on the hard disk .
+Diskettes spin at approximately 300 revolutions per minute .
+Distinguish desktop publishing software from word processing software .
+DLP devices use a special microchip , called a digital micromirror device , which actually uses mirrors to control the image display .
+DNS addresses have two parts : a host name ( a name for a computer connected to the Internet ) followed by a domain that generally identifies the type of institution that uses the address .
+Do not be fooled into thinking that text or images are in the public domain because you found them on the Internet .
+Do not change any settings without your instructor 's permission .
+Do Not Distribute Copyrighted Material .
+Do not download any files from the Internet without asking your instructor for permission .
+Do not make any changes in the dialog box , but leave it open for the next exercise .
+Do not stop to correct mistakes ; keep typing until you are finished .
+Do the same with the VER and EXIT commands .
+Do you agree with this criticism , or do you feel that an operating system should include such extras ?
+Do you believe that once an image is digitized , it enters the public domain and no longer belongs to its creator ? Why or why not ?
+Do you believe the government should restrict this type of material , as it does printed materials ?
+Do you believe the workers did anything illegal or potentially harmful ?
+Do you feel the practice of maintaining personal data is wrong or should be illegal ?
+Do you know that many companies sell this information to other companies ?
+Do you need a different OS to use a specific application ?
+Do you need to print only text , or are graphics capabilities also important ?
+Do you plan to develop or test applications that run on a specific operating system ?
+Do you plan to use a computer in these ways ?
+Do you see any other benefits to Unicode 's widespread implementation ?
+Do you see it as a benefit of our technological progress or a drawback ?
+Do you see this as having a positive or a negative impact on our society and economy ?
+Do you think it is a good idea to use this term to describe the CPU ?
+Do you think it is legally or morally right ?
+Do you think such copying should be illegal ?
+Do you think that using a spell checker and a grammar checker for all your final documents is a sufficient substitute for proofreading ? Explain why .
+Do you think the international interchange of data provided by the Unicode character set is a worthwhile goal for computing technology ?
+Do you think the motive to use the Internet as a vehicle for profit will have a negative impact on it as a rich source of information ?
+Do you worry that you spend too much time at your computer ?
+Docking stations also provide additional ports that enable the notebook computer to be connected to different devices in the same manner as a desktop system .
+Document dimensions are also determined by the orientation of the paper .
+Document formats include margins , page size and orientation , headers , and footers .
+Documents can contain both graphics and sounds .
+Does the computer have a color monitor , sound card and speakers , and a CD - ROM ( or DVD - ROM ) drive ?
+Does the other student 's system have the same connections as yours ?
+Does the PC provide information about itself during the startup process ?
+Does your computer lack any components that would enable it to support multimedia programs better ?
+Doing so took little processing power because there were only 256 possible characters and 2000 text positions on the screen .
+DOS - based programs were often as difficult to use as the operating system itself , requiring users to memorize dozens of cryptic key combinations to issue commands .
+DOS file names are limited to eight characters , plus a three - character extension following a period , as in the name wordproc . doc .
+DOS forces higher performance computers to work at speeds below their capacity .
+DOS is a single - user OS that supports only 640 KB of memory .
+DOS supports only one user and a single processor .
+DOS was adequate for the IBM - compatible PCs of the early 1980s , but its limitations became more noticeable as PCs became more powerful .
+DOS was designed for 8 - bit and 16 - bit CPUs ; it cannot take advantage of the 32 - bit architecture of the 486 , Pentium , and later chips .
+DOS was designed to recognize only 640 KB of RAM and therefore cannot handle the large amounts of RAM commonly found in today 's PCs .
+DOS was developed in the 1970s and distributed on some of the earliest commercial PCs .
+Dot matrix printers are commonly used in workplaces where physical impact with the paper is important , such as when the user is printing to carbon copy pressure sensitive forms .
+Dot pitch is the distance between the phosphor dots that make up a single pixel .
+Double - click the System icon to open the System Properties dialog box .
+Double - click the System icon to open the System Properties dialog box .
+Double - click the word or drag the mouse pointer across it .
+Double click the Keyboard icon in the Control Panel dialog box .
+Double click the word good again to select it .
+Double clicking an item means to point to it with the mouse pointer and then press and release the mouse button twice in rapid succession .
+Dozens of authoritative Web sites provide information on the history of the Internet and technical issues , and tutorials for using the Web , Internet - related software , and more .
+Dozens of Usenet newsgroups and many Web sites are devoted to Linux .
+Dozens or hundreds of personal computers can be connected to a network with a minicomputer acting as a server .
+Drag the Cursor blink rate indicator to the right and left .
+Drag the Repeat delay and Repeat rate indicators all the way to the right , then to the left , and in different combinations .
+Dragging an item means to position the mouse pointer over the item , press the mouse button , and hold it down as you move the mouse .
+DRAM chips must be recharged many times each second , or they will lose their contents .
+Draw programs are also superior to paint programs in their handling of text , as shown in Figure 2.10 .
+Draw programs are described as being resolution - independent ; the image looks the same no matter what its resolution .
+Draw programs are vector - based graphics programs that are well suited for work when accuracy and flexibility are as important as coloring and special effects .
+Draw programs enable the user to work with what kind of images ?
+Draw programs make it easy to color text , lines of text can be bent or distorted , text can also be forced to follow a curvy line .
+Draw programs offer two big advantages over paint programs .
+Draw programs work by defining every line as a mathematical equation , or vector .
+Draw programs work well with text .
+Draw programs work with vectors and give the designer a great deal of flexibility in editing an image .
+DriveSpace 3 effectively doubles the storage capacity of a hard disk by compressing all its contents .
+DSL , ISDN , T1 , and T3 can all be used effectively to set up WANs as long as the networks are used primarily for transferring the most common types of data - files , e - mail messages , and so on .
+DSL can achieve theoretical speeds up to 52 Mbps , a huge speed advantage over the fastest dial - up modems or even some digital connections .
+DSL is gaining popularity among small businesses that need to connect a LAN to the internet and provide users with rapid data - transfer rates and continuous service .
+DSL is rapidly outpacing ISDN in areas where DSL is available because it is typically less expensive in terms of hardware , setup , and monthly costs .
+DSL services are not yet widely available , but they can be less expensive than ISDN service .
+DTP enables the user to specify colors according to printing industry standards , such as Pantone and TruMatch , so that the printer can understand precisely what colors to use .
+DTP software also prepares color separations for documents printed in color .
+DTP software also provides nearly infinite control of leading ( pronounced LED - ding ) , which is a typesetting term for line spacing .
+DTP software enabled one person to perform all the required tasks - design , layout , typesetting , placement of graphics , and more - and create a document that was ready to be printed .
+DTP software gives the user direct control over the exact placement of graphics on the page , the wrapping of text around the graphic , and the use of borders or shading with graphics .
+Dual - layer DVD - ROM disks can hold 17 GB of data .
+During normal use , the data in these chips is only read and used - not changed - so the memory is called read - only memory ( ROM ) .
+During the 1980s , most PCs used 5.25 - inch diskettes .
+During the 1980s , the most popular command - line interfaces were Microsoft 's MS - DOS , its near twin PC - DOS from IBM , and UNIX .
+During the 1980s , when most PCs were running DOS and not Windows , the screen displayed text characters .
+During the data - entry process , for example , the DBMS may refuse to accept data that does not conform to a certain format , that is not spelled in a specific way , or that is duplicated in a different record .
+During the early 1990s , Windows 3.0 , Windows 3.1 , and Windows 3.11 ( called Windows for Workgroups ) became the market leaders and eventually were installed on most new PCs , running on top of DOS .
+During the formatting process , you can also determine whether the disk 's surface has faulty spots , and you can copy important system files to the disk .
+During the remaining time , however , no bandwidth is required at all .
+During this time - maybe just a few seconds - the necessary bandwidth is high .
+DVD - ROM achieves such high storage capacities by using both sides of the disk and special data - compression technologies , and by using extremely small tracks for storing data .
+DVD - ROM is a high - density medium capable of storing a full - length movie on a single disk the size of a CD .
+DVD - ROM technology is a variation on standard CD - ROM .
+DVD drives are now standard equipment on many new personal computers .
+DVD drives can also locate data on the disk much faster than standard CD - ROM drives .
+DVD drives can play audio compact disks just like CD - ROM drives but can also play digital video disks .
+DVD players are now standard on many PCs and are found in many home entertainment centers .
+DVDs can hold a minimum of 4.7 GB of data and as much as 17 GB .
+DVDs offer capacities up to 17 GB .
+Dye sub printers create extremely sharp images , but they are slow and costly .
+Dynamic RAM ( DRAM ) gets its name from the fact that it must be refreshed frequently .
+E - book publishing partners include several large publishers of books , magazines , newspapers , and journals .
+E - book versions of the Wall Street Journal , the New York Times , and other newspapers are available , as are vertical publications such as technical manuals and dictionaries .
+E - books try to mimic the feel of printed books in some way .
+E - mail , videoconferencing , and teleconferencing are examples of the personal communications that can be conducted over a network or the Internet .
+E - mail has provided the modern world with an entirely new and immensely valuable form of communication .
+E - mail is both efficient and inexpensive .
+E - mail is somewhat of a cross between the postal system and a telephone answering system .
+Each bit and byte within a sector can have different values , but the drive can read or write only whole sectors at a time .
+Each category has advantages and disadvantages .
+Each cell is identified by a cell address , which is the combination of the cell 's column letter and row number .
+Each delivery method affects the product 's ability to use certain technologies or the user 's ability to interact with and direct the content .
+Each discussion focuses on the type of technology introduced in that unit , and is designed to help you understand how that particular technology is used in one or more professions .
+Each dumb terminal is simply an input / output ( I / O ) device that functions as a window into a computer located somewhere else .
+Each file transfer protocol uses its own method to check for errors .
+Each filmed image is called a frame .
+Each function key 's purpose depends on the program you are using .
+Each hammer is embossed with the shape of an alphanumeric character ; that shape is transferred through the inked ribbon onto the paper , resulting in a printed character .
+Each instruction in the instruction set is expressed in microcode - a series of basic directions that tells the CPU how to execute more complex operation .
+Each is designed for a certain kind of network topology and has certain standard features .
+Each LAN is governed by a protocol , which is a set of rules and formats for sending and receiving data , and an individual LAN may utilize more than one protocol .
+Each message can be seen by all the other people in the teleconference .
+Each node is connected in series to a single cable .
+Each of the four parts is a number between 0 and 255 , so an IP address looks like this : 205.46.117.10 .
+Each of the hardware devices is controlled by another piece of software , called a driver , which allows the operating system to activate and use the device .
+Each of these four keys is labeled by an arrow pointing in a specific direction .
+Each of these particles can act as a magnet , taking on a magnetic field when subjected to an electromagnet .
+Each of these types of utilities is illustrated in the Visual Essay on pages 42 and 4 .
+Each one of those tables may , in turn , reference other tables that store even finer subdivisions of data , like vendor credit or employee data .
+Each piece is saved in a separate sector , ideally , the pieces will be stored in contiguous sectors .
+Each pixel 's color and other characteristics are stored as digital code .
+Each platter is covered with a magnetic coating , and the entire unit is encased in a sealed chamber .
+Each program will open in its own window .
+Each read head reads only one polarity or the other .
+Each Rocket eBook uses a unique encryption code to ensure that its contents cannot be altered or transferred to another computer - even to another eBook .
+Each row - and - column intersection is called a cell .
+Each scheme is sponsored by an industry consortium whose goal is to achieve high rates of compression and industrywide agreement on standards .
+Each side of a standard DVD - ROM disk can hold up to 4.7 GB .
+Each SIMM or DIMM can hold between 1 MB and 64 MB of RAM and connects to the motherboard with 30 - pin , 72 - pin , or 168 - pin connections .
+Each site needs resources , data , and programs locally , but it also needs to share data with the other site .
+Each symbol in a number is called a digit , so 10 is a two - digit number .
+Each table was stored in its own file , as were any related documents .
+Each time the CPU executes an instruction , it takes a series of steps .
+Each track is a separate circle , like the circles on a bull 's - eye target .
+Each track on a disk is also split into smaller parts .
+Each unique type of information is stored in its own field .
+Each year , millions of tons of office paper are discarded .
+Early CD - ROM titles such as Myst and Encarta were successful and proved that PCs and gaming consoles could support a wide range of audio and video technologies , hypermedia , and other important types of multimedia content .
+Early PC microprocessors were not much larger than a thumbnail .
+Early Pentium III systems took advantage of the 100 MHz bus , like the Pentium II .
+Early plotters were bulky , mechanical devices that used robotic arms , which literally drew the image on a piece of paper .
+Early programmers realized that they needed a standard text code - a system they could all agree on - in which numbers represented the letters of the alphabet , punctuation marks , and other symbols .
+Early spreadsheet programs provided only one worksheet at a time .
+Early versions of diskettes were double density ( DD ) .
+EBCDIC ( pronounced EB - si - dic ) stands for Extended Binary Coded Decimal Interchange Code .
+EBCDIC , ASCII , and Unicode are three of the most popular text code systems invented .
+EBCDIC is an 8 - bit code that defines 256 symbols .
+EBCDIC is still used in IBM mainframe and midrange systems , but it is rarely encountered in personal computers .
+Editing a macro with Visual Basic for Applications .
+Editing a presentation in the Outline view of Microsoft PowerPoint .
+Education has embraced new media technologies and is one of the first and best consumers of multimedia products .
+Effective antivirus products not only detect and remove viruses , they also help you recover data that has been lost because of a virus .
+Effective multimedia programming provides information that is layered and multidimensional .
+EIDE has evolved over the years and has several variants , all of which go by different names .
+Either way , its function is the same - to provide quick access to commonly used commands related to the item you have right - clicked .
+ELD displays are similar to LCD monitors but use a phosphorescent film held between two sheets of glass .
+Electronic Cash ( also called digital cash ) has been available since 1996 but has not yet gained wide public acceptance for online shopping .
+Electronic cash takes the form of a redeemable electronic certificate , which you can purchase from a bank that provides electronic cash services .
+Electronic mail is an efficient and inexpensive way to send and receive messages and documents around the world within minutes .
+Electronic mail systems enable you to exchange messages with any other user anywhere .
+Emphasis rapidly began shifting away from the keyboard to the screen ; today , many users of popular programs probably cannot tell you what their function keys do !
+Employees also need to protect corporate property - such as trade secrets telephone lists , personal records , and product specifications - stored on the network .
+Enclosed within the Pentium II cartridge is the core processor and the L2 cache chip , which enables high - performance operations .
+Encryption technology secures data by converting it into a code that is unusable by anyone who does not possess a key to the code .
+Engineers using the software can add redline corrections to the factory floor drawings , and project supervisors can display the meeting notes .
+Enhanced integrated drive electronics ( EIDE ) is an enhanced version of an older drive - interface standard simply called integrated drive electronics ( IDE ) .
+Enjoy Recorded Music Over the Internet .
+Enter data in each field for six people .
+Entering data in a database table is much like entering data in a spreadsheet program .
+Entering data in a worksheet is simple .
+Enterprise - level products , such as Oracle , DB2 , and Sybase , are designed to manage large corporate or special - purpose database systems .
+Enterprise applications often meet the needs of many users at the same time , sometimes over a wide area .
+Enterprise software allows different users to share the same data , even on opposite sides of the world .
+Enterprise software can be tailored to meet the needs of many different users in different locations .
+Enterprise software is any large - scale application based on a DBMS .
+Enterprise software may tie several users together with one central data source .
+Entertainment and education software , many of which are interactive multimedia events .
+Entire hard disks , floppy disks , or individual files can be compressed by as much as a 3 : 1 ratio ( so that 300 MB of data fills only 100 MB of space , for instance ) .
+Equally important , a DBMS provides the means for multiple users to access and share data in the same database by way of networked computer systems .
+Ergonomically correct keyboards are designed to help the user 's hands stay positioned correctly , reducing bending and strain .
+Ergonomics , correct posture and hand position , and specially designed input devices are covered in detail in Living With Computers .
+Error - checking is also provided in such arrays .
+Essentially , all they can understand is whether a switch is on or off .
+Establish relationships or links between tables to update records .
+Ethernet was originally designed for a bus topology and thick coaxial cable , but most new network installations use an Ethernet star topology with either twisted - pair or fiber - optic cables as the medium .
+Even a home computer user can be part of a truly global network .
+Even if a company does not make any portion of its network available to Internet user 's , it can allow employees to access the network over the Internet .
+Even if a computer can do its job without a person sitting in front of it , people still design , build , programs and repair computer systems .
+Even if a local area network does not use TCP / IP commands and protocols , it may still be able to provide some Internet services , such as e - mail or file transfer .
+Even if a PC does not have a huge application running on it , the system may have a software interface that allows the PC to work with a large application on another PC , network server , or mainframe .
+Even if the monitor looks good ( or if you are buying it through the mail ) , you need to check several specifications .
+Even if you do not have an ISP account , you can still use e - mail , if you can use a computer with access to the World Wide Web .
+Even if you do not plan to work with computer systems , you need to understand the basics of data storage .
+Even if you do not say anything to each other - or in the case of modem transmission , if you do not send any data - the bandwidth is still available .
+Even if you have no artistic skills , you can create effective graphics with basic , inexpensive ( or free ) software .
+Even if you own an image or have the right to use it commercially , you can assume that once it is on the Internet , it will be copied and distributed in ways you never intended .
+Even if your activities are limited to using a computer and not supporting or building one , it is helpful to have an idea of which components are most important in processing data and which components affect the speed of your computer .
+Even if your job does not require you to work directly with a computer , this knowledge may help you to envision new ways of using computers in your work , resulting in a more productive work environment .
+Even in a small office , time is valuable and people cannot afford to confuse schedules .
+Even in businesses that use other mission - critical applications , word processors and spreadsheets play an important role .
+Even in businesses where documents are generated and distributed electronically , many people still print them out and file them .
+Even inexpensive draw programs can save files at high resolutions and in 16 million colors .
+Even shareware paint programs support most commonly used file formats , such as JPEG , PCX , TIFF , and many others .
+Even so , digital cameras are a boon to many people .
+Even so , intel 's success in this market was not guaranteed until 1981 when IBM released the first IBM PC , which was based on the Intel 8088 microprocessor .
+Even so , it has not yet been universally adopted by software developers .
+Even so , multimedia files can take much longer to download than typical HTML documents .
+Even so , some people consider it misleading to refer to the Mac as a PC .
+Even so , the benefits of ISDN are substantial .
+Even some types of digital cameras accept PC Cards that store digital photographs .
+Even specialized devices like touch screens enable the user to interact with the system by using his or her fingertips .
+Even the computer 's own instructions are number .
+Even the purchaser who tracks and orders supplies uses the database to find out what materials have been used and what is needed .
+Even though a modern multimedia PC is capable of displaying multimedia content , other factors must be considered by the multimedia developer .
+Even though Apple was the first company to distribute the mouse as a standard component with personal computers , apple did not conceive the tailed input device .
+Even though digital cameras store pictures at very high resolutions ( millions of pixels per image ) , the printed image 's quality is restricted to the printer 's quality .
+Even though e - books are a new breed of product , publishers are jumping on board rapidly , making a wide range of printed products available in e - book format .
+Even though English uses only about forty phonemes , a sound can have several different meanings ( two versus too , for example ) , making reliable translation difficult .
+Even though hypermedia links can often be helpful , sometimes it is undesirable to let the user wander off to other locations , perhaps never to return .
+Even though it only cost a few cents per page to create printed documents , the accumulated cost of billions of pages was astronomical .
+Even though Linux is considered a freeware operating system , industry experts have been impressed by its power , capabilities , and rich feature set .
+Even though many portable computers have multimedia features , you can get the most for your money with a desktop system .
+Even though many provide an easy way to add text to an image , the text becomes just another collection of pixels after it is placed .
+Even though most microprocessors execute instructions rapidly , newer ones can perform even faster by using a process called pipelining ( or pipeline processing ) .
+Even though the poster had used an alias to hide his identity , federal agents were able to track him down and arrest him .
+Even though the Shockwave plug - in is required to view Shocked Web sites , the Shockwave material appears in the browser window , not in a separate window .
+Even though the user types only the phone number 's ten digits , it appears with the area code enclosed in parentheses , a space , and a hyphen following the prefix - for example , ( 818 ) 555 - 123 .
+Even though the words data and information are often used interchangeably , there is an important distinction between them .
+Even though they do not include real keyboards , some of these devices provide a graphical keyboard that appears on the screen ; you type by tapping the desired keys with the unit 's pen .
+Even though today 's Internet bears little resemblance to its forebear of thirty years ago , it still functions in basically the same way .
+Even though you cannot be seen on the Internet , you can still be identified .
+Even with the changing speed of the disk , reading data from an optical medium is a relatively simple undertaking .
+Even with the large storage devices available , many users still find themselves pushing the limits of what they can store on their PCs .
+Even young children can engage in serious learning while having fun , and CD - and Internet - based multimedia products are at the forefront of this movement .
+Eventually , people began telling stories ( and leaving a record of their lives ) through drawings and paintings , such as the famous cave paintings found in the Ardèche region of France .
+Every character of a monospace font , such as Courier , takes up exactly the same amount of horizontal space .
+Every computer on the Internet has a four - part numeric address , called the Internet protocol address ( IP address ) , which contains routing information that identifies its location .
+Every computer on the Internet has a unique numeric IP address , and most also have an address that uses the domain name system .
+Every day , millions of people use word processing software to create and edit memos , letters , reports , and many other kinds of documents .
+Every document has top , bottom , left , and right margins , and in any document all four margins can be the same or different .
+Every few minutes , a person in one office might send a file to a person in another office .
+Every microcomputer has a system clock , but the clock 's primary purpose is not to keep the time of day .
+Every television has a slightly different overscan , so you could lose part of your PC 's image on the television .
+Everybook , Inc . 's product attempts to duplicate the book - reading experience by providing two screens , separated by a spine .
+Everything you do with a mouse you accomplish by combining pointing with four other techniques : clicking , double clicking , dragging , and right clicking .
+Examples are multiplayer games that can be accessed over a local area network or the Internet , video conferences that enable participants to see one another and share data in real time over a telephone line or satellite connection , or interactive television shows that accept viewer input through a Web site or chatroom .
+Examples of attributes might be color , size , style , quantity , and price .
+Examples of operating systems include Windows 2000 , Windows NT , the Macintosh Operating System , UNIX , Linux OS / 2 , and DOS .
+Examples of popular application programs are Microsoft Word , CorelDRAW , AutoCAD , and Netscape Navigator .
+Except for the occasional beep , computers were once silent machines .
+Except for the plastic coating , nothing shields this type of wire from outside interference , so it is also called unshielded twisted pair ( UTP ) wire .
+Exceptions are removable hard drives and external hard drives , which can simply be detached from the system .
+Executions are performed in stages : when the first instruction completes the fetching stage , it moves to the decode stage and a new instruction is fetched .
+Existing technologies eventually will reach their limits ; for example , standard silicon processors will someday hold all the microscopic transistors they possibly can .
+Expensive maintenance is rare , and the only part that needs routine replacement is the ink cartridge , which ranges in price from $ 20 to $ 3 .
+Experienced computer users may refer to this folder as the root folder or root directory .
+Experiment with the Pointer Speed and Show Pointer Trails tools and see how they affect your mouse 's performance .
+Experiment with the program 's drawing tools to create a simple image .
+Experts envisioned a paperless society : a world where documents are created , distributed , and read on computer systems .
+Experts suggest keeping them somewhere away from the computer .
+Explain how a computer outputs sound .
+Explain how a CRT monitor displays images .
+Explain how cell addresses are used in spreadsheet programs .
+Explain how different types of media are used to create multimedia events .
+Explain how hypermedia allows a user to navigate through digital content without necessarily following a linear sequence .
+Explain how the operating system enables users to manage files .
+Explain the process by which a laser printer operates .
+Explain the purpose of filters and forms .
+Explain what a formula is and how formulas can be used in spreadsheet programs .
+Explain what is meant by selecting parts of a document .
+Explain why DOS is no longer the dominant OS for personal computers .
+Explore several portal sites to find the options you like best .
+Explore the contents of your hard disk .
+Explore your presentation program 's interface .
+Extending the Processor 's Power to Other Devices .
+External devices - such as those used for input and output - are connected to the system by ports on the back of the computer .
+External hard disks , like this one made by Hewlett - Packard , can be plugged into one of the PC 's ports .
+Most software companies have Web sites with lists of frequently asked questions .
+Fast , high - end hard disk drives often have SCSI interfaces , as do scanners , tape drives , and optical storage devices such as CD - ROM drives .
+Fast workstations or PCs coupled with 3 - D modeling programs can lend realism to even the most fantastic subjects .
+Faster SRAM chips support access times of around 10 nanosecond .
+FAT32 also saves large amounts of wasted disk space by making the clusters much smaller .
+FAT32 is not compatible with DOS or Windows NT systems , however .
+Features such as support for volume sets enable you to combine storage space on several different disks to look and function as a single drive .
+Few areas of computing are as wide open as the field of computer graphics .
+Fiber - optic cable also offers extraordinary bandwidth ; it is not only extremely fast and can carry an enormous number of messages simultaneously , but fiber - optic cable is a very secure transmission medium .
+Fiber - optic cable is also immune to the electromagnetic interference that is a problem for copper wire .
+Fiber - optic lines use beams of pulsing light to transmit data and operate many times faster than standard data - bus technologies .
+Field managers and laborers alike routinely use portable computers to check plans and other construction documents or to manage inventories of materials .
+Fiery printers are used in print shops as an alternative to press printing .
+Figure 1.1 shows a slide designed in Microsoft PowerPoint 2000 , a popular presentation program .
+Figure 1.10 shows the DOS prompt , which is still available in Windows 95 and 98 for those who want to run DOS programs or to work with DOS keyboard commands .
+Figure 1.11 shows a presentation created in Corel Presentation viewed in a browser window .
+Figure 1.13 shows a slide as it appears in slide show mode on a computer screen .
+Figure 1.14 shows a list of the main folder of a hard disk , as shown in the Windows Explorer utility .
+Figure 1.15 shows how addresses are used in e - mail programs .
+Figure 1.15 shows how cache memory works with the CPU and RAM .
+Figure 1.16 shows how data flows through a 9 - pin serial interface .
+Figure 1.16 shows the height at which a hard disk head floats compared to the sizes of dust particles , fingerprints , and the width of a hair .
+Figure 1.17 shows a series of articles and responses that make up a thread .
+Figure 1.17 shows how data moves through a parallel interface .
+Figure 1.19 shows a PC expansion board being installed .
+Figure 1.2 shows the Windows 98 interface with the Start menu open , a program running , and a dialog box open .
+Figure 1.3 shows a cursor in a document that is being edited in a desktop publishing program called Frame Maker .
+Figure 1.3 shows a typical Internet connection .
+Figure 1.4 shows how a typical CRT monitor works .
+Figure 1.5 shows the process for sending and receiving e - mail .
+Figure 1.8 shows a typical folder listing on a Windows NT system .
+Figure 1.8 shows an example of a pointer in a program window .
+Figure 1.8 shows the File menu in WordPerfect .
+Figure 1.9 shows a diskette and a diskette drive .
+Figure 1.9 shows a typical dialog box and describes some of the most common dialog box features .
+Figure 1.9 shows how these components might be arranged on the computer 's motherboard .
+Figure 2.1 shows an overview of the multimedia development process .
+Figure 2.1 shows how computers communicate through modems and a telephone connection .
+Figure 2.10 shows examples of each of these field types .
+Figure 2.11 shows a projection for the third and fourth quarters .
+Figure 2.13 shows a rendered image of the wireframe model from Figure 2.1 .
+Figure 2.14 shows such a table ; it calculates the monthly mortgage payment for several possible interest rates .
+Figure 2.2 shows an example of a file compression utility at work .
+Figure 2.3 illustrates data transfer rate .
+Figure 2.4 : Line printers are incredibly fast and can generate several pages of plain text in a minute .
+Figure 2.5 shows a customer information table as it appears in the popular PC database application , Lotus Approach .
+Figure 2.5 shows applications , the Winsock interface , and network drivers fit together .
+Figure 2.6 Ink jet technology is the basis for many new all in one office systems .
+Figure 2.7 : How a laser printer creates a printed page .
+Figure 2.7 illustrates the process .
+Figure 2.7 shows how a laser printer works .
+Figure 2.8 : Laser printers produce high resolution output quickly and quietly ; however , they tend to cost more than ink jet printers .
+Figure 2.9 shows a database table with clearly named fields .
+Figures 2.6 and 2.7 show a simple formula that takes the total sales amount for each agent and calculates the commission for that total .
+File compression , or data compression , is the technology for shrinking the size of a file , thereby freeing up space for more data and programs to reside on the disk .
+File compression is performed by software that uses mathematical algorithms to squeeze data into smaller chunks by removing information that is not vital to the file or data .
+File compression technology is used to shrink the size of files so that they take up less disk space .
+File Formats and Compatibility Issues .
+File formats may be proprietary or universal .
+File transfer protocol ( FTP ) is the Internet tool used to copy files from one computer to another .
+Files and programs used by more than one user ( at different nodes ) are often stored on the server .
+Files in other formats may also have URLs .
+Fill cells A1 through D5 with data of any kind .
+Fill in each blank with one of the terms listed under Key Terms .
+Fill in each blank with one of the terms listed under Key Terms .
+Fill in each blank with one of the terms listed under Key Terms .
+Film must be processed before the results can be seen .
+Filters are a DBMS feature for displaying a selected list or subset of records from a table .
+Filters let you browse through selected records that meet a set of criteria .
+Finally , as you learned in Chapter 1 of THE OPERATING SYSTEM AND USER INTERFACE , many people found the DOS command - line interface more difficult to learn and use than a well - designed GUI .
+Finally , because CAD drawings are created from a database of attributes , designers can use the information in other ways .
+Finally , film processing and printing can be a slow , expensive process .
+Finally , ink jet printers offer a cost effective way to print in color .
+Finally , to round out your knowledge and thus handle as many hardware problems as possible , you should become familiar with the different types of memory a PC uses and the types of data buses available .
+Find all records of New Yorkers who live in boroughs outside Manhattan .
+Find out if your PC is ready to play a game .
+Find out what type of printer is connected to your computer .
+Finding and starting programs from a command - line prompt can be compared to traveling at night with a road map in your head .
+Finding Content With a Search Engine .
+Fire codes prevent running ordinary networking cable in places where it can catch fire without being readily seen because of the noxious fumes given off during the burning .
+Firewalls act as barriers to unauthorized entry into a network that is connected to the Internet , allowing outsiders to access public areas but preventing them from exploring proprietary areas of the network .
+First , deforestation is a global problem because we cut down trees to make paper .
+First , for programs designed with 32 - bit processing , the operating system can exchange information with printers , networks , and files in 32 - bit pieces instead of 16 - bit pieces as in Windows 3.x and DOS .
+First , hard disks are sealed in a chamber , and second , the hard disk consists of a rigid metal platter ( usually aluminum ) , rather than flexible mylar .
+First , he wanted to create a powerful , feature - rich OS that provided the same function - ing of UNIX .
+First , instead of drawing the character multiple times , the computer animator needs to draw it only once ; the computer can duplicate the character as often as it is required .
+First , it provides a convenient storage medium for photos .
+First , look at the extension ( DOC , HTML , and others ) at the end of each file 's name , assuming your system is set to display file - name extensions .
+First , look at the monitor attached to your computer .
+First , the cost of purchasing software can be high .
+First , web designers are using compression technologies to ensure that Web pages ( especially multimedia components ) download and function faster than ever .
+First , when objects are created , they remain objects to the computer .
+First released in the 1960s , minicomputers got their name because of their small size compared to other computers of the day .
+Flamers can be shut out of listserv and chat rooms , and other users can block a flamer 's messages from the e - mail and news accounts .
+Flat - File and Relational Database Structures .
+Flat - file databases are two - dimensional tables of fields and records , they cannot form relationships with other tables .
+Flat - file databases are useful for certain single - user or small - group situations , especially for maintaining lists such as address lists or inventories .
+Flat panel displays for desktops , however , are expensive and produced only by a limited number of vendors .
+Flat panel displays typically have a smaller viewing angle than CRT monitors .
+Flat panel monitors are becoming increasingly popular , but their cost is too high for many users .
+Flat panel monitors are gaining popularity because of their comparatively light weight .
+Flat panel monitors for desktops are becoming increasingly popular .
+Flat panels for the desktop range from about 14 inches to more than 18 inches , but larger viewing areas are being developed all the time .
+Flatbed scanners offer higher quality reproduction than do handheld scanners and can scan a page in a single pass .
+Flexibility in navigation , thus enabling the user to move around at will or even redirect the flow of content .
+Floppies are popular because they are extremely portable and inexpensive .
+Floppy disks are common storage media , although they provide limited storage capacities .
+Fly - bys and walk - throughs are basic types of computer animation .
+Fly - bys and walk - throughs are considered simple forms of animation because the character ( in this case , the building ) does not move .
+Fly - bys and walk - throughs can be output from the computer onto videotape or compact disk , but this is a static method of giving a virtual tour ; that is , you cannot deviate from the tour 's route after it has been recorded .
+Folders can contain files or other folders , so it is possible to set up a hierarchical system of folders on your computer , just as you have folders within other folders in a file cabinet .
+Folders can contain other folders , so you can create a structured system known as a hierarchical file system .
+Follow the instructions on the screen to complete the tour .
+Follow the instructions to log into the site and explore .
+Follow the links and study their information .
+Follow these directions to visit a search engine site and look up information on the Web .
+Follow your instructor 's directions to view the list of templates provided by your presentation program .
+Following closely on its heels was the 603 , a low - power processor suitable for notebook computers .
+Fonts also fall into two additional broad categories : serif and sans serif .
+Fonts have names like Times Roman , Helvetica , and Palatino .
+For a detailed explanation of packets , see Chapter 1 , networking Basics of NETWORKS AND DATA COMMUNICATION .
+For a fee , such a service can connect to your computer remotely ( via an Internet or dial - up connection ) and back up your data to their servers .
+For a file to be transferred from one computer to another through a pair of modems , both computers must use the same file transfer protocol ( FTP ) - the set of rules or guidelines that dictate the format in which data will be sent .
+For a growing number of users , the PC is part of the home entertainment system or is replacing some home entertainment components entirely .
+For a long time , futurists and computer scientists have had the goal of enabling computers to see .
+For a record to exist , however , it must have data in at least one field .
+For a storage device , average access time ( or seek time ) is the amount of time the device takes to position its read or read heads over any spot on the medium .
+For all practical purposes , almost everything that happens across the Internet is a variation of one of these activities .
+For all these reasons , linux has quickly become a popular OS in certain circles .
+For articles , reviews , technical information , and links to Linux resources , visit http : / / www . linuxplanet . com / linuxplanet / .
+For backing up your entire hard disk to a high - capacity device , use the file - transfer software that came with the device .
+For best results when printing digital photo - graphs , use premium - quality photo printing paper , which is available at any office supply store .
+For certain types of products , the user 's goal is to learn something .
+For computer users in the home and in most average business settings , linux is not an issue .
+For databases created for hard disks , the designer must know the maximum size that the database can grow to ( which includes the data already in the database as well as the data that will be added in the future ) based on the size of the storage media .
+For decades , many expert typists have supported a different arrangement for alphanumeric keys called the DVORAK keyboard .
+For descriptions of various file formats , refer back to Table 1. .
+For each of the following devices , describe the type of component it is and briefly describe its function within a computer system .
+For each user , the client software presents the information in a way that makes sense .
+For example , a 15 inch monitor measures 15 inches from the lower left to the upper right corner .
+For example , a business with many branches might have a subdomain for each office - such as boston . widgets . com and newyork . widgets . com .
+For example , a Catalog field in a Customer table can tell a customer service representative whether a customer has ordered a new catalog ( Yes ) or not ( No ) .
+For example , a company may have its corporate headquarters and manufacturing facility in one city and its marketing office in another .
+For example , a computer can be enhanced with an accelerator card , a self - contained device that enhances processing speed through access to the computer 's CPU and memory by way of the bus .
+For example , a computer document can be a text file ( such as a letter ) , a group of numbers ( such as a budget ) , a video clip ( which includes images and sounds ) , or any combination of these items .
+For example , a DBMS can do the following .
+For example , a disk may perform more slowly because of all the compressing and expanding that occurs in the background , and the likelihood of data errors increases .
+For example , a diskette is a storage medium , whereas a diskette drive is a storage device .
+For example , a local area network may also have a connection to a large information network , such as America Online or the Internet .
+For example , a mass - produced version of iPic ( or a similar system ) can be placed inside many kinds of appliances , enabling them to be connected by a network and accessed through the Internet .
+For example , a mouse lets you position the cursor anywhere on the screen quickly and easily without having to use the cursor movement keys .
+For example , a particular hard disk drive might have six disk platters ( that is , twelve sides ) but only eleven heads , indicating that one side is not used to store data .
+For example , a PC with 16 MB of RAM is able to run Microsoft Windows 98 , even though the program actually occupies about 195 MB of disk storage space .
+For example , a phone number field must contain a record 's phone number - it cannot contain a person 's name or ZIP Code .
+For example , a range of B3 : D14 includes the whole block that has B3 as the upper left corner and D14 as the lower right corner .
+For example , a sales manager might create a query to list orders by quarter .
+For example , a structural engineer designing an office building might create layers such as electrical , plumbing , structural , and so on .
+For example , a T3 line offers 672 channels of 64 Kbps each ( plus control lines ) for a total of 44.736 Mbps .
+For example , a USB bus has a data transfer rate of 12 Mbps .
+For example , a video controller is a card that provides a port on the back of the PC into which you can plug the monitor .
+For example , a word processor maintains several databases .
+For example , a1 is a relative cell reference , and $ A $ 1 is an absolute cell reference .
+For example , Adobe Photoshop , by default , saves images in its proprietary PSD format , but it can also save files in several universal formats , such as TIF , GIF , JPEG , PICT , and TGA .
+For example , all windows include a title bar across the top that identifies the window 's contents .
+For example , America Online has become famous for its casual chat rooms , and CompuServe is probably best known for its discussion forums geared to technically oriented users .
+For example , an address book , a company 's phone book , a library 's card catalog , and an instructor 's list of students are all organized lists of data .
+For example , an employee must have a name .
+For example , can you format it , type over it , or delete it ?
+For example , companies use one type of enterprise software , called an electronic document management ( EDM ) system , to track documents , keep related ideas together , and aid in facilities management .
+For example , compared to the typical PC of ten years ago , a machine of the same price today will have about ten times as much RAM , about 100 times more storage capacity , and a microprocessor at least 100 times as fast .
+For example , consider this sentence : Here are some words .
+For example , consider two office LANs connected using the telephone system .
+For example , dictionaries , encyclopedias , professional reference libraries , music , and video all require tremendous amounts of data that you would not normally want to alter even if you could .
+For example , do not access recreational newsgroups over the company 's Internet connection or download obscene or pornographic images from adult - oriented Web sites .
+For example , each entry has a field for First Name and another field for Last Name , as well as fields for Address , City , State , ZIP Code , and Phone Number .
+For example , families can use the Internet or one of several disk - based products to connect to an investment firm ( Fidelity Investments , Charles Schwab &amp; Co . , and Prudential are just a few ) to get guidance about setting up a retirement portfolio .
+For example , Figure 1.18 shows a Telnet connection to library 's online catalog .
+For example , Figure 1.9 shows a screen from the Help system in Microsoft Word that utilizes hypermedia .
+For example , Figure 2.1 shows the popular personal accounting package Quicken .
+For example , Figure 2.4 shows an image before and after the Mosaic effect is applied in a paint program ; many different paint packages are available , including Adobe Photoshop , Jasc Software 's PaintShop Pro , and Meta - Creations ' Painter , to name a few .
+For example , files can be protected on a file - by - file basis , granting access to a file to one person or group but not to another .
+For example , for the maximum amount of color 24 bits , or 3 bytes , per pixel will render millions of colors ) at 1024 x 768 , the computer must send 2,359,296 bytes to the monitor for each screen .
+For example , H / PC Pro systems boast nearly full - size keyboards and color displays .
+For example , holes can be drilled into computer - based 3 - D objects , and corners can be made round or square by selecting the appropriate menu item .
+For example , icq can notify you when a buddy goes online , so you can begin chatting .
+For example , if a computer 's clock speed is 300 MHz , it ticks 300 million times per second .
+For example , if a photo has dust spots or someone 's eyes look red from a flash , the artist can draw the right number of appropriately colored pixels delicately into the affected areas to correct the problem .
+For example , if a photograph of a group of people has been scanned into the computer , special tools can erase the pixels that form the image of one of these people and replace them with pixels from the background area - effectively removing the person from the photo .
+For example , if the current interest rate is in cell A1 and several formulas are based on that rate , you want to be able to copy the formulas without the reference to A1 changing .
+For example , if you are storing employee data , theoretically , you can have an unlimited number of employees .
+For example , if you base an ascending sort on a Last Name field , the records will be arranged in alphabetical order by last name .
+For example , if you choose Find and then choose Files or Folders from the Windows Start menu , a dialog box appears , asking you to describe the file or folder you want to find .
+For example , if you do not plan to browse the World Wide Web or use multimedia products , you probably do not need to use the system 's highest color settings ; .
+For example , if you have a Pentium II - class computer with 64 MB of RAM and a large hard disk , you do not necessarily need to run Windows 9x .
+For example , if you have ever logged onto the Federal Express Web site ( www . fedex . com / ) and tracked the location of a package , then you have tapped into the company 's database .
+For example , if you need to find information on Aristotle , you can visit a search engine site such as Alta Vista or Lycos and type Aristotle in the site 's Search box .
+For example , if you plan to develop a multimedia tutorial on the topic of deck building , you should identify the type of person who is interested in building a deck .
+For example , if you scan a photo , you can use Adobe Photoshop - a graphics program - to increase the contrast or adjust the colors .
+For example , if you tell the operating system to list the files in a folder , it sends an interrupt request to the computer 's CPU .
+For example , if you type the letter r , the controller immediately issues an interrupt request .
+For example , if you type the URL http : / / www . cnn . com / into your browser 's address box , the CNN home page opens in your browser window .
+For example , if you want help with making characters bold in your document , the terms bold , format , font , and style may bring up the right answers .
+For example , if you want to be able to retouch a photo , create seamless tiling textures for the Web or for 3 - D surfaces , or create an image that looks like a painting , you will choose bitmap - based software .
+For example , if you want to see today 's copy of USA Today Online when you launch your browser , use the address http : / / www . usatoday . com / as your personal home page .
+For example , if you want to visit the Web site of the Internal Revenue Service , click in the browser 's address box ( to place an insertion point there ) and type as follows .
+For example , in a dusty factory or warehouse , a keyboard or mouse can become clogged with dirt quickly .
+For example , in a table of products , you can sort records into numerical order by product ID or into alphabetical order by product name .
+For example , in a word processing program you can press Backspace to back over an incorrect character and delete it .
+For example , in addition to equal to there is not equal to .
+For example , in Figure 1.12 , the columns are separated by tab spacing ( rather than by spaces inserted with the space bar ) .
+For example , in most programs , f1 is the help key .
+For example , in most programs you can press F1 to access the online help system .
+For example , in the field of Web page design , digital cameras enable designers to shoot a subject and quickly load the images onto their computer .
+For example , in Windows programs , one letter is underlined in the name of each menu and in many menu commands .
+For example , it is possible to embed a link to a Word document , a Web page , an audio clip , or a full - motion video clip into a slide .
+For example , look at the URL for the SunSite FTP archive of PC software at the University of North Carolina .
+For example , many companies have a DNS address whose first part is the company name , followed by . com - the now - overused marketing gimmick .
+For example , many historical buildings such as courthouses have brick walls internally and restrictions ( by historical societies ) on work that can be done .
+For example , many modems use the same unified driver in Windows 9x .
+For example , many programmers must write different versions of programs to run on different operating systems .
+For example , many programs feature a File menu , which typically contains commands for opening , closing , saving , and printing files .
+For example , many think that in the next decade artificial intelligence will be developed to the point that computers can begin reasoning - weighing facts , solving problems , perhaps even making decisions .
+For example , Microsoft Office is available on one or two compact disks ( depending on the version you buy ) and includes an online version of the printed manuals , thousands of clip art images , sample files , and more .
+For example , mindlink is a commercial Internet service provider in the Canadian province of British Columbia .
+For example , most bitmap - based programs can open , read , and save files in GIF format and convert it to a different bitmap format , such as TIF .
+For example , most draw programs now include the capability to import photos or art created with paint programs , although for the most part they lack the capability to edit them at the pixel level .
+For example , most medium quality ink jet and laser printers can print 300 or 600 dots per inch , which is fine for most daily business applications .
+For example , most newer video and sound cards have their own built - in RAM , as do many types of printers .
+For example , once you create a circle or make an electronic brush stroke , you can erase or tinker with the individual pixels , making minor adjustments until the image is exactly what you want .
+For example , relevant data can be used to calculate subtotals and totals for invoices or sales summaries .
+For example , sites like broadcast . com , netradio . com , and even Microsoft provide access to radio stations from around the world in addition to Internet - only radio .
+For example , some community colleges include cc in their DNS address , whereas some schools include K12 in their address .
+For example , some processors employ multiple decoders when translating instructions to microcode ; other processors skip this step .
+For example , someone using a Macintosh computer can exchange data with a UNIX computer on the Internet .
+For example , suppose that the database is a list of customer purchases .
+For example , suppose that the spreadsheet and memo shown in Figure 1.12 are generated quarterly .
+For example , suppose you are developing a multimedia dictionary .
+For example , suppose you have a friend named John Smith who works ( and has an e - mail account ) at a company called Widgets , Inc .
+For example , the control unit might load two numbers from memory into the registers in the ALU .
+For example , the Ctrl key combination Ctrl - O enables you to open a new file .
+For example , the DBMS might not handle a number correctly if the user enters it with a dollar sign - even though the number will be displayed as a dollar amount .
+For example , the first feature - length computer - animated film , Toy Story , would have had limited appeal for just its technical wizardry .
+For example , the first PC operated at 4.77 megahertz , Hertz ( Hz ) is a measure of cycles per second .
+For example , the footers in this book include the unit number or the unit title ( depending on whether they are located on a left page or a right page , respectively ) and the page number .
+For example , the Open button and the Cancel button are found in many dialog boxes , as shown in Figure 1. .
+For example , there are mailing lists for producers of radio drama , makers of apple cider , and members of individual college classes who want to keep up with news from their old classmates .
+For example , they can calculate the area of a living room or the volume of a storage tank .
+For example , to move a paragraph in a word - processed document , select the paragraph , then choose the Cut command , which removes the data and places it on the Clipboard .
+For example , training is a never - ending task in large corporations , especially as companies expect their employees to master the latest computer technologies .
+For example , two different departments in a large business may each have its own LAN , but if there is a need for data communications between the departments , then it may be necessary to create a link between the two LANs .
+For example , two distant mainframe computers can communicate through a WAN , even though neither is part of a local area network .
+For example , Type I cards usually contain memory , Type II cards are used for network adapters , and Type III cards usually house tiny hard drives .
+For example , users still had to deal with DOS memory - use limitations , although Windows made it easier to access 1 MB of memory .
+For example , what skill level or experience should the user have before using the program ?
+For example , when you draw a square with a draw program , the computer remembers it as a square of a fixed size at a specific location , that may or may not be filled not as a bunch of pixels in the shape of a square .
+For example , when you want to search for a word in a document , the CPU carries out a rapid succession of equals operations to find a match for the sequence of ASCII codes that make up the word for which you are searching .
+For example , when you want your word processing program to retrieve a file , you use the Open dialog box to list the files in the folder that you specify .
+For example , Windows NT Server supports several additional levels of Redundant Array of Independent Disks ( RAID ) for disk duplexing , disk striping , and disk mirroring .
+For example , wireframe models represent 3 - D shapes by displaying their outlines and edges .
+For example , you can connect a PC , telephone , and fax into a single ISDN line and use them simultaneously .
+For example , you can convert an image in any number of bizarre ways .
+For example , you can copy an address from one letter to another and thereby avoid rekeying it .
+For example , you can create a filter that displays only those records that have the data Gold in the Status field , as shown in Figure 2.1 .
+For example , you can create three worksheets , each containing sales data for a different month .
+For example , you can include controls that automatically move the insertion point to the next field when the typist presses the Enter or Tab key , or you can convert all the input into capital letters to maintain data consistency .
+For example , you can make a magnet by taking an iron bar and stroking it in one direction with a magnet .
+For example , you can rearrange this list by product names or by categories .
+For example , you can send a message to a friend and attach a word processing document or some other file to the message .
+For example , you can set up a State field so that a state 's two - letter code appears uppercase ( TN ) , no matter how the data is typed ( tn , Tn , tN , or TN ) .
+For example , you can view the contents of a disk in a window , run a program and edit a document inside a window , view a Web page in a window , or change system settings in a window .
+For example , you may want to copy a chart from a spreadsheet program and place the copy in a document in a word processor .
+For example , you might create a customer report that lists customers by ZIP Code .
+For example , you need to add 5000 bytes to a 10,000 - byte file that has no open space around it .
+For example , your sound card must recognize the protocols of Windows 2000 , and Windows 2000 must have a device driver that works with your sound card .
+For fewer copies or even single copies , a CD - Recordable ( CD - R ) drive can be attached to a computer as a regular peripheral device .
+For information , visit www . comptia . org / and click the Certification link .
+For information moving around in the computer , the effect is like doubling the number of lanes on an expressway .
+For instance , date fields can verify a date 's accuracy and account for the extra day in a leap year .
+For instance , if a company connects its networked PCs with cable , it owns the cabling and therefore pays a fixed cost to transmit data across the network .
+For instance , in DOS , you type DIR at the prompt to see a list of files in a particular directory ( the equivalent of a folder ) .
+For instance , it can be easier to add new users to a Cabling is a major concern when setting up any network star network than to a bus network .
+For instance , it is possible to use many CD - based products in multi - user environments , across networks , and even in tandem with separate Web sites or other Internet resources .
+For instance , you can drag an icon for a file from one folder to another and thus move the file .
+For instance , you double - click the icon of a word processing program to load that program into memory and start using it .
+For instance , you may be able to click on or roll your mouse pointer over a Shockwave animation to redirect the animation , cause a different event to occur , or initiate a hypertext jump .
+For instance , you would expect to find the part number for a radiator in an inventory of auto parts , but you should not expect to view an employee 's payroll record in the same table .
+For large quantities , CD - ROM disks can be produced by manufacturers with expensive duplication equipment .
+For many small businesses , networking means connecting several workstations to allow workers to collaborate and share data .
+For many years , they needed a special paper , and each sheet had to dry before you could touch it .
+For memory devices , access times are measured in nanoseconds ( ns ) , or one - billionths of a second .
+For more information on using these tools , see Prerequisites at the front of this textbook .
+For most computer users , whether at home or work , the printer is indispensable .
+For much of history , information was presented via a single , unique medium .
+For now , browse your operating system 's help system to learn more about your computer .
+For older computers , it may be necessary to add one or more of the following components to turn the PC into a multimedia PC .
+For random - access devices ( all the storage devices discussed , with the exception of magnetic tapes ) , you generally want a low access time and a high data transfer rate .
+For several years , experts have envisioned the Internet ( and , by extension , the individual networks that tie into the Internet ) as the ultimate vehicle for multimedia delivery .
+For simple drawings ( such as plain geometric shapes and line drawings ) , start with Windows Paint , which comes with every copy of Windows .
+For small businesses and individual users , integrated services digital network ( ISDN ) is an attractive alternative .
+For SOHO workers who want to design their own Web pages , a word processor may be the only tool they need .
+For some , a mouse requires too much desktop space - a real problem when you do not always work at a desk !
+For some types of games , testers use ordinary keyboards and mice .
+For specific directions , ask your instructor .
+For storage devices , access times are measured in milliseconds ( ms ) , or one - thousandths of a second .
+For the drive to read each sector in the same amount of time , it must spin the disk faster when reading sectors near the middle and slower when reading sectors near the edge .
+For the past few years , the 15 inch monitor was the standard size with most desktop computer systems .
+For the telecommuter , setting up a home office almost always requires a computer and a modem .
+For these developers , audio and video output is critical .
+For these people , the demand for printed documents will not decrease .
+For these reasons , computer storage systems have grown in capacity and speed at about the same rate as processors .
+For these reasons and others , hardware makers have developed various input devices that duplicate the mouse 's functionality but interact with the user in different ways .
+For these users , a keyboard may not be enough to handle the task .
+For this reason , many people assume that computers must be difficult to understand and difficult to use .
+For this reason , minicomputers are increasingly being called midrange computers .
+For this reason , most hard disks allocate more sectors to the longer tracks on the disk 's surface .
+For this reason , multimedia developers commonly use tools once reserved for use by Web designers , such as HTML editing programs .
+For this reason , programs such as DriveSpace 3 are helpful .
+For this reason , some new products have been published on multiple disks , which can mean an interruption in use when disks must be swapped .
+For this reason , the answers to audience - related questions are the most important factors in shaping a final product .
+For this reason , the left mouse button is sometimes called the primary mouse button .
+For this reason , the managing editor is reluctant to hire you at the position 's advertised salary .
+For this reason , the term PC has come to mean the family of computers that includes IBMs and IBM - compatibles .
+For this reason , these formats are said to be compatible with such programs .
+For this reason and others , any two Windows 98 systems can look different .
+For this type of sound input , you need a microphone and a sound card that translates the analog signal ( that is , sound waves ) from the microphone into digital codes the computer can store and process .
+For those users who prefer a graphic interface when querying a database , some programs provide an interface , like a form or a grid , that collects the facts about a query from the user and composes the SQL or query statements behind the scenes .
+For two decades after the birth of the personal computer , the biggest player in the PC CPU market was Intel Corporation .
+For users of Windows 3.x , Windows 95 has several attractions .
+For users who have trouble pressing two keys at one time , a sticky keys option allows the user to activate any modifier key by pressing it once and releasing it .
+For years , companies have gathered and managed vast amounts of data of every imaginable kind .
+For years , however , computer operating systems used command - line interfaces , which are environments that use typewritten commands rather than graphical objects to execute tasks and process data .
+For years , system buses ran at a speed of 66 MHz ; contemporary systems offer bus speeds of 100 MHz and 200 MHz .
+Formats include music of all kinds , news and sports , talk , call in , and more .
+Formats such as Macromedia 's Shockwave allow developers to create entertaining , colorful animation that not only displays directly within a browser but also accepts input from the user .
+Formatting text in a presentation program is just like formatting text in a word processor .
+Formatting Values , Labels , and Cells .
+Forms are custom screens for displaying and entering data that can be associated with database tables and queries .
+Formulas are used to perform calculations in the worksheet , formulas can use cell references to use data in other cells .
+Formulas typically refer to the values in other cells throughout the worksheet .
+Fortunately , both problems are decreasing in importance with time .
+Fortunately , dedicated high - speed data circuits are available from telephone companies , cable TV services , and other suppliers .
+Fortunately , if you already own a PC and decide that it needs more RAM , you should be able to buy more , open up your computer , and plug it in .
+Fortunately , modem buying is much easier today because most newer modems support the most current standards and also the old ones .
+Fortunately , several specialized Web sites , called search engine , use powerful data - searching techniques to discover the type of content available on the Web .
+Fortunately , you do not have to be a computer whiz to create HTML documents .
+Four of the most commonly used methods are scanners , digital cameras , clip art , and electronic photographs .
+Four of the most important benefits are listed below .
+Fragmentation slows disk performance because the OS must spend time looking for pieces of files stored in various places .
+Fragmented files cause undesirable side effects , the most significant being that it takes longer to save and load them .
+Free design tools are usually available also .
+From nearly the beginning , unix was an incredibly powerful and flexible operating system that could run on a single computer or on a network .
+From postage stamps to magazine illustrations , from billboards to television programs , all kinds of graphics are created and edited using computers and graphics software .
+From shampoo bottles to automobiles , from initial specifications to modeling and visualization , most product design is done on the computer .
+From the head end , the network branches out to subscriber locations using combinations of fiber - optic and copper cable , typically terminating at each end - user location as coax cable .
+From the Look in drop - down list , choose your computer 's hard disk ( typically C : ) .
+From the Port drop - down list , select telnet .
+From the Start menu , you can click a program icon to start a program , choose Help to find information to assist you as you work , or choose Shut Down when you are ready to turn off your computer .
+From the user 's point of view , input devices are just as important as the CPU .
+From this page , you can navigate to other pages on the Web site ( and possibly to other sites ) .
+From this perspective , it is hard to beat television for the amount and variety of content it can deliver to an audience .
+From time to time , you may see the term Windows 3.x .
+FTP is the Internet tool for copying data and program files from one computer to another .
+FTP sites provide access to many different types of files .
+Full - disk compression schemes are not without risks , however .
+Function keys also became important .
+Further , the IS department usually must set up and administer a company 's PC installation .
+Future DVD technologies promise much higher storage capacities on a single disk .
+Game controllers generally fall into two broad categories : game pads and joysticks .
+Game designers and filmmakers use many of the same techniques to create characters and backgrounds for viewing .
+Game makers and filmmakers rely heavily on computer - aided compositing techniques to blend computer - generated imagery and filmed or videotaped images of real characters and objects .
+Games , some of which are for a single player and many of which can be played by several people over a network or the Internet .
+Generally , browsers can open and view images in GIF , JPG , and PNG formats directly in the browser window , although PNG - format images are not commonly used .
+Generally , printers fall into two categories : impact and nonimpact .
+Generally , such a window or form provides an area for selecting the tables the query will work with and columns for entering the field names where the query will obtain or manipulate data .
+Generally , the more RAM a computer has , the more it can do and the faster it can perform certain tasks .
+Generally , two technologies are used to control data warehouses : symmetrical multiprocessing ( SMP ) or massively parallel processing ( MPP ) .
+Generally , web designers use only two file formats - GIF and JPEG - which have specific color settings and specific uses .
+Generically , it is called an integrated pointing device .
+Geographical distance aside , the chief distinction between a WAN and a LAN is the cost associated with transmitting data .
+Get a jump on the OS by finding the latest information about it on the Web .
+Give your reasons for choosing that program .
+Give your reasons for choosing that unit .
+Given the prevalence of databases in your daily life , it should not surprise you to learn that many of the early attempts to build and program computers grew out of a need to store and manipulate large lists of data .
+Glossy , thick photo quality stock , used for printing photographs , can cost several dollars per sheet depending on size .
+Goal seeking and sorting are other common data analysis tools found in spreadsheets .
+Goal seeking finds values for one or more cells that make the result of a formula equal to a value you specify .
+Good designers bring a sense of color and balance to the Web page and use graphics to enhance the site 's message as well as to make it more visually appealing and easier to navigate .
+Government agencies , such as the Internal Revenue Service , Federal Aviation Administration , and the Census Bureau , use mainframes to track information about large populations , individual tax records , payroll , and more .
+Graduates are certified to have a given level of expertise and training in one or more technologies .
+Grammar checkers work like spell checkers , but they inspect your document for grammatical problems .
+Graphic artists also appreciated the Macintosh 's easy - to - use graphical interface , with enhancements such as sophisticated typefaces and the capability to magnify images and undo mistakes .
+Graphic Artists and Desktop Publishers .
+Graphic artists commonly use traditional photos that have been converted into digital format by scanning .
+Graphical operating systems enable you to have multiple programs and resources running at the same time , but you can work in only one window at a time .
+Graphical user interfaces are so called because you use a mouse ( or some other pointing device ) to point at graphical objects on the screen .
+Graphics can make nearly any Web page easier to use or simply more appealing visually .
+Graphics files are composed of one of the following two features .
+Graphics files are used to create buttons and bullets , horizontal rules , navigational tools , and much more .
+Graphics files fall into one of two basic types : bitmap and vector .
+Graphics programs - and the designers who use them - have become so polished that it is often impossible to tell a photograph or hand - drawn illustration from a computer - generated graphic .
+Graphics programs for designing illustrations or manipulating photographs , movies , or animation .
+Graphics software has advanced a great deal in a short time .
+Graphics software is available for different computer platforms , including Macintosh computers and IBM - compatible PCs .
+Graphics software lets you create and edit images of all types .
+Grayscale monitors display varying intensities of gray ( from a very light gray to black ) against a white or off white background , and are essentially a type of monochrome monitor .
+Great care must be taken to preserve the negative image produced on the film .
+Grouped together , however , they convey specific meanings .
+Groups of data are routed through the hub and sent to all the attached nodes , thus eventually reaching their destinations .
+Groupware allows multiple users on a network to cooperate on projects .
+H . Shrikumar 's invention uses 512 bytes of program ROM and 16 bytes of RAM in a standard microprocessor chip .
+H / PC Pro units offer long battery life and instant - on access , but they do not include disks .
+Handheld computers are popular for their calendar and schedule - management capabilities , which enable you to set appointments , track projects , and record special events .
+Handheld personal computers are the smallest computing devices .
+Handheld scanners are more portable but typically require multiple passes over a single page because they are not as wide as letter size paper .
+Handles are small boxes ( usually white or black in color ) , which you can drag to resize the frame .
+Hard disk drives are much faster than diskette drives ; their disks spin faster and they can locate data on the disk 's surface in much less time .
+Hard disks , in contrast , offer capacities from about several hundred megabytes and more .
+Hard disks , on the other hand , come in a wide variety of sizes ( and may allocate sectors and clusters in different ways ) , so their capacities vary greatly .
+Hard disks can store more data than diskettes because of their higher - quality media , faster rotational speed , and the tiny distance between the read head and the disk 's surface .
+Hard disks have become the primary storage device for PCs because they are convenient and cost - efficient .
+Hard disks must also be formatted so the computer can locate data on them .
+Hard disks offer the fastest data transfer rates of any storage device .
+Hard drives are many times faster .
+Hardware and software manufacturers have developed sets of standards for computer systems that will be used with multimedia products .
+Hardware consists of electronic devices , the parts you can see .
+Hardware consists of interconnected electronic devices that you can use to control the computer 's operation , input , and output .
+Hardware is difficult to install and configure under DOS because each device requires a unique driver .
+Has your past experience with computers influenced your decision to study them ?
+Have a classmate time you as you type the first paragraph of the Norton Notebook article on the opposite page .
+Have we reached that point already ?
+Have you ever watched an incredible scene in a movie or seen a drawing that looked so realistic you thought it was a photograph ?
+Have you worked with ( or played with ) computers before ?
+Having a place to store all that data , however , leads to another question : how do you find what you need in all that data ?
+Having said all this , should you learn about Linux ?
+HDTV has a digital noninterlaced picture with twice the vertical resolution of current television .
+HDTV is still in the early stages of its release , but when it comes , the need for converters will be eliminated .
+He or she creates the various art forms , usually within a specialized area such as graphic design , calligraphy , illustration , photography , image manipulation , packaging , or typesetting .
+He or she creates the video footage that interfaces with the interactive technology of the product .
+He or she designs and creates the underlying software that runs a multimedia program and carries out the user 's commands .
+He or she directs the creation of all art for the project .
+He or she ensures that the technological process of a project works and that it accommodates all project components and media .
+Headers and footers are lines of text that run along the top and bottom of every page .
+Hearing impaired users can set their PCs to display visual alerts instead of sounding audible alerts .
+Help Desk and Product Support Specialists .
+Help desk operators should become familiar with the different file systems that operating systems use and how these operating systems work with different storage devices .
+Helper Applications and Multimedia Content .
+Hence , the newest 64 - bit buses are typically considered the fastest available .
+Here , an architectural elevation is being printed .
+Here are a few certification programs to consider .
+Here are a few examples of professionals who use word processors or spreadsheet programs in their daily work .
+Here are a few examples of professions that rely on specific input devices .
+Here are a few improvements to look forward to .
+Here are few Web sites that provide portal services .
+Here are just a few areas where computer - based graphics are used routinely .
+Here are just a few examples of entertainment options that you can access with a typical multimedia PC .
+Here are some of the major categories of these applications .
+Here are some steps you can take to make sure you are handling electronic graphics properly .
+Here are some tips to help you start a regular backup routine .
+Here are three examples of the types of special business - oriented programs targeted at small businesses .
+Here are three simple steps you can take .
+Here is a look at a few of the e - book systems now on the market .
+Here is a sampling of the advanced document design features found in DTP software .
+Here is an easy way to learn about incompatibility between files and programs .
+Here is an overview of some references you can find on the Internet .
+Here is how you would break down the capacity for an extremely large ( 50 GB ) hard disk , assuming that the disk has eleven platters , 264,528 tracks , and about 369 sectors per track .
+Here you see a group of files in Windows Explorer .
+High - bit - rate DSL ( HDSL ) allows the telephone company to provide T1 speeds at a lower cost than T1 but requires two wire pairs .
+High - capacity floppy disks are becoming a popular add - on for many computers .
+High - quality digital video requires that millions of bits be transmitted to the monitor every second .
+High - speed data links such as ISDN and xDSL are more expensive options , but they provide much faster service than standard telephone line connections over a modem .
+High resolution color systems are considerably more expensive .
+Higher - resolution images also require more storage space and take longer to download to the user 's computer .
+Higher bandwidth will enable you to monitor your home visually from work ( assuming you still work outside the home ) and control essentially the entire household remotely .
+Higher settings are not always better , however , because they can cause objects on the screen to appear too small , which can result in squinting and eyestrain .
+His discoveries and inventions in the fields of networking , hypertext , user interface technologies , and other computing disciplines continue to affect everyday computer users .
+His OS would run on almost any computer , regardless of its architecture or the type of applications it hosted .
+Home and business users will continue to enjoy an increasing variety of storage options , and those options will offer ever - increasing capacities and speed .
+Home computers are used more extensively than ever for tasks such as banking , investing , shopping , and communicating .
+Home networking is becoming more popular as the number of homes with multiple computers increases , along with the number of people who telecommute .
+Home networks typically operate on existing media such as the home 's telephone lines or cable wiring .
+Home users are probably the biggest consumers of multimedia products .
+Home users consume a wide variety of multimedia products for entertainment and learning .
+Home users may want to keep their backups in a fireproof box .
+Horizontal and vertical scroll bars with scroll boxes let you scroll through a document that is too large to fit inside the document area .
+Hot - swappable hard disks are like removable versions of normal hard disks .
+How a CRT monitor creates an image .
+How a dot matrix printer creates an image .
+How an ink jet printer creates an image .
+How are workstation computers typically used in graphics , and why are they often reserved for those uses ?
+How can digital light processing ( DLP ) projectors project better images than standard LCD projectors ?
+How Data Is Organized on a Magnetic Disk .
+How do most individual users connect to the Internet ?
+How do networks help businesses save money ?
+How do spreadsheets perform calculations that involve dates ?
+How do you add text in a text box when creating a slide ?
+How do you double click an item with a mouse ?
+How do you feel about this possibility ?
+How do you get your PC to talk to your television ?
+How does a color CRT monitor produce images on the screen ?
+How does a dual scan LCD monitor produce a clearer image than an ordinary passive .
+How does a grammar checker function in a word processor ?
+How does the user benefit from the multitasking capabilities of an operating system ?
+How fast do you want your cursor to blink ?
+How fast is the processor , and how much RAM is available ?
+How important do you think the Internet is to casual home users ?
+How is the volume of work involved in a multimedia product accomplished ?
+How many objects ( folders ) are stored on the hard disk ?
+How many characters or symbols can be represented by one 8 - bit byte ?
+How much cabling will be exposed ?
+How much can you tell about the system by looking at it ?
+How much free space is available ?
+How much information should they be allowed to collect about individuals ?
+How much time will users want to spend exploring this content ?
+How powerful does a PC need to be ?
+How quickly do you want your documents to be printed ?
+How the Computer Accepts Input From the Keyboard .
+How the operating system communicates with the CPU .
+How the Operating System Finds Data on a Disk .
+How will you benefit from computer literacy ?
+How would you feel in this situation ?
+However , as more multimedia products are published on DVD ( and as more consumers purchase computers with DVD drives ) , the storage issue promises to fade in importance .
+However , because DTP software is designed specifically to produce complex , multicolor , printer - ready documents , it is the better choice for professional document design .
+However , because the letters replaced the background color instead of being layered on top of it , the deletion also removes part of the background .
+However , buses are now also being measured according to their data transfer rates - the amount of data they can transfer in a second .
+However , cable modems are also finding acceptance in small - to medium - sized businesses as an alternative to other technologies such as DSL and ISDN .
+However , computers cannot understand anything .
+However , consumers are buying more and more systems with DVD - ROM drives rather than standard CD - ROM units .
+However , corporate and academic networks are being configured more frequently to resemble the Internet .
+However , direct connections are uncommon .
+However , dos actually remained the most popular operating system for IBM - compatible PCs because it was required to run the Windows operating environments .
+However , dos won the early operating system marketing wars because IBM chose to license it instead of CP / M as the standard operating system for the IBM PC .
+However , file compression can enable you to store more data on a disk , effectively increasing the disk 's capacity .
+However , guis became the standard because most users preferred them , in part because they are easier to learn .
+However , it is also more expensive and became less popular when twisted - pair technology improved .
+However , many other talented software firms are constantly finding ways to improve operating systems .
+However , many popular productivity applications now feature various Internet - related tools .
+However , many video cards and monitors can refresh at much higher rates , which produces a flicker - free picture on your monitor .
+However , no single NC standard emerged as various hardware and software makers fought to command this new market .
+However , one key change in Windows 98 is the inclusion of the Internet Explorer Web browser .
+However , pc sound cards may also be MIDI devices .
+However , people also use them to make illegal duplicates of software and audio CDs .
+However , some free Web - based e - mail services will store your messages for only a certain amount of time and then automatically delete them .
+However , spreadsheet programs also enable you to create elaborate reports with charts , text , colors , graphics , and much more from your data .
+However , that is only the beginning .
+However , the greater the amount of the program that fits into memory , the faster the program runs .
+However , the pirates are wrong in both cases .
+However , the sectors are laid out quite differently than they are on magnetic disks .
+However , the standard parallel interface for external devices like printers usually transfers 8 bits ( 1 byte ) at a time over eight separate wires .
+However , the tables ' fixed relationships limit the flexibility of the database , making some kinds of queries or reports difficult or impossible .
+However , the term touch screen implies a system that accepts input by allowing the user to touch the screen with a fingertip .
+However , the Web is simply one part of the Internet - a type of service available to persons who can access the Internet 's resources .
+However , these types of services are not always well suited for transmitting live video and sound .
+However , this classification does not tell you anything about how individual computers on a network , called nodes , interact with one another .
+However , when the telephone companies complete the transition and digital lines are installed to every building , the data transmission system will be a lot simpler .
+However , word processors are important to professionals who primarily use other programs , like architects , engineers , accountants , and others who rely on design , analysis , or spreadsheet programs .
+However , you can also store MIDI commands in a MIDI file .
+However , you can set the software so that extra space is included automatically before or after each paragraph .
+However , you do need to understand the differences among floppy disks , hard drives , CD - ROM drives , and removable storage .
+However , you do not have to become a computer expert to increase your earnings .
+However , you should be aware of their existence and the impact they can have on your multimedia experience , and that some of them require special software to function properly on your system .
+HTML document templates provide predesigned navigation tools : places where the user can insert hyperlinks , frames , and many other features found in well - designed Web pages .
+HTML is commonly used in interactive multimedia programs as well as Web pages , so HTML editors are important tools in the developer 's arsenal .
+HTML tags are placed around the portions of the document they affect .
+HTTP uses Internet addresses in a special format , called a uniform resource locator ( URL ) .
+Huge data warehouses can supply the data requirements for tens of thousands of users in a large organization .
+Huge warehouses of data could be stored digitally in a device the size of a shoebox , with any byte instantly available .
+Hundreds of learning - oriented Web sites allow children to participate in interactive projects , puzzles , and games .
+Hundreds of mailing - list discussions are in progress all the time on a huge variety of topics .
+Hypermedia : User - Directed Navigation .
+Hypermedia can also exist on a smaller scale .
+Hypermedia is commonly used in multimedia products .
+Hypertext links are the foundation of the World Wide Web .
+IBM 's network technology is the Token Ring .
+IBM 's OS / 2 Warp was the first true GUI - based operating system for Intel - based PCs .
+IBM compatible computer keyboards originally had ten function keys ; eventually that number was expanded to twelve keys .
+IBM continues to develop and market OS / 2 , but the product has fallen to an also - ran status .
+Icons , windows , menus , dialog boxes , and other graphical objects appear on the desktop for the user to manipulate .
+Icons are pictures that represent the parts of the computer you work with - printers , fonts , document files , folders ( a way to organize files into logical groups ) , disk drives , programs , and so on .
+Identify five special features commonly found in modern word processors .
+Identify four components found in most graphical user interfaces .
+Identify four interface elements found in most presentation programs .
+Identify four types of computer hardware .
+Identify four types of data that can be entered in a worksheet .
+Identify four types of personal computers .
+Identify four ways to load graphic files into a computer .
+Identify one technology that supports streaming audio and video on the Web .
+Identify the five essential techniques for using a mouse .
+Identify the five key groups on a standard computer keyboard .
+Identify three basic word processing tools that simplify document editing .
+Identify three common variants of the mouse .
+Identify three computer platforms widely used in graphic design .
+Identify three important categories of computer - generated animation .
+Identify two types of flat panel monitors and explain their differences .
+Identify two unique features of supercomputers .
+If a career in network design or administration appeals to you , then you should consider getting certified in one or more popular networking technologies .
+If a cell already contains data , you can edit it in the formula bar .
+If a character must walk from point A to point B , for example , the designer starts by drawing the character at the starting point and then again at the ending point of the walk .
+If a company has buildings on opposite sides of town , it can set up a microwave antenna on top of each to transmit data back and forth quickly .
+If a diskette has eighty tracks on each side , and each track contains eighteen sectors , then the disk has 1440 sectors ( 80 x 18 ) per side , for a total of 2880 sectors .
+If a file is too large to be saved in a single sector on a disk , it must be broken into pieces .
+If a larger storage device is needed after the database designer assesses the existing storage requirements , he or she must consider downgrading the database storage requirements or upgrading the existing storage hardware .
+If a local area networks uses TCP / IP protocols for communication within the network , it is simple matter to connect to the Internet through a router , another computer that stores and forwards data to other computers on the Internet .
+If a person cannot release a key quickly after pressing it , this option tells the computer to ignore repeated key strokes .
+If a printer is connected to your system , it will appear in the Printers window .
+If a request or data does not pass the firewall 's security inspection , it is stopped from traveling any further .
+If a single character set were available to cover all languages , computer programs and data would be interchangeable .
+If a spreadsheet is installed on your computer , complete the following exercise as directed by your instructor .
+If a suite includes an account with a particular ISP , most likely the service provider has worked with the software developer to make sure that there are no incompatibilities between the software and the network .
+If a user has write access to certain files , he or she can open , change , and save those files but may not be able to delete or move the files .
+If a Web page is protected by SSL , its URL will begin with https : / / rather than http : / / .
+If a word processor is installed on your computer , complete the following exercise as directed by your instructor .
+If all other factors are kept equal , a CPU with 32 - bit registers can process data twice as fast as one with 16 - bit registers .
+If an ISP collects enough complaints about an account holder , it can cancel that person 's account .
+If any adapters are installed , the list expands to show them .
+If any do , the running program will relinquish control of the CPU to the next program .
+If any navigation buttons , icons , bullets , bars , or images appear on the page , they are separate graphics files that are being displayed at the same time .
+If any part of the formula ( either the sales total or the commission percentage ) changes , the formula can automatically recalculate the resulting commission .

@@ -1,0 +1,1534 @@
+Người dùng gởi yêu cầu từ bàn phím , yêu cầu nầy được truyền qua một ứng dụng telnet đang chạy trên máy cục bộ .
+Người dùng khai thác Internet bằng cách nhấp chuột vào các liên kết như dòng văn bản , nút , hình ảnh .
+Những bit ưu tiên của người dùng đóng vai trò như là một cái nhãn trong dòng dữ liệu nhằm xác định gói dữ liệu đó được ưu tiên .
+Người dùng chỉ đơn giản bật đầu cuối lên và giao diện phần cứng làm cho hệ thống chủ biết nó đang trực tuyến bằng cách dùng thủ tục bắt tay .
+Họ sẽ có đủ các quyền của nhóm .
+Sau đó thiết lập một liên kết ảo băng qua Internet để đến mạng tương thích nầy .
+Sau đó người dùng nắm lấy điều thách thức nầy và dùng nó để thực hiện một thao tác mã hóa để tạo ra kết quả rồi gửi ngược trở lại cho server .
+Username và password của người dùng hợp pháp bị lấy bằng nhiều cách , ví dụ như qua giấy ghi chú của người sử dụng hợp pháp , lúc nhập password qua bàn phím , hay có thể giám sát đường cable mạng với việc phân tích mạng .
+Ứng dụng của người dùng có thể sẽ gặp khó khăn trong việc truy cập dữ liệu hay không thể diễn giải đúng đắn dữ liệu vì không hiểu được định dạng của nó .
+Người dùng được kiểm tra bởi một server phụ trách an toàn và thông qua ID riêng của họ để hệ thống có thể xem xét được ai đang vào và khai thác hệ thống .
+Người dùng cảm thấy thỏa mãn vì họ có một hệ thống thư tín đáng tin cậy .
+Tên người sử dụng và mật mã được gửi đến server , ở đó chúng được so sánh với dữ liệu về tên và password của người sử dụng đó .
+SID của người dùng nhận được từ thẻ vào , và các mục tương ứng phải trùng với SID đó trong ACL .
+Cấu hình thông thường của môi trường xí nghiệp cho phép Java bao gồm các client chấp nhận Java cùng với dữ liệu , và các thành phần khác được lưu trữ trên server .
+Kết nối thông thường là qua modem , mặc dù truy cập từ xa có thể hiểu là đường dây thuê bao vĩnh viễn hay qua Internet .
+Phương pháp kết nối thông thường là qua một modem quay số , tuy nhiên truy cập từ xa cũng có thể được kết nối qua các đường dây thuê bao hoặc ngay cả qua Internet .
+Giống như hệ phòng thủ xung quanh các lâu đài thời trung cổ , xem hình F - 10 .
+Phương pháp thường dùng là sử dụng giải thuật dò đường lớp 3 để tìm ra đường dẫn xuyên trên mạng , rồi cài đặt lớp 2 - mạch ảo qua các nhánh của ATM để có thể phân phối khối dữ liệu đến đích mà không cần phải qua router .
+Giao thức thường dùng trong phạm vi các hệ thống tự trị là giao thức OSPF ( Open Shortest Path First : Ưu tiên tìm đường ngắn nhất ) .
+Quá trình cài đặt thường là một Windows client với trình điều khiển PPTP như là trình điều khiển WAN của nó .
+Giải pháp thông thường là chuyển mạch nhanh - nhanh hơn cả thông suất của tất cả các thiết bị nối với bộ chuyển mạch nầy nhưng không ai có đủ ngân sách để mua các cổng nhanh như thế , vì thế cần phải cân nhắc cẩn thận trong thiết kế vùng đệm cho bộ chuyển mạch .
+Kỹ thuật thường dùng là bổ sung các hỗ trợ cho HTTP hay HTML .
+Kỹ thuật được dùng để tránh các liên kết với router càng xa càng tốt , là kỹ thuật route once , switch many .
+Giá trị nầy thay đổi qua từng phút , vậy nếu nó bị ai đó chộp được , thì họ cũng chẳng thể sử dụng để đăng nhập được .
+Những giá trị nầy được theo dõi trong tài khoản người dùng .
+Giá trị e và d được gọi là số mũ chung và số mũ riêng .
+Có rất nhiều mô hình của các bộ điều khiển nầy , mỗi mô hình hỗ trợ tốc độ truyền khác nhau , số kênh kết nối , các bộ giao tiếp dành cho mạng Token Ring và khả năng chịu đựng lỗi .
+Đại đa số các mạng công ty hiện nay đều trở thành intranet được hiện thực bằng giao thức TCP / IP và công nghệ Web .
+VAX 11 / 780 có chế độ tương thích trong đó có thể chạy các phần mềm viết cho máy mini PDP - 11 của DEC .
+Máy tính VAX được giới thiệu đầu tiên vào năm 1977 .
+Hệ VAX dùng hệ điều hành VMS ( Virtual Memory System ) , một hệ điều hành đa người dùng , đa nhiệm có khả năng về bộ nhớ ảo .
+VBNS được xây dựng với dịch vụ ATM của MCI , và mục đích là tạo ra mạng với tốc độ trong phạm vi 2 - Gbit / s .
+VBNS được mô tả trong phần " vBNS ( Very high speed Backbone Network Service ) " .
+Hệ thống mạng vBNS cũng đưa ra hệ thống dịch vụ thương mại ATM ( Asynchronous Tranfer Mode ) của MCI .
+VC dẫn đến một ISR ở đầu bên kia của mạng , isr nầy được nối đến hệ thống đích .
+Nhà cung cấp phải đưa ra bằng chứng rằng các yêu cầu được thỏa mãn . .
+Các nhà cung cấp dưới đây sẽ cho bạn nhiều thông tin về thiết bị kiểm tra cáp .
+Verisign hoặc các Web site khác của CA có đầy đủ hướng dẫn để hoàn thành tiến trình xử lý nầy .
+Phiên bản nổi tiếng là Berkeley Software Distribution BSD .
+Có thể coi hệ thống đứng như đường trục .
+Khả năng mạch ảo của tầng 2 có thể tích hợp vào các mạng như Internet .
+Mạch ảo được xác định , duy trì bởi các hệ thống và các nút trên mạch , nhưng tuyến đường thật sự qua mạng chuyển gói có thể thay đổi phụ thuộc vào việc định tuyến qua các kết nối bị ngắt hay bận rộn .
+Virút nầy tự mã hóa chính nó bằng thuật toán đặc biệt có thể thay đổi mỗi lần lây lan .
+Máy ảo làm cho phần cứng gọi đến bộ vi xử lý cuả máy tính trên đó máy ảo đang chạy .
+Hệ điều hành 32 - bit VMS ( Virtual Memory System ) được giới thiệu cùng với VAX để cung cấp môi trường thật sự đa nhiệm / đa người dùng .
+Thư thoại được đính kèm với thông điệp thư điện tử và chuyển tiếp đến người nhận .
+Hệ thư thoại xác định địa chỉ email của người nhận từ số điện thoại hoặc thông tin khác và tạo bức thư số có thể gởi qua đường Internet .
+Các cuộc gọi là sống , và nếu không đủ băng thông thì cuộc nói chuyện sẽ bị méo mó .
+Đầu ra cho thoại phải dùng cáp UTP 100 ohm , đầu ra cho dữ liệu có thể dùng cáp UTP 100ohm , STP 150 ohm , hoặc cáp quang 62.5 / 125 mm , tùy theo nhu cầu .
+Điện thế tại một điểm nào đó trên dây sẽ phụ thuộc vào trạng thái xung .
+VPI và VCI được định danh và tương ứng với các điểm kết thúc tại những bộ chuyển mạch ATM .
+W3C ( World Wide Web Consortium Liên minh World Wide Web ) tại http : / / wwww3org đang cố gắng để liên kết ba công nghệ chứng thực và chứng nhận số vào một bộ duy nhất được gọi là Sáng kiến Chữ ký số .
+W3C ( World Wide Web Consortium ) đang cố gắng hợp nhất các phương pháp nầy thành sản phẩm Khởi xướng Chữ ký Điện tử của nó .
+W3C ( World Wide Web Consortium ) đang cố gắng làm cho SGML trở thành tiêu chuẩn cho Web .
+W3C ( World Wide Web Consortium ) đã theo đuổi các cải thiện nầy và phát triển được nhiều tính năng của riêng họ .
+W3C cũng đang cải tiến tiêu chuẩn .
+W3C là một consortium công nghiệp quốc tế thành lập năm 1994 nhằm phát triển các giao thức chung để phát triển WWW .
+W3C đang xúc tiến để bảo đảm những mô hình nầy có thể vận hành qua lại và làm trung gian giữa ngôn ngữ và script .
+W3C đang cố gắng để bảo đảm các giải pháp của nhà cung cấp có thể vận hành qua lại được .
+W3C được thành lập năm 1994 như một tổ chức liên hợp kỹ nghệ để phát triển các giao thức chung cho việc cải tiến World Wide Web .
+Website của W3C có nhiều thông tin về Internet , các giao thức và các chuẩn đang phát triển .
+Web site của W3C là ở http : / / www . w3.org .
+W3C làm việc với cộng đồng toàn cầu để tạo ra các đặc tả và tham khảo kỹ thuật trung lập với các nhà cung cấp và sử dụng miễn phí trên toàn thế giới .
+Khoảng thời gian chờ phụ thuộc vào dữ liệu được truyền trên LAN hay qua mạng vệ tinh .
+Bước sóng là khoảng cách giữa đỉnh hai ngọn sóng .
+Các sóng nầy có thể giao thoa với sự vận hành của các thiết bị gần đó hay với bản thân quá trình truyền tải tín hiệu trong hệ thống cáp dẫn bên cạnh .
+Sau đây là một số ví dụ .
+Các thành phần nầy liên giao tiếp với nhau thông qua ORBs ( Object Request Brokers ) .
+Bạn tham chiếu đến một server thông qua volume của nó , các thư mục của một volume được minh họa như trong hình N - 20 .
+Consortium nầy có mục đích tích hợp các giao thức quản lý khác nhau , thông tin về quản lý , và các hệ quản lý .
+WBEM đang khuyến khích các chuẩn mới như HMMP ( HyperMedia Management Protocol ) cho phép các nhà cung cấp hệ quản lý tạo ra các hệ thống dùng chung các giao thức và có thể truy cập qua cùng một giao diện .
+Địa chỉ Web ở cuối chủ đề nầy trong phần " Thông tin trên Internet " .
+Địa chỉ trang web cho cả hai nhóm được liệt kê dưới phần Thông tin trên Internet .
+Trình duyệt Web là một vật chứa để trình bày các văn bản HTML - loại văn bản có thể chứa các liên kết đến các đối tượng như hình ảnh đồ họa , các thành phần ActiveX , và Java applet .
+Trình duyệt Web được xem như một client toàn cầu , cung cấp giao diện chuẩn cho việc truy cập thông tin công ty .
+Web browser là nơi đến của thông tin được xuất bản .
+Web browser là container phổ biến nhất để chạy các thành phần .
+Qua hệ khách / chủ là phi trạng thái , nghĩa là máy chủ không giữ lại thông tin về khách , và kết nối giữa chủ và khách được kết thúc ngay sau khi thông tin yêu cầu được gởi đi .
+Khách và chủ Web thiết lập kết nối end - to - end tạm thời ở cổng nầy để trao đổi dữ liệu .
+Kiến trúc kết nối CSDL web có dạng mô hình ba tầng trên hình W - 3 .
+Web trở thành môi trường rất tinh vi , và người dùng yêu cầu truy cập đến dữ liệu lưu trữ trên các máy chủ back - end và các máy tính mainframe .
+Giao diện web có lẽ là một trong những tính năng quan trọng nhất đối với kho dữ liệu .
+Web cũng được xây dựng trên mô hình đa tầng với các trình duyệt Web là các tầng client và Web server là tầng trung gian , server chính và dữ liệu là tầng mà là nơi lưu trữ dữ liệu .
+Các trang web của từng phòng ban hoặc của người dùng có thể đưa vào cây thư mục .
+Web có một lựa chọn thú vị cho mô hình quay số từ xa .
+Web server không cần phải nhận biết những thay đổi trong trang nầy .
+Web server tải những thành phần giao tiếp giữa client / server cần thiết .
+Web server nhận các yêu cầu thông tin từ người sử dụng , sau đó gởi đáp ứng cho họ , dùng các kỹ thuật định dạng dữ liệu và các giao thức theo chuẩn - công nghiệp được cung cấp bởi các giao thức Web như HTTP ( Hypertext Transfer Protocol ) và HTML ( Hypertext Markup Language ) .
+Trạm dịch vụ Web nằm phía ngoài của bức tường lửa ít an toàn hơn và có khuynh hướng dễ bị kẻ phá hoại tấn công .
+Web server có thể giao tiếp với một máy chủ cơ sở dữ liệu back - end hoặc lấy thông tin từ nguồn khác .
+Với phương pháp CORBA , web server chỉ liên quan khi người sử dụng truy cập website lần đầu .
+Web server nhận yêu cầu từ client và truyền các yêu cầu nầy , thường là ở dạng SQL ( Structured Query Language ) tới server chính .
+Web server nhận được trả lời , đóng gói lại và gửi nó tới client .
+Sau đó , web server trả kết quả về cho Client .
+Web server hoạt động liên kết với NDS ( Netware Directory Service ) để giúp các user duyệt qua nguồn tài nguyên và thông tin trên mạng .
+Web server ngay sau đó tạo văn bản động và gởi đến người dùng .
+Server loại and / or được kết nối với mạng Ethernet .
+Website của DISA chứa đựng cả kho tàng thông tin về EDI và các tổ chức có liên quan đến EDI .
+Web site nầy được liệt kê ở mục Thông tin trên Internet cùng với 2 nhóm IETF khác .
+Website nầy cung cấp những thông tin giúp cho các nhà sản xuất quyết định hoạt động kinh doanh của mình và cung cấp tài liệu đào tạo cho mọi người .
+Những trang Web của các công ty nầy được liệt kê bên dưới trong mục Những thông tin trên Internet .
+Để biết thêm chi tiết về Fibre Channel , xem các website dưới đây .
+Các Web site liệt kê phía dưới sẽ cung cấp thêm thông tin .
+Các Web site của các nhà phát triển phần mềm và các nhà phân phối được liệt kê ở cuối phần nầy .
+Toàn bộ quá trình xác nhận sử dụng một cơ chế an toàn , đã biết và đáng tin cậy , dựa trên cách mã hóa dùng khóa công khai .
+Quá trình nầy vận hành trên mạng SNA , nhưng người ta đang có kế hoạch hỗ trợ cho OSI và TCP / IP .
+Toàn bộ hệ thống có thể được mỡ rộng bất cứ lúc nào bằng cách nâng cấp client , thêm hay cập nhật các thành phần mới hoặc bằng cách bổ sung dữ liệu mới vào cấp dịch vụ dữ liệu .
+Tín hiệu rộng đòi hỏi năng lượng truyền ít hơn .
+Môi trường Windows và Macintosh đóng vai trò quan trọng trong việc phát triển khái niệm tài liệu phức hợp .
+Hệ thống giám sát trên Windows NT cho phép theo dấu những sự kiện xảy ra trên những server riêng rẽ có liên quan đến chính sách an toàn , đến những sự kiện hệ thống , và sự kiện ứng dụng .
+Cây domain của Dịch vụ danh bạ Windows NT có thể so sánh với cây NDS ( Novell Directory Services ) của Novell , nếu không xét Microsoft vẫn giữ nguyên mô hình của họ , dùng được với các phiên bản trước của Windows NT .
+Môi trường Windows NT là một ví dụ điển hình về hiện thực các ACL .
+Ðồng thời hệ điều hành Windows NT được thiết kế đặc biệt để phục vụ những nhu cầu của người sử dụng mạng và cung cấp hiệu năng làm việc và độ an toàn ở cấp cao .
+Windows NT Server và toàn bộ phần BackOffice là những sản phẩm được module hóa .
+Windows NT Server cung cấp các dịch vụ xác nhận và truyền dữ liệu an toàn , nó thỏa những yêu cầu an toàn cấp C2 .
+Windows Terminal nhận dữ liệu nhập của người dùng và hiển thị kết quả ra màn hình .
+Ðặc tả WinSock 2 định nghĩa cách thức các ứng dụng có thể yêu cầu đặc trước băng thông từ các mạng RSVP .
+WinSock Group đã thêm QoS vào Windows API , và X / Open đang cải tiến tập UNIX API .
+GHI CHÚ : WinSock Group là một liên hiệp công nghiệp liên quan đến việc tạo thành các đặc tả kỹ thuật WinSock .
+Winsock Lab là một nhóm các nhà đại lý được Stardust Technologies tổ chức để kiểm tra hoạt động của WinSock .
+Cấu hình cặp và pin cho các đầu vào 8 pin T568A và các bộ kết nối được trình bày trên hình T - 17 và được tóm lưọt dưới đây :
+Cáp được đi thành bó hoặc làm thành cáp phẳng và được dùng để nối các thiết bị ngoại vi khác nhau trên khoảng cách ngắn .
+Hệ cáp cho vùng làm việc gồm các hộp tường , cáp , và các bộ kết nối cần thiết để nối các thiết bị trong vùng làm việc ( máy tính , máy in , ...) qua hệ cáp ngang và đến phòng viễn thông .
+Vấn đề được triển khai trên cơ sở ISAKMP ( Internet Security Association and Key Manangement Protocol ) , định nghĩa các thủ tục và định dạng gói tin cho việc thiết lập , dàn xếp , điều chỉnh , và hủy bỏ các liên hiệp an toàn .
+Công việc nầy được DARPA tài trợ ( Defense Advanced Research Projects Agency ) .
+Kinh phí nghiên cứu do AIW tài trợ và được trình lên IETF , và cuối cùng nó trở thành đặc tả DLSw .
+Hub nhóm có thể dùng kỹ thuật chuyển mạch và định tuyến để phân chia các thiết bị nối và cung cấp khả năng giao tiếp các mạng với nhau .
+Nhóm làm việc tập trung ban đầu vào IPv4 và IPv6 , nhưng cuối cùng sẽ tập trung vào các giao thức tầng mạng khác như IPX , appletalk và DECnet .
+Cách làm việc của giao thức truyền và phương pháp trao đổi thông tin được trình bày ở mục NNTP ( Network News Transport Protocol ) .
+Lượng công việc được phân bố ngang bằng nhau cho các bộ xử lý vì vậy sẽ không có việc một bộ xử lý xử lý quá nhiều công việc trong khi bộ xử lý khác lại không làm gì cả .
+Các máy trạm nhận được gọi là multicast group .
+World Wide Web ( hay Web ) được xây dựng trên đỉnh của Internet , nghĩa là có thể dùng giao thức TCP / IP .
+Dsig của W3C được thiết kế để phát triển niềm tin trên Internet .
+World Wide Web được xây dựng dựa vào nền của Internet và sử dụng giao thức TCP / IP để truyền tải thông tin giữa các Web Client và Web server .
+World Wide Web thường được gọi tắt là Web .
+Các đầu ghi của đĩa thay đổi từ trường của vật liệu để ghi thông tin dưới dạng kỹ thuật số với sự hỗ trợ của laser .
+Bản thân cộng đồng WWW đã cống hiến nhiều trong thời gian qua , và ngày nay các dịch vụ Proxy đã được thiết lập tốt .
+Nhóm X / Open được các công ty Bull , Nixdorf , Philips , siemens và một số công ty khác thành lập vào 1984 bởi các công ty Bull , Nixdorf , Philips , siemens và một số công ty khác để khuyến khích các chuẩn UNIX mở .
+X terminal có thể là một thiết bị đầu cuối cơ bản hay một máy vi tính để bàn .
+Các giá trị x biểu diễn ký pháp chuẩn của địa chỉ IP , còn port # là giá trị biểu diễn một máy chủ cụ thể .
+X Windows system , hay " X " như đôi khi được gọi , đứng trên một khía cạnh nào đó , có thể xem như một trạm đầu cuối cho các môi trường UNIX .
+Giao diện X.25 hỗ trợ tốc độ đường truyền lên tới 64 Kbit / giây .
+Giao thức X.25 là một đề nghị của CCITP ( ITU ) định nghĩa các kết nối từ thiết bị đầu cuối và máy tính đến mạng chuyển mạch gói .
+Cấu trúc thông điệp X.400 giống nhau trên tất cả các hệ thống .
+Các đặc tả X400 là tập hợp các chuẩn liên lạc email được phát triển bởi CCITT ( bây giờ gọi tên là ITU ) .
+Hệ đặt tên X.500 được tích hợp vào dịch vụ danh bạ của DCE .
+Sáng kiến ZAWS ( Zero Administration for Windows ) là một tập hợp các công nghệ cho phép điều khiển và quản lý các máy để bàn Windows bằng cách tự động thực hiện một số công việc , như cài đặt và cập nhật ứng dụng .
+Sáng kiến ZAWS được thiết kế để hỗ trợ các máy tính như NetPC ( xem " NetPC " ) cũng như các hệ thống máy để bàn khác .
+Phát kiến Zero Administration for Windows , hay ZAWS là một kế hoạch của Microsoft để quản lý các khách hàng của mạng dựa trên Windows .
+Hầu hết các đặc trưng nầy đã được mô tả ở phần đầu của sách rồi , ngoài ra sẽ được bàn thêm ở các lĩnh vực sau :
+Bản chất độc quyền của chúng làm cho các nhà cung cấp dễ dàng hơn khi mở rộng các đặc tính khác , sẽ giúp cho sản phẩm bán chạy hơn nhiều .
+Các địa chỉ web của chúng được liệt kê dưới mục Thông tin trên internet ở cuối chương nầy .
+Các Web site của họ được liệt kê dưới đây .
+Và mặc nhiên các thành viên trong MIS cũng được các quyền đó .
+Do đó bất cứ ai sẵn sàng trả tiền để được đi trên những làn xe không bị tắt nghẽn sẽ được đi qua những làn xe đó .
+Sau đó , khi công nghệ nầy được hiểu rõ hơn và phổ biến hơn , nhiều kỹ thuật cao cấp được sử dụng .
+Sau nầy , khi bạn tạo mới một tài khoản người dùng , bạn có thể đưa người dùng nầy vào một nhóm nào đó .
+Sau đó tập đoàn DEC đã đưa thiết kế máy siêu tính Cray vào một bộ xử lý Alpha đơn .
+Mỗi bộ xử lý có thể thực hiện các công việc khác nhau hoặc các luồng khác nhau cho cùng một công việc .
+Hơn nữa , nếu tên và mật khẩu mà administrator dùng để logon vào mạng bị lộ , kẻ gian có thể vào mạng từ xa để phá hoại , hoặc lạm dụng thông tin , vv … .
+Sau đó , vào năm 1956 , hai ủy ban riêng biệt của ITU , CCIF ( Consultative Committee For International Telephony - Ủy Ban Cố Vấn Cho Điện Thoại Quốc Tế ) và CCIT ( Consultative Committee For International Telegraph Ủy Ban Cố Vấn Cho Thư Tín Quốc Tế ) đã hợp nhất thành CCITT ( Consultative Committee For Internationaltelephony And Telegraph ) để quản lý hữu hiệu hơn điện thoại và điện tín viễn thông .
+Sau đó vào năm 1986 NSF ( National Science Foundation ) thiết lập mạng NSFnet , về sau thay cho vai trò của APRANET ( APRANET không còn hoạt động từ năm 1990 ) .
+Sau đó , vào 1993 , novell đã mua USL và thành lập USG ( UNIX Systems Group ) để quản lý UnixWare .
+Rồi năm 1996 , phiên bản nầy được nâng cấp thành Netware 4.11 , sau đó là Novell IntranetWare - một chuẩn nền cho dịch vụ Intranet trọn gói , trong đó bổ sung các công nghệ về web , là đỉnh cao của Netware 4.11 .
+Do đó chỉ cần 4 đường thuê bao , mỗi đường kết nối vào điểm truy cập mạng frame relay .
+Như vậy , chỉ có các trạm ở hub nầy mới có thể tham gia truy cập .
+Sau đó , bộ quản lý kết nối ATM chuyển đường đi thành một mạch ảo .
+Sau đó , có thể thỏa thuận một số thông số khác như mức độ mất cell , trì hoãn có thể chấp nhận .
+Sau đó tất cả những thông báo cho mạng VLAN nầy sẽ đi đến các máy trạm có trên bảng , dù cho máy nầy có nối với mạng hay không .
+Sau đó , bất cứ một người sử dụng nào , cũng tìm được một người dùng trên mạng thông qua tên , các thông tin như mã thư tín , tên phòng ban , hay dựa vào chức năng công tác của người đó .
+Tiếp theo là CGI ( Common Gateway Interface ) được hình thành .
+Rồi anh ta chờ người nào đó bước vào khu vực an ninh và vào theo khi họ mở cửa .
+Sau đó Microsoft tạo ra Windows NT 4.0 đa người dùng với sự hỗ trợ của Citrix .
+Các hệ MPP ( Masively parallel processing ) cung cấp khả năng thay đổi tỉ lệ tốt hơn .
+Khi đó chỉ có 50 máy trạm trên mỗi phần tranh chấp truy cập .
+Sau đó xây dựng một giao thức điều khiển cấp thấp đơn giản , có tên là GSMP ( General Switch Management Protocol ) .
+Người dùng từ bất cứ hệ thống nào , dùng web browser , có thể hiển thị được thông tin .
+Sau đó bạn lại cần nơi đáng tin cậy thứ ba để kiểm tra lại khóa của người thứ hai , và cứ như thế .
+Về mặt lý thuyết bạn có thể cắm bất kỳ thiết bị SCSI nào vào bộ điều khiển SCSI .
+Lẽ dĩ nhiên là có nhiều tiện lợi khi sử dụng IP trên ATM .
+Dĩ nhiên còn có nhiều đặc tính khác .
+Có nhiều kỹ thuật để cải tiến hiệu suất của bộ dồn tín hiệu , ví dụ như kỹ thuật nén .
+Có 126 mạng thuộc lớp A với hơn 16 triệu máy chủ cho mỗi mạng , 16,384 mạng thuộc lớp B với 65,534 máy chủ cho mỗi mạng , và có trên 2 triệu mạng thuộc lớp C với 256 máy chủ cho mỗi mạng .
+Có 16.382 địa chỉ lớp B , hỗ trợ 65.000 máy chủ trên mỗi địa chỉ .
+Có 17 kiểu AS / 400 , bao gồm cả kiểu AS / 400 xách tay , kiểu 64 bit dùng bộ xử lý PowerPC .
+Có 24 phân kênh T1 trong một đường T1 đầy đủ , và mỗi phân kênh nầy có băng thông 64Kbit / s , đủ để xử lý các cuộc thoại số hóa .
+Có 28 phân kênh trong đường T3 .
+Nhiều loại card mạng tuân theo tiêu chuẩn Ethernet IEEE 802.3 , bao gồm có các loại có tốc độ dữ liệu 10 Mbit / giây và 100 Mbit / giây qua cáp đồng trục , cáp xoắn đôi , và cáp quang .
+Có rất nhiều ứng dụng truyền thông vệ tinh hấp dẫn cụ thể như tổ chức các cuộc hội nghị từ xa thông qua màn hình , truyền dữ liệu mang tính nhạy cảm thời gian , và các đường liên lạc dự phòng … .
+Có một số phương pháp kết nối bằng cầu nối từ xa .
+Một số phát triển ngoài lề cũng cố độ ưu tiên và chức năng QoS cho các hệ thống LAN và Internet .
+Có nhiều yếu tố làm giới hạn băng thông .
+Có nhiều đặc điểm quan trọng khi xét một sản phẩm firewall .
+Có một số bước khai báo ban đầu và tiêu chuẩn cho việc ghép các mạng Lan cũ vào hệ thống ATM .
+Có vài vấn đề nảy sinh trong việc cấp phát băng thông dành riêng .
+Có một số vấn đề cần giải quyết như dung lượng lưu trữ và băng thông .
+Có một số hạn chế trong cuộn dây bên trong , như băng tần 4.000 Hz sẽ giới hạn dữ liệu truyền cao nhất là 33 , 3 Kbit / giây ( trong khi ngày nay kỹ thuật modem mới của Rockwell và U . S Robotics cho phép tải dữ liệu với tốc độ 56 Kbit / giây ) .
+Trên thị trường có một số trình ứng dụng quản lý chủ yếu cho việc điều hành mạng của các công ty .
+Có nhiều tham số khác được thỏa thuận để cải tiến hiệu suất truyền .
+Có nhiều kỹ thuật spread spectrum , nhưng có hai kỹ thuật mô tả dưới đây thường dùng nhất .
+Một số kỹ thuật kết nối các thiết bị trong mạng hay một sự sắp xếp các thiết bị để chia sẽ sẻ thông tin .
+Có nhiều chương trình phát hiện virút cho máy tính và mạng .
+Có một số cách để nối kết các mạng ATM , như được minh họa trong Hình A15 .
+Một số cách để xây dựng ELAN hay VLAN , sẽ được trình bày ở mục LANE ( LAN Emulation ) và VLAN ( Virtual LAN ) .
+Có nhiều cách để chuyển fax đến các máy trạm .
+Sau đây là một số giải pháp bảo toàn dữ liệu :
+Những dịch vụ khác .
+Có nhiều môi trường truyền khác nhau , gồm cáp đồng , cáp quang và đường truyền vô tuyến .
+Có bảy loại hình dịch vụ DSL , phân theo tốc độ từ 16Kbit / s đến 52 Kbit / s .
+Có bảy loại dịch vụ DSL , tốc độ từ 16Kbit / s đến 52Kbit / s .
+Quản lý tập trung hoặc phân tán đều có ưu điểm của nó .
+Có nhiều thuận lợi để truyền giọng nói trên cơ sở hạ tầng của mạng .
+Có những tiện lợi cho các xử lý phi trạng thái nầy .
+Cũng có một số nhà cung cấp dịch vụ kinh doanh điện tử đưa ra các dịch vụ giá trị gia tăng như là hình thức kinh doanh các trang vàng , cơ sở dữ liệu về các nhà cung cấp , danh sách các mặt hàng , các dịch vụ liệt kê danh mục , và các dịch vụ thông tin kỹ thuật .
+Ngoài ra , còn có vấn đề ghi dữ liệu của các người dùng ở xa ( nên lưu ở dữ liệu được sao chép hay dữ liệu gốc ) .
+Cũng có nhiều sản phẩm làm đơn giản hóa toàn bộ quá trình nầy .
+Cũng có những thông số liên quan đến những điều sau :
+Ngoài ra còn có các giao thức cho gateway như AppleTalk đến TCP / IP , ipx đến TCP / IP , và các mạng khác .
+Một số giao thức bảo mật để trao đổi e - mail bao gồm PGP ( Pretty Good Privacy ) và S / MIME ( Secure Multipurpose Internet Mail Extension ) .
+Còn có nhiều dịch vụ an toàn và dịch vụ phân bố object .
+Cũng có permission dùng chung , cho phép người dùng được phép truy xuất các files dùng chung trên mạng .
+Còn có vài kỹ thuật đặc biệt , gọi là giải mã vi phân , trong đó thực hiện một quá trình tương hỗ và lặp lại nhiều lần và dùng kết quả các lần trước để bẻ gãy bản mã .
+Còn có mật mã dòng , xử lý theo các dòng bit và nhanh hơn nhiều .
+Có các kênh kết nối giữa các quốc gia bao gồm các kênh bắt cầu qua Đại Tây Dương và Thái Bình Dương .
+Ngoài ra cũng có những Web site cung cấp các bài giảng , chúng được liệt kê ở cuối mục nầy trong phần " Information on the Internet " .
+Có rất nhiều điểm khác thường do IETF lưu ý , gọi là IETF RFCs ( Request for Comments ) liên quan đến việc quản lý mạng máy tính , không thể liệt kê hết ở đây .
+Có rất nhiều tài nguyên trên Internet giúp bạn học thêm về firewall và các sản phẩm nghiên cứu .
+Có hai loại hệ thống truyền dẫn tín hiệu : kiểu tương tự và kiểu số .
+Một số thẻ hiển thị thông tin , một số khác chứa dấu nhắc để nhập dữ liệu , một số hiển thị danh sách các tùy chọn để người dùng chọn lựa .
+Có 2 loại bộ điều khiển channel - attached cluster và link - attached cluster :
+Dịch vụ chuyển mạch và dịch vụ chuyển gói dữ liệu .
+Có mối quan hệ khách / chủ và quan hệ chủ / chủ .
+Có nhiều phương pháp cạnh tranh nhằm tăng cường tín hiệu trên các đường truyền tương tự có sẵn , như được mô tả trong " DSI ( Digital Subscriber Line ) " , và các sản phẩm modem mới dùng kỹ thuật dồn kênh , như được mô tả trong phần " Inverse Multiplexing " .
+Có nhiều lớp địa chỉ IP khác nhau .
+Có các cấp interoperability khác nhau .
+Có loại đường trục phân bố để nối các mạng LAN riêng biệt lại với nhau và loại đường trục chia nhỏ , tồn tại khi nối dây các hub và các bộ chuyển mạch .
+Có nhiều hệ CSDL back - end và nhiều phương pháp truy cập chúng .
+Cũng có các bộ sản phẩm cung cấp các dịch vụ intranet từ server .
+Có rất ít công ty có các mạng đồng nhất .
+Có 4 phương pháp truyền thông tin từ NIC đến máy tính ngay khi nó được nhận .
+Có 4 yêu cầu cho việc xử lý giao tác trong môi trường phân bố ( gọi là ACID ) :
+Có nhiều dịch vụ cổng liên mạng thực hiện việc thông dịch nầy .
+Có 3 loại cầu nối : cầu nối cục bộ , cầu nối liên kết từ xa và cầu nối chuyển dịch .
+Có những đối tượng MIB chung và do nhà cung cấp định nghĩa .
+Hệ thống là một nhóm MIB chứa các biến đối tượng lưu giữ thông tin như tên thiết bị , vị trí , và các thông tin mô tả khác .
+Có các vệ tinh địa tĩnh ở quỹ đạo cao , vệ tinh LEO ( low earth orbit satellite : vệ tinh ở quỹ đạo thấp ) , và các vệ tinh ở quỹ đạo tầm trung .
+Đó là những vấn đề liên quan đến việc xây dựng các intranet sử dụng TCP / IP và giao thức Web , WAN , lắp đặt hệ thống dây dẫn và cáp nối .
+Có sự hạn chế về mặt thiết kế ví dụ nhụ là vấn đề cầu nối .
+Có những giới hạn cho số thiết bị Repeater được sử dụng , do sự trì hoãn lan truyền .
+Có ISP cục bộ , vùng , quốc gia và toàn cầu .
+Có các hệ tập tin cục bộ và hệ tập tin chia sẻ trên mạng .
+Có nhiều loại đồ hình mạng máy tính như đồ hình mạng cục bộ và đồ hình mạng xí nghiệp ( hay mạng diện rộng WAN ) .
+Có các bộ phân tích cho đầu cuối thấp và đầu cuối cao .
+Có rất nhiều đặc tính khác nữa của Netware không thể nhắc đến hết ở đây được .
+Có nhiều ưu điểm khi dùng carrier - based VPN .
+Có nhiều lợi điểm của hệ số hóa , và có nhiều chuẩn được đưa ra .
+Có nhiều hệ thống e - mail khác nhau đang được sử dụng trên mạng máy tính , trên các hệ thống máy tính lớn và trên các mạng công cộng .
+Trong NDS , nhiều kiểu object khác nhau được định nghĩa .
+Có rất nhiều sách giải thích đầy đủ về HTML chẳng hạn như Beyond HTML của Richard Karpinski ( Berkeley , CA : Osborne / McGraw - Hill , 1996 ) .
+Dịch vụ nầy gồm nhiều mức khác nhau , bạn có thể tham khảo chi tiết trong phần DSL ( Digital Subcriber Line ) .
+Có nhiều ISP quốc gia , bốn NAP và nhiều MAE .
+Có nhiều thay đổi khác nhau trong IPv6 so với IPv4 .
+Có nhiều tham số truyền thông khác mà TCP phải xử lý để cung cấp các dịch vụ tin cậy .
+Còn nhiều đề tài khác trong sách nầy cung cấp thông tin hữu ích cho các thiết kế viên và quản trị mạng , có một vài cái được liệt kê sau đây :
+Có nhiều vấn đề với việc backup băng .
+Có nhiều trường hợp tạo kho dữ liệu chứa thông tin không chính xác và không thích hợp .
+Có nhiều loại Middleware chạy trên nhiều môi trường khác nhau .
+Có nhiều web site và trang trắng về chủ đề nầy từ các cá nhân và công ty .
+Có nhiều công việc đang được tiến hành để cung cấp phương tiện cho việc thiết lập các tiêu chuẩn an toàn cho hệ thống thương mại điện tử .
+Có hàng triệu địa chỉ trên Internet ! .
+Có nhiều không gian nhớ riêng biệt thay vì liên tục , như vậy các chương trình phải được chia thành nhiều segment để hoạt động tại mỗi nút .
+Quan hệ ủy thác gồm một chiều và hai chiều .
+Một số phương pháp truy cập khác như DQDB ( Distributed Queue Dual Bus ) dùng trong mạng đô thị và CDPD ( Cellular Digital Packet Data ) dùng trong truyền thông vô tuyến .
+Có nhiều giao thức bảo mật thư điện tử khác bao gồm PGP ( Pretty Good Privacy - Sự riêng tư khá tốt ) và PEM ( Thư được làm tăng tính riêng tư ) cũng được đề cập trong quyển sách nầy .
+Có nhiều vấn đề khác liên quan đến VLAN cần phải xem xét .
+Một số phương pháp nén khác như : MNP ( Microcom Networking Protocol ) Class 5 và Class 7 , nhưng chuẩn V.42 đã được sử dụng những năm gần đây trong hầu hết các modem .
+Việc xác nhận là quan trọng để bảo đảm tính toàn vẹn và chính xác dữ liệu .
+Có hơn 250 triệu địa chỉ multicast trong lớp D , do đó khả năng có quá nhiều kênh thông tin multicast .
+Tuy xét về hình thức thì các thao tác phi trạng thái vượt trội , nhưng kỹ thuật Callback promise bảo đảm sẽ không bị quá tải lưu thông mạng .
+Mạch ảo có thể là cố định hoặc chuyển mạch :
+Có nhiều vấn đề tiềm tàng trong việc chuyển đổi , như đã thảo luận trước đây , nhưng nó cho phép các nút Ethernet liên lạc với các nút FDDI .
+Có nhiều kiểu kiến trúc mạng độc quyền như SNA ( System Network Architecture ) của IBM và DNA ( Digital Network Architecture ) của DEC , và các kiến trúc mạng mở như OSI ( Open Systems Interconnection : hệ thống liên mạng mở ) - một mô hình do Tổ chức Tiêu Chuẩn hóa Quốc tế ( International Organization Standardization ) đưa ra .
+Có hai loại là PVC ( permanent virtual circuit ) và SVC ( switched virtual circuit ) .
+Việc thiết lập kết nối được thực hiện thông qua các đường yêu cầu và các đường kết nối , việc kiểm tra dữ liệu được thực hiện thông qua các đường kiểm tra chẵn lẻ .
+Có 7 kiểu chính và một số kiểu phụ .
+Những thuận tiện của cách thức nầy là :
+Có nhiều phương pháp kết nối như điểm - tới - điểm , điểm đến nhiều điểm , và nối kết vòng .
+Có nhiều loại nhân bản , như mô tả dưới đây và minh họa trong hình M - 7 .
+Nhiều site trên Internet cung cấp các bản đồ và mô hình hoá ba chiều hệ thống MBone .
+Có một số mô hình trong xây dựng ứng dụng phân tán , và cung cấp cách giao tiếp giữa các client , các server , các thành phần chương trình :
+Có nhiều động cơ để làm điều nầy :
+Dưới đây là một số các sáng kiến quản lý NetPC và NC , cùng với một số chiến lược sản phẩm :
+Còn có một số đặc tính khác trong giao thức SMTP .
+Dưới đây là một số mô hình tham khảo của kiến trúc Client / Server .
+Một số tình huống sau :
+Dưới đây là một vài kỹ thuật truyền dữ liệu vô tuyến :
+Có nhiều loại cache và ứng dụng dùng cache :
+Có nhiều kiểu thiết bị bức tường lửa , xem mục firewall .
+Có nhiều lọai hub , gồm những hub lặp lại đơn giản được dùng trong các mạng Ethernet truyền thống , các hub nhóm và hub xí nghiệp .
+Có nhiều loại LEC .
+Có một số thuận lợi trong sơ đồ nầy , bao gồm việc dịch vụ luôn luôn mở và tốc độ truyền tải cao .
+Có một vài thuận lợi khi sử dụng ISDN .
+Có một ít khác biệt giữa SDLC và HDLC , tùy theo nhà cung cấp .
+Có một số hạn chế đối với đường truyền địa phương .
+Có một vài thuận lợi trong việc nối mạng những văn phòng ở xa qua Internet .
+Một số thông điệp chuyên điều khiển thiết bị , một số dùng thu thập thông tin về quá trình sao lưu dự phòng , chẳng hạn như thông tin nhật ký .
+Có các cấp phép chuẩn và các cấp phép riêng lẻ .
+Có hai loại socket : stream và datagram .
+Có nhiều điều cần lưu ý khi thiết kế một cây thư mục :
+Có hàng ngàn nhóm tin khác nhau liên quan đến các lĩnh vực điện toán , tin tức xã hội , khoa học , con người , giải trí , … và nhiều đề tài khác .
+Có ba hoạt động liên quan đến nhóm thảo luận :
+Có ba loại người sử dụng di động :
+Có ba hiện thực ISDN khác nhau được mô tả ở đây , và được minh họa trong hình I - 18 :
+Có ba thành phần chính trong cấu trúc nầy :
+Có ba hub mạng , đặt tại Chicago , Los Angeles , và Lexington .
+Có ba phương pháp kết nối , như được trình bày trong hình H - 1 .
+Với Fibre Channel có ba loại kết nối :
+Có ba chuẩn TDMA , được mô tả như sau :
+Có ba kỹ thuật điều biến , được mô tả dưới đây và được minh họa trong hình M - 11 .
+Có ba loại API cho việc giao tiếp trong môi trường mạng hay mạng toàn cầu .
+Có ba kiểu backup : thường , gia tăng , và khác biệt .
+Có ba loại thiết bị có thể kết nối vào vòng nầy :
+Có 3 kiểu object :
+Có ba loại trang web :
+Có ba cách để xác định hệ thống máy tính trong môi trường mạng TCP / IP : địa vật lý , địa IP , và tên miền .
+Có ba cách phân tách địa - sau byte đầu tiên , byte thứ hai , hay byte thứ ba - như được minh họa trong hình I - 14 , tạo thành địa lớp A , lớp B và lớp C .
+Có hai tiếp cận hiện thực EDI .
+Có hai khía cạnh trong bảo mật hệ thống tập tin đối với các máy tính được nối mạng .
+Có hai kênh truyền dữ liệu ngược hướng nhau .
+Có hai loại nhóm giao thức được dùng để điều hành lưu thông bên trong và bên ngoài các miền nầy .
+Có hai kỹ thuật điều biến xung đột nhau , vì thế người dùng phải bảo đảm rằng modem của họ tương thích với thiết bị của nhà cung cấp .
+Có hai khái niệm xử lý phân tán và có liên quan với nhau .
+Có hai kỹ thuật kết nối qua điện thoại được mô tả và vẽ trong hình R - 2 sau đây :
+ATM cell có hai dạng tiêu đề .
+Có 2 phần mềm LDAP miễn phí trong mục " thông tin trên Internet " .
+Có hai mức độ xử lý trên hệ thống mạng frame - relay .
+Có hai cơ chế làm nòng cốt cho dự án nầy :
+Có hai phương pháp tránh va chạm .
+Có hai phương pháp thể thực hiện điều nầy :
+Có 2 phương pháp để thiếp lập hệ điều hành trên hệ thống đa xử lý :
+Sau đây là hai cách giúp đồng bộ hóa giữa các phiên bản nầy :
+Có hai phương pháp để khắc phục vấn đề nầy .
+Có hai công nghệ đĩa quang : rewritable và WORM ( write once , read many ) , sẽ được trình bày trong các phần tiếp theo .
+Có hai tiếp cận nhằm mở rộng RDBMS để hỗ trợ đối tượng :
+Có hai phương pháp kết nối .
+Có thể tiến hành theo hai kịch bản như sau :
+Có hai kỹ thuật điều biến chính : điều biến biên độ , làm thay đổi biên độ ( chiều cao ) của tín hiệu mang ; và điều biến tần số , làm thay đổi tần số của tín hiệu mang .
+Có 2 kỹ thuật multiplexing chính , được minh họa trong hình M - 14 .
+Có hai chuẩn hội thảo qua video chính :
+Có hai sơ đồ được dùng :
+Có 02 giải pháp cho vấn đề nầy :
+Có hai phương pháp đồng bộ hóa thời gian .
+Có hai kiểu giám sát giúp theo dấu sự kiện với những công cụ kiểm tra được cung cấp trong Windows NT .
+Có hai loại kết nối trong kịch bản Internet VPN xem hình V - 8 :
+Có hai loại hub trong sơ đồ 100Base - TX : lớp I và lớp II .
+Có hai loại IPC .
+Có hai loại môi trường để truyền dữ liệu :
+Có 2 loại modem :
+Có hai loại địa chỉ mạng tùy thuộc ngữ cảnh : đang nói về mạng LAN hay tập hợp các mạng LAN nối kết nhau .
+Có hai loại proxy server : mức bản mạch và mức ứng dụng , như mô tả dưới đây .
+Có nhiều connector như BNC Tconnectors , bnc connector loại ống và BNC terminator như hình B9 .
+Có nhiều mức DS , bắt đầu từ DS0 , đường truyền 64Kbit / s chứa được một cuộc gọi điện thoại ( sau khi chuyển đổi tương tự sang số ) .
+Có nhiều nguyên tắc ghi mã được xây dựng trong các giao thức của tầng hiển thị để quản lý tất cả các loại thông dịch dữ liệu .
+Có nhiều mức độ khác nhau của sự xác nhận , tùy thuộc vào mức độ phức tạp bạn muốn trong việc kiểm tra sự hợp lệ một người dùng .
+Có thể có một lớp như person và các lớp con của lớp ấy , như lớp doctor , lawyer , accountant .
+Việc nâng cấp mạch nội bộ không mang lại nhiều lợi ích lắm mãi cho đến gần đây .
+Có sự do dự nào đó của một phía đối với việc nhảy sang thị trường của phía kia .
+Các công ty có khuynh hướng nối kết các nơi từ xa thông qua nối kết Internet .
+Có nhiều lo ngại về sự kém an toàn trên Internet .
+Vấn đề nén dữ liệu nảy sinh khi các công ty có nhu cầu truyền tiếng nói , video , và dữ liệu giữa mạng nội bộ và Internet .
+Có một thỏa thuận về tốc độ tràn thông tin cực đại , được gọi là CBIR ( tốc độ tràn thông tin được cam kết ) .
+Tốc độ dữ liệu cực đại có thể , một tốc độ trung bình theo thời gian , và một tốc độ cực tiểu .
+Có một tầng đàm phán ở trên cùng trong giao thức SET và trong các giao thức thanh toán khác .
+Có một thư mục gốc và phân nhánh thành nhiều thư mục con , mỗi thư mục con có thể có nhiều thư mục con trong đó .
+Có một cổng nối tiếp cho một máy tính kết nối để quản lí .
+Có những bước tiến đáng kể trong việc tích hợp thoại và dữ liệu trên cùng một mạng , trên mạng cục bộ hoặc trên mạng Internet .
+Ngoài ra một địa chỉ phát tán còn được sử dụng để đánh địa chỉ cho khung gởi đến mỗi nút trên mạng .
+Có một số nhân tố xác định độ chính xác của tín hiệu được số hóa - càng nhiều bit được sử dụng để ghi nhận giá trị của tín hiệu lấy mẫu , thì độ phân giải càng cao và âm thanh càng tốt hơn .
+Có cả phiên bản mở rộng ODMA Extension cho Workflow .
+Ngoài ra cũng không có thủ tục login trong TFTP .
+Cũng không cần gán địa chỉ cho các thiết bị .
+Cũng không còn vấn đề chuyển mạch nữa , nghĩa là đường truyền là kết nối trực tiếp vào hệ thống frame relay , atm hoặc Internet của nhà cung cấp .
+Ở đây phải có sự tin tưởng trong việc sắp xếp nầy .
+Thẻ mở được dùng khi thay đổi một định dạng hay thuộc tính , và thẻ đóng , là thẻ nó có chứa dấu / để cho biết kết thúc một đoạn do một thẻ tương ứng mở ra .
+Còn có một phương pháp mã hóa quan trọng khác là hàm một chiều .
+Có điểm quan trọng cần bàn về kỹ thuật chuyển mạch IP của Ipsilon .
+Hiện tại có nhiều nỗ lực phát triển trong lĩnh vực chạy nhiều giao thức qua các mạng chuyển mạch .
+Có nghi ngờ rằng liệu APPN có sống sót trong cơn sóng thủy triều TCP / IP , Internet , và công nghệ Web .
+Đó là parity chẵn ( tổng số số bit 1 phải chẵn ) , parity lẻ ( tổng số số bit 1 phải lẻ ) , parity trắng ( bit parity phải luôn luôn là 0 ) , và parity đánh dấu ( bit parity phải luôn luôn 1 ) .
+Nhu cầu phát hiện lỗi chỉ còn rất nhỏ , do đó quy trình phát hiện và sử lỗi được chuyển giao bớt cho các trạm cuối , ngày nay đủ mạnh để đảm nhiệm việc nầy .
+Không nhất thiết phải có lời báo nhận cho mỗi gói thông tin , lời báo nhận nhiều lúc không cần đến hoặc chỉ dùng cho một nhóm gói thông tin .
+Thật khó dự đoán được tương lai của các hệ viễn thông trong vài năm tới .
+Hỗ trợ nhiều chức năng như : che dấu sự khác nhau về cơ sở dữ liệu , xử lý các giao dịch để đảm bảo sự đồng bộ hoạt động của các server .
+Không có giai đoạn cài đặt kết nối trên hệ thống .
+Không còn dịch vụ dial - up nữa .
+Không có sự cấp phát động , do đó kỹ thuật nầy phù hợp nhất cho videoconference và không phù hợp với những yêu cầu động của LAN .
+Số các phòng viễn thông không bi giới hạn .
+Hầu như không thể mua hệ thống tốt nhất nếu mạng không thể truyền video chất lượng cao do hạn chế về băng thông .
+ISP không nhất thiết phải có thoả thuận ngang hàng , cũng như các nhà quản lý NAP và MAE không cần liên quan đến các thoả thuận nầy .
+Không cần phải có thời gian thiết lập kết nối .
+Đây không phải là việc mã hóa đặc biệt .
+Cấu hình nầy còn sử dụng cho việc khác .
+Có một sự khác nhau đáng kể giữa BRI / PRI và B - ISDN .
+Tuy nhiên có một vấn đề .
+Cần phải biết MTU nhỏ nhất trong một môi trường liên mạng .
+Một số điều không mấy hiệu quả trong cấu hình nầy .
+Thường có một nhu cầu dùng những hệ thống cũ để đảm bảo tính tương thích .
+Một thông điệp liên lạc có thể phải đi qua một số hệ thống trung gian .
+Có thể cùng tồn tại nhiều hệ cơ sở dữ liệu back - end và nhiều hệ thống client .
+Có nhiều giao thức trao đổi khóa khác nhau , với các thuộc tính bảo mật khác nhau .
+Có thể có nhiều volume trên mạng , và mỗi volume có tên riêng .
+Có thể có nhiều đích .
+Cần có phương thức nào đó để quản lý vấn đề " xung đột " .
+Do đó một số kỹ thuật như mã hóa và nén được phát triển để nén các dữ liệu digital vào phạm vi 300 - 3300 Hz .
+Vì vậy IASG là một mạng con ảo trên môi trường IP .
+Do đó , địa chỉ IP gồm một số hai thành phần xác định mạng và máy chủ trên mạng đó .
+Bởi vậy , bằng cách sử dụng IP trên hệ thống ATM , bạn có thể truy xuất các đặc tính QoS thông qua các trình ứng dụng tương thích .
+Điều nầy có lẽ làm quá tải lưu thông mạng trong các môi trường rộng lớn .
+Vì vậy , dịch vụ connection - oriented hướng kết nối được dùng chủ yếu trong cấp tầng truyền tải .
+Vì vậy , mỗi mạng con có các phương thức MAC ( medium access control ) của riêng nó để đặt thông tin vào các khung , đánh địa chỉ các khung nầy để truyền đến các nút khác trên cùng mạng .
+Vì vậy , mỗi mạng con và mỗi host trong mạng đều có thể xác định được .
+Do đó , các datagram IP được phân đoạn và bao bọc trong các khung , xem hình F - 17 .
+Do đó , nó xác định các giao thức tương tác trực tiếp với các thành phần vật lý như card mạng và dây cáp .
+Vì vậy , nó phải được gửi đến router A / B để tiến đến mạng nầy .
+Do đó , nhiều nhà cung cấp và các ủy ban về chuẩn đã mở rộng web để các giao tác được thương mại an toàn và bảo đảm hơn .
+Vì thế , các hệ điều hành cao cấp như Windows NT và Netware cung cấp các thuộc tính đặc biệt để truy cập tập tin .
+Do đó , có thể có nhiều hơn một máy chủ DHCP tìm cách cho thuê địa chỉ IP bằng cách gởi thông điệp chào hàng .
+Do đó , các mạng cần được lắp đặt theo các chuẩn để tránh được các sự cố .
+Vì vậy , chỉ có TGS có thể giải mã được TGT sau khi nó được gửi đi từ AS .
+Do đó , thay vì các gói được định tuyến theo từng bước nhảy trên mạng , chúng được chuyển thẳng với tốc độ cao .
+Vì vậy , một vài nhà cung cấp đã đưa ra các phương án dư thừa của riêng họ .
+Bởi lẽ đó , nên phần mềm cung cấp phân giải tên rất cần thiết trên các trạm làm việc và / hoặc trên các server để chuyển đổi giữa tên mà người hiểu được và địa chỉ mạng dưới dạng các con số thứ tự .
+Do đó , bộ chuyển mạch ATM có khả năng điều khiển trước để tránh tắt nghẽn .
+Thế nên , bản thân các mạng nầy thường yêu cầu các quản trị viên mở rộng tầm hiểu biết về mạng qua việc sử dụng các trình hỗ trợ giám sát từ xa hay các công cụ điều khiển .
+Do đó giao diện của các đối tượng nầy phải được chuẩn hóa để cho các thành phần khác nhau có thể giao tiếp nhau dễ dàng hơn .
+Do đó , cách lưu trữ dữ liệu trong CSDL rất không nhất quán với cách các thông tin liên quan lưu trữ trong CSDL khác .
+Chúng ta gọi chung là modem 56K .
+Vì thế , phần nầy chỉ cung cấp các địa chỉ trên Web chứa các liên kết nóng đến các nhóm , tổ chức , và hiệp hội về chuẩn .
+Do đó , các bản tường có hai chỗ vào - một cho dữ liệu và một cho thoại - mặc dù cách sắp xếp nầy là mềm dẻo .
+Do đó , khi bạn kết nối các trạm vào mạng IEEE thì mỗi trạm sẽ có một địa chỉ MAC duy nhất .
+Những tài khoản nầy có thể có những hạn chế sau ( trên Netware ) :
+Các hành động nầy được thi hành bởi các người dùng có hiềm khích nội bộ và các kẻ tinh quái lẩn quất đâu đó , các tội phạm kỹ thuật cao , gián điệp công nghiệp , và các kẻ khủng bố quốc tế , là những tên muốn đột nhập hệ thống của bạn để kiếm lợi hoặc thỏa mãn ý thích .
+Những tiện ích bổ sung nầy xử lý dựa trên các lệnh hoặc dữ liệu truyền từ web server , làm giảm những hội thoại quá tải giữa máy khách và chủ .
+Những địa chỉ nầy có thể được xác định một cách thủ công hoặc thông qua giao thức dò đường intradomain và interdomain .
+Các sơ đồ đánh địa chỉ nầy định danh vùng mà người dùng hay tài nguyên đang tồn tại và node cụ thể trong vùng đó .
+Các trạm nầy có điện thoại di động .
+Đường thuê bao cố định : đường truyền analog nầy thiết lập kết nối với tốc độ tương tự đường quay số ngoại trừ việc khách hàng hợp đồng với nhà cung cấp bảo đảm đường truyền luôn sẵn sàng khi cần đến .
+Các API nầy được phát triển trên nền tảng môi trường phát triển OPENSTEP của NeXT Software Inc .
+Những ứng dụng nầy khai thác tối đa ưu điểm an toàn của Windows NT bao gồm dịch vụ thư mục , tài khoản đăng nhập của người sử dụng , danh sách kiểm soát truy cập , kiểm tra và nhiều thứ khác .
+Các ứng dụng nầy hoàn toàn dựa trên các tiêu chuẩn mở của Internet như HTML ( Hypertext Markup Language ) , Java , và JavaScript .
+Những ứng dụng nầy được đề cập dưới đây .
+Những ứng dụng nầy chỉ cần gói đến máy ảo Java , sau đó máy ảo nầy chuyển các thủ tục của ứng dụng thành các thủ tục đặc thù cho nền trên đó máy ảo được thiết kế .
+Các trình ứng dụng nầy cung cấp một nơi để gửi các thông điệp đến , tại đó những người khác có thể thấy được và hồi âm lại , trong thời gian thực hay sau một khoảng thời gian nào đó .
+Con số nầy gọi là hop , và số hop càng nhỏ càng tốt .
+Những điều nầy sẽ được thảo luận trong phần " IBM Host Connectivity " .
+Các yếu tố nầy được trình bày trong mục Transmission Media , methods and Equipment .
+Điều nầy sẽ được thảo luận trong mục Kết nối máy chủ IBM .
+Những vấn đề nầy được bàn đến dưới các đề mục liệt kê trong phần Từ mục liên quan ở cuối chủ đề nầy .
+Các nhà cung cấp và các công ty liên kết đang tìm cách giải quyết các vấn đề nầy .
+Đây là các hệ điều hành mạng dùng cho các máy tính để bàn và server , tương ứng theo từng lọai .
+Những phần nầy được phác thảo trong mục " Circuit - Switching Services " và " Communication Services " .
+Đây là những vấn đề cần phải được giải quyết .
+Ðây là một vài đặc điểm chính của phần mềm dòng công việc :
+Đó là API hội thoại , rpc gọi thủ tục điều khiển từ xa , và API thông điệp .
+Đây là sự phát triển bùng nổ của những nghi thức Web , của việc sử dụng các mạng chuyển đổi là những mạng góp phần tạo ra mạng Ethernet , và của việc sử dụng những trục mạng chính tốc độ cao ( ATM hoặc Gigabit Ethernet ) .
+Ðó là những tập tin dùng được cho người dùng mạng , trên intranet hay Internet .
+Các hệ nầy bảo đảm hoạt động cho các doanh nghiệp .
+Các thao tác nầy hoạt động giống như các mạch điện tử chuyên dụng giữa người gọi và người nghe .
+Những bit nầy cung cấp các thông tin giúp cho các giải thuật tính toán xem khối dữ liệu thực sự bị lỗi như thế nào ( như trong trường hợp FEC ) hay để xác định xem khối dữ liệu có bị hỏng không ( trường hợp ARQ ) .
+Các khối nầy sau đó được chia thành 7 khối con 60 bits , rồi được truyền qua mạng .
+Những sách nầy và các tác giả là các nguồn thường xuyên về firewall và an toàn trên Internet .
+Dưới đây là các loại cáp :
+Những lần gọi nầy thực hiện các thao tác chuẩn của CPU giống như các chương trình được thiết kế để chạy trên nền đó .
+Ðây có thể là đường dây dial - up hay thuê bao với dung lượng theo nhu cầu của văn phòng .
+Các kênh nầy có thể hỗ trợ luồng không đồng bộ hoặc đẳng thời .
+Những ký tự nầy được dùng để đồng bộ hóa một khối .
+Các mạch nầy cực kỳ nhanh khi đem so sánh với các bộ định tuyến truyền thống về khía cạnh sử dụng bộ nhớ để lưu trữ và gửi tiếp các khung .
+Những mạch nầy dùng các đường dây thuê bao nội hạt hoặc các kết nối chuyển mạch để chuyển các gói dữ liệu từ vị trí khách hàng đến mạng chuyển gói .
+Các mạch nầy có tốc độ từ 6.144 Mbit / s đến 99.072 Mbit / s .
+Những kỹ thuật nầy được trình bày vắn tắt trong các phần dưới đây qua đó bạn có thể tham chiếu đến các mục thích hợp để nắm bắt chi tiết hơn .
+Những thành phần nầy sẽ tiếp tục tải về thông tin từ máy phát .
+Những thành phần nầy tận dụng tất cả những ưu thế của Windows NT Server cũng như những đặc điểm hỗ trợ khách hàng và nhà quản lý .
+Những kết nối nầy giống như mạch , và có thể tồn tại đồng thời các mạch bội với băng thông lớn .
+Nhờ các điều khiển nầy , chủ của tập tin có thể trao cho người dùng khác các quyền truy cập như đọc , viết , hoặc chạy chương trình .
+Sau đây là một số hình thức điều khiển đồng thời :
+Các chi phí nầy được cài đặt bởi các nhà quản trị mạng thể hiện sự ưu tiên của bộ định tuyến nầy so với các bộ định tuyến khác .
+Những cơ sở dữ liệu nầy được gọi là nguồn dữ liệu .
+Những thiết bị nầy có thể dùng cho các bộ điều khiển cluster tại những nơi ở xa kết nối đến một máy chủ IBM .
+Các thiết bị chuyển mạch khác nhau có thể nối với nhau và tạo nên sơ đồ mạng phân cấp , khai thác hiệu quả của thiết kế dây cáp cấu trúc , xem mục TIA / EIA Structured Cabling Standards .
+Thật sự , còn gì tiện bằng nếu như có thể truy cập được nhiều dịch vụ thư mục trong cùng một nơi và chỉ với mỗi một lần đăng ký .
+Trong các phần vừa trình bày , giả định các client và server có phần mềm tương thích với nhau .
+Vì thế những văn bản nầy không cho phép những người khác truy cập ( mà ở tại các vị trí của các nhân viên nầy nếu kết nối với Internet , thì bất cứ người nào nếu cố tình thì đều có thể truy cập đến chúng được ) .
+Các hệ trước đây không tạo được nhiều thuận lợi trong việc cập nhật thường xuyên dữ liệu xảy ra trong kho dữ liệu và chỉ được sử dụng hạn chế bởi một số người quyết định .
+Sự cải tiến nầy được gọi là Wide SCSI .
+Thay vào đó dịch vụ phát hiện và khôi phục lỗi được các hệ thống đầu cuối xử lý ở các tầng cao hơn trong chồng giao thức .
+Những vấn đề nầy liên quan đến sự phân phối băng thông , nén dữ liệu , và các kỹ thuật khác cho việc mỡ rộng các chức năng của PPP .
+Các dịch vụ nầy được thực hiện bằng các phương tiện an toàn bảo đảm tính toàn vẹn và riêng tư .
+Những đặc điểm nầy được mô tả chi tiết trong phần Transaction Processing .
+Những đặc tính trên đây phù hợp với quá trình truyền dữ liệu bất kỳ và nhanh chóng hơn là kết nối truyền dữ liệu lâu dài .
+Dịch vụ nầy không sử dụng kỹ thuật phản hồi làm giảm bớt lưu lượng trên mạng nhưng đòi hỏi các ứng dụng ở tầng trên phải kiểm tra dữ liệu .
+Những đặc tính nầy yêu cầu một phiên kết nối trước khi dữ liệu được truyền .
+Những đặc tính nầy sử dụng cơ chế phản hồi nên các ứng dụng cấp trên được bảo đảm dữ liệu truyền không bị mất .
+Những tập tin nầy được lưu trữ trên Web server .
+Những thư mục nầy có thể được sao chép và đặt ở những vị trí khác cho gần người sử dụng hơn để giảm tình trạng tắc nghẽn đường truyền .
+Các công cụ front - end nầy dùng các phương pháp cao cấp để hiển thị và phân tích dữ liệu .
+Những nhóm nầy được phác thảo ở đây và được thảo luận nhiều hơn ở các phần sau :
+Những phần cứng nầy và những phần mềm được cài trong chúng được gọi là các nút và các nút nầy kết nối với các kết nối dữ liệu .
+Những máy chủ truy cập độc lập công nghệ cao nầy hỗ trợ hàng trăm modem và được xây dựng với nhiều bo mạch multibus cung cấp khả năng truy cập cực kỳ cao .
+Những giao diện mức cao nầy cung cấp tên cho các thực thể phần mềm cư trú trong các EN và NN trên mạng .
+Bao gồm IBM 3090 , IBM 4381 , hay IBM 9370 .
+Các lọai hub nầy được minh họa trong hình H - 8 và được mô tả như sau :
+Những hub nầy phục vụ như những điểm truy cập vào ARDIS để dùng các ứng dụng khách hàng trên máy chủ .
+Những liên kết nầy tham chiếu đến thông tin khác .
+Khả năng nầy gồm các ứng dụng workflow cho phép gởi tin , hợp lý hóa liên lạc , làm giảm các chu trình xử lý kinh doanh , và tăng năng suất lao động .
+Chúng gồm worms , Trojan horses , và logic bombs .
+Những giao diện này cho phép chia sẻ nguồn dữ liệu thông qua các giao diện chung mà không cần cài đặt chức năng CSDL .
+Các giao diện nầy cho phép các nguồn dữ liệu chia sẻ qua các giao diện chung mà không cần phải cài đặt chức năng CSDL không nguyên thủy đối với kho dữ liệu .
+Những giao diện nầy cho phép chia sẻ nguồn dữ liệu thông qua giao diện chung mà không cần hiện thực những chức năng của cơ sở dữ liệu liên quan .
+Các giao diện nầy được mô tả dưới đề mục Serial Communication and Interface .
+Những giao diện nầy không chỉ dùng cho các ứng dụng sử dụng dữ liệu mà còn cho server cung cấp cơ sở dữ liệu .
+Mạng riêng ảo ( VPN : virtual private network ) dựa trên nền Internet do đó đòi hỏi phải bảo mật và đôi lúc phải đăng ký với các nhà cung cấp dịch vụ Internet nhằm tăng tính ổn định của đường truyền và nối kết giữa các site .
+Vấn đề nầy sẽ được nói thêm trong phần Kết nối máy chủ IBM .
+Xem " Private - Key Cryptography " và " Public - Key Cryptography " .
+Sau đó những khóa nầy có thể được sử dụng để mã hóa và tạo chữ ký số , như được bàn ở mục Digital Signatures và Public - Key Cryptography .
+Những ngôn ngữ nầy bao gồm những ký tự kiểm soát đặc biệt để chỉ ra điểm bắt đầu và điểm cuối của một format .
+Những hệ thống lớn nầy cũng có thể là các nút mạng , như được thảo luận tiếp theo .
+Phải tuân theo độ dài nầy nếu cải tiến Fast được sử dụng để tăng tốc độ truyền .
+Những đường nầy gọi là dùng riêng vì khách hàng được bảo trì tất cả các thiết bị đầu cuối và toàn quyền sử dụng đường nầy để truyền các loại thông tin ( dữ liệu , âm thanh , video ) .
+Những đường nầy thích hợp với liên kết cố định giữa 2 site nơi .
+Những liên kết nầy được điều khiển bởi các giao thức liên kết dữ liệu liên quan đến các mạng cơ sở .
+Những hệ rẻ tiền nầy vận hành trên dây điện thoại chuẩn với tốc độ 28.8 - 33.6 Kbit / s .
+Các mainframe nầy thường chạy hệ điều hành MVS ( Multiple Virtual Storage ) , và chế độ hoạt động là XA ( Extended Architecture ) hoặc ESA ( Enterprise System Architecture ) .
+Nó được kết nối đến phòng thiết bị cùng tầng .
+Các thông điệp này được truyền tải qua kết nối TCP / IP hai chiều .
+Những phương pháp nầy được gọi là quét chữ ký .
+Những phương pháp trên đây có thể được thực hiện ở tầng liên kết dữ liệu của cấu trúc Protocol chồng giao thức và trong tầng truyền tải tùy thuộc vào kết nối vật lý và dịch vụ yêu cầu bởi hệ thống giao tiếp .
+Những tên nầy xuất hiện trong giao diện đồ họa Macintosh .
+Những hệ điều hành nầy đòi hỏi mức an toàn cao hơn vì người dùng lạ có thể truy cập các tập tin trên mạng .
+Các hệ tập tin nầy được trình bày trong các mục với tên tương ứng .
+Công nghệ nầy lưu dữ liệu vào khung để chuyển tải qua môi trường chia sẻ bằng các phương pháp phi kết nối .
+Các đối tượng nầy hoặc được nhúng vào hay được liên kết .
+Có một số đối tượng là cấu trúc cốt lõi của một hệ xử lý dữ liệu rộng lớn .
+Các tùy chọn nầy được thảo luận trong mục Telecommunications and telephone systems và WAN ( Wide Area Network ) .
+Những tổ chức nầy và quá trình phát triển các tiêu chuẩn được đề cập đến trong phần " Internet Organizations and Committees .
+Những thành phần phát sinh nầy liên quan đến kiến trúc tầng vật lý của SONET , xem hình S - 11 .
+Những bộ chương trình nầy sẽ được liệt kê sau .
+Những con đường nầy có thể không phải là những con đường ngắn nhất theo cách nghĩ thông thường mà là những con đường mà đáp ứng được loại và chất lượng dịch vụ theo yêu cầu của người dùng .
+Những sản phẩm nầy được xây dựng trên cơ sở các tiêu chuẩn của Internet .
+Những sản phẩm nầy được gọi là " platform " do các nét đặc trưng bao quát và khả năng quản lý toàn bộ hệ thống mạng cho công ty .
+Những sản phẩm được mô tả bên dưới như những ví dụ về ứng dụng cộng tác hiện có trong môi trường mạng nội bộ và mạng toàn cầu .
+Các giao thức này được đề cập trong cuốn sách này .
+Những giao thức nầy được thiết kế để vận hành trong tầng 3 ( tầng mạng ) của ngăn xếp giao thức và mã hóa tất cả dữ liệu qua kết nối nầy .
+Những giao thức nầy được thảo luận trong mục Virtual Dial - up Services .
+Những giao thức nầy thường được hỗ trợ bởi các bộ định tuyến và các loại thiết bị liên kết mạng khác đang có ở nhiều nhà cung cấp mạng máy tính khác nhau .
+Những giao thức nầy cho phép các bộ định tuyến trao đổi thông tin về đồ hình , là những thông tin thay đổi thường xuyên khi các thiết bị và liên kết chấm dứt .
+Các giao thức này chỉ cần kết hợp với giao diện NDIS để làm việc với bất kỳ loại card mạng nào .
+Những dịch vụ nầy cung cấp cơ chế khôi phục lỗi và truyền lại để đảm bảo dữ liệu được truyền đến đích .
+Những nhà cung cấp nầy liên kết với nhau thành một chuỗi các NAPs ( network access points ) .
+Truyền RF xảy ra giữa bộ phát và bộ nhận trong phạm vi cùng một phòng đến trong thành phố .
+Những router nầy sử dụng kỹ thuật mạch tích hợp mới , hiện thực theo ASIC ( mạch tích hợp đặc trưng ứng dụng ) , có thể dò đường với tốc độ hàng tỷ bít / giây .
+Những chuẩn nầy được dùng trong phần mềm Netmeeting videoconferencing của Microsoft .
+Những chương trình độc lập nầy đi theo các phương pháp thiết kế hướng đối tượng .
+Các nguồn cung cấp điện riêng nầy có thể nằm riêng rẽ nhiều nơi trong các tòa nhà hay trong các văn phòng nhiều tầng mà được cung cấp điện từ các trạm biến thế riêng rẽ trên mỗi tầng lầu .
+Các máy chủ được giảm gánh nặng và không cần cài đặt đầy đủ các dịch vụ X.500 .
+Những server nầy có thể giao tiếp với nhau để trao đổi , cập nhật dữ liệu cũng như cùng xử lý các tác vụ trên mạng .
+Các dịch vụ nầy cho phép người dùng hay ứng dụng yêu cầu sự ưu tiên trên mạng .
+Những dịch vụ nầy được trình bày trong cuốn sách nầy ở nơi khác .
+Những dịch vụ nầy được bàn kỹ hơn trong phần " Circuit - Switching Services " , " Communication Services " , và " WAN ( Wide Area Network ) " .
+Các dịch vụ nầy cùng nhóm với nhau vì cùng cung cấp kết quả đầu cuối như nhau , và đây là kết nối any - to - any trên mạng có tốc độ truyền biến động .
+Các dịch vụ nầy nằm trên tầng mạng của chồng giao thức .
+Các dịch vụ nầy có những đặc điểm sau : Thứ tự trước sau của IP dùng để chia lưu thông thành sáu lớp dịch vụ .
+Những dịch vụ nầy cho phép các ứng dụng định vị người sử dụng và tài nguyên mà không cần biết thông tin về vị trí vật lý .
+Những dịch vụ nầy có 3 đặc điểm quan trọng :
+Những dịch vụ nầy bảo đảm gói tin sẽ đến đích của nó khi băng qua các liên kết điểm - điểm , ví dụ như có một tập hợp các liên mạng nối kết với nhau bằng các bộ định tuyến .
+Những nơi nầy phản ánh lẫn nhau để người dùng có thể nhận thông tin từ máy chủ DNS gần nhất .
+Những nơi nầy được gọi là nơi anonymous FTP .
+Những đặc tả nầy đang được đệ trình với ITU ( International Telecommunication Union - Hiệp Hội Truyền Thông Quốc Tế ) .
+Những chuẩn nầy xác định các giao thức truyền , điều khiển và hiển thị thông tin về hội nghị .
+Những tiêu chuẩn nầy cung cấp cấu trúc nối cáp để các nhà thiết kế có thể sử dụng thuận tiện các thiết bị truyền thông dữ liệu cao tốc mà không cần biết trước thiết bị đó là gì .
+Những khẳng định nầy được gọi là điều xác nhận .
+Những mạng thứ cấp nầy được nối vào mạng backbone của mạng qua các bộ định tuyến .
+Những hộp chuyển mạch nầy được nối kết cục bộ và liên lạc với nhau thông qua các giao tiếp đặc trưng của nhà cung cấp là NNI ( giao tiếp giữa mạng với mạng ) .
+Những hệ thống nầy thường được gọi là mrouter , là các máy tính chạy hệ điều hành hỗ trợ các phần mềm IP multicast routing .
+Các hệ nầy được gọi là CSDL quan hệ - đối tượng hoặc mới đây nhất là CSDL phổ quát .
+Các hệ nầy được thiết kế để hoạt động trong hầu hết các mạng .
+Các hệ thống nầy được thảo luận sâu hơn trong mục " Storage Management Systems " .
+Các hệ nầy thường được gọi là hệ quản trị điều hành .
+Những hệ thống nầy thu thập và hiển thị thông tin về điều kiện vận hành trên mạng cũng như các số liệu thống kê để các nhà kỹ thuật có thể lý giải các kỹ thuật quản trị cũng như yêu cầu cho các thiết bị mới .
+Những hệ thống nầy bao gồm IBM PROFS ( Professional Office System : Hệ thống văn phòng chuyên nghiệp của IBM ) và SNADS ( SNA Distributed Services : Các dịch vụ phân tán SNA ) , đang được sử dụng trong môi trường máy tính lớn của IBM .
+Những hệ thống nầy sử dụng kỹ thuật chuyển mạch gói và cung cấp dịch vụ tốt nhất cho người dùng máy tính di động và người dùng các thiết bị điện tử số hóa .
+Các hệ thống nầy chạy các hệ điều hành mạng như Novell NetWare , Windows NT , hoặc một phiên bản của hệ điều hành UNIX .
+Những băng nầy được chứa bên ngoài cơ sở .
+Những kỹ thuật nầy được trình bày trong các mục Virtual Dial - up Services và VPN ( Virtual Private Network ) .
+Các kỹ thuật nầy được mô tả trong mục Error detection and Correction .
+Những kỹ thuật nầy được thảo luận trong mục MAC ( Medium Access Control ) .
+Các kỹ thuật nầy thường được gọi là layer 3 switching , multilayer switching , shortcut routing hoặc high - speed routing .
+Các kỹ thuật nầy có thể thực hiện với chữ ký điện tử và mã hóa công khai .
+Ba nhóm nầy có thể tập trung lại với nhau hình thành nhóm cấp 2 ( nhóm ABC ) để trao đổi thông tin với các nhóm cấp 2 khác .
+Các đề tài nầy được xét kỹ hơn trong phần IP over ATM và IP Switching .
+Hai cách tiếp cận được minh họa trong Hình B2 .
+Hai lãnh vực nầy hơi khác nhau , nhưng đang hòa vào nhau khi các tổ chức cài đặt mạng cao tốc có thể chuyển tải vừa thoại vừa dữ liệu .
+Hai chiến lược nầy được trình bày trên hình D - 19 .
+Tài sản quí giá nầy phải được quản lý và bảo vệ .
+Các nhà cung cấp nầy đã gặp phải các sơ đồ mã ký không tương thích .
+Những nhà cung cấp nầy cho xuất xưởng những sản phẩm độc quyền với các chức năng mở rộng như hỗ trợ ISDN và khả năng tập hợp các đường ISDN khi băng thông được yêu cầu rộng hơn cho các cuộc hội thảo từ xa hay các nhu cầu khác .
+Những virút nầy chỉ bị phát hiện khi chúng còn trong bộ nhớ .
+Chúng " tin tưởng " vào các ủy nhiệm do AS phát hành cho client .
+Nếu cả hai đều xác nhận rằng sẵn sàng để ghi giao dịch .
+Chúng cho phép máy tính xử lý các thiết bị điện thoại có nối với đường dây điện thoại .
+Chúng cũng cho phép người dùng truy cập các hộp thư và nhận các thông điệp .
+Đồng thời dòng lưu thông thông tin cũng được cải tiến và có thể tránh được các tắc nghẽn .
+T1 còn cung cấp kết nối giữa mạng nội bộ công ty với nhà cung cấp dịch vụ mạng hay với mạng chuyển mạch gói công cộng .
+Chúng cũng thực hiện việc định tuyến cho thông điệp , quản lý mạng , và các chức năng kết toán / lập hóa đơn .
+Chúng cũng rất quan trọng trong việc kiểm tra thư điện tử từ các người dùng khác trong tổ chức và chúng cung cấp một cách để kiểm tra luồng tư liệu trong các phần mềm làm việc theo nhóm và các phần mềm kinh doanh .
+Chúng còn an toàn hơn so với việc dùng mạng mở như là Internet .
+Mạng riêng nầy có tính an toàn cao hơn các mạng mở ví dụ như mạng Internet để dùng cho các liên kết vùng diện rộng .
+Nó cũng được dùng trên các Web site để cung cấp thông tin cho người dùng không bị sửa đổi ( hacker không thể phá hủy dữ liệu trên CD - ROM ) .
+Các dịch vụ nầy cũng được dùng để truyền dữ liệu .
+Chúng là những hộp được xây dựng trên một khung mà thường bao gồm những vị trí cấp nguồn có dự phòng và một bản mạch cắm thêm theo module được gọi backplane .
+Chúng được coi là một tiêu chuẩn công nghiệp không chính thức và nhiều nhà cung cấp đã mua bản quyền để dùng trong modem của họ .
+Chúng được thiết kế để chuyển giao dữ liệu thời gian thực như âm thanh và video sống trực tiếp từ điểm nầy đến điểm khác trên Internet hay Intranet .
+Chúng được thiết kế để hỗ trợ các đối tượng giao dịch kinh doanh tại nhà hay trên hệ thống mạng Internet và cung cấp liên kết đến các hệ thống kế thừa .
+Chúng được thiết kế cùng một số đặc tính với chiếc máy lớn hơn là ATM , nhưng lại không có các đặc tính như khả năng kiểm tra cân đối tài khoản của bạn .
+Chúng được tải vào vùng nhớ của server trong một thời gian ngắn .
+Chúng là những trung tâm dữ liệu hoàn chỉnh và có thể được chuyển thành trực tuyến khi trung tâm ban đầu bị ngoại tuyến do tai biến .
+Họ chỉ bị lộ khi tấn công vào ngân hàng .
+Hoạt động tốt với quá trình truyền dữ liệu đi xa cũng như gần .
+Có thể thuê modem như là một phần của dịch vụ nầy , giá modem loại nầy khoảng từ $ 500 - $ 1000 .
+Chúng giống như những hộp chứa các mã hay dữ liệu bên trong để thực hiện hành động nào đó khi các giao tiếp bên ngoài được tiến hành .
+Chúng được liệt kê ra ở để đại diện cho các loại cáp của nhiều nhà sản xuất .
+Xem mục Thông tin trên Internet ở cuối phần nầy .
+Chúng là những vùng lôgíc , và khởi đầu tồn tại để tạo sự dễ dàng trong việc truy cập tài nguyên cho người dùng .
+Chúng không phải là tín hiệu thoại .
+Đây là các tổ chức như U . S . Postal Service xác nhận tính hợp lệ , sự ủy nhiệm của một người nào đó và kèm theo khóa chung và sự ủy nhiệm của người nầy vào trong " gói điện tử " gọi là sự chứng thực kỹ thuật số .
+Chúng tương tự như những cỗ máy tìm kiếm trên Web ngoại trừ điều là chúng được thiết kế để tìm thông tin đặc cách cho yêu cầu người dùng và phân phối thông tin đó ở dạng tương tự như bài báo .
+RPC là đồng bộ - yêu cầu client chờ nhận hồi báo từ server .
+Chúng được đặt cùng với anten trên đỉnh những tòa nhà cao tầng hay trên các tháp .
+Chúng được thiết kế làm server cho cấp phòng ban , hoặc để chạy các ứng dụng ngành dọc .
+Chúng thường được liệt kê dưới dạng số , chẳng hạn RFC 1771 hoặc tên , chẳng hạn Border Gateway Protocol 4 ( BGP4 ) .
+Điểm khác nhau ở chỗ một pipe được dùng để đọc và pipe khác dùng để ghi thông tin .
+Chúng được dùng cho các kho dữ liệu lớn và để thực hiện các công việc phức tạp như dự báo thời tiết .
+Bộ định tuyến được dùng để nối kết những mạng không đồng nhất vào hệ thống liên mạng như trong hình R - 7 .
+Thích hợp với truyền tập tin không thường xuyên , truyền email , … .
+Chúng thường được gán bởi các quản trị viên , hoặc cấp lãnh đạo , tùy thuộc vào cơ cấu quản lý .
+Về cơ bản họ thuê các đường truyền băng thông cao để nối vào Internet , sau đó cho các người dùng Internet và các Web site thuê lại băng thông .
+Thông tin nầy được cập nhật liên tục để đưa vào máy tính để phân tích .
+Chúng có thể , ví dụ như được sao chép đến một hệ thống khác , nơi đó chúng chỉ có thể được truy cập bởi những người quản trị mạng hay một giám sát viên .
+Chúng cũng có thể nhận phần mềm và tự động cập nhật từ máy chủ .
+Họ cũng có thể lập lịch tự động thực hiện quay số kết nối để cập nhật desktop của họ .
+Họ cũng có thể thiết lập những quyền riêng .
+Họ cũng có thể chia sẻ thông tin với những người dùng trong các cell khác , tùy thuộc vào quyền truy cập bởi các authority khác trong những cell nầy .
+Họ có thể xây dựng hai mạng hay tìm kiếm một giải pháp tận dụng được ưu điểm từ những tính năng liên mạng của TCP / IP để vận chuyển lưu thông SNA trong toàn bộ công ty .
+Họ có thể mang các băng ra ngoài cơ sở , và họ có các quyền / sự cho phép để truy cập tất cả các tập tin trên hệ thống .
+Chúng có thể tự " ngưng kết nối " với card để xử lý các tác vụ một cách độc lập do đó có thể giải phóng đường bus cho các tác vụ truyền khác .
+Chúng có thể hiển thị hình ảnh , âm thanh và các đối tượng đa phương tiện truyền thông khác .
+Hệ thống có thể vừa xử lý nhiều yêu cầu từ các người sử dụng vừa thực hiện truy cập dữ liệu .
+Những chương trình nầy sẽ được gỡ bỏ bằng cách đơn giản là khởi động lại máy .
+Cầu nối chỉ dùng được khi các cấu trúc khung , định dạng khung , và các sơ đồ định địa chỉ giữa các mạng là giống nhau .
+Chúng có thể dùng chung không gian nhớ , đồng bộ các tác vụ và gửi thông điệp cho nhau .
+Họ có thể chọn thiết bị quản lý và xem thông tin mà thiết bị đó thu thập được .
+Chúng không được dùng để gởi khung đến những máy tính trên những mạng khác nhau được liên kết bằng các bộ định tuyến .
+Họ chọn một phương pháp mã hóa làm cho thông điệp đó không được đọc bởi bất cứ người nào muốn truy cập lúc truyền tải .
+Họ liên hệ với những người sử dụng khác thông qua thư điện tử và tham gia vào các nhóm chia sẻ thông tin và lịch trình .
+Họ liên lạc với các nhà ngoại giao ngang hàng ở các đại sứ quán khác .
+Chúng gồm chương trình chạy trên máy xách tay .
+Có thể quảng bá nội bộ và mức độ an toàn cao hơn .
+Chúng được tải về các web browser và sau đó hoặc chạy như chương trình riêng lẻ , hoặc tự kết nối với các thành phần có sẵn để nâng cấp các chức năng của các thành phần .
+Các bộ định tuyến nầy bảo đảm chỉ có truyền dẫn WAN mới được gởi qua các kết nối WAN mà thôi .
+Cuối cùng họ kết hợp lại với nhau và trong năm 1986 , ISO ( Tổ chức quốc tế về tiêu chuẩn hóa ) giới thiệu SGML .
+Các gói dữ liệu sẽ theo đường dẫn của mạch ảo xuyên qua mạng .
+Họ tạo thành một nhóm gọi là Sprint Spectrum , với mục đích là phát triển hệ truyền thông vô tuyến .
+Chúng gửi các gói đến mạng ATM ở tầng 2 hoặc tầng 3 và là thiết bị chuyển mạch đa tầng .
+Chúng hiểu rõ các giao thức của ứng dụng được phép vận hành qua lại thông qua gateway , và quản lý toàn bộ luồng lưu thông vào và ra , trong trường hợp không thể dùng bộ định tuyến kiểm tra .
+Họ dẫn anh ta vào văn một phòng để phụ tùng thay thế , đã có sẵn các nối kết vào hệ thống mạng đang hoạt động .
+Ban đầu mạng cục bộ được phát triển từ các nối kết điểm - điểm - một dây đơn nối hai hệ thống với nhau .
+Họ đã thành lập các CableLabs ( các phòng thì nghiệm truyền hình cáp ) , một hiệp hội công nghiệp gồm các nhà điều hành cáp như là Comcast Cable , Communications , Continental , Cablevision , Cox Communications , Rogers Cablesystems , Tele - Communications , và Time Warner Cable , và một số khác .
+Các sản phẩm nầy che dấu sự khác biệt giữa ngôn ngữ truy vấn và API của CSDL .
+Nó gồm độ rộng của đường bus là 16 bit ( 2 byte ) hoặc 32 bit ( 4 byte ) cho phép tốc độ truyền dữ liệu cao hơn và hỗ trợ 16 thiết bị thay vì 8 .
+Chúng gồm hệ tập tin phân tán và các trạm không đĩa .
+Chúng gồm RPC ( remote procedure call ) , dịch vụ danh bạ , dịch vụ thời gian , dịch vụ an toàn , và dịch vụ luồng .
+Chúng tích hợp một bộ truyền 40W và vận hành ở băng tần 800Mhz .
+Nó lắng nghe tất cả các luồng giao thông trên mạng , không chỉ các luồng giao thông có địa chỉ đến nó .
+Chúng chuyển đổi địa chỉ mạng thành địa chỉ ATM và cung cấp thông tin được dùng để thiết lập mạch ảo giữa hai hệ thống cuối .
+Chúng còn được dùng cho các tuyến phòng thủ khác trong mạng , như các bạn sẽ thấy .
+Họ thực hiện các hoạt động như thay đổi các dữ liệu quan trọng hoặc sao chép các thông tin và bán chúng cho đối thủ cạnh tranh .
+Hệ nầy cũng có thể dùng cách truyền tín hiệu SS7 để truy vấn thông tin CSDL để định hướng cuộc gọi .
+Chúng được nhóm với nhau trong một server farm .
+Chúng có thể là các đường dây ISDN hoặc các đường T - 1 ( 1.544 - Mbit / sec ) dung lượng lớn .
+Chúng có thể được cài đặt chỉ dưới dạng phần mềm và chạy trên máy xách tay nối mạng .
+Chúng cũng cung cấp các chức năng quản lý lưu phân cấp .
+Chúng có thể thay đổi vai trò bất cứ lúc nào .
+Họ pha trộn các ngôn ngữ lập trình truyền thống với các ngôn ngữ đánh dấu ( markup language ) , giúp dễ dàng xây dựng các ứng dụng với giao diện theo khai báo của người dùng .
+Chúng phải quay trở lại và thử lại một lần nữa sau nầy , điều nầy làm giảm hiệu suất hệ thống , đặc biệt khi số máy trạm trên mạng tăng lên .
+Chúng thường xuất hiện giống như các thư mục con của thư mục gốc nhưng thực chất đó là những thư mục trên máy chủ ở xa .
+Họ chỉ cần tập trung vào việc duy trì khả năng tương thích với một giao thức được thiết kế tốt .
+Chúng hoạt động ở lớp vật lý và cung cấp các điểm kết nối đối với từng loại cáp như cáp đồng trục , cáp xoắn đôi hay cáp quang .
+Các ứng dụng nầy vận hành giữa các hệ thống để cho phép các người dùng chạy các trương trình và truy cập các tài nguyên trên nhiều hệ thống cùng một lúc .
+Chúng tạo ra những dòng lưu thông không thể tiên đoán , như ta thấy không thể phù hợp với lưu thông thời gian thực như video .
+Chúng cung cấp giải pháp hộp đơn để chia mạng thành nhiều thành phần .
+Chúng cho phép xây dựng các ứng dụng để truy cập thông tin văn bản và đồ họa nhưng không cho phép xây dựng các ứng dụng tinh vi hơn .
+Ðây là cách để mỗi VLAN bảo trì tính tự trị và bản chất phát thanh trong khi chuyển các gói dữ liệu giữa các VLAN .
+Kỹ thuật nầy cung cấp băng thông theo yêu cầu và có khả năng chuyển mạch kết nối .
+Chúng cung cấp các dịch vụ tập trung để hỗ trợ các máy tính mạng NC ( network computer ) và NetPC thế hệ mới .
+Chúng cung cấp kết nối Internet / Intranet , quản trị hệ thống , dễ sử dụng , và hỗ trợ cho công nghệ Java .
+Hệ nầy cung cấp dung lượng lưu trữ lớn , truy cập nhanh , khả năng chịu đựng lỗi cao nhưng chỉ với giá hợp lý .
+Chúng lọc các gói dữ liệu và thường được gọi là bộ định tuyến kiểm tra .
+Khách hàng có thể dùng theo cách giống như đường dây thuê bao chuyên dụng , hoặc các kết nối kéo thêm đường ngắn vào các mạng chuyển mạch gói .
+Họ sẽ nhanh chóng vượt ra khỏi mạng LAN cục bộ , đi qua các router vẫn thường xuyên bị quá tải .
+Chúng đọc và ghi vào đĩa quang và dùng cơ chế trao đổi tự động để " mount " và " dismount " với đĩa cứng khi cần thiết .
+Chúng nhận các gói từ trạm kế trước và gởi tiếp đến trạm kế tiếp sau nó .
+Các trình nầy đã vén bức màn bí mật của Internet và loại trừ được nhu cầu người dùng phải hiểu các lệnh chuyên nghề .
+Thay thế chúng bằng những đoạn mã hay các ký hiệu để tiết kiệm dung lượng .
+Đơn giản là họ bắn nổ tường chắn cho đỉnh của các bức tường lâu đài để làm cho nó mất khả năng chống đỡ , sau đó trèo qua tường .
+Chúng sử dụng các thông tin nầy để xây dựng các bản dò đường .
+Kỹ thuật này được hiệu chỉnh và thực hiện trên môi trường Windows .
+Mô hình cũ được thay thế bằng mô hình ba - ngưỡng trong đó người dùng kết nối đến Web server , đến phiên nó kết nối với các hệ thống dữ liệu back - end .
+Thin Ethernet cable - Hệ thống cáp sử dụng cho mạng Thin Ethernet là loại cáp đồng trục 50 - ohm , đường kính 0.2 inch theo tiêu chuẩn RG - 58 A / U hay RG - 58 C / U .
+Cáp Thin Ethernet được nhiều nhà cung cấp , họ cắt sẵn theo các độ dài tiêu chuẩn và kèm theo các connector được gắn sẵn hai đầu .
+Hãy tưởng tượng như chiếc phà đưa xe qua lại sông .
+Có thể tưởng tượng một VP như một cáp chứa một bó dây .
+Hãy tưởng tượng VP như là dây cáp chứa một nhóm dây xem hình V - 1 .
+Những thuộc tính chung nhất là CN , địa chỉ , mail , phòng ban , số điện thoại , fax … .
+Các phiên làm việc LU được hình dung như những ống truyền dữ liệu ngang qua mạng từ một ứng dụng đến một ứng dụng khác .
+SONET như là một phương tiện dùng phân tán mạng vật lý cho hệ thống viễn thông toàn cầu theo cách giống như Ethernet đối với LAN .
+Hãy xem các kênh truyền B như hai dây điện thoại riêng biệt và kênh truyền D là dây thiết lập cuộc gọi .
+Hãy quan niệm VM như một môi trường phần mềm để chạy các ứng dụng Java .
+Các công cụ quản lý của các nhà cung cấp thứ ba có thể giúp bạn quản lý hệ thống mạng frame relay của bạn và theo dõi xuyên suốt .
+Sau đó , họ mới có thể xây dựng được các sản phẩm hoạt động tuân theo chuẩn kiến trúc , nhưng thật ra không có một thảo luận công khai nào về chuẩn kiến trúc cả .
+Hiện nay đối tác thứ ba đã cho ra phiên bản của giao thức nầy với thương hiệu là SAMBA .
+Ðiều nầy bắt buộc khóa và thủ tục chứng thực phải luôn đi kèm với nhau .
+Địa chỉ dùng để phát tán nầy gồm 48 bit 1 .
+Cách tiếp cận kém an toàn đảm bảo rằng những người khác có thể truy cập đến máy chủ phải qua người quản trị .
+Tầng phần giữa nầy phải đối phó với nhiều vấn đề :
+Cách nhớ nầy được gọi là lưu trạng thái .
+Các nhà phát triển ứng dụng đang đua nhau xây dựng các Java applet , tận dụng ưu điểm của mô hình phần mềm " toàn cầu " , chạy được trên mọi loại máy tính nầy .
+Phương pháp truy cập nầy được dùng trong MAP ( Manufacturing Automation Protocol - giao thức tự động hóa sản xuất ) - một mô hình mạng nền trong công nghiệp .
+Loại truy cập nầy sẽ phụ thuộc vào khoảng cách từ nơi của bạn đến điểm truy cập frame - relay , nhưng thường nó đã được tính một khoảng lớn trong chi phí để bổ sung các dịch vụ ( thường là 50 % trong nhiều trường hợp ) .
+Phương pháp thông báo nầy được dùng theo nhiều cách , sẽ được trình bày sau .
+Địa chỉ nầy tuân theo một tiêu chuẩn công nghiệp để đảm bảo sự duy nhất tên toàn cầu .
+Địa chỉ nầy gồm một con số dài 24 bit để nhận ra nhà sản xuất card và con số 24 bit kia được khai báo bởi nhà cung cấp để xác định card , giống như số sêri .
+Địa chỉ nầy thường được gọi là MAC Address do nó được định nghĩa trong phân tầng Media Access Control của tầng liên kết dữ liệu theo chuẩn giao thức của OSI .
+Gói địa chỉ nầy được truyền đi trên mạng cho tất cả các máy còn lại bởi vì máy trạm không biết địa chỉ IP của máy chủ để cung cấp địa chỉ cho nó .
+Gói tin yêu cầu địa chỉ nầy được gửi trên mạng cho tất cả các máy có thể nhận vì trạm làm việc nầy không biết được địa chỉ IP của máy dịch vụ có thể hỗ trợ địa chỉ cho chính mình .
+Sơ đồ địa nầy ở mức cao hơn sơ đồ địa được dùng trong mạng LAN .
+Điều nầy gây thêm chi phí phát sinh đáng kể .
+Điều nầy làm tăng tính bảo mật nhưng cũng hạn chế chức năng của nó .
+Điều nầy ảnh hưởng đến hiệu suất và làm tăng chi phí .
+Giải thuật nầy về cơ bản là phối hợp thông tin định tuyến từ các bộ định tuyến khác nhau vào bảng lookup .
+Ðiều nầy làm nhẹ bớt vấn đề rút ngắn địa chỉ với ISP và Internet .
+Điều nầy cho phép 10 mét để kết nối từ bảng cắm cáp đến máy trạm .
+Điều nầy cho phép một router đưa ra những quyết định thông minh hơn trong cách dẫn đường cho các gói tin .
+Điều nầy cho phép sử dụng những ứng dụng đã có của mạng LAN mà không cần thiết phải thay đổi .
+Điều nầy cho phép các tầng dưới tối ưu hóa về tốc độ .
+Điều nầy làm cho các gói thông tin thường được truyền đi với tốc độ khá chậm nay lại được truyền đi với tốc độ dây dẫn thông qua bộ chuyển mạch .
+Điều nầy cho phép TCP điều chỉnh các thông số mạng và điều khiển lưu thông trên mạng .
+Điều này cho phép ứng dựng truy cạp đến đĩa và những tài nguyên hệ thống khác .
+Ðiều nầy cho phép người nhận có thể nghe thông điệp bằng cách dùng điện thoại hoặc trên máy tính , nếu có đủ phần cứng và phần mềm để diễn giải .
+Thông tin nầy cho phép các bộ định tuyến biết cổng nào để truyền tiếp các gói dữ liệu đến đích .
+Điều nầy giúp các applet không được ủy thác có thể kết hợp được với các ứng dụng ủy thác .
+Giá trị ký tự số nầy xuất hiện trên màn hình người dùng và người dùng nhập nó vào thiết bị token .
+Sơ đồ nầy chia mỗi chu kỳ bit thành hai đoạn , trong đó các bit được biểu diễn như sau :
+Việc fax cũng vậy .
+Việc nén giúp giảm lưu thông trên mạng và đảm bảo không vượt quá băng thông .
+Phép tương tự nầy là thích hợp vì có hai tầng tham gia vào hội thoại để đảm bảo dữ liệu được truyền đi một cách tin cậy .
+Tiếp cận nầy gặp phải vấn đề về hiệu suất .
+Tiếp cận nầy cung cấp sự tích hợp vừa phải các quá trình trên máy chủ , nhưng có thể làm cho máy chủ chạy kém ổn định .
+Kiến trúc nầy , được mô tả trong hình F - 16 , tương tự như kiến trúc screening host mô tả trong phần trước , ngoại trừ tầng an toàn được bổ sung để tách mạng nội bộ với Internet .
+Kiến trúc nầy đặc biệt quan trọng cho intranet trong đó người dùng cần liên lạc với hệ thống và tất cả những người dùng khác trên mạng , không chỉ trong một phòng ban .
+Thông điệp ARP nầy được " phát " trên toàn mạng cục bộ để tất cả các nút nghe nó nhưng chỉ nút có địa chỉ IP trong câu hỏi đáp ứng .
+Cách sắp xếp nầy đã trở nên ngày càng quan trọng khi các mạng LAN đã được cài đặt trong các môi trường IBM SNA .
+Sự sắp xếp nầy được minh họa ở hình L2 .
+Cách sắp xếp nầy làm cho việc di chuyển và thay đổi được dễ dàng .
+Thuộc tính nầy bị xóa sau khi tập tin đã được backup , nhưng được thiết lập lại nữa nếu người dùng thay đổi tập tin .
+Điều nầy tránh được việc tải chương trình xuống máy tính của từng người dùng và cho phép những sự cập nhật tập trung xảy ra trên server .
+Điều này nhằm tránh việc gởi cùng một thông tin đến những người dùng riêng biệt nhờ đó giảm được lưu lượng thông tin trên mạng .
+Dải tầng nầy hoàn toàn có thể điều khiển được âm thanh nhưng sẽ hạn chế rất nhiều khả năng truyền dữ liệu của mạch .
+Băng thông nầy được những người khác sử dụng , nếu cần thiết , với chi phí bổ sung .
+Ðiều nầy tránh được việc di chuyển tất cả các bó qua bộ định tuyến chậm chạp một khi nó đã làm xong việc .
+Điều nầy tạo thuận lợi cho các người dùng ở xa chỉ có điều kiện truy cập ở mức độ cục bộ .
+Mẫu bit nầy thường ở dạng chuỗi 8 bit được mã hóa .
+Mạng nầy ngược với mạng Point to Point trong đó trong đó thao tác truyền xảy ra giữa hai hệ thống qua một mạch dùng riêng giữa chúng .
+Sự duyệt xét nầy được thiết kế bắt chước như việc đi bộ vòng vòng một cửa hàng thật cùng với giỏ mua sắm trong tay .
+Cáp nầy có 4 cặp xoắn .
+Cáp nầy được cài đặt nhiều nơi để dùng cho điện thoại .
+Cáp nầy dễ bị lệch , xảy ra trong quá trình truyền tốc độ cao trên mạng , khi dữ liệu bị tách theo hai cặp , như 100Base - T4 và 100vG - AnyLAN .
+Cáp loại nầy là đắt nhất và khó xử lý nhất , nhưng có băng thông lớn nhất và khoảng cách dài nhất .
+Loại cáp nầy phải cùng kiểu Category 3 hay lớn hơn loại cáp xoắn đôi và không phải là các loại cáp dùng cho điện thoại .
+Nơi lưu trữ nầy có thể phình lên khá lớn , dẫn đến vấn đề của sự nhất quán .
+Yếu tố nầy " được cải tiến theo tuổi " khi nhiều đường nữa được đưa vào danh sách , làm giảm bớt số lần định tuyến phải thực hiện .
+Có thể khắc phục điều nầy bằng các đường dây thuê bao , bằng nối kết qua một mạng chuyển gói hoặc bằng một mạch ảo thông qua Internet .
+Hình C - 20 đề cập chi tiết về giao diện giao tiếp nầy .
+Có thể thấy điều nầy trên hình S - 14 .
+Điều nầy có thể gây gia tăng lưu lượng và phát sinh các vấn đề hiệu suất trong phân đoạn giữa tuy nhiên chỉ cần hai cầu nối .
+Tín hiệu đồng hồ nầy có thể được truyền trên một dây riêng hay được mã hóa trực tiếp vào tín hiệu được truyền .
+Điều nầy có thể giúp ta kiểm chứng xem có cần các thành phần mới hay các đơn thể mở rộng hay không .
+Điều nầy có thể được thực hiện bằng cách xây dựng các hệ nhỏ và phát triển dần thành hệ thống đầy đủ .
+Kỹ thuật nầy có thể tiết kiệm đường thuê bao tốc độ cao và có thể sử dụng tối ưu các đường truyền có sẵn .
+Việc nầy dẫn đến sự cố gọi là lệch chậm , khi các tín hiệu song song truyền qua dây cáp với tốc độ khác nhau .
+Điều nầy gây ra lỗi dẫn đến phải truyền lại và do đó hiệu suất giảm đi .
+Do đó phương pháp nầy chỉ thỏa mãn cho mạng diện hẹp .
+Kiểu tập trung nầy dễ quản trị hơn .
+Điều nầy làm thay đổi cách truyền ánh sáng qua lõi .
+Bảng nầy được trích ra từ bài báo có cùng tên được xuất bản bởi STA ( SCSI Trade Association : Hiệp hội Thương mại SCSI ) vào tháng 5 năm 1996 của tạp chí Công nghệ Thông tin .
+Mạch ảo nầy có thể được thiết lập trước hoặc cài đặt theo yêu cầu ( bằng cách chuyển mạch ) .
+Đường truyền nầy có thể chỉ là một đường điện thoại dạng dial - up hay là một đường truyền cố định .
+Công ty nầy nhận hợp đồng đầu tiên để xây dựng ARPANET ( tiền thân của Internet ngày nay ) vào 7 / 1968 .
+Thành phần này mở rộng mô hình độc lập với hệ điều hành cho cac object không Java , cho phép Java , JavaScript , và các plug - in chia sẻ mô hình object chung và mô hình truyền thông điệp .
+Máy tính nầy được gọi là AS ( authentication server ) .
+Sau đó máy tính nầy có chương trình gởi bản sao đĩa khởi động đến máy trạm không đĩa giúp nó có thể khởi động .
+Khái niệm nầy được mở rộng lên Internet và Web .
+Khái niệm nầy đã kích thích sự phát triển của các ứng dụng thương mại .
+Cấu hình nầy cho phép dữ liệu truyền không cần qua server và chuyển trực tiếp lên mạng chính .
+Cấu hình nầy được minh họa trong hình I - 1 .
+Mô hình nầy được trình bày bên phải trong hình E - 10 .
+Điều nầy phù hợp cho mạch ảo ATM .
+Kết nối nầy dựa trên những kỹ thuật tín hiệu tuần tự đã dùng trong 100 năm về trước .
+Dịch vụ phi kết nối nầy không thể bảo đảm rằng dữ liệu sẽ được chuyển giao .
+Nơi chứa nầy sau đó được ký bởi một CA đáng tin cậy dùng các khóa riêng của nó .
+Dây nầy được phủ một lớp thủy tinh để phản chiếu ánh sáng bên trong trở lại bên trong dây .
+Điều nầy tạo thêm lưu lượng trong đó dữ liệu thực không được truyền .
+Mắc xích nầy cho phép tất cả các thiết bị kết nối đến một cổng duy nhất .
+Việc kết nối dữ liệu nầy thường chạy giao thức PPP ( point - to - point ) để đóng gói và phân phối các gói tin IP đến các site của ISP .
+Nhóm demand priority nầy đưa ra phiên bản 100VG - AnyLAN ( còn gọi là IEEE 802.12 ) .
+Tiếp cận thiết kế nầy làm cho người dùng dễ dàng bổ sung các dịch vụ mới hoặc xóa đi các dịch vụ không cần thiết .
+Thiết kế nầy là lý tưởng cho các mạng doanh nghiệp có đường trục cao tốc ( hoặc đường trục dựa trên hub ) và mạng ngoại vi chậm .
+Thiết bị nầy còn được gọi là đơn vị dịch vụ số là bộ phận cần thiết để truyền dữ liệu số qua kênh phần cứng .
+Khác biệt giữa chiều dài cố định và biến đổi là điểm cốt lõi đối với những gì ATM cung cấp .
+Điều nầy khác với hệ truyền tín hiệu cũ trong đó các tín hiệu được truyền như là các khối tín hiệu đa tần số trong cùng kênh với các cuộc gọi .
+Người nầy đặt nó trong một phong bì , viết một dòng hướng dẫn chỉ định thư nầy đến đồng nghiệp của anh ta ở tòa đại sứ kia .
+Cách nối kết trực tiếp nầy làm tăng tốc độ gấp 10 lần bình thường và giảm số lần bị ngắt quãng do card mạng gây ra trên server .
+Ghi chú : thảo luận nầy tập trung vào các mạng TCP / IP .
+Tài liệu nầy qui định các phương pháp điều khiển truy cập các hệ máy tính mà các nhà cung cấp phải tuân theo để phù hợp với các chuẩn an toàn của Bộ Quốc phòng .
+Tài liệu nầy đi qua hệ thống làm việc trang bị bằng máy tính đến văn phòng mua bán .
+Sự phân cấp tín hiệu DS nầy là một phần của NADH ( North American Digital Hierarchy ) .
+Điều nầy làm giúp loại bỏ vấn đề ràng buộc thời gian của các cuộc họp , loại bỏ hạn chế của các trao đổi qua điện thoại không được ghi chép để xem xét lại sau nầy .
+Điều nầy loại trừ được việc phải truyền đi các khung qua một phân đoạn để đạt đến phân đoạn khác , ngoại trừ đường trục , được cài đặt riêng biệt cho những khung di chuyển qua lại giữa các mạng .
+Ðiều nầy cho phép các ứng dụng lớn hơn và có hiệu quả hơn .
+Điều nầy đã đảm bảo rằng những người phát triển không được thay đổi tiêu chuẩn để phù hợp những nhu cầu của chính họ và có thể gây ra sự lộn xộn trong phần còn lại của cộng đồng TCP / IP .
+Điều nầy bảo đảm duy trì chất lượng tín hiệu và cho phép tốc độ truyền cao .
+Điều nầy để chắc rằng phần mềm mạng máy tính của bạn đang làm việc .
+Môi trường nầy là một hiện thực hệ thống thuần túy Mac OS trên cơ sở hạ tầng của Rhapsody .
+Việc kiểm tra lỗi nầy trước đây rất quan trọng trên đường truyền điện thoại tín hiệu tương tự , nhưng hiện nay , với cáp quang chất lượng cao , việc kiểm tra lỗi là không cần thiết .
+Ví dụ nầy giả sử rằng có hai mạng con IP trong các toà nhà khác nhau , và các toà nhà được kết nối bằng bộ chuyển mạch trung tâm .
+Ví dụ nầy minh họa phương pháp một bộ chuyển mạch có thể kết nối 4 máy tính đến 4 modem .
+Nó cũng có thể chứa kết nối đường trục .
+Tính năng nầy cho phép các nhà phát triển tạo một tập hợp các dịch vụ dùng lại được trên toàn mạng nội bộ hay mạng Internet .
+Chức năng nầy cũng có lợi cho các trình ứng dụng được cấu hình để truy cập các tập tin dựa trên những tên được xác định vị trí rõ ràng .
+Đặc điểm nầy ngày càng hữu ích vì các địa chỉ IP đang trở nên hiếm hoi .
+Đặc tính nầy hữu dụng trong môi trường máy chủ / khách của mạng và cho biết lưu lượng sử dụng thực chất của mạng , chứ không chỉ là thông tin về các luồng lưu thông .
+Chức năng nầy cho phép các hệ truyền thích nghi với sức tải trên mạng và với kích thước vùng đệm ở người nhận .
+Đặc điểm này giúp ngăn chặn việc thẻ tín dụng lọt vào tay kẻ khác .
+Trường nầy giữ các địa chỉ kết nối logic và các trường điều khiển , được mô tả như sau :
+Vùng nầy thường dài 8 bit , nhưng với các kết nối nhiều điểm , các địa chỉ mở rộng có thể được dùng và cho phép chứa nhiều địa chỉ khác nhau .
+Trường nầy được người nhận dùng để thông báo cho người gởi làm chậm lại việc truyền vì người gởi đang gởi dữ liệu nhanh hơn so với tốc độ xử lý của người nhận .
+Trường flag nầy đánh dấu kết thúc khung .
+Kỹ thuật nầy tạo ra cái gọi là va chạm ảo ) .
+Dòng chảy nầy thường được gọi là mạch ảo , và mạch nầy có thể được thiết lập trước xuyên qua các đường dẫn do bộ định tuyến chỉ định trên liên mạng .
+Công thức nầy có tính mềm dẻo cao và tiết kiệm vì bạn chỉ trả cho những gì bạn dùng , và vẫn có thể dùng phụ trội nếu cần thiết .
+Điều nầy giải phóng máy chủ khỏi phải bị ngắt quảng bởi các thiết bị ngoại vi và cho phép bản thân nó xử lý các ứng dụng hiệu quả hơn .
+Điều nầy tránh cho server khỏi phải cập nhật thường xuyên các tư liệu ngay cả khi không cần thiết .
+Từ đó phát triển thành COM , ngày nay trở thành nền tảng để liên kết tất cả đối tượng , và cuối cùng là DCOM và ActiveX ( về cơ bản là DCOM hỗ trợ cho Internet ) .
+Điều nầy là gia tăng lưu lượng , kể cả những khung cần thỏa thuận để gởi lại .
+Điều nầy cho phép hình thành đường dẫn đi thẳng từ điểm nầy đến điểm khác , làm cho quá trình phân phối nhanh hơn và các dịch vụ tốt hơn .
+Điều nầy dẫn đến sự phân cấp các tổng đài và cuối cùng mở rộng đến các thành phố khác , trong những năm 1950 và 1960 , nó trở thành hệ thống chuyển mạch tự động toàn cầu .
+Nhóm nầy gọi hệ thống có các đặc tính kỹ thuật do họ đưa ra là Fast Ethernet .
+Sự ngắt quãng nầy đòi hỏi một thời gian nhất định và sự cấp phát tần số mới trong vùng cơ sở mới .
+Điều nầy có những ưu điểm đối với mạng diện rộng .
+Điều nầy trở nên dễ dàng hơn với các giao thức Internet / intranet và công nghệ Extranet , cho phép các công ty xây dựng mạng dùng riêng an toàn với các công ty khác thông qua Internet .
+Điều nầy là nguyên nhân gây ra thất vọng cho các người dùng , đặc biệt với các người dùng di động .
+Điều nầy vừa có lợi và vừa có hại .
+Ðiều nầy có ưu điểm là cho phép các yêu cầu được phân phối trên nhiều máy chủ , và như thế gánh nặng chuyển tải cũng được phân phối .
+Tính cục bộ là do đặc trưng điện tử của mạng chứ không phải là do mạng cục bộ đầu tiên được thiết kế để dành cho các phòng ban , mặc dù lý do sau mô tả chính xác mạng cục bộ .
+Điều nầy giúp tránh được hiệu ứng nghẽn cổ chai .
+Thiết kế phân cấp nầy trở thành chuẩn quốc tế và các nhà cung cấp mạng đã tạo ra một loạt các thiết bị để xây dựng mạng cao tốc .
+Sơ đồ phân cấp nầy bảo đảm là hub xí nghiệp chỉ quản lý các giao lưu cần được truyền ngang qua các mạng được nối trực tiếp với nó .
+Hệ phân cấp nầy định nghĩa các mức của dòng thông tin số , bắt đầu là DS0 , định nghĩa một kênh đơn cho việc truyền tải tín hiệu số .
+Kiến trúc nầy được trình bày trên hình T - 6 .
+Sự phân cấp nầy làm giảm bớt lượng thông tin mà các router địa phương và vùng cần thu thập .
+Máy này có thể có hoặc không ổ băng từ .
+Điều nầy được ngầm hiểu là có một cơ chế thanh toán khác trong truy cập Internet , ngoài cước phí dịch vụ hàng tháng .
+Điều nầy cải tiến hoạt động xuất nhập và cho phép các server phục vụ tốt hơn trong những dải tầng cao của những mạng bận rộn .
+Việc nầy tận dụng toàn bộ số lượng các trạm nối vào bộ chuyển mạch , để có thể hoạt động như Ethernet 100Mbit / giây hay 10Mbit / giây .
+Điều nầy tăng cường hiệu quả của việc tải các phần mềm từ các web site .
+Điều nầy bao gồm việc thêm , việc loại bỏ thông tin trong một thư mục .
+Nó chứa các hệ thống người dùng kết nối với bộ chuyển mạch ATM dùng riêng hoặc chứa bộ chuyển mạch ATM dùng riêng kết nối với một bộ chuyển mạch ATM là sở hữu của một nhà truyền thông công cộng nào đó bởi vật mang công cộng .
+Việc nầy làm tăng thêm tranh chấp trong mạng và là nguyên nhân sinh ra các xung đột dẫn đến sự giảm hiệu suất của hệ thống .
+Thiết bị nầy nối với đường truyền số và cung cấp nơi kết thúc cho tín hiệu số .
+Các thông tin nầy có thể giúp đỡ người quản lý nhanh chóng giải quyết các sự cố và dễ dàng cập nhật .
+Thông tin nầy có thể quan trọng để giải quyết các sự cố mạng hoặc để theo dõi các điều kiện thay đổi trên mạng .
+Thông tin nầy được " đẩy " đến bạn trong thời gian thực , vì vậy nguyên tắc về khởi động web browser và từ đó tìm kiếm thông tin chỉ là một cách truy cập web .
+Thu thập thông tin như vậy để giám sát những xu hướng trong quá khứ .
+Thông tin nầy được phân phối giữa các thiết bị thẻ bằng giao thức TDP .
+Thông tin này được nhập vào khi tạo một tài khoản cho khách hàng .
+Thông tin nầy cùng dạng mà MTA dùng để chuyển thư theo đường đã định .
+Thông tin này được giữ trong một cơ sở dữ liệu đơn .
+Thông tin nầy được cung cấp bởi các bộ định tuyến gần nhất .
+Thông tin nầy được ghi nhận bởi trung tâm chuyển mạch để tìm kiếm khi cần thiết .
+Một thiết bị thường có nhiều đối tượng mô tả nó .
+Thông tin nầy được sử dụng để tính toán các đường đi xuyên trên mạng .
+Giao diện nầy tồn tại từ thời các đầu cuối câm và các máy mainframe .
+Lan trung gian thường sử dụng một giao thức khác để chuyển đổi dữ liệu rồi chuyển đi .
+Điều nầy liên quan đến việc quảng cáo của các tuyến thông qua BGP - 4 ( Border Gateway Protocol - 4 ) .
+Điều nầy làm mất thời gian di chuyển và phát sinh chi phí trong nhiều trường hợp .
+Dịch vụ số 800 : được đưa ra bởi một nhà cung cấp , dựa trên nền tảng của Switched - 56 .
+Đây là một phương pháp rẻ tiền để xây dựng những nối kết an toàn giữa những địa điểm xa nhau của bạn Tuy nhiên , internet rất dễ bị trì hoãn , như bạn có lẽ đã biết rõ .
+Đây là chuẩn dựa trên cáp quang , xác định sự phân cấp về tốc độ truyền và các dạng khung dữ liệu .
+Đây là ý tưởng hay .
+Đây là một lượng thời gian lớn so với tốc độ của bộ vi xử lý .
+Đây là thủ tục định tuyến bình thường .
+Đây là vấn đề nếu tất cả các tài khoản được lưu trữ trên nhiều hệ di sản khác nhau .
+Đây là một vấn đề trong vài môi trường , đặc biệt là nếu bạn không biết người nhận và cần truyền khóa qua các kênh không tin cậy .
+Là chương trình xuất hiện như một chương trình khác , và chờ người dùng vô ý để thực hiện và nhả ra .
+Đây là một bước tiến so với dữ liệu tiếng nói ( cần 64kbit / giây ) và kỹ thuật nén 32Kbit / giây .
+Đây là công mà các giao thức như TCP thực hiện .
+Cấu hình nầy sẽ không cần thiết nếu tất cả các các bộ định tuyến có khả năng multicast .
+Điều nầy đạt được nhờ sự hỗ trợ của các giao thức và chuẩn mở Internet .
+Tất cả đều được thực hiện bằng các máy tính xách tay , PDA ( personal digital assistants ) , và các thiết bị truyền thông vô tuyến nhỏ khác nhau .
+Điều nầy được giải thích trong bất kỳ sách nào dạy về HTML .
+Tất cả được xử lý bởi phần mềm quản lý .
+Điều nầy giúp mở rộng chức năng của một chương trình chỉ bằng cách chép xuống các đối tượng có hình thức là các logo mà thôi .
+Ðây là mở rộng của ODBC định nghĩa truy cập đến kiểu dữ liệu phổ dụng ( như dữ liệu multimedia , gồm ảnh , âm , và video ) .
+Đây là một số lượng mạng quá lớn để khiến các bộ định tuyến rất khó có thể theo dõi được .
+Kỹ thuật nầy sử dụng băng thông kém hiệu quả .
+Ðây là kỹ thuật thuần túy IP .
+Tập các giao diện theo ODBC thể hiện tất cả các chức năng của CSDL hiện đại thông qua các đối tượng truy cập .
+Ðây là kiến trúc chuẩn mở định nghĩa cách khách truy cập dữ liệu trên các CSDL không đồng nhất .
+Ðây là chuẩn mở của Oracle để tạo các ứng dụng Java có thể truy cập đến CSDL quan hệ .
+Điều nầy tương tự như việc đầu tiên là tìm đường dẫn đến đích .
+Về cơ bản , đây là cách thức hoạt động của mạng chuyển mạch .
+Đây là lý do tại sao các ô lân cận không được dùng cùng một tần số .
+Điều nầy là do khi các bit được dùng để định nghĩa nhiều mạng con , số các bit dùng để định nghĩa máy chủ bị giảm đi .
+Bởi vì nó được thực hiện ở tầng thấp hơn trong các tầng giao thức .
+Sở dĩ như vậy là vì giá trị nhị phân đầu tiên và cuối cùng được dùng cho phát tán và sử dụng nội bộ .
+Sở dĩ là Điều này bởi vì kết nối chuyển mạch công cộng - dùng riêng không cần trao đổi giao thức NNI có khuôn dạng khác nhau và chuyển những thông tin khác nhau .
+Vượt quá năng lực xử lý của nhiều loại máy chủ , hiện nay một công ty có tên là Alteon vừa tung ra một loại NIC có khả năng đảm nhệm quản lý ngắt , cất bớt gánh nặng cho máy chủ .
+Điều nầy là do thiết kế và cũng vì vậy nên mới có chữ classical trong tên gọi của mô hình .
+Nó cũng được gọi là hệ thống dual - homed hoặc là multihomed .
+Điều nầy được gọi là backup từng tập tin .
+Cách nầy gọi là ARQ ( automatic repeat request : Yêu cầu tự động lập lại ) .
+Thông số nầy được gọi là độ suy giảm .
+Điều nầy gọi là tính kế thừa của lớp .
+Đây là định tuyến cut - through được trình bày trong " Fast IP " .
+Cách nầy được gọi là FEC ( forward error correction : sửa lỗi ở bên kia ) .
+Vấn đề nầy được gọi là thanh toán chi ly .
+Kỹ thuật nầy được gọi là dùng lại tần số truyền dẫn .
+Cách nầy được gọi là định tuyến tĩnh .
+Đó gọi là thời gian call - setup , và nó thay đổi tùy thuộc vào phần cứng đang sử dụng .
+Kiểu nầy được gọi là vành đai cục bộ .
+Được gọi là tạo đường hầm .
+Điều nầy được đề cập sau nầy trong chủ đề tại " Internetworking with ATM " .
+Điều nầy sẽ được mô tả trong chủ đề ATM ( Asynchronous Transfer Mode ) và Cell Relay .
+Xem " MBone ( Multicast Backbone ) " .
+Vấn đề nầy được trình bày trong phần Protocol concepts .
+Phần nầy được thảo luận trong phần Virtual Dial - up Services .
+Điều nầy được bàn chi tiết trong mục " Internet Backbone " .
+Điều nầy sẽ được bàn nhiều hơn trong mục " Digital Signatures " .
+Điều nầy được thảo luận trong " Bandwidth on Demand " .
+Xem Component Software Technology và Distributed Object Computing để biết thêm chi tiết .
+Vấn đề nầy sẽ được bàn đến dưới đề mục Fragmentation of Frames and Packets .
+Xem mục Prioritization of Network Traffic để biết thêm .
+Những vấn đề nầy đề cập trong phần Tranmission Media , methods and Equipment .
+Phần nầy sẽ được nói thêm trong mục Khái niệm giao thức .
+Điều này được tranh luận dưới chủ đề Multicasting .
+Điều nầy thực hiện được nhờ việc phn phối tần số cho các cell trong mạng lưới thì có thể .
+Điều nầy được người dùng tự thực hiện bởi người dùng và không cần phải liên lạc với người quản lý trung tâm .
+Điều nầy được thực hiện bằng một trong hai cách sau :
+Điều nầy được thực hiện bởi các giao thức định tuyến chuẩn như BGP ( Border Gateway Protocol ) và OSPF ( Open Shortest Path First ) .
+Điều nầy được thực hiện bằng các công nghệ chữ ký điện tử , giấy chứng nhận , danh sách đóng gói và đánh nhãn nội dung .
+Điều nầy được thực hiện bởi IGMP , một giao thức giữa máy của người dùng và mrouter lân cận .
+Điều nầy do một số yếu tố :
+Điều nầy được thực hiện dễ dàng bằng cách gởi một thông điệp đăng ký lên kênh B .
+Điều nầy thật dễ dàng nếu password là tên của con , thú nuôi trong nhà , xe hơi v . v … của người dùng .
+Ðây là lợi ích rất đặc biệt ở các hệ thống đa xử lý .
+Điều nầy đặc biệt đúng trong trường hợp các tổ chức liên kết các mạng phòng ban hay nhóm làm việc .
+Điều nầy thật sự cần thiết trong các hệ xử lý giao dịch trong đó thông tin về khách và chủ phải được ghi một cách đồng bộ và được kiểm tra kỹ lưỡng .
+Điều nầy đặc biệt có ích cho người dùng di động , giúp họ có thể lấy thư trên bất kỳ máy tính nào .
+Và điều nầy là quan trọng để lưu các CSDL .
+Đó chính là cách thức vận hành của classical IP .
+Điều nầy được giải thích dưới đây .
+Sau đây là phần trình bày chi tiết .
+Làm như thế rất hao phí băng thông , nhưng thường cũng không còn cách nào khác .
+Tiếp theo là lệnh SOH ( start of header ) , sau đó là tiêu đề .
+Điều nầy có lợi cho việc truy cập và nâng cao hiệu quả công việc , nhưng về mặt an toàn dữ liệu thì nó lại không tốt vì bất cứ ai cũng có thể truy xuất đến mọi trạm .
+Ðiều nầy được thực hiện bằng chức năng định tuyến trong bộ chuyển mạch đường trục hoặc bằng bộ định tuyến riêng .
+Đây là cách mà giao thức Frame Relay thực hiện .
+Đây chính là cách đi truyền thống .
+Nó trái ngược với " nông trại server " ở trên , trong đó một số server cung cấp dịch vụ tập tin , một số khác cung cấp dịch vụ e - mail hoặc dịch vụ truyền thông .
+Điều nầy ngược lại với TDM ( time division multiplexing ; ví dụ như đường dây kiểu T1 ) , ở đây các khe thời gian được dùng cho từng mạch riêng biệt và không thể chỉ định lại ngay cả khi mạch đó không truyền dữ liệu .
+Điều nầy có thể làm bớt gánh nặng đối với server .
+Việc nầy giống như là mượn băng thông của nơi khác để hoàn thành các nhu cầu tạm thời .
+Điều nầy tương tự như việc xác định hướng - một người có thể chỉ bạn đi đúng hướng từ một giao lộ nào đó .
+Điều nầy giống như hệ điện thoại khi chuyển từ đường dây điện thoại dùng chung sang đường điện thoại riêng .
+Điều nầy không có gì khác với bất cứ liên kết modem quay số nào ngoại trừ quá trình nầy xảy ra trên các hệ thống mạng cellular .
+Điều nầy không khác lắm so với việc cho phép các người dùng di động của bạn truy cập vào các dữ liệu hợp tác và có cùng các quan hệ an toàn .
+Điều nầy không khác lắm so với việc tạo một cuộc gọi qua mạng ISDN của công ty điện thoại .
+Điều nầy không làm được đối với NFS .
+Cách nầy thường gọi là một tiếp cận đa cấp .
+Thường được gọi là siêu dữ liệu hay mục lục dữ liệu .
+Đây là một trong những vấn đề lớn nhất về tích hợp thoại trên mạng .
+Điều này đáng lưu ý vì server và client đôi khi được dùng như nhau nhưng sẽ thảo luận riêng bên dưới .
+Điều nầy được phác thảo trong bảng dưới đây .
+Điều nầy được minh họa bởi các kết nối A1 - A2 trong hình C - 5 .
+Điều nầy được mô tả trên hình B7 .
+Điều nầy được mô tả trong hình P - 10 .
+Ðiều nầy được trình bày trên hình W - 2 .
+Điều nầy là có thể vì dây cáp MAU chứa nhiều cặp dây .
+Điều nầy có thể thực hiện được vì những mạng VLAN khác nhau nằm trong một hệ thống chuyển mạch .
+Điều nầy là có thể nhờ tốc độ mạng đã được cải thiện , và tận dụng được kiến trúc hạ tầng cáp : dùng một cáp thay vì phải dùng hai cáp riêng cho tiếng nói và video .
+Điều nầy do bộ chuyển mạch trung tâm cung cấp .
+Điều nầy được thực hiện nhờ MPOA ( Multiprotocol over ATM ) , xem phần MPOA .
+Ở trên xuất phát điểm là DFS _ Share _ Name .
+Sau đó gởi cho Bob .
+Mô hình nầy được trình bày trong hình F - 21 .
+Điều nầy được trình bày trên hình T - 3 .
+Điều này được thấy ở bên trái hình L - 6 .
+Điều nầy giống như việc bắt cầu .
+Điều nầy giống như Ethernet , trong đó máy trạm trước hết sẽ kiểm tra xem đường dây có bận không rồi mới truyền đi .
+Cách nầy cũng tương tự phương pháp của Microsoft Windows , không đòi hỏi driver cho mỗi máy in .
+Điều nầy tương tự như những gì IGMP ( Internet Group Management Protocol ) thực hiện trên mạng IP .
+Chủ đề nầy quá lớn , bao trùm nhiều loại thiết bị , được trình bày trong các mục sau :
+Đó là mã hóa đối xứng ( hai bên đều có cùng một khóa mật ) , thường gọi là mã hóa khóa riêng hay là mã hóa khóa mật .
+Đây là trường hợp khi thông tin được cập nhật trong thời gian thực và server đẩy thông tin liên tục .
+Đây là trường hợp của Windows NT và Novell Netware 4.x , cả hai đều là hệ điều hành server chuyên dụng .
+Đây là kiểu mạng client / server nhằm mục đích chia nhỏ chương trình , phân phối xử lý giữa client và server .
+Đây là giao thức liên kết dữ liệu được dùng bởi modem sữa lỗi V.32 .
+Đó là hộp thoại mà bạn sẽ gặp khi chọn người dùng cụ thể trên cây thư mục NDS .
+Đây là chức năng của router và các giao thức dò đường .
+Đây là mục tiêu của ATMcho phép một người dùng kết nối với bất kỳ người dùng khác qua một mạng ATM cục bộ hay diện rộng .
+Đây là địa chỉ trên card mạng .
+Chế độ nầy được dùng để kết nối các trạm vào các mạng chuyển mạch - gói X.25 .
+Sự chuyển đổi diễn ra ở modem của người sử dụng không thể bỏ được .
+Đây mới là lỗi điều khiển thật sự xảy ra .
+Đây là hệ điều hành sơ cấp được đưa ra vào năm 1974 , dành cho IBM mainframe .
+Đây là mục đích của việc sử dụng token .
+Đây là mục đích của POP server .
+Điều nầy ngược lại với hệ thống tương tự cũ trước đây mà trong hệ thống nầy modem được dùng để biến đổi dữ liệu số của người dùng cuối thành dữ liệu tương tự để truyền trên đường tương tự .
+Đây là một lược đồ định tuyến trên Internet , và cũng là cách đánh địa chỉ IP được trình bày chi tiết trong mục " IP ( Internet Protocol ) " .
+Đây là số hiệu chuỗi mà máy A sẽ dùng để gởi các phân đoạn đến máy B .
+Đây là số hiệu chuỗi mà máy B sẽ dùng để gởi các phân đoạn đến máy A .
+Đây là kỹ thuật phát hiện lỗi đơn giản nhất .
+Đây là phương pháp truy cập môi trường của chuẩn Ethernet .
+Đây là kỹ thuật dùng để truy cập mạng Ethernet IEEE 802.3 .
+Cấu hình nầy thường thấy ở những mạng cục bộ nhỏ .
+Tuy nhiên , điều nầy người dùng không thấy được .
+Vì thế , sức mạnh của phương pháp nầy là chiều dài khóa , và thuật toán nầy được thực hiện như thế nào .
+Điều nầy rất có ích trên môi trường intranet nơi các nhân viên cần được thông báo các sự kiện hay được phân phối phần mềm đến máy của mình .
+Điều nầy có ích cho người sử dụng ở những nơi xa xôi .
+Điều nầy có lợi cho việc cập nhật thông tin trên nhiều máy server từ xa .
+Điều nầy có ích cho những Web server cần đại diện nhiều Web site khác nhau hay cung cấp sự bảo vệ dạng bức tường lửa .
+Trong trường hợp khoảng cách giữa các nơi kết nối ngắn chi phí sẽ giảm đáng kể .
+Điều nầy thường được hiện thực trên mạng Internet .
+Điều nầy thường được làm thông qua ORB ( Object request brokers ) .
+Tuy nhiên , trên thực tế các vấn đề nầy xảy ra trên các đường trục hơn là trên các kết nối client / server .
+Điều nầy không phải một vấn đề trong môi trường cục bộ , nhưng là một vấn đề trong truyền tải đường dài .
+Các supervisor / administrator thường làm điều nầy khi cài hệ thống lần đầu tiên .
+Đó cũng là những vấn đề về router switch được bàn luận trong mục Router Switching kế tiếp .
+Đây là lúc xuất hiện chữ ký số và thời điểm digital .
+Đây là nơi mà các bộ định tuyến kiểm tra được dùng cùng với bức tường lửa của bạn .
+Đây là sự lãng phí địa chỉ IP của hệ phân lớp .
+Vì thế mà việc quản trị các khóa mới là vấn đề .
+Đây là lúc các giao thức mạng QoS đóng vai trò của nó .
+Ðây chính là lãnh địa của các PKI ( public - key infrastructures ) .
+Trong trường hợp nầy kỹ thuật tầng 3 chuyển mạch sẽ được dùng .
+Vì điều nầy giúp giữ được mạng thông tin cục bộ .
+Điều nầy giữ cho văn bản phức hợp có kích thức nhỏ , nhưng nếu văn bản nầy được chuyển đến nơi khác , tất cả các đối tượng liên kết phải được chuyển theo với nó .
+Lựa chọn thứ hai là một hình thức đóng gói , và mạng FDDI đóng vai trò một đường trục cho Lan Ethernet .
+Điều nầy rất cần cho những nơi có nhu cầu bảo đảm mức an toàn cao nhất .
+Hệ điều hành mới nhất của họ desktop là nâng cấp mang tính cách mạng của Windows 95 .
+Phiên bản mới nhất nầy có các công cụ phát triển màn hình đồ họa , hỗ trợ 64 bit , hỗ trợ SGML trực tuyến và có các chỉ dẫn , hỗ trợ nhiều ngôn ngữ , và các công cụ nâng cấp chương trình .
+Giải thích thứ hai là thích hợp nhất khi nói về sự truyền tải giữa các hệ thống liên mạng , bao gồm nhiều thiết bị tìm đường .
+Phương pháp nầy đòi hỏi có đủ thông tin bổ sung đi cùng với khung để bên nhận có thể xây dựng lại khung .
+Sơ đồ nầy giúp cho bộ định tuyến không cần dùng bảng định tuyến lớn .
+Tầng nầy cũng hỗ trợ đường multidrop cho việc kết nối điện thoại , máy tính và các thiết bị khác .
+Tầng nầy định nghĩa những qui cách kỹ thuật liên quan đến các kiểu đầu nối , các chân ra , và tín hiệu điện .
+Tầng nầy là dấu vết lịch sử còn lại từ thiết bị truyền thông đầu cuối và máy tính lớn .
+Tầng nầy nói chuyện với tầng ngang hàng với nó trong máy tính đang liên lạc .
+Điều nầy làm cho địa trở nên bị buông lỏng cho người sử dụng .
+Điều nầy để dành 10 mét để nối giữa máy trạm và bảng cắm cáp .
+Điều nầy cho phép bạn cài đặt bất cứ sơ đồ địa chỉ IP mà không cần đăng ký với các tổ chức Internet .
+Cấp độ nầy cho phép ghi nhanh vì thông tin parity được lan ra tất cả các ổ đĩa mà không phải là ghi lên từng ổ riêng biệt .
+Tầng nầy có thể dùng để cài đặt mạng riêng giữa hai site .
+Dây điện thoại xoắn đôi bằng đồng đã được xài rất phù hợp cho truyền dẫn tiếng nói , nhưng không thích hợp với truyền dẫn tín hiệu số tốc độ cao .
+Mạng lôgíc được gọi là VLAN ( LAN ảo ) .
+Mã đăng nhập nầy được đồng bộ về thời gian với mã do server nắm giữ .
+Điều nầy làm cho UNIX trở nên linh động hơn có tính chuyển đặt cao , và ngày nay UNIX nó chứa các thành phần hệ thống được viết bởi bằng ngôn ngữ lập trình phổ biến và dễ dàng dang dịch lại để chạy trên nhiều hệ khác nhau .
+Điều nầy cho phép duy trì cấu trúc vòng trong khi phát triển mạng .
+Điều nầy làm cho các doanh nghiệp tham gia vào hệ thống thương mại điện tử dễ dàng hơn , đặc biệt đối với những ai trước đây không thể cáng đáng nổi sự đắt đỏ của hệ thống EDI .
+Các dịch vụ truyền T nầy không tương thích với một số các hệ thống .
+Nối kết đầu tiên được phục vụ cho việc chép phần văn bản xuống , nối kết kế là dành cho các hình ảnh , sau đó là các thành phần khác .
+Điều nầy xem có vẻ lộn xộn , nhưng xin nhớ rằng gói tin được xây dựng từ phần mềm , trong khi khung được thiết lập cho các phiên truyền thông qua các thiết bị vật lý .
+Có thể là bạn hơi hoang tưởng , nhưng hãy nghĩ các thông tin quân sự đang bị theo dõi bởi kẻ thù hay các Bộ quốc phòng khác .
+Có nghĩa là mỗi phòng ban sẽ có riêng một tập lệnh đăng nhập riêng ngoài tập lệnh đăng nhập mặc định .
+Điều nầy có nghĩa là các server liên kết trung gian có trách nhiệm thi hành các trình điều khiển ODBC khác nhau để nối kết với cơ sở dữ liệu đầu cuối .
+Bản tin nầy chỉ được giải mã bởi khóa bí mật của người nhận .
+Phương thức nầy giả sử các nút Ethernet sẽ không cần kết nối với các nút nối trực tiếp đến mạng LAN FDDI , ngoại trừ các cầu nối khác gắn với mạng Ethernet .
+Phương pháp nầy không đánh dấu các tập tin bằng những cờ lưu trữ để chỉ ra rằng chúng đã được backup hậu quả là , chúng sẽ có mặt trong một backup thường .
+Một trạm sẽ cần gởi một yêu cầu như vậy lên mọi mạch .
+Phương pháp nầy dễ thất bại .
+Phương pháp nầy hạn chế được rất nhiều về vấn đề lưu thông mạng .
+Phương pháp nầy mở rộng cơ chế kháng lỗi lỗi của bộ điều khiển .
+Phương pháp nầy xử lý va chạm khi xảy ra , nhưng nếu bus luôn bận , va chạm có thể xảy ra thường xuyên đến nỗi hiệu suất sẽ giảm đi đáng kể .
+Phương pháp nầy cần băng thông tương đối lớn .
+Phương pháp nầy đòi hỏi tạo ra các luật trong phần mềm để xác định thành viên VLAN .
+Phương pháp nầy còn được gọi là khóa bí mật hoặc bảo mật đối xứng .
+Phương pháp nầy được sử dụng trong nhiều hình thức truyền thông khác nhau .
+Phương pháp nầy được xem là thô thiển và kém hiệu quả .
+Phương pháp nầy dễ cài đặt nhưng nếu có nhiều lỗi sẽ ảnh hưởng đến hiệu suất vận hành .
+Phương pháp nầy không hiệu quả và không bảo đảm tính riêng tư .
+Phương pháp nầy không phổ biến vì nó đòi hỏi nhiều phát sinh có thể làm giảm hiệu suất .
+Phương pháp nầy thường được gọi là dịch vụ mạng tin cậy .
+Phương pháp nầy dễ thực hiện và dễ hiểu nhất , trong đó băng mới nhất chứa bản backup mới nhất .
+Phương pháp nầy được dùng trong truyền thông RS232 .
+Phương pháp nầy được dùng khi việc truyền lại là không thực tế , như việc truyền đến tàu vũ trụ .
+Phương thức nầy yêu cầu phải có ứng dụng thích hợp trên PC .
+Phương pháp nầy đòi hỏi rằng bạn tạo ra một tập backup thường theo phương pháp thông thường .
+Phương pháp nầy sử dụng đường truyền tương đối hiệu quả , tuy nhiên máy chủ chạy Connect 2 phải đủ mạnh để có thể phục vụ cùng lúc nhiều người dùng .
+Phương pháp nầy được dùng để bẻ khóa DES .
+Phương pháp nầy tương tự như người giữ cổng , nhớ các đặc trưng của bất cứ người nào rời khỏi lâu đài và chỉ cho phép quay trở lại theo những đặc trưng nầy .
+Chế độ nầy có trong chuẩn FDDI mới , và cần phải sử dụng card mới .
+Bên trái là gồm một client chuẩn và bên phải là máy chủ dịch vụ dữ liệu back - end .
+Mô hình nầy không thiết lập việc định tuyến ở tầng 3 vì vậy cần phải có các bộ định tuyến để thiết bị trên mạng nầy liên lạc với thiết bị trên mạng có cầu nối khác .
+Mô hình nầy được dùng trong máy mini PDP - 8 và các hệ PDP khác như 12 , 18 và 32 bit .
+Mô hình nầy hỗ trợ hoàn toàn thiết kế phần mềm và xây dựng các trang web động .
+Mô hình nầy thường được gọi là ba cấp .
+Mô hình nầy dường như tương tự với mô hình máy tính lớn tập trung loại cũ , tuy nhiên hệ thống mới nầy có thể chạy các chương trình dựa trên thành phần , mô hình client / server được viết bằng Java và ActiveX , có thể tận dụng các giao thức của Web .
+Mô hình nầy mang lại một số thuận lợi cho việc dùng máy tính di động , phụ thuộc vào yêu cầu của công ty hỗ trợ cho người sử dụng di động .
+Mô hình nầy khai thác ưu điểm về sức mạnh xử lý của cả khách lẫn chủ .
+Kiểu cấu hình nầy sử dụng các giao thức truyền tải Internet tiêu chuẩn và các giao thức mạng ( TCP / IP ) và HTTP ( Hypertext Transport Protocol ) .
+Mô hình nầy theo dự định sẽ cung cấp khung làm việc để tích hợp các hệ xử lý dữ liệu bất cứ ở đâu .
+Phương thức modular nầy cho phép hệ thống dùng được trong nhiều trường hợp cài đặt và cho nhiều yêu cầu dải tần khác nhau .
+NAP nầy là một tình trạng tạm thời khi Pacific Bell nâng cấp từ FDDI lên chuyển mạch ATM .
+Nút mạng nầy có thể là một phần của một mạng cục bộ hay trực tiếp nối đến LEN .
+Chiến lược Intranet mới nầy thật sự mang lại nhiều lợi ích , đáng tập trung chú ý .
+Mô hình mới nầy , trong nhiều trường hợp thậm chí tránh các giao thức trên Web như : HTTP và HTML , bỏ qua Web server và thiết lập kết nối trực tiếp từ client đến server thông qua Intranet hay Internet .
+Nó dùng công nghệ ATM qua một mạng sợiquang , dài 500dặm chạy ở tốc độ 622 Mbits / sec giữa Đại học Wisconsin tại Madison và Đại học Illinois tại UrbanaChampaign Mạng mới nầy là một sự cải tiến của một mạng thí nghiệm trước đó và sẽ kiểm tra khả năng truyền những hình ảnh phức tạp , multimedia , và thông tin siêu máy tính .
+Hệ điều hành mới nầy dựa trên sự kết hợp những công nghệ từ công ty NeXT Software và của Apple .
+Địa chỉ NIC nầy thường được gọi là địa chỉ vật lý hay địa chỉ MAC ( Medium Access Control : Điều khiển Truy cập phương tiện ) .
+Nhiễu nầy vừa kết hợp vừa làm méo mó tín hiệu truyền .
+Đây là chức năng trong hệ điều hành Novell Netware , làm tăng cực đại dung lượng đĩa cứng .
+Điều nầy xảy ra nếu hệ thống bị hỏng trong khi đang ghi dữ liệu .
+Nhân viên nầy giao tiếp với người đồng cấp ở tòa đại sứ khác phụ trách dịch và xử lý tài liệu .
+Hệ điều hành nầy dùng cung cấp một nền server mạng xí nghiệp trên các hệ thống máy tính IBM S / 390 .
+Điều nầy giúp tối ưu hóa việc sử dụng băng thông .
+Tùy chọn nầy xuất hiện trong vùng khai báo cấu hình TCP / IP của đa số hệ điều hành .
+Lá thư sau đó sẽ đi xuống nhà ngoại giao cấp kề dưới , sẽ được đặt trong một phong bì khác và viết dòng hướng dẫn chỉ định đến người đồng cấp bên kia .
+Trang nầy có thể chứa các liên kết đến các trang khác ở cùng hay khác site .
+Đường dẫn được xem là một mạch dẫn .
+Đường đi nầy được cầu nối lưu trữ và dùng cho tất cả những chuyển giao tiếp theo .
+Số điện thoại nầy làm việc được bất kể người dùng đang du lịch ở đâu trên trái đất .
+Đường ống nầy có thể tải được được dữ liệu ISP của bạn và dữ liệu của ISP khác vào một NAP ( network access point ) để trao đổi dữ liệu chẳng hạn như ở San Fransisco , Chicago , New York và Washington D . C .
+Điều nầy làm cho lưu thông trên đường trục gia tăng hơn bao giờ hết .
+Cổng nầy trở thành cổng gốc của cầu nối .
+Ðiều nầy làm cải tiến vận hành và làm giảm kích thước của tiêu đề của các khung và gói dữ liệu .
+Điều nầy ngăn cản những ai sử dụng quá nhiều băng thông , nhưng nó đòi hỏi những nhà cung cấp dịch vụ Internet phải đồng ý với những nhà cung cấp dịch vụ Internet khác cùng thiết lập một chất lượng dịch vụ qua Internet và đòi hỏi họ có những hệ thống thanh toán để tính tiền khách hàng .
+Điều nầy ngăn được các hacker tấn công các hệ thống bên trong .
+Việc nầy ngăn cản việc mạo nhận .
+Điều nầy giúp tránh việc ghi các tập tin vào máy chủ .
+Điều nầy ngăn ngừa các gói di chuyển vô hạn không ngừng .
+Điều nầy giúp ngăn cản người dùng truy cập vào những vùng không dành cho họ ngoài giờ làm việc , khi mà họ có thể thực hiện những việc bất hợp pháp như lấy về cơ sở dữ liệu khách hàng và làm thông tin thất thoát ra ngoài .
+Điều nầy tránh được việc người dùng đăng nhập truy cập từ trạm máy con không được giám sátchỉ định , trên đó những hoạt động của họ không thể theo dõi được .
+Điều nầy tránh được sự lãng phí địa chỉ như đã xảy ra với địa chỉ lớp B .
+Chiến lược nối mạng dùng riêng sẽ tốn chi phí nhiều hơn một khi khoảng cách giữa các nơi tăng lên .
+Vấn đề nầy chỉ quan trọng trên mạng , ở đó tín hiệu được truyền song song với tốc độ cao , chẳng hạn như 100Base - T4 và 100VG - AnyLAN .
+Quy trình nầy đảm bảo tất cả những dữ liệu được ghi nhận vào cơ sở dữ liệu một cách nhất quán hoặc không ghi nhận gì cả .
+Thủ tục nầy khẳng định máy khách rằng Web server là hợp lệ trước khi máy khách gởi lên thông tin cần giữ bí mật , và cho phép Web server kiểm tra lại người dùng là hợp lệ trước khi cho họ truy cập hoặc mua sắm hàng hóa .
+Quá trình nầy có thể tự động hay được lập trình chạy ở những khoảng thời gian xác định trong ngày .
+Quá trình nầy tiếp tục cho đến khi nó đến mức " vậl lý " , nơi lá thư được người đưa thư gửi tới tòa đại sứ bên kia .
+Quá trình nầy được tiếp tục đến khi đường đi được thiết lập từ nguồn multicast đến máy muốn nhận multicast .
+Quá trình nầy cho phép một số cổng bảo đảm các chuyển tiếp cho một vài cầu nối và vô hiệu hóa những cổng khác nhằm tránh được vòng lặp .
+Quá trình nầy cũng bao gồm việc quét các tài liệu trên giấy thành file ảnh với mục đích lưu trữ .
+Quá trình nầy được gọi là số hóa .
+Quá trình nầy được mô tả chi tiết hơn dưới đề mục Protocol Concepts .
+Quá trình nầy được thảo luận kỹ hơn dưới đề mục Protocol Concepts .
+Quá trình này được minh họa trong hình C - 21 và dưới đây là mô tả đơn giản hóa quá trình nầy .
+Quá trình nầy được minh hoạ trong hình I - 13 và được phác thảo bên dưới .
+Quá trình nầy có thể tiếp tục cho đến khi gói tin tiến đến router mức đỉnh được nối với NAP và MAE .
+Quá trình nầy mất nhiều giờ hay nhiều ngày , tùy thuộc vào nhà truyền tải .
+Cuối cùng tạo ra khối 64 - bit của bản mã .
+Ðiều nầy ngày nay không còn cần thiết mà chi phí lại quá cao .
+Sản phẩm nầy hỗ trợ web server kết nối với các trình điều khiển ODBC .
+Cách bảo vệ nầy xuất phát từ một kỹ thuật mã hóa , phân bố dữ liệu trên một đĩa cứng parity .
+Giao thức nầy cấp phát động băng thông khi cần và được hỗ trợ trong các các bộ định tuyến của hầu hết các nhà sản xuất .
+Giao thức nầy dựa trên giao thức T . SHARE / T.120 , một giao thức hội nghị đa kênh chuẩn của ITU ( International Telecmmunication Union ) cho môi trường băng thông lớn .
+Giao thức nầy lý tưởng cho truyền thông mở , nhưng nó không cho phép việc bảo mật .
+Giao thức nầy là một trong những giao thức dò đường đầu tiên được xây dựng để sử dụng trên Internet .
+Giao thức nầy được gọi là NCP ( Network Control Protocol ) .
+Điều nầy khiến cho việc backup có tốc độ cao như là backup ảnh , nhưng đĩa không bị chép từng sector một , do đó không cần dùng một thiết bị lưu tương tự khi cần khôi phục .
+Đặc tính nầy mang lại sự nhất quán và khả năng tương tác trên hệ thống mạng doanh nghiệp , từ hệ máy tính lớn cho đến máy để bàn .
+Việc nầy cung cấp cho mỗi mảnh địa chỉ đích đến giống như trong datagram nguyên thủy .
+Điều này phục vụ cho sự lớn mạnh của các kỹ thuật truyền tải nhanh hơn trong tương lai như phiên bản 100Base - T .
+Điều nầy giúp cân bằng tải .
+Ðiều nầy giúp nâng cao hiệu năng làm việc và tăng tính bảo mật .
+Điều nầy cung cấp mức đầu tiên của độ tin cậy bằng cách bảo đảm rằng người nhận sẵn sàng nhận dữ liệu .
+Điều nầy làm giảm bớt các vấn đề tiềm tàng về bộ nhớ .
+Điều nầy làm giảm sự lưu thông trên mạng .
+Điều nầy làm giảm giao thông trên mạng và loại trừ khả năng phải lưu trữ mỗi bài báo trên máy của người tham gia .
+Điều nầy làm giảm tắc nghẽn trên mạng và loại trừ việc lưu trữ nhiều bản sao không cần thiết của mỗi bài báo trên từng hệ thống của người đăng ký sử dụng .
+Điều nầy làm giảm chi phí phát sinh , không chỉ đối với bộ nhớ mà còn đối với thời gian để tạo thông tin trong bộ nhớ .
+Điều nầy làm giảm hiệu suất và gây ra nhiều tranh cấp hơn vì các máy trạm vẫn cần truy cập đến đường truyền .
+Ðiều nầy làm giảm yêu cầu về băng thông và làm cho tế giới thực ảo có tính thực tế trên web .
+Dải bảo vệ sẽ làm giảm tốc độ truyền nếu sử dụng đường điện thoại .
+Mối quan hệ nầy được hình dung như trong hình F - 22 .
+Mối quan hệ nầy được xem như một thỏa thuận giữa các thực thể , vì cả hai đều phải tán thành cách thức hoạt động của các những dịch vụ bảo mật .
+Phương pháp liên kết truyền thông từ xa nầy được minh họa ở bên phải của hình I - 2 .
+Điều nầy làm cho SNA bị loại bỏ ra khỏi môi trường mạng và đơn giản hóa sự điều hành .
+Yêu cầu nầy chứa địa chỉ của máy chủ và các thông tin thích hợp khác .
+Điều nầy đòi hỏi nhiều đường dây , nhưng chắc chắn làm hài lòng khách hàng .
+Điều nầy cũng làm gia tăng lưu thông mạng .
+Ðiều nầy đòi hỏi đường dây T1 và các thiết bị đi kèm , nhưng thiết bị nầy là hợp lý về giá nếu được dùng thường xuyên .
+Điều nầy đòi hỏi kỹ thuật xác nhận phải dùng sự chứng thực kỹ thuật số .
+Nhiều kỹ thuật định tuyến được phát triển trong môi trường ATM .
+Máy tính nầy cũng có một địa chỉ IP , dùng để xác định nó trên mạng internetwork .
+Cách nầy làm giảm đáng kể chi phí đường truyền cho khoảng cách lớn .
+Sơ đồ nầy tạo nên hệ thống Lan lớn hơn để mở rộng các miền và có thêm nhiều trạm .
+Sơ đồ nầy xác định được 16,382 mạng và 65,534 máy tính trên một mạng .
+Sơ đồ nầy xác định được 2,097,150 mạng và 254 máy tính cho mỗi mạng .
+Cách nầy mở rộng khái niệm của kỹ thuật điều pha bằng cách sử dụng hai biên độ khác nhau và bằng cách thay đổi bước sóng từ ¼ , ½ đến ¾ chu kỳ của nó .
+Sơ đồ nầy được thiết kế cho các mạng rộng và dùng trên mạng Internet .
+Hệ thống nầy được dùng trong mạng LAN và cần có băng thông rộng .
+Phương pháp nầy cung cấp băng thông 400 MHz ( 100 MHz cho mỗi cặp ) .
+Hệ thống sẽ giảm năng lượng tiêu thụ và nhiễu ở mức điện thế cao nhưng vẫn cần băng thông tương đối lớn .
+Phương pháp nầy làm yên lòng khách khi tìm kiếm và quản lý trực tiếp một thiết bị trên mạng .
+Hệ thống nầy cần mức điện thế cao và băng thông tương đối lớn .
+Chiến lược nầy đòi hỏi rằng tất cả người dùng mang theo một thẻ thông minh ( hay một thứ tương đương bằng phần mềm ) , và thường được áp dụng cho các người dùng ở xa .
+Chiến lược nầy dùng sự mã hóa khóa công cộng và đưa ra một cách để người dùng cung cấp cho bạn khóa công cộng của anh ta hay cô ta để các phiên làm việc được mã hóa hay những giao dịch an toàn có thể tiến hành .
+Mô hình nầy vẫn hoạt động tốt khi số user còn ít .
+Hệ thống thứ hai nầy dễ tấn công hơn , và một khi họ thâm nhập được vào hệ thống nầy , nó có thể mở đường để đi tiếp đến hệ thống ban đầu nhờ quan hệ ủy thác .
+Phần lớn tập trung vào các giao thức dùng cho Internet .
+Chương nầy chỉ khái quát về PPTP .
+Ở đây chúng ta chỉ đề cập đến điều khiển bảo mật trong hệ điều hành và các kỹ thuật bảo đảm bảo mật cho máy tính được nối kết với mạng .
+Phần nầy nói đến các khiá cạnh đặc biệt của IP / ATM .
+Phần nầy chỉ trình bày các loại thiết bị lưu trữ khác nhau .
+Phần nầy sẽ bao quát các đặc tính của Novell Netware 4.11 .
+Phần nầy mô tả một số cách bạn có thể dùng để thực hiện những công việc backup , bao gồm việc sao chép dữ liệu vào các băng từ hay đĩa quang , hay bằng cách sao chép hay nhân bản thông tin vào các hệ thống khác .
+Phần nầy sẽ trình bày về một số dịch vụ thư mục và các giao thức quan trọng đối với các quản trị viên mạng .
+Phần nầy mô tả ba giải pháp thương mại điện tử , từ loại EDI - như phần mềm business - to - business , đến các cửa hàng mặt tiền trực tuyến trên Internet .
+Phần nầy mô tả cách giảm chi phí và độ phức tạp của kết nối mạng dial - up từ xa bằng cách khai thác ưu điểm các thiết bị của ISP ( Internet Service Provider ) và Internet .
+Phần nầy trình bày chuẩn TIA / EIA - 568 - A .
+Phần nầy bàn về IP nói chung và IP dành cho kết nối điểm - điểm từ máy tính nầy đến máy tính khác .
+Phần nầy nói về LAPB và một vài phát sinh của LAPB .
+Phần nầy trình bày về LISTSERV và Majordomo - cũng là một chương trình danh sách thư điện tử .
+Phần nầy sẽ bàn về các trình ứng dụng và giao thức quản lý , nhưng dĩ nhiên còn cả các nhiệm vụ điều hành khác không được đề cập ở đây , như vấn đề cập nhật dữ liệu , bảo đảm sự an toàn , huấn luyện user , đặt ra các chính sách .
+Chương nầy thảo luận về NHRP trên cơ sở của ATM , mặc dù nó cũng áp dụng cho các hệ thống mạng frame relay và NBMA khác .
+Phần nầy sẽ nói về các chức năng đặc biệt của server .
+Phần nầy giúp bạn đánh giá các kiến trúc mạng truyền thống .
+Phần nầy giải thích về các thuộc tính của thư mục và cách quản lý trên các hệ điều hành mạng phổ biến như Novell Netware , Windows NT , và UNIX .
+Phần nầy đầu tiên thảo luận những phương pháp backup bằng phương tiện băng từ , sau đó xem xét các thiết bị backup khác .
+Phần nầy giới thiệu vắn tắt về HTML , giúp bạn hiểu được ngôn ngữ và các khái niệm cơ bản của chúng .
+Phần nầy hướng dẫn khái quát các vấn đề liên quan đến việc thiết kế và xây dựng mạng máy tính .
+Phần nầy nói về các vấn đề trong kỹ thuật Client / Server nhằm thiết kế chương trình truyền dữ liệu giữa máy chủ và máy trạm .
+Phần nầy nói về Fast Ethernet , cũng là 100Base - T .
+Phần nầy bàn về các tiêu chuẩn và giao thức được dùng cho việc xuất bản thông tin và về tương lai của việc xuất bản thông tin .
+Ghi chú : Mục nầy chỉ nói những điểm có liên quan với QoS thôi .
+Lưu ý : Phần nầy liên quan chặt chẽ đến mục " Prioritization of Network Traffic " .
+Trong phần nầy chỉ giới thiệu sơ khởi các kỹ thuật mới về mạng máy tính , bạn nên tham khảo thêm các mục khác nữa để hoàn chỉnh sự nghiên cứu của bạn .
+Phần nầy trình bày sơ lược về các công nghệ truyền thông và cung cấp tham chiếu đến các phần khác trong sách nầy .
+Phần nầy phát thảo các kiến trúc cơ bản mô tả trong chương 4 , sách Building Internet Firewalls của Chapman và Zwicky .
+Phần nầy phác thảo các kỹ thuật được phát minh để chạy IP trên ATM và giới thiệu các phần trong quyển sách có nầy liên quan đến chúng .
+Phần nầy chủ yếu trình bày các công cụ mà các kỹ thuật viên hay dùng để giải quyết các sự cố trên mạng và bảo đảm hệ thống cáp được cài đặt giống như đặc tả .
+Phần nầy chỉ đưa ra những thông tin ngắn gọn .
+Phần nầy chỉ định nghĩa volume trong Netware .
+Phần nầy sẽ bàn đến môi trường mainframe truyền thống của IBM .
+Phần này sẽ khảo sát trạng thái server .
+Phần nầy sẽ phác thảo một số thiết kế backplane truyền thống , ngoài ra bạn ta nên xem phần " Switched Networks " để biết thêm về các hub chuyển mạch mới có thể cho phép thực thi tối ưu hơn , và giao thức mạng thực tế hơn thích nghi với các công nghệ mạng tương lai .
+Quá trình nầy đòi hỏi server và user người dùng có những thông tin bí mật chung ( chẳng hạn như mật mã ) .
+Dịch vụ nầy không tin cậy như phương pháp trên , nhưng hiệu quả trong trường hợp gửi dữ liệu định kỳ .
+Dịch vụ nầy thường được dùng cho hội đàm video và không phù hợp với những đòi hỏi băng thông không tiên đoán được của lưu thông LAN .
+Dịch vụ nầy ban đầu được dùng để truyền giữa các trạm vi ba .
+Với sự thiết lập như thế , khi được thi hành đúng đắn , ngăn chặn kẻ phá hoại bên ngoài phá vỡ hệ thống bên trong .
+Khóa dùng chung nầy được gọi là khóa session .
+Tín hiệu nầy vận hành trong các tầng vật lý , kết nối dữ liệu và tầng mạng trong mô hình giao thức OSI .
+Ưu điểm của kỹ thuật nầy là giảm lưu thông và tiết kiệm băng thông .
+Sự tương tự nầy cũng cho phép các bộ định tuyến hiện nay chuyển tiếp các thông điệp BOOTP giữa các mạng con cũng có thể chuyển tiếp các thông điệp DHCP .
+Điều nầy làm đơn giản hóa sự phục hồi sau trục trặc .
+Bit duy nhất nầy là chiều dài địa mạng con , nhưng chỉ có thể có 2 giá trị - số nhị phân 0 và 1 , nên chỉ cho phép hai mạng con .
+Không gian nhớ đơn nầy tạo điều kiện dễ dàng hơn cho các lập trình viên để viết ra các chương trình cho các hệ thống NUMA .
+Tình huống nầy cũng tương tự như mô hình truyền dữ liệu " nỗ lực cao nhất " trên Internet , mà các gói được ưu tiên như nhau và phải truyền qua các băng thông có sẵn .
+Cách làm nầy phân chia tác vụ cho thiết bị nối kết và server định tuyến , và được gọi là định tuyến phân bố .
+Tiêu chuẩn nầy còn được biết đến dưới một tên khác do một trong nhà phát triển đặt ra là DIX Ethernet .
+Tiêu chuẩn nầy định nghĩa các phương pháp truy cập điều khiển cho hệ thống máy vi tính cho các nhà cung cấp sản phẩm điện toán dùng làm căn cứ để tuân theo các tiêu chuẩn an ninh của Bộ Quốc phòng .
+Chuẩn nầy cung cấp hệ đi cáp đồng nhất và hỗ trợ nhiều sản phẩm và môi trường khác nhau .
+Bước nầy cũng để xác nhận người dùng .
+Chiến lược nầy cho phép các người dùng tiếp tục truy cập dữ liệu nếu một trong những server hư .
+Chiến lược nầy khái quát rõ ràng các kỹ thuật cần thiết để xây dựng extranet , và chỉ ra rằng có nhiều thứ phải làm , chứ không đơn giản chỉ là những liên kết truyền thông giữa các doanh nghiệp .
+Chiến lược nầy không lý tưởng cho việc liên lạc giữa các máy trạm cao tốc và các thiết bị ngoại vi .
+Chiến lược nầy bảo vệ công nghệ của hệ thống high - end và đầu tư của khách hàng .
+Chiến lược nầy trên thực tế bảo đảm rằng không có hai card mạng Ethernet hay Token Ring nào có cùng địa chỉ .
+Cấu trúc nầy rất giống với Ethernet hình sao , trong đó mỗi máy trạm được nối trực tiếp đến một hub trung tâm .
+Thông suất nầy hỗ trợ các tác vụ bus 32 - bit , với bus 64 - bit hoạt động ở tốc độ 1,600 Mbits / sec ta dùng cáp kép .
+Bộ chuyển mạch nầy có thể cung cấp đường đi tận hiến nhất thời từ một cổng đầu vào bất kỳ đến cổng đầu ra bất kỳ .
+Bộ chuyển mạch ngoại vi nhận các khung từ các máy trạm kế thừa và đóng gói các dữ liệu trong khung thành các cell ATM .
+Hệ thống nầy , còn được gọi là DCS - 1800 ( Digital Communication System - 1800 : Hệ thống truyền thông kỹ thuật số - 1800 ) , sử dụng kích thước ô lưới nhỏ hơn , lý tưởng cho các vùng đô thị có mật độ dân cư dày đặc .
+Hệ thống nầy có thể được hoàn toàn tự động hóa và chạy một cách liên tục để các bản sao tập tin không bị biến chất mới nhất có thể được dò ngược qua backup server đến các bản lưu trữ , khi cần thiết .
+Hệ thống nầy có thể mở rộng .
+Hệ thống cáp và hub liên mạng nầy thường được miêu tả như là backbone của mạng máy tính .
+Bảng nầy tương ứng địa chỉ MAC với một cổng dẫn đến một phân đoạn của mạng , là nơi chứa đích .
+Bảng nầy nhằm tránh sự giao thoa giữa liên lạc trên không và dưới đất , các điện thoại trong xe , viễn thông đường biển , các trạm radio , và viễn thông vũ trụ .
+Quá trình truyền tải chỉ mất 6 bước .
+Trong những năm gần đây , công việc nầy càng trở nên phức tạp .
+Kỹ thuật nầy cho phép bên dùng dữ liệu vận hành một cách độc lập với dữ liệu mà nó dùng .
+Kỹ thuật nầy có thể được mở rộng để đạt được tốc độ cao hơn với 28800 bit / giây .
+Kỹ thuật nầy có thể làm lãng phí băng thông nếu thiết bị không có gì để truyền .
+Kỹ thuật nầy sử dụng kết hợp mã hóa khóa công cộng và mã hóa khóa mật cho bạn giải pháp tốt hơn .
+Kỹ thuật nầy về cơ bản che dấu hệ thống nội và bảo đảm rằng những người dùng nội không kết nối trực tiếp với hệ thống bên ngoài .
+Kỹ thuật nầy có ưu điểm là dấu địa chỉ nguồn và đích của bó dữ liệu ban đầu và làm tăng độ an toàn .
+Kỹ thuật nầy khá đơn giản , nhưng kỹ thuật khác có tên gọi là slotted ALOHA được nghĩ ra năm 1972 cho phép nhân đôi dung lượng .
+Kỹ thuật nầy được sử dụng bởi các phần mềm nhóm và gói phần mềm cộng tác , làm nhiệm vụ gửi thông điệp đến các thành viên của nhóm .
+Kỹ thuật nầy là hữu ích nếu chỉ gởi vài khung thông tin .
+Kỹ thuật nầy có nhược điểm là bị nghe trộm bởi vì mật mã có thể bị tóm được và sử dụng bởi người khác đang trong cùng hệ thống .
+Kỹ thuật nầy không đòi hỏi cao về băng thông .
+Kỹ thuật nầy đòi hỏi mã hóa và bảo vệ dữ liệu khi truyền tải trên các mạng công cộng .
+Kỹ thuật nầy được dùng trong các modem đầu tiên nhưng có quá nhiều hạn chế đối với việc truyền tốc độ dữ liệu cao .
+Kỹ thuật nầy thường không gây ra tình trạng quá tải ở đích , nhưng nếu đích cần thời gian tạm nghỉ trước khi nhận dữ liệu , nó trì hoãn việc gởi thông báo nhận .
+Kỹ thuật nầy làm giảm chi phí do khoảng cách xa .
+Kỹ thuật nầy đã lớn mạnh mà không cần phải thúc đẩy , mang lại lợi nhuận cho chúng ta trong hầu hết mọi trường hợp .
+Công nghệ nầy có nhiều tên gọi , như chuyển mạch tầng 3 , chuyển mạch nhiều tầng , định tuyến tắt , và định tuyến cao tốc .
+Kỹ thuật nầy có nhiều tên gọi như : chuyển mạch tầng 3 , chuyển mạch nhiều tầng , short - cut routing , và định tuyến tốc độ cao .
+Chủ đề nầy mô tả cấu trúc đường trục của Internet và các nhà ISP ( Internet service providers ) cục bộ , vùng , quốc gia và tòan cầu , cùng tham gia vào một bức tranh toàn cảnh truyền thông Internet .
+Chủ đề nầy thảo luận về ATM .
+Đề tài nầy bàn về hoạt động của giao thức NNTP .
+Chủ đề được trình bày trong phần Web Midleware and Database Connectivity .
+IBM có bộ sản phẩm giúp xây dựng các " datamarts " cỡ nhỏ dành cho nhóm làm việc , hay các kho dữ liệu cấp xý nghiệp , tự động hoàn toàn .
+Chủ đề nầy được mô tả kỹ hơn trong phần " Extranet " .
+Chủ đề nầy được xét kỹ hơn trong phần " Mbone ( Multicast Backbone ) và " Multicasting " .
+Chủ đề nầy được trình bày trong mục Modem và Signals .
+Chủ đề nầy được bao quát rộng hơn trong mục Switched Networks .
+Xem từ mục liên quan " Transaction Processing " .
+Chủ đề nầy sẽ được trình bày cặn kẽ trong đề mục " Push " .
+Chủ đề này được đề cập rất chi tiết trong mục " Internet Backbone " .
+Chủ đề nầy được đề cập đến trong phần " Multicasting " .
+Việc theo dõi nầy được thực hiện trong một cửa sổ cập nhật thường xuyên khi các khung được gởi và nhận - vì thế có tên cửa sổ trượt .
+Sự xung đột nầy dẫn đến hai loại bộ vi xử lý :
+Quá trình nầy có thể làm tắc nghẽn mạng , do đó sẽ có các cơ chế điều khiển .
+Chuyển vị nầy phục vụ như cơ chế đồng hồ cài sẵn để bên nhận có thể theo dõi .
+Phương pháp nầy trội hẳn so với CSMA / CD , trong đó các máy trạm cạnh tranh truy cập trên đường cáp dùng chung xem bên trái của hình D - 17 .
+Sự vận chuyển này phải truyền trên kênh A .
+Xu hướng nầy có lẽ trái ngược với việc tính toán phân tán nhưng trong thực tế chúng cùng tồn tại bên nhau .
+Xu hướng nầy tiếp tục đến những năm 1980 với sự phát triển của máy vi tính , nhưng DEC không đóng vai trò lớn như IBM và Apple Computer .
+Cách tấn công nầy thường thành công nếu dùng các mật khẩu yếu .
+Kiểu cấu hình nầy tương thích với các chiến lược đi dây có cấu trúc được thảo luận trong chủ đề TIA / EIA Structured Cabling Standards .
+Loại kết nối nầy thường được dùng để kết nối người dùng nội được ủy thác với Internet .
+Kiểu kết nối nầy thường được dùng để nối những người dùng nội bộ được ủy thác vào Internet .
+Kiểu dữ liệu nầy thường là multimedia như các hình ảnh và âm thanh , nhưng cũng có thể là bất kỳ dạng dữ liệu nhị phân nào .
+Cấu trúc phân cấp kiểu nầy cho phép người điều hành và người dùng đi xuống theo các cấp để định vị người và các tài nguyên .
+Loại proxy server nầy cung cấp kết nối giữa các hệ thống nội và ngoại .
+Loại dịch vụ nầy thích hợp những kết nối không thường xuyên chẳng hạn như : một kết nối đơn của một người dùng hay thao tác truyền file .
+Loại dịch vụ nầy thích hợp hơn đối với những kết nối thường xuyên giữa hai hay nhiều điểm mà yêu cầu tốc độ phải cao hơn tốc độ đường truyền quay số .
+Với lưu lượng nầy có thể gây bão hòa mạng .
+Loại VLAN nầy dùng thông tin ở tầng 3 để xây dựng VLAN dựa trên các địa chỉ giao thức liên mạng .
+Việc nâng cấp cho phép vẫn giữ lại hệ thống đi dây bằng cáp quang đang tồn tại nhưng lại nâng cao được băng thông lên gấp mười lần .
+Việc nâng cấp nầy đẩy thông suất của máy chủ lên đến 1000Mbit / giây .
+Bằng cách nầy việc sử dụng mạng sẽ hiệu quả hơn và giảm được chi phí sử dụng , nhưng các mạng chuyển gói có thể bị chậm trễ khi có khách hàng nào đó tải quả nhiều lưu thông trên mạng .
+Sự việc nầy thường liên quan đến các kết nối nhiều máy tính cá nhân trong một văn phòng hay một tầng của một tòa nhà .
+Phiên bản nầy dùng UTP ( unshielded twisted - pair : cáp trần xoắn đôi ) hoặc STP ( cáp bọc nhiễu xoắn đôi ) .
+Loại virút nầy làm nhiễm các tập tin - thường là các tập tin thực thi với đuôi COM , EXE , và OVL .
+Định hướng nầy dựa trên các sản phẩm không bị ràng buộc bởi hệ điều hành và khai thác ưu điểm các chuẩn Internet mở .
+Volume nầy chứa MFT ( master file table ) , chứa thông tin về từng tập tin có trong volume nầy .
+Kho dữ liệu nầy cho phép truy cập động đến dữ liệu back - end được xác định ở hệ front - end .
+Đây là bước chính là cơ hội để làm cho UNIX trở nên phổ biến , và cũng từ đây nhiều dị bản biến dạng của nó ra đời ( phiên bản tử AT &amp; T đưa ra dị bản đầu tiên ngày nay được gọi là System V release hay SRV ) .
+Đây là một đề án được tài trợ bởi DARPA .
+Đây là công việc buồn tẻ , và bảng phải được cập nhật định kỳ nếu máy trạm hay người dùng chuyển sang nơi khác .
+Dẫn đến việc phải bảo mật cho mạng con với mạng con , và kiến trúc mạng máy chủ với máy con .
+Đây là một trong những chiến lược quan trọng nhất trong quá trình tiến bộ của phần mềm Netware , như là một tiêu chuẩn công nghệ .
+Hệ thống định lượng nầy giúp tối thiểu hóa tình trạng quá tải bằng cách giữ các gói ở phạm vi cục bộ của chúng .
+Toàn bộ chu trình được minh họa ở hình P - 12 và P - 13 .
+Ðiều nầy cho phép một ứng dụng yêu cầu loại mức độ dịch vụ mà cần thiết ở một mạng để có thể phân phát âm thanh và hình ảnh video trong thời gian thực mà không cần trì hoãn không rõ lý do .
+Điều nầy sẽ cho phép mở rộng thiết kế một cách linh động khi có các yêu cầu mới .
+Điều nầy sẽ cho phép các nhà cung cấp đường dài truyền thống đưa ra các dịch vụ end - to - end cho khách hàng .
+Ðiều nầy đòi hỏi công nghệ CTI ( computer - telephony integration ) và các chuẩn để đóng gói và truyền thư thoại qua mạng máy tính .
+Điều nầy sẽ dẫn đến sự cạnh tranh với các công ty điện thoại hoặc buộc các công ty điện thoại đưa ra dịch vụ DSL nhanh hơn cả dịch vụ ISDN .
+Điều nầy đòi hỏi phải truyền lại và lại gây chậm trễ .
+Sơ đồ đi dây nầy tránh được việc đứt một dây làm sụp đổ toàn bộ hệ thống , và còn thúc đẩy các phương pháp cấu trúc cáp khác .
+Công việc nầy được kéo dài đến năm 1993 khi NCSA ( National Center for Superconducting Applications ) đưa ra trình duyệt web Mosaic .
+Nhóm nầy định nghĩa phương thức CSMA / CD ( carrier sense multiple access / collision detection ) vận hành trên các phương tiện khác nhau chẳng hạn như cáp đồng trục , cáp xoắn đôi , và cáp quang .
+Nhóm nầy định nghĩa các giao thức IEEE LLC ( Logical Link Control ) , nó cung cấp kết nối đến các mạng MAC ( Medium Access Control ) tầng thấp chẳng hạn như các tiêu chuẩn IEEE 802 được mô tả ở đây .
+Nhóm nầy định nghĩa mối quan hệ giữa các tiêu chuẩn IEEE 802 và các kiểu tham khảo khác .
+Nhóm nầy có nhiệm vụ xây dựng các tiêu chuẩn truyền tải dữ liệu trên mạng dùng cáp TV truyền thống .
+Nhóm nầy định nghĩa các tiêu chuẩn cho mạng không dây .
+Nhóm nầy định nghĩa tiêu chuẩn Ethernet 100 Mbit / sec với phương thức truy cập ưu tiên theo yêu cầu được phát triển bởi Hewlett - Packard và các nhà cung cấp khác .
+Nhóm nầy đang xúc tiến việc định nghĩa mô hình an toàn tiêu chuẩn có thể vận hành qua lại trên các loại mạng khác nhau và hợp nhất các phương pháp xác nhận và mã hóa .
+Nhóm nầy cung cấp lời chỉ dẫn cho các tiểu ban khác về việc thay thế mạng cáp quang cho cáp đồng hiện có .
+Nhóm nầy cung cấp các hướng dẫn kỹ thuật về kỹ thuật nối mạng băng thông rộng cho các tiểu ban khác .
+Điều nầy giúp chuyển mạch thông tin nhanh chóng .
+Đây là dịch vụ thư mục nội bộ .
+Những thay đổi nầy phải được đồng bộ hóa và hoàn thành một cách đầy đủ trên tất cả các server , hay tại những nơi mà dữ liệu phải được cập nhật hoàn toàn .
+Các mảnh đó có thể đi qua một bộ định tuyến khác nữa , nhưng các bộ định tuyến trung gian không thực hiện việc lắp ráp các mảnh nầy lại một cách bình thường , ngay cả khi các mảnh nầy có thể gộp lại thành một khung đơn vừa vặn cho phân đoạn mạng kế đó .
+Xem trang web OpenDoc của Apple để biết thêm thông tin .
+Những luật nầy có thể khó cài đặt và dễ có lỗi , tạo nên những lỗ hổng trong hệ thống phòng thủ .
+Nhà cung cấp và các sản phẩm của họ được điểm qua ở đây :
+Mặc dù giao thức H.323 không bảo đảm rằng sản phẩm của những hãng khác nhau sẽ liên lạc được , nhiều nhà cung cấp đang hướng tới tính vận hành qua lại , và trong một hoặc hai năm , tính chất nầy sẽ phổ biến .
+Hàng nghìn người có thể chia sẻ môi trường dùng các giao thức truy cập giống như LAN .
+Các luồng là những quá trình riêng lẻ thực hiện đồng thời trong các hệ điều hành đa nhiệm .
+Các luồng được lập lịch để thực hiện vì một số luồng có thể chờ một biến cố nào đó xảy ra hoặc chờ kết thúc một công việc nào đó từ luồng khác .
+Luồng là hữu ích vì chúng loại trừ được sự cần thiết phải để cho hệ điều hành liên tục tải thông tin vào / ra bộ nhớ .
+Các dòng nầy cung cấp cách phân chia một nhiệm vụ đơn thành đa nhiệm vụ .
+Đe dọa là lý do bạn cần phải quan tâm về vấn đề bảo mật .
+Ba quyền bổ sung xác định truy cập đến các file trong các thư mục : đọc , ghi , và khóa .
+Ba phòng - Marketing , engineering và Research - có không gian tên riêng để thỏa mãn nhu cầu của từng phòng .
+Dưới đây là ba phương pháp truy cập .
+Ba nhà cung cấp groupware chính đang hoàn thiện các sản phẩm hợp tác của họ .
+Ba cặp được dùng để gởi hoặc nhận dữ liệu , còn cặp thứ tư được dùng để phát hiện xung đột .
+Ba mạng con ( A , b và C ) được nối bằng bộ định tuyến AB và BC .
+Các hệ thống ba ngưỡng mở rộng hệ thống client / server bằng cách thêm một hệ thống trung gian ( chẳng hạn một Web server ) để thực hiện một số công việc xử lý mà thông thường được làm bởi client hay server .
+Phải thiết lập các mức tới hạn và báo trước chính xác thay vì những báo động không cần thiết .
+Thông qua IIOP , các công ty có thể tiến tới bộc lộ chính mình , và liên kết các tiến trình và ứng dụng thương mại của họ , không chỉ đằng sau firewall mà còn có thể thông qua mạng ngoài để đến với các thị trường điện tử , người tiêu thụ và các công ty khác . " .
+Thông qua kiến trúc quản lý phân tán , vines thiết lập khung làm việc cho quản lý dựa trên SNMP ( Simple Network Management Protocol ) , cho phép nhà điều hành quản lý hiệu quả mạng từ một điểm bất kỳ .
+Thông qua NDS , Netware 4.11 cung cấp một hình ảnh đơn nhất về mạng máy tính .
+Thông qua Information Warehouse và DRDA , ibm có kế hoạch giữ các máy mainframe làm thành phần trung tâm trong xí nghiệp - làm môi trường lưu trữ cho tất cả các loại thông tin , kể cả multimedia .
+Trong quá trình nầy , người dùng có thể khởi động các chương trình trên máy ở xa và chạy chúng từ hệ thống riêng của họ giống như họ đang làm việc trực tiếp trên máy chủ ở xa .
+Trong suốt qui trình tìm đường nầy , đích của gói dữ liệu không đổi .
+Đây là số đo tốc độ mà hệ thống có thể xử lý hoặc truyền thông tin .
+Độ đo nầy là cho tổng thể hệ thống và các thành phần của nó .
+Thông suất trên mạng LAN được xác định bởi số máy tính trên mạng và mức độ truy cập thường xuyên như thế nào .
+Vì vậy về mặt lý thuyết , hệ thống 4 bộ xử lý có thể xử lý nhanh gấp 4 lần hệ thống chỉ có 1 bộ xử lý .
+Như vậy , một phiên truyền FTP điển hình có thể có vài liên kết được mở cùng một lúc nếu có nhiều tập tin đang được truyền đi .
+Do đó , mọi hệ thống dùng giao thức như nhau sẽ không cần cổng .
+Như thế , tất cả các hệ thống sử dụng cùng giao thức và không cần đến gateway nữa .
+Như vậy , một ứng dụng có thể kết nối với một ứng dụng khác trong hệ thống khác mà không cần các chức năng tin cậy trong TCP .
+Vì vậy , một trang HTML thực sự chứa chính bản thân tập tin HTML cùng với các tham chiếu đến hình ảnh và các tập tin multimedia .
+Vì vậy chương trình được viết theo SAA có thể chạy trên nhiều loại hệ thống khác nhau .
+Như vậy , cầu nối và bộ định tuyến thường được đo tốc độ theo số gói được xử lý trong một giây .
+Như vậy , cầu nối có thể giúp tránh được những sự cố trong phân đoạn ảnh hưởng đến các phân đoạn khác .
+Như vậy , máy khách có thể truy cập các quá trình riêng lẻ trên các máy riêng lẻ bằng cách đánh địa chỉ máy tính và số socket .
+Như vậy , khách hàng có thể mua dịch vụ end - to - end từ một nhà cung cấp , thay vì phải ký từng hợp đồng riêng lẻ với nhà cung cấp nội hạt và đường dài .
+Như vậy , dce cung cấp một môi trường độc lập với hệ điều hành và mạng .
+Như vậy , mỗi trạm hoạt động như là bộ khuyếch đại .
+Tám giá trị bit có thể được biểu diễn như sau :
+Như vậy , cáp quang có tốc độ truyền cao và được ưu tiên khi khoảng cách là yếu tố đáng xét .
+Như vậy , cáp quang cũng được ưu tiên khi an toàn là vấn đề cần xét .
+Như vậy , các ứng dụng Java là chuyển đặt trên mọi máy ảo vì chúng chỉ cần giao diện với mức cao nhất của máy ảo .
+Vì vậy LAPF chỉ được dùng cho truyền tải dữ liệu và không có tín hiệu ở tầng liên kết dữ liệu về việc kiểm soát lưu thông và kiểm soát lỗi .
+Như vậy , các tầng thấp phục vụ tầng cao hơn bằng cách nhận lấy các thông điệp của chúng và chuyển các thông điệp trong khối giao thức xuống tầng thấp nhất , ở đây các thông điệp được truyền tải qua các kết nối vật lý .
+Do vậy , không nhất thiết phải thiết lập nhiều VC cho cùng một tuyến , và các tài nguyên mạng được tối ưu .
+Do vậy , các NN phục vụ như những kho chứa phân bố cho thông tin mạng .
+Như vậy , tiếng ồn từ các mạch xoay chiều có thể rò rỉ ra các điện tích nhạy cảm xuyên qua các mạch tiếp đất cũng như các dây dẫn nóng .
+Như vậy , chỉ cần tạo ra một liên kết cục bộ và người dùng có thể có được một nối kết đường dài thông qua Internet , nói chung là miễn phí .
+Bởi vậy , người ta thường ám chỉ chung cho các khối thông tin được truyền đi là các gói tin .
+Do đó năng suất được cải tiến bởi vì máy tính không phải lần lượt truyền trên đường cáp chung như trong trường hợp mạng LAN , ví dụ như mạng Ethernet .
+Như vậy , các hệ thống được thiết kế theo RISC nhanh hơn so với các hệ CISC .
+Như vậy , tcp trở thành TCP và IP .
+Như vậy , tcp được tổ chức lại vào TCP và IP , trong đó TCP xử lý điều khiển luồng và khôi phục gói , còn IP hỗ trợ cách đánh địa chỉ cơ bản và các dịch vụ chuyển tiếp gói dữ liệu .
+Nghĩa là DLCI nhận ra một bộ phận được thiết lập trước cho mạch PVC trên hệ thống mạng frame - relay .
+Mạng frame relay xử lý các kết nối trong bộ chuyển mạch và chỉ cần một đường thuê bao ở mỗi nơi đến điểm kết nối frame relay .
+Bởi vậy , các frame gọi là được phát tán .
+Do đó ta nói các khung này có tính tổng phát .
+Do đó , mã khóa thông điệp có thể truyền công khai hầu như không sợ ai đó sẽ dùng nó để chuyển ngược lại thành thông điệp ban đầu .
+Do đó , hệ điều hành có thể cân bằng quá trình tải qua các bộ xử lý .
+Vì vậy SCSI - 1 8 - bit có thể được tăng lên 10 MB / giây bằng cách áp dụng cải tiến Fast .
+Như vậy , token đi theo một đường vòng lôgíc chứ không phải đường vòng vật lý .
+Vì vậy , người sử dụng phải tin rằng người có trách nhiệm chứng thực sẽ bảo đảm việc hợp lệ hóa người chủ của khóa công khai và thực sự khóa công khai ở đây chính là khóa công khai của người có trách nhiệm chứng thực .
+Do đó , băng thông tiếng nói , rộng xấp xỉ 3,000 Hz , như được vẽ trong Hình B5 Băng thông thường được dùng để nói đến thông suất của một hệ thống , nhưng nó chỉ liên hệ gián tiếp đến thông suất .
+Do đó , có 832 cặp kênh .
+Như vậy , chỉ trong một gói UNIX cung cấp khả năng cài đặt một hệ điều hành mạnh trên một máy và cho phép người dùng chia sẻ tập tin và chạy chương trình trên những máy khác thông qua các giao diện thức mạng phổ biến nhất và mạnh nhất trong thế giới điện toán công nghiệp hiện nay .
+Như vậy , khi đầu đọc đọc một rãnh , nó chỉ đọc dữ liệu ghi dưới một góc xác định nào đó .
+X.25 thiên về cung cấp việc phân phối dữ liệu point - to - point hơn là point - to - multipoint .
+Như vậy , bạn đang tin rằng CA sẽ xác nhận nội dung của chứng nhận kia .
+Như vậy , giao thức theo byte chỉ có thể được dùng với tập ký tự theo bảng mã tự nhiên nầy vì tập nầy có các ký tự điều được quy định .
+Do đó số nhị phân 1 được truyền thông qua điện thế dương và số nhị phân 0 được truyền thông qua điện thế âm .
+Vì vậy thứ tự trước sau có thể được thiết lập không cần có tín hiệu từ bên ngoài hoặc không cần những thay đổi quan trọng đối với các ứng dụng .
+Do đó trạm A sẽ nhận được thông điệp từ kết nối kênh B của nó , rằng trạm B cần một vài khối dành riêng trên kênh A .
+Vì thế sự an toàn của RSA phụ thuộc vào độ phức tạp của quá trình factoring .
+Như vậy , dịch vụ nầy đáng tin cậy và bảo đảm .
+Do đó khi đăng nhập , người dùng phải có hai thứ : một thứ người dùng biết ( mật khẩu của anh ta hay cô ta ) và một thứ người dùng không biết ( token ) .
+TIA / EIA - 568 - A Xác định chuẩn cho hệ đi cáp cho các toà nhà thương mại hỗ trợ mạng dữ liệu , thoại và video .
+TIA / EIA - 568 - A Định nghĩa một chuẩn về việc xây dựng hệ thống cáp trong xây dựng , thương mại , hỗ trợ mạng dữ liệu , tiếng nói và phim ảnh .
+TIA / EIA - 569 Xác định cách xây dựng đường dẫn và không gian cho các môi trường viễn thông .
+TIA / EIA - 569 Một chuẩn định nghĩa cách xây dựng đường truyền và không gian cho phương tiện truyền thông .
+TIA / EIA - 606 Xác định hướng dẫn về thiết kế cho việc điều cơ sở hạ tầng viễn thông .
+TIA / EIA - 606 Định rõ nguyên tắc thiết kế cho việc quản lý một cơ sở hạ tầng truyền thông .
+TIA / EIA - 607 Xác định các yêu cầu về nền và xây ghép cho cáp và thiết bị viễn thông .
+TIA / EIA - 607 Định nghĩa các yêu cầu về nền tảng và các ràng buộc cho việc trang bị cáp viễn thông và thiết bị .
+Tim Berners - Lee đã khởi xướng ra ngôn ngữ đánh dấu siêu văn bản từ SGML trong năm 1990 khi ông ta đặt những đề nghị đầu tiên về World Wide Web .
+Các kênh truyền được phân chia theo thời gian , trên đó tín hiệu từ nhiều nguồn khác nhau như điện thoại và máy tính được trộn thành một luồng dữ liệu và được phân tách nhau theo thời gian .
+Việc kiểm tra đồng bộ thời gian / sự kiện dùng các mật khẩu đã được token và máy chủ xử lý .
+Thời gian cung cấp bởi NTP server chính xác đến một phần nghìn giây .
+Hạn chế thời gian Xác định khoảng thời gian , theo từng nửa giờ , cho phép người dùng truy cập hệ thống .
+Dịch vụ thời gian cho phép các ứng dụng lập lịch trình cho các hoạt động , và xác định dãy các biến cố và thời gian kéo dài của chúng .
+Đồng bộ thời gian giúp thiết lập và duy trì thứ tự các biến cố .
+Việc đồng bộ hóa thời gian làm cho mọi thứ được duy trì một cách đồng bộ .
+Time to live Một bộ đếm giảm với mỗi lần đi qua một router .
+Do vậy , thời gian sẽ chứng tỏ sức mạnh của công nghệ trong những môi trường nầy .
+Tip : Bạn có thể dò theo đường của một gói tin đi từ máy tính của bạn đến đích bằng ứng dụng TRACEROUTE trong UNIX hay lệnh TRACERT trong Windows .
+Kết nối TN3270 có thể thực hiện trên mạng TCP / IP và Internet .
+TN3270 là phiên bản đặc biệt của giao thức Telnet , cho phép người dùng trên các hệ thống không tương thích với 3270 truy cập máy chủ IBM .
+Để truy xuất đến một server , khách hàng gửi một yêu cầu đến TGS chứa ID của server đích , id của ngươì dùng và TGT sẽ chứng thực cho người dùng .
+Để điều tiết các trạm có dung lượng lớn , người điều hành mạng có thể ưu tiên cho trạm nầy , về cơ bản là cho nhiều thời gian truyền hơn trước khi phải trả lại token .
+Để đáp ứng nhu cầu của các user vừa đề cập trên , bạn nên nghiên cứu các vấn đề sau trong phần thiết kế mạng của bạn .
+Ðể đạt tốc độ 20 - 22 fps , cần phải có băng thông 384 - 512 Kbit / s .
+Để báo rằng nó đã nhận số hiệu chuỗi của máy A , máy B tăng số hiệu chuỗi lên 1 và chèn nó vào trường Sequence Number .
+Đối với các trình ứng dụng , tất cả các bộ xử lý xem như một và dùng chung bộ nhớ , điều nầy giúp cho các lập trình viên dễ dàng hơn khi viết các phần mềm cho hệ thống nầy .
+Để tránh xảy ra như vậy , backbone được thiết lập , như minh họa ở hình N - 15 ( d ) .
+Để tạo thuận lợi cho người dùng , các hệ thống phải cung cấp được khả năng vận hành qua lại từ tầng thấp nhất đến tầng ứng dụng .
+Để trở thành một người mua hàng trong hệ thống của First Virtual , bạn phải có một địa chỉ e - mail trên Internet và một thẻ Visa hay Mastercard hợp lệ .
+Để khai thác lợi thế của các ứng dụng chụp ảnh văn bản .
+Để mua hàng , bạn phải cho biết số thẻ VirtualPIN thay vì số thẻ tín dụng .
+Trong quản lý tập trung , các tài nguyên mạng - như máy chủ , hub , bộ chuyển mạch , bộ định tuyến , máy in - được lưu trữ tập trung ở các vị trí trung tâm , nơi đó đội ngũ kỹ thuật có thể quản lý hệ thống trong an toàn .
+Để bù đắp , nhóm IETF đã phát triển giao thức RSVP .
+Để kết nối những hệ thống trong nhà qua những khoảng cách dài , bạn hãy thiết lập một mạng LAN .
+Để nối với Web site , bạn gõ vào URL ( Uniform Resource Locator ) của site vào trường Address của Web Browser .
+Để kết nối với những hệ thống bên ngoài tòa nhà của chính bạn , dùng một modem và hệ thống điện thoại hay những dịch vụ khác được cung cấp bởi những hãng truyền tải địa phương và đường dài ( xem " Communication Services " ) .
+Những phương pháp phát hiện lỗi và sửa lỗi được dùng để sửa sai cho những vấn đề nêu trên .
+Để tạo ra một tập sao backup mà bạn có thể mang đến một vị trí bên ngoài cơ sở , dùng số băng nhiều gấp đôi .
+Để tạo kết nối đường dài , tốt nhất ta nên thuê đường dây T1 ngắn nối tới mạng chuyển mạch gói của nhà cung cấp , được minh hoạ ở phần bên phải hình T - 1 .
+Để bảo đảm sự tin cậy , ua trên máy tính của người gửi giữ lại một bản sao của thông điệp cho đến khi máy tính người nhận lưu trữ xong thông điệp vừa gửi đến .
+Để bảo đảm cho dữ liệu quan trọng luôn luôn dùng được , người điều hành có thể thiết lập các vị trí dự phòng để truy cập bằng cách khai báo nhiều vị trí dưới cùng một tên lôgíc DFS .
+Để xóa đĩa , vật liệu được đốt nóng lại bằng tia laser khác và trở lại trạng thái ban đầu .
+Để mở rộng mạng , người ta dùng cáp nối từ cổng xuất của MAU thứ nhất vào cổng nhập của MAU thứ hai .
+Để mở rộng mô hình thành phần sang mô hình hỗ trợ các ứng dụng cao cấp , microsoft đã tích hợp DCOM vào ActiveX Server , một chuỗi các dịch vụ công nghệ làm tăng tốc việc sử dụng các ứng dụng dựa trên thành phần trên Internet và intranet .
+Để thỏa mãn yêu cầu nầy , một số nhà cung cấp tỏ ý muốn đưa ra các máy chủ cấp giấy chứng nhận trong nhà , gồm Certificate Server của Netscape ( http / / www . netscape . com ) , Sentry CA của công ty Xcert Software ( http / / www . Xcert . com ) , và e - Lock của Frontier Technologies ( http / / www . frontiertech . com ) .
+Ðể tìm virút loại nầy , các phần mềm chống virút phải dùng đến kỹ thuật quét đặc biệt .
+Để truy cập được , họ phải cùng nhau làm .
+Để có giấy chứng nhận từ Verisign , bạn qua một tiến trình ủy nhiệm giống như bạn xin cấp thẻ tín dụng .
+Để có một sự cảm nhận về chủ đề nầy , dành một phút để nghĩ về hệ thống điện thoại cũ .
+Để có một ý tưởng rõ rệt frame relay là gì và nó hữu dụng như thế nào , chúng ta hãy hình dung ra một hệ thống mạng hợp tác với nhiều văn phòng chi nhánh tại các thành phố khác nhau .
+Để giải quyết vấn đề nầy , sơ đồ mạng con đã được đưa ra là về cơ bản chia phần địa máy tính thành 2 phần và dùng một số bit để xác định mạng con trong chính mạng của bạn .
+Để có thêm thông tin về OBI , bạn hãy gửi thư điện tử đến Consortium của OBI địa chỉ OBI @ supplyworks . com .
+Để có thêm thông tin về OBI , bạn hãy gửi thư điện tử cho OBI Consortium tại địa chỉ OBI @ supplyworks . com .
+Để nhận địa chỉ , nó tạo ra một yêu cầu ARP và " phát " khung trên mạng .
+Muốn đạt được mức độ đó , bốn điều cơ bản đảm bảo an toàn trong hệ thống thương mại điện tử phải có là :
+Để bảo đảm khi truyền tải âm thanh và video , những chuẩn QoS ( quality of service ) đang được thực hiện để những nhà quản trị mạng có thể xác định chính xác độ ưu tiên giữa các loại thông tin truyền .
+Ðể xử lý quá tải đường truyền , bạn thỏa thuận một tỉ lệ nổ để trả cho đường truyền theo CIR .
+Để có thể tích hợp đa danh mục , microsoft phát triển ODSI ( Open Directory Services Interface ) - một tập hợp các giao diện lập trình ứng dụng WOSA ( Windows Open System Architecture ) dành cho việc phát triển các ứng dụng hoạt động tương hỗ với những dịch vụ danh mục khác .
+Để giúp nhà điều hành có thể quyết định đúng và thiết kế các hệ cáp làm việc tốt , có thể dùng các chuẩn đi cáp mô tả trong mục TIA / EIA Structured Cabling Standards .
+Ipsilon đã phát triển IP Switch để hiện thực chuyển mạch IP , minh hoạ trong hình I - 16 .
+Để giữ cho dữ liệu ở các nơi khác nhau được đồng nhất cần có một thủ tục cam kết hai giai đoạn sẽ được mô tả sau .
+Để nghe một đài nào đó , bạn sẽ vặn radio đến tần số phát của đài nầy .
+Ðể tránh mối đe dọa về virút , bạn nên thường xuyên liên lạc với những nhà cung cấp và các tổ chức liệt kê cuối phần nầy .
+Để duy trì đồng bộ bằng đồng hồ trong thời gian dài , một mẫu bit - chuyển tiếp đặc biệt được nhúng vào dưới dạng tín hiệu số để duy trì phép đo thời gian giữa bên gởi và bên nhận .
+Để gửi yêu cầu , client có thể sử dụng ba giao diện khác nhau .
+Để cho ARP có hiệu quả , mỗi máy tính lưu vào vùng cache những ánh xạ địa chỉ IPđếnMAC , nhờ đó loại bỏ những lời yêu cầu " phát " ARP lặp đi lặp lại .
+Ðể làm cho thông tin trên các hệ thống của Windows có thể sử dụng được đối với những người dùng khác trên một mạng , bạn có thể chia sẻ một folder ( hay một tập tin cá nhân ) .
+Do đó rất ít modem thực sự làm việc hết công suất bởi vì tốc độ truyền hạn chế của dây cáp hay nhiễu từ môi trường xung quanh .
+Tăng tính sẵn dụng của cơ sở dữ liệu .
+Tối thiểu hóa lưu thông mạng do bởi backup gây ra , gắn trực tiếp hệ thống backup vào hệ thống cần được backup .

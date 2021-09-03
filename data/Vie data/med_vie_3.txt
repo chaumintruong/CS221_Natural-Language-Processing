@@ -1,0 +1,915 @@
+( cũng gọi là bộ thanh nẹp ) một thanh nẹp chân gồm có 2 thanh kim loại gắn liền vào một vòng đệm ở đầu mút của chân mang trọng lượng của cơ thể ở khung chậu , được dùng để kéo một chân bị biến dạng hoặc bị liệt như trong khoa điều trị chỉnh hình .
+( còn gọi là bùng nổ ) một phương pháp dùng chữa ám ảnh sợ , cho bệnh nhân tiếp cận lâu dài và mạnh mẽ với vật gây sợ hoặc trong thực tại hoặc trong tưởng tượng .
+( sự hướng về ngoại giới ) một nét nhân cách bền vững có đặc điểm quan tâm đến thế giới bên ngoài hơn là đến chính mình .
+( u xơ tử cung ) một khối u lành của một mô cơ và sợi , có thể có một hay nhiều u phát triển trong lớp cơ thành tử cung .
+( từ cũ ) bất cứ dạng điều trị y học nào có dòng điện .
+( trước đây ) dùng chỉ chảy nước mũi kết hợp với hoại tử các xương mũi : thấy ở các trẻ thơ bị giang mai bẩm sinh .
+( ngày xưa ) thừng tinh hoặc cuống rốn .
+( liệu pháp tâm lý theo nhóm ) một liệu pháp tâm lý bao gồm ít nhất hai bệnh nhân và một người điều trị .
+( trong y học ) một dụng cụ đặt giữa hai hàm răng bệnh nhân để giữ cho miệng mở ra .
+( trong một xương gãy ) xương gãy lành lại trong tình trạng tốt , trong đó các đầu xương trước đây bị tách rời nay đã kết hợp lại chắc chắn bằng một xương mới tạo thành .
+( trong bệnh viện ) một nhóm các bác sĩ ở trình độ chuyên gia ( một số hay tất cả các chuyên gia trong biên chế bệnh viện ) , đưa ra các quan điểm y học liên quan đến chính sách chung của bệnh viện về chăm sóc bệnh nhân , cấp kinh phí , và điều hành bệnh viện .
+( trong một bệnh viện ) một bác sĩ hay bác sĩ phẫu thuật có kinh nghiệm , chịu trách nhiệm chăm sóc một số bệnh nhân với sự giúp đỡ của nhiều bác sĩ phụ tá mà ông ta có nhiệm vụ hướng dẫn .
+( trong gây mê ) chuẩn bị gây mê .
+( trong giải phẫu học ) phần nhô ra hình mỏ chim , như mỏ trên xương bướm .
+( trong giải phẫu học ) một ống có chứa chất lỏng .
+( trong giải phẫu học ) một ống hay một rãnh rỗng .
+( trong giải phẫu học ) một xoang ở lối vào một bộ phận rỗng .
+( trong giải phẫu học ) một chỗ hở hình tròn hay một cấu trúc hình nhẫn .
+( trong cơ thể học ) sự thông nhau giữa hai mạch máu mà không có mạng lưới mạch trung gian .
+( trong giải phẫu học ) một cấu trúc hình liềm , như đĩa sụn xơ phân chia xoang của một khớp hoạt dịch .
+( trong giải phẫu học ) một mào hay một mấu dài hẹp , thí dụ trên xương .
+( trong giải phẫu học ) một rãnh hay một khe nứt ; thí dụ khe Sylvius là rãnh phân chia thùy thái dương với thùy trán và thùy đỉnh trên não .
+( trong giải phẫu học ) một nhóm cơ quan và mô kết hợp với một chức năng sinh lý đặc biệt , như hệ thần kinh hay hệ hô hấp .
+( trong giải phẫu học ) một phòng rỗng hay một chỗ lõm trên một cơ quan hay bộ phận khác .
+( trong cơ thể học ) một vùng rỗng khép kín ; thí dụ , khoang bụng hoặc khoang miệng .
+( trong giải phẫu học ) một chỗ trũng hay một chỗ lõm , giống như bất kỳ chỗ lõm nào trên bề mặt phôi đánh dấu vị trí của các cơ quan tương lai .
+( trong giải phẫu học ) một chỗ trũng hay chỗ lõm gắn vừa với một bộ phận khác , thí dụ các ổ chân răng ở xương hàm để gắn các chân răng .
+( trong cơ thể học ) một cấu trúc có hình sừng như là mô hình sừng của xương móng và sụn giáp trạng .
+( trong giải phẫu học ) một đường , rãnh , hay băng hẹp .
+( trong giải phẫu học ) một đường , một dải hẹp , hay một sọc .
+( trong giải phẫu học ) một cấu trúc dài hình trụ rỗng , thí dụ vòi Fallope .
+( trong giải phẫu học ) một vòng , thí dụ quai dưới lưỡi là một vòng làm thành bởi nhánh xuống của thần kinh dưới lưỡi .
+( trong giải phẫu học ) một nốt , một hốc nhỏ , hay một lỗ lõm .
+( trong cơ thể học ) một phần giống như một cột nhỏ .
+( trong giải phẫu học ) một điểm hay một vùng nhỏ , đặc biệt điểm lệ - hai lỗ mở của ống dẫn nước mắt ở góc trong của mi trên và mi dưới ( xem hệ thống nước mắt ) .
+( trong giải phẫu học ) một phần của mô hay cơ quan , thường phân biệt với các phần khác bằng các đường chia ranh giới .
+( trong cơ thể học ) một mỏm , chồi , hay phần kéo dài của một cơ quan hay một cấu trúc khác .
+( trong giải phẫu học ) một chỗ nhô ra trên một cơ quan hay cấu trúc khác .
+( trong giải phẫu học ) một chỗ nhô ra , như chỗ nhô ở trên xương .
+( trong giải phẫu ) một chỗ thụt vào hay lõm xuống trên một mặt phẳng trơn tru .
+( trong giải phẫu học ) một luồng hay một rãnh nối hai phần của một xương .
+( trong giải phẫu học ) một mấu xương tròn .
+( trong giải phẫu học ) một cấu trúc dẹp hình tròn , như đĩa liên sống hay đĩa thị giác .
+( trong giải phẫu học ) một phần nhô tròn , thí dụ phần cằm nhô ra ( mỏm cằm ) .
+( trong giải phẫu học ) một xoang hay một chỗ lõm nhỏ ; thí dụ một trong các khoảng trong xương đặc trong đó tế bào xương nằm .
+( trong giải phẫu học ) một cấu trúc hình trụ rỗng nhỏ .
+( trong cơ thể học ) một chỗ lõm nhỏ , đặc biệt là một lỗ cạn trên võng mạc ở phía sau mắt .
+( trong giải phẫu học ) một nhóm nhỏ các tế bào có cấu trúc phân biệt rõ với các tế bào chung quanh .
+( trong giải phẫu học ) một phần nhô tròn nhỏ trên xương .
+( trong giải phẫu học ) một cấu trúc hình túi nhỏ , đặc biệt xảy ra như một tăng sinh của một cấu trúc lớn hơn .
+( trong giải phẫu học ) một dải , một đường hay một băng mảnh .
+( trong giải phẫu học ) một mặt nghiêng , thấy ở một phần của xương bướm .
+( trong giải phẫu học ) một phần dầy lên hay phồng lên .
+( trong giải phẫu học ) một cơ màng mỏng hình vòm ngăn cách xoang ngực và xoang bụng .
+( trong giải phẫu học ) một mấu nhỏ hay một chỗ lồi ; thí dụ , bất kỳ mỏm nào ở đốt sống .
+( trong giải phẫu học ) một cấu trúc hình sợi , như một tế bào cơ , một sợi thần kinh hay một sợi collagen .
+( trong giải phẫu học ) một cấu trúc hay một vùng có ba cạnh ; thí dụ tam giác đùi .
+( trong giải phẫu học ) một kiểu khớp bất động , đặc biệt thấy ở hộp sọ , có đặc điểm chỉ có một lượng tối thiểu mô liên kết giữa hai xương .
+( trong giải phẫu học ) một cấu trúc giống cánh ; thí dụ , một trong hai phần loe ra ở biên của mũi ngoài hoặc phần giống cánh của xương chậu .
+( trong giải phẫu học ) một cung ; thí dụ cung động mạch chủ .
+( trong giải phẫu học ) một vùng mô hay nhóm tế bào phân biệt rõ rệt với các mô chung quanh .
+( trong giải phẫu học ) cạnh hay rìa ; thí dụ , bờ củng mạc là nơi tiếp giáp giữa giác mạc và củng mạc ở mắt .
+( trong giải phẫu học ) một cấu trúc dài có vẻ dùng nâng đỡ .
+( trong giải phẫu học ) một sự sắp xếp các xương hình cung hay hình vòng .
+( trong giải phẫu học ) đường vào một cơ quan rỗng hay một xoang .
+( trong giải phẫu học ) một chỗ lõm , đặc biệt trong xương .
+( trong giải phẫu học ) một chỗ mở giống như cửa sổ .
+( trong cơ thể học ) một cấu trúc giống như dây thừng đặc biệt là dây cuống rốn .
+( trong cơ thể học ) mọi phần giống như một con sò , xoăn tai là một chỗ lõm ở mặt ngoài của loa tai ( auricle ) , nó dẫn tới lỗ tai ngoài của phần tai ngoài .
+( trong cơ thể học ) bất cứ một cấu trúc hình cột nào , đặc biệt mọi dải của chất xám tìm thấy trong cột sống .
+( trong giải phẫu học ) bất cứ cấu trúc hình tròn hay một chỗ phồng hình tròn ở cuối một cơ quan hay một phần cơ quan .
+( trong giải phẫu học ) bất kỳ mấu nào hình cuống .
+( trong giải phẫu học ) bất kỳ túi nhỏ nào , đặc biệt túi có đầy dịch .
+( trong giải phẫu học ) mô tả một cấu trúc , như một dây thần kinh hay mạch máu , đang đi tới bỗng quay trở lại , tạo thành một quai .
+( trong giải phẫu học ) mô tả các cơ quan hay các bộ phận có cùng một cấu trúc cơ bản và cùng một nguồn gốc tiến hóa , nhưng không nhất thiết có cùng chức năng hay cùng cấu trúc bề mặt .
+( trong giải phẫu học ) trải từ mặt sau ( lưng ) tới mặt trước ( bụng ) .
+( trong giải phẫu học ) thấp hơn trong cơ thể so với một cấu trúc hay bề mặt khác .
+( trong giải phẫu học ) liên quan đến hay ảnh hưởng đến cả hai bên của cơ thể , hay của một mô hay của một cơ quan hay đến cả một đôi cơ quan ( như mắt , ngực hay noãn sào ) .
+( trong giải phẫu học ) liên quan đến hay ảnh hưởng một bên cơ thể , hay một bên cơ quan hay bộ phận khác .
+( trong giải phẫu học ) liên quan đến các vùng hay các bộ phận cơ thể ở xa nhất tính từ mặt phẳng giữa .
+( trong giải phẫu học ) có hình dạng như một cái vòng , chữ này dùng cho một vài tiểu thùy ở tiểu não .
+( trong giải phẫu học ) ở trên hay gần bề mặt .
+( trong giải phẫu học ) nằm thẳng góc với trục dọc của cơ thể hay cơ quan .
+( trong giải phẫu học ) ở xa gốc hay điểm bám hay từ đường giữa cơ thể .
+( trong giải phẫu học ) ở gần gốc hay điểm bám hay gần mặt phẳng giữa cơ thể .
+( trong giải phẫu học ) ở hay về hướng mặt phẳng chia cơ thể ra làm hai nửa bên phải và bên trái .
+( trong giải phẫu học ) ở trên hết trong cơ thể so với một cấu trúc hay bề mặt khác .
+( trong giải phẫu học ) đầu mút của trục cơ thể , trục một cơ quan hay một tế bào .
+( trong giải phẫu học ) bàn chân hay một bộ phận giống như bàn chân .
+( trong giải phẫu học ) lớp mô liên kết bao bọc các cấu trúc như dây thần kinh , động mạch , gân , và cơ .
+( trong giải phẫu học ) miệng hay bất kỳ bộ phận nào giống như miệng .
+( trong giải phẫu học ) điểm từ đó chia ra hai nhánh , thí dụ trong mạch máu hay trong khí quản .
+( trong giải phẫu học ) điểm tiếp xúc giữa hai mô hay hai cấu trúc khác nhau .
+( trong giải phẫu học ) điểm bám của một cơ ( thí dụ vào một xương ) .
+( trong giải phẫu học ) điểm gắn của một cơ còn tương đối giữ được cố định khi co cơ .
+( trong giải phẫu học ) điểm hay kiểu tiếp xúc giữa hai xương .
+( trong giải phẫu học ) vị trí ngón cái so với các ngón khác khi ngón cái di chuyển về hướng lòng bàn tay .
+( trong giải phẫu học ) tình trạng các phần cơ quan đối nhau hay các bộ phận ở các bên đối nhau trên cơ thể tương ứng với nhau .
+( trong giải phẫu học ) một cấu trúc pha lê trong suốt ở phía sau đồng tử ở mắt được bọc trong một nang mỏng trong suốt .
+( trong cơ thể học và phôi thai học ) sự gấp lại của 2 mặt của một màng .
+( trong cư xử của xúc vật ) một dạng học hỏi nhanh và không phản hồi của một số loài vật trong những giờ đầu của cuộc sống .
+( trong vi trùng học ) diễn tả vi trùng tăng trưởng mau trong môi trường acid .
+( trong vi trùng học ) sự phân hủy một hợp chất hữu cơ do tác động vi trùng .
+( trong vi trùng học ) thời gian phát triển của một nuôi cấy vi trùng .
+( trong thay đổi cư xử ) xem nhắc nhở .
+( trong liệu pháp cư xử ) một dạng của liệu pháp ác cảm , trong đó các kích thích gây lo âu kết hợp với một cư xử không mong muốn .
+( trong liệu pháp cư xử ) một phương pháp dùng chữa chứng sợ hãi và không ưa thích bằng cách để bệnh nhân đương đầu với tình huống muốn tránh né , như vậy giúp cho sợ hãi tan đi vì dập tắt .
+( trong sinh hóa ) một chất giúp gây ra sự oxy hóa của một chất nền bị khử do nhận ion Hydrô .
+( trong sinh hóa ) một tiến trình phụ thuộc vào năng lượng trong đó một vài chất ( gồm ion , vài thứ thuốc , và amino acid ) có thể xuyên qua màng tế bào chống lại nồng độ gradient .
+( trong thống kê học ) một đặc tính ( như tính chất gây bệnh , lối sống , hay thói quen ) liên quan tới một cá thể hay một nhóm .
+( ở Vương quốc Anh ) một tòa nhà thuộc sở hữu của cơ quan y tế quận hay do cơ quan này thuê , có các nhân viên và dịch vụ của một hay nhiều phân khoa thuộc sở y tế toàn quốc ( thí dụ các bác sĩ đa khoa , điều dưỡng cộng đồng , nha sĩ , bệnh viện chăm sóc trẻ em , và các phương tiện về X quang , thử nghiệm , và đo điện tâm đồ ) .
+( ở Vương quốc Anh ) một cơ quan bao quát cung cấp những coi sóc về điều trị và về phòng bệnh nội và ngoại khoa , bao gồm việc cho toa và phân phối thuốc , kính đeo mắt và các trang thiết bị về nha và y khoa .
+( ở vương quốc Anh ) một bộ phận của chính quyền trung ương có nhiệm vụ thu thập tài liệu và xuất bản các thống kê liên quan đến dân số toàn quốc và ở mỗi địa phương , và các mô hình nhân khẩu về sanh đẻ , hôn nhân và tử vong ( gồm cả nguyên nhân y học về tử vong ) .
+( ở Vương quốc Anh ) một bác sĩ tư vấn với sự chỉ dẫn về y tế cộng đồng sau khi tốt nghiệp .
+( ở Vương quốc Anh ) một danh từ chung để chỉ những người thăm non sức khỏe , cô đỡ tại nhà , và các điều dưỡng viên tại gia .
+( ở Vương quốc Anh ) một nhóm các chuyên gia tư vấn và các chuyên gia khác thành lập ( đặc biệt trong bệnh viện ) để giám sát các công tác điều tra nghiên cứu , liên quan đến giảng dạy và nghiên cứu , có bao gồm việc dùng đến con người .
+( ở Vương quốc Anh ) một nhóm các cư dân địa phương ( thường là một trong một vùng ) được chọn lựa để bày tỏ những quan điểm của bệnh nhân với sở sức khỏe quốc gia .
+( ở Vương quốc Anh ) một nhóm đại biểu chuyên gia và bác sĩ đa khoa phục vụ như cố vấn y học và phát ngôn viên cho cơ quan y tế quận hay vùng ( Ủy ban y khoa quận hay Ủy ban y khoa vùng ) .
+( ở Vương Quốc Anh ) danh sách những người bị mù kỹ thuật do giảm thị lực ( mất khả năng đọc một bảng số xe từ một khoảng cách ba mét ) hay những người có vùng nhìn bị thu hẹp nghiêm trọng ( xem chứng mù ) .
+( ở Vương quốc Anh ) danh sách những người kém thị lực nhưng không bị mù về mặt kỹ thuật .
+( ở Vương quốc Anh ) một cơ quan cấp vùng , có bộ phận chủ quản đặt tại Colindate , để giúp điều nghiên và kiểm soát các bệnh nhiễm .
+( ở vương quốc Anh ) dịch vụ liên quan đến việc phát hiện sớm các bất thường về cơ thể , trí tuệ và cảm xúc ở trẻ em đang đi học , và cùng với việc trị liệu và giám sát tiếp theo .
+( ở Anh quốc ) một bệnh viện đặc biệt để săn sóc sức khỏe thông thường cho trẻ nhỏ và trẻ em trước tuổi đến trường , trước kia nó có tên là trung tâm sức khỏe nhi đồng .
+( ở Vương quốc Anh ) một ủy ban đặc biệt , thiết lập tại các vùng ( Ủy ban nhân lực vùng ) và tại trung ương ( Ủy ban nhân lực trung ương ) do bộ y tế và An ninh xã hội , có nhiệm vụ khuyến cáo việc bố trí cán bộ y học theo chuyên khoa và xem xét các số liệu tương đối về chuyên gia tư vấn và các mức huấn luyện bác sĩ trong sở y tế toàn quốc .
+( ở Vương Quốc Anh ) một điều dưỡng nhà nước có đăng ký và có huấn luyện chuyên môn về sản khoa ( cả về hành nghề tại gia và trong bệnh viện ) .
+( ở Vương quốc Anh ) một điều dưỡng có huấn luyện được đào tạo đặc biệt về các dịch vụ trong nhà .
+( ở Vương Quốc Anh ) một cơ quan tình nguyện quan tâm đến việc chăm sóc những người bất lực và cải thiện cuộc sống của họ .
+( ở Anh ) một cơ quan tự nguyện có liên quan đặc biệt đến các vấn đề của tuổi già .
+( ở Vương quốc Anh ) một kế hoạch thực nghiệm tự nguyện do Ban Dịch vụ Xã hội của các chính quyền địa phương tổ chức để lấp những thiếu sót trong việc chăm sóc các người già giữa sự độc lập hoàn hoàn đến việc giúp đỡ tại nhà .
+( ở Anh ) một đạo luật nhằm điều tra phát hiện và săn sóc cho những người mắc bệnh mãn tính hoặc bệnh thoái hóa mà ở đó không có sự chữa trị và không có sự giảm nhẹ một phần bởi sự điều trị .
+( ở Anh ) một cơ quan có trách nhiệm điều hành các dịch vụ y khoa tổng quát ( bác sĩ đa khoa , nha sĩ , dược sĩ , và kỹ thuật viên kính mắt ) cho một số dân do một hay nhiều cơ quan y tế quận chăm sóc .
+( ở vương quốc Anh ) trường học thành lập dành cho các trẻ em kém năng lực .
+( ở Vương quốc Anh ) một nhân viên của chính quyền địa phương có huấn luyện đặc biệt và có trách nhiệm với những người bị bệnh tâm thần .
+( ở vương quốc Anh ) một bộ phận thuộc Hội đồng Dịch vụ Nhân lực ( MSC ) thành lập năm 1974 giao nhiệm vụ do Bộ Lao động điều hành các số lao động quần chúng .
+( ở vương quốc Anh ) các dịch vụ y tế và xã hội cung cấp tại nhà , và được phân biệt với các dịch vụ tại bệnh viện .
+( ở vương quốc Anh ) một nghiên cứu thống kê thực hiện do kết hợp bởi bộ y tế và an ninh xã hội và bộ điều tra và thăm dò dân số , cung cấp các thông tin về các bệnh nhân nội trú điều trị trong các bệnh việc của sở y tế toàn quốc .
+( Ở Vương quốc Anh ) nhập viện và cầm giữ một người trong một viện ( bệnh viện hoặc nhà trọ vùng III ) mà không cần có sự đồng ý của người đó hoặc do có bệnh tâm thần ( xem luật y tế tâm thần ) hoặc do mất quan hệ xã hội trầm trọng ( xem luật bảo hiểm quốc gia ) .
+( ở vương quốc Anh ) theo các điều khoản của luật về giết trẻ em ( 1938 ) , tội giết trẻ em do mẹ đẻ thực hiện trong vòng 12 tháng sau khi sanh khi người mẹ bị rối loạn về cân bằng tâm trí vì chưa phục hồi đầy đủ sau khi sanh và cho bú .
+( ở trong vương quốc Anh ) tiền trả hàng tuần cho những người không thể làm việc do bệnh , miễn là người này đã có một số đóng góp liên tục cần thiết theo các điều khoản của luật Bảo hiểm Toàn quốc .
+( trong sinh học tế bào ) việc chế tạo protein trong tế bào , xảy ra ở các ribô thể .
+( trong hóa trị liệu ) cấp các liều nhỏ cyclophosphamide trước khi dùng hóa trị liệu liều cao và hay xạ trị .
+( trong phép đo sọ ) đỉnh ở mỏm cằm .
+( trong giải phẫu học răng ) chỉ hay liên quan đến mặt cắn của các răng hàm hay răng tiền hàm .
+( trong nha khoa ) a . lỗ thủng trong răng do sâu răng hoặc bị bào mòn . b . hình lỗ do nha sĩ tạo ra để trám răng .
+( trong nha khoa ) một chất liệu gốm dùng làm các thân răng có màu răng .
+( trong nha khoa ) một thành phần của hàm răng giả từng phần để giữ hàm này tại chỗ .
+( trong nha khoa ) một sự thay thế cố định cho răng đã bị mất .
+( trong nha khoa ) một vật liệu dùng đắp trên bề mặt men răng dùng bịt các khe lại để phòng ngừa sâu răng .
+( trong nha khoa ) một rãnh có tự nhiên trong lớp men trên bề mặt răng , đặc biệt răng hàm .
+( trong nha khoa ) một miếng niêm mạc và cốt mạc dính bằng một nền rộng .
+( trong nha khoa ) một lớp chất bảo vệ đặt trong một xoang răng đã chữa trị xong trước khi trám phục hồi .
+( trong nha khoa ) một vật phục hồi cứng luồn vào trong một xoang nhọn trong răng .
+( trong nha khoa ) một cấu trúc cứng gắn vào trong xương hay dưới cốt mạc làm chỗ dựa cho răng thay thế một bộ răng giả hay một cầu .
+( trong nha khoa ) một dụng cu có chuyển động quay dùng lấy đi các phần trong răng , đặc biệt trong việc điều trị răng sâu .
+( trong nha khoa ) một miếng cao su dùng cô lập một hay nhiều răng trong khi chữa trị .
+( trong nha khoa ) một dung dịch resin thiên nhiên hoặc tổng hợp trong một dung môi hữu cơ .
+( trong nha khoa ) một khớp đặc biệt làm bằng máy để giữ một số kiểu răng giả từng phần tại chỗ .
+( trong nha khoa ) một lớp xi - măng mỏng luồn vào trong khoảng nhỏ giữa một răng đã chuẩn bị và một thân răng hay chỗ trám để giữ tại chỗ vĩnh viễn .
+( trong nha khoa ) một khuôn chính xác các răng và hàm làm bằng một loại thạch cao đã cải biến .
+( trong nha khoa ) một dụng cụ để liên kết các mô hình bộ răng trên và răng dưới của bệnh nhân vào một vị trí cố định , thường để các răng tiếp xúc với nhau tối đa .
+( trong nha khoa ) một khuôn dẻo dùng ghi dấu các răng và mô mềm chung quanh hay một hàm không còn răng .
+( trong nha khoa ) một dụng cụ dùng chuyển liên kết hàm của một bệnh nhân đến một bộ phận tạo khớp để có thể lặp lại các chuyển động bên và nhô của hàm dưới .
+( trong nha khoa ) bất kỳ kiểu trám răng hay thân răng nào , có mục đích phục hồi răng để có lại được hình dạng , chức năng và bề ngoài bình thường .
+( trong nha khoa ) hàm dưới chuyển động về phía sau .
+( trong nha khoa ) mũ chụp , một kỹ thuật bọc kín vào răng với một bao chụp nhân tạo .
+( trong nha khoa ) mô tả bề mặt răng cách xa đường giữa của hàm .
+( trong nha khoa ) hàm dưới di chuyển ra phía trước .
+( trong nha khoa ) mất các chất trên bề mặt răng , thường do tiếp xúc nhiều lần với acid , như xảy ra khi dùng nhiều chanh .
+( trong nha khoa ) lấy đi phần tủy răng .
+( trong nha khoa ) xem túi nha chu .
+( trong nha khoa ) phẫu thuật lấy đi đỉnh chân răng .
+( trong nha khoa ) việc đắp một chất định hình vào tủy răng để ngừa phân hủy .
+( trong nha khoa ) sự gắn các hình tạo răng , và các thiết bị cho răng .
+( trong nha khoa ) kéo lại một hay nhiều răng về một vị trí tốt hơn bằng một thiết bị chỉnh hình răng .
+( trong nha khoa ) một răng đang mọc nhô lên khỏi nướu răng .
+( trong nha khoa ) sự bật ra của một răng do chấn thương .
+( trong nha khoa ) tình trạng một răng ra khỏi vị trí bình thường .
+( trong nha khoa ) thao tác đắp một chất đã được chuẩn bị đặc biệt vào xoang khoan trong một răng sâu .
+( trong nha khoa ) phần của bộ răng giả giữ cho bộ răng ở tại chỗ .
+( trong nha khoa ) phần răng không bao bọc bởi men và thường gắn với ổ răng bằng các sợi nha chu .
+( trong nha khoa ) liên quan giữa các răng trên và răng dưới khi tiếp xúc với nhau .
+( trong nha khoa ) mòn trên bề mặt răng do tác động của răng đối diện .
+( trong lý thuyết sinh học trước đây ) một con người thu nhỏ được cho là có ở trong mỗi tế bào sinh sản .
+( trong điện não đồ ) mô tả sự phóng điện có thể ghi nhận được cùng một lúc từ tất cả các phần của não .
+( trong phôi học ) một nút fibrin và các huyết cầu phát triển ở trên nơi noãn thụ tinh đang phát triển đã bám vào thành tử cung .
+( trong phôi học ) mô tả các tế bào hay mô tạo thành trong các giai đoạn phát triển phôi đầu tiên .
+( trong phôi học ) phần trung bì phân đoạn ( xem tiền đốt sống ) trong phôi ở giai đoạn sớm , sẽ sinh ra tất cả các mô xương trong cơ thể .
+( trong phôi học ) tiến trình tác động của một chất tiết ra ở phần này trong bào thai làm cho một phần khác phát triển theo một hướng đặc biệt .
+( trong phôi học ) phương cách tái lập sự phân chia tế bào của một trứng đã được thụ tinh để tạo thành một quả bóng tế bào , các tế bào này sẽ trở thành phôi bào .
+( trong bệnh học nội khoa răng miệng ) một phương pháp giúp tiếp tục tạo thành chân răng trong một răng còn non bị tổn hại tủy .
+( trong bệnh học nội khoa răng miệng ) thủ pháp lấy đi các phần tủy răng còn sót lại , chùi sạch và tạo hình ống răng , và trám ống chân răng ( xem trám rễ ) .
+( trong di truyền ) một nhiễm sắc thể hay một mảnh của nhiễm sắc thể không có tâm động .
+( trong di truyền học ) tình trạng trong đó một nhiễm sắc thể hay một tính chất di truyền xảy ra trong nhiều dạng , đưa đến kết quả có nhiều dạng hình thái cùng hiện diện trong một quần thể .
+( trong di truyền học ) một người mang gen có điểm bất thường nhưng không có triệu chứng bệnh , gen mang trong người thường là dị hợp tử , thường là gen lặn .
+( trong di truyền học ) một cấu trúc bao gồm các sợi nhiễm sắc tương đồng nối với nhau bằng các giao thoa trong lần chia đầu tiên khi gián phân .
+( trong di truyền học ) một kiểu đột biến thể nhiễm sắc trong đó thể nhiễm sắc này bị mất đi một phần , và do đó các gen trên đoạn đó bị mất đi .
+( trong di truyền học ) một loại đột biến nhiễm sắc thể , trong đó một phần nhiễm sắc thể được chuyển đến một phần khác trên cùng một nhiễm sắc thể hay đến một nhiễm sắc thể khác .
+( trong di truyền học ) mô tả một gen ( hay tính chất tương ứng với gen ) có ảnh hưởng thấy rõ trên cá thể cho dù đôi gen đơn vị của nó là như nhau hay khác nhau .
+( trong di truyền học ) mô tả một đôi nhiễm sắc thể có hình dáng và kích thước tương tự , và có cùng nơi định vị trên gen .
+( trong di truyền học ) sự trao đổi các đoạn của thanh nhiễm thể giữa các đôi nhiễm sắc thể tương đồng , điều này gây ra sự tái tổ hợp các chất liệu di truyền .
+( trong di truyền học ) bốn tế bào sinh ra do giảm phân sau chung kỳ thứ hai .
+( trong di truyền học ) một điểm tại đó các nhiễm sắc thể đồng đẳng vẫn còn tiếp xúc với nhau sau khi nó bắt đầu phân chia trong kỳ phân thứ nhất của giảm phân .
+( trong di truyền học ) vùng nhiễm sắc thể có một gen đặc biệt .
+( trong phụ khoa ) sự bắt đầu có thai , khi tế bào phôi nam ( tinh trùng ) thụ tinh với một tế bào phôi nữ ( trứng ) trong vòi Fallop .
+( trong huyết học ) một dạng bất thường của hồng cầu trong đó tế bào giả sử hình khuyên giống như một " mục tiêu " trong các mẫu máu nhuộm .
+( trong mô học ) diễn tả mô , tế bào , hoặc phần của tế bào nhuộm màu với thuốc nhuộm acid .
+( trong y học vi lượng đồng căn ) hệ thống chính thống của y học , trong đó sự dùng thuốc nhằm mục đích tạo ra hiệu quả trong cơ thể , nó sẽ đối kháng trực tiếp và như vậy làm nhẹ bớt các triệu chứng của bệnh .
+( trong miễn dịch học ) độ pha loãng của một mẫu huyết thanh có chứa kháng thể trước khi mất khả năng ngưng kết với kháng nguyên tương ứng .
+( trong tâm lý học Jun - gian ) một ý tưởng kế thừa hay cách suy nghĩ cho rằng có trong vô thức và bắt nguồn từ kinh nghiệm của toàn thể nhân loại , không phải do kinh nghiệm sống của một cá thể .
+( trong tâm lý học Jung ) một nguyên mẫu là thành phần nữ của một nhân cách nam .
+( trong y học ) một nhóm ba cấu trúc hợp nhất hay liên kết chặt chẽ với nhau ba triệu chứng hay tác động cùng xảy ra .
+( trong y khoa ) phép đo một số nhân tố , như huyết áp , nhịp mạch , hay mức hemoglobin , có liên quan đến tình trạng đang điều nghiên .
+( trong y học ) một ống nối hai đường ống giải phẫu học , và chuyển máu từ ống này sang ống khác .
+( trong y học ) một lý do mạnh mẽ để tin rằng cần áp dụng một biện pháp đặc biệt .
+( trong y học ) liên quan đến cơ thể hơn là tâm trí .
+( khi soi kính hiển vi ) một cấu trúc thấy trong mô khi soi kính hiển vi nhưng thực ra không có trong mô sống .
+( trong phép soi kính hiển vi ) một chất , như phèn hay phenol , dùng cố định một thuốc nhuộm trong mô .
+( trong xem xét dưới kính hiển vi ) một lớp cắt mỏng của mẫu vật dùng xem xét dưới kính hiển vi .
+( trong kính hiển vi ) một sự xếp đặt thấu kính bên dưới tầng lớp của một kính hiển vi .
+( trong phép soi kính hiển vi ) việc sắp đặt các thấu kính trong một kính hiển vi quang học gần với vật đang quan sát nhất và xa nhất so với thị kính .
+( trong phép soi kính hiển vi ) sự cố định một mẫu vật trong một khối chất rắn để có thể cắt thành những lát mỏng dùng nghiên cứu dưới kính hiển vi .
+( trong kính hiển vi ) phương sách loại bỏ chỗ vấy bẩn từ vật phẩm ở kính hiển vi sau khi loại nước bằng cách dùng các tác nhân thanh lọc .
+( trong công nghiệp mỏ ) một hỗn hợp khí nổ , thường có tỉ lệ methane cao , đôi khi gặp trong các túi trong hầm mỏ .
+( trong công nghiệp mỏ ) bất cứ khí nào gặp dưới mỏ khác hơn không khí .
+( trong khai mỏ ) khí độc có chứa carbon dioxide , carbon monoxide , hay các chất gây ngạt khác , đôi khi thấy trong túi các thợ mỏ .
+( trong thần kinh học ) một bó sợi thần kinh ở nơi nhô ra khỏi dây cột sống .
+( trong thần kinh học ) một tập hợp các tế bào thần kinh mà mọi hoạt động của chúng kiểm soát một chức năng đặc biệt .
+( trong thần kinh học ) tình trạng bị tổn hại trong việc thực hiện các cử động nhanh và chính xác .
+( trong thần kinh học ) bất cứ cấu trúc nào có chứa một tập hợp các thể tế bào thần kinh và thường cũng có một số khớp thần kinh .
+( trong thần kinh học ) mô tả một nơ rôn ( tế bào thần kinh ) có hai phần lồi về hai hướng khác nhau từ thân tế bào .
+( trong thần kinh học ) mô tả một nơ rôn có một chỗ lồi chính nhô ra trên thân tế bào .
+( trong thần kinh học ) một trong các vùng vỏ não gấp lại và gối lên để che phủ thùy đảo ở mỗi bên não .
+( trong thần kinh học ) tình trạng một chi đề kháng với chuyển động thụ động trong suốt biên độ cử động chi .
+( trong thần kinh học ) sự tạo thành của những đường thần kinh do những sợi cùng tới trong một đường phát xuất từ nhiều vùng trong não bộ .
+( trong thần kinh học ) thời gian tạm ngưng trong vài milli giây từ khi xung lực thần kinh đến một sợi cơ và cho đến khi sợi cơ này bắt đầu co lại .
+( trong thần kinh học ) hiện tượng xảy ra khi một nơ rôn , qua nhiều tiếp hợp khác nhau , các xung lực nhận được không đủ mạnh để tạo nên một tiềm năng hoạt động nhưng tác động kết hợp của các xung lực này cũng gây ra một mức độ khử cực ở màng tế bào .
+( trong thần kinh học ) điểm khi một kích thích bắt đầu gây ra đáp ứng , và vì vậy là phép đo tính nhạy cảm của một hệ thống trong những điều kiện đặc biệt .
+( trong thần kinh học ) thời gian phục hồi cần thiết cho một tế bào thần kinh vừa truyền đi một xung lực thần kinh hay cho một sợi cơ vừa co thắt xong .
+( trong sinh lý thần kinh ) sự gây phát một xung lực dẫn truyền trong màng một tế bào cơ hay sợi thần kinh .
+( trong sản khoa ) một màng bao phủ đầu của thai nhi lúc sanh .
+( trong sản khoa ) bấy kỳ giai đoạn nào trong ba kỳ ba tháng nối tiếp nhau ( kỳ ba tháng thứ nhất , thứ hai , và thứ ba ) trong khi mang thai .
+( trong sản khoa ) gây sanh nhân tạo .
+( trong sản khoa ) sự phân hủy tự nhiên của một bào thai chết trong tử cung .
+( trong sản khoa ) sự ngắn lại thường xuyên của các sợi cơ của thành tử cung xảy ra mỗi khi chúng co lại trong khi sanh .
+( trong ung thư học ) xác định sự có mặt và vị trí di căn từ một khối u nguyên thủy để đặt kế hoạch chữa trị .
+( trong nhãn khoa ) thao tác phẫu thuật trong đó các vật thể trong nhãn cầu được lấy đi , lớp màng ngoài ( củng mạc ) được để lại .
+( trong nhãn khoa ) một vị trí bất thường của một hay hai mắt .
+( trong nhãn khoa ) mô tả một thiết bị quang học gồm một đĩa mờ có đục một khe hoặc một hay nhiều lỗ nhỏ , thiết bị này đặt trước mắt ở vị trí của kính đeo sẽ giúp nhìn rõ hơn trong các trường hợp viễn hay cận thị hay loạn thị .
+( trong nhãn khoa ) điều tiết ( xem sự điều tiết ) .
+( trong nhãn khoa học ) thao tác trong đó các vật thể trong hốc mắt ( ổ mắt ) được lấy đi toàn bộ , chỉ để lại thành xương .
+( trong quang học ) một miếng thủy tinh cong dùng khúc xạ ánh sáng về một hướng đặc biệt .
+( trong bệnh học ) một khuyết tật hình khe ở da hay niêm mạc gây ra do một tiến trình bệnh ; thí dụ khe hậu môn là đường nứt ở lớp da lót hậu môn .
+( trong bệnh học ) tăng sinh bất thường ở một màng , thấy giống như tăng trưởng thực vật .
+( trong bệnh học ) thay đổi thoái hóa biểu mô các tiểu quản thận .
+( trong dược lý học ) bất kỳ chất nào trong số nhiều hợp chất của vàng dùng chữa trị viêm khớp dạng thấp .
+( trong dược khoa ) tình trạng tùy thuộc tâm lý vào một loại thuốc sau khi đã dùng nhiều lần , biểu lộ bằng sự thèm thuốc sau khi ngưng dùng .
+( trong dược lý ) thuốc nhỏ giọt . Thuốc nhỏ giọt là dạng thuốc dùng cho mắt và tai .
+( trong dược khoa ) một chế phẩm lỏng dùng đắp trên da hay niêm mạc .
+( trong dược khoa ) một chế phẩm dược gồm một hỗn hợp hai hay nhiều loại thuốc dưới dạng các hạt nhỏ .
+( trong dược khoa ) một chế phẩm dược mềm , dính , cố định , dùng ngoài da .
+( trong dược khoa ) một viên thuốc nhỏ hình đĩa chứa một hay nhiều loại thuốc , chế tạo bằng cách ép một dạng bột của ( các ) thuốc .
+( trong dược học ) một chất ngọt được phối hợp với một chất thuốc để làm cho nó trở nên dễ uống .
+( trong dược khoa ) một dung dịch gôm đặc dùng như chất làm trơn trong các chế phẩm dùng ngoài da ( cũng xem glycerin ) , để sản xuất thuốc viên , và để làm dịch treo cho các chất không tan .
+( trong dược khoa ) bất kỳ dung dịch nào , thường là dung dịch nước .
+( trong dược khoa ) bất kỳ chất nào hoạt động như một môi trường trong đó thuốc được cấp .
+( trong dược khoa ) tên thương mại của một loại thuốc : tên đặt ra do xí nghiệp sản xuất thuốc .
+( trong y học thể chất ) điều trị một bệnh nhân đau bệnh , bị tổn thương hay mất năng lực bằng thoa bóp , điện liệu pháp , và các luyện tập tăng dần để phục hồi sức khỏe và hoạt động bình thường hay để phòng ngừa sự mất năng lực sẽ tồi tệ hơn .
+( trong sinh lý học ) ảnh hưởng hỗ tương của các bộ phận khác nhau trong cơ thể lẫn nhau .
+( trong sinh lý học ) liên quan đến ngưỡng nhận thức .
+( trong sinh lý học ) tình trạng trì trệ hay không hoạt động trong một số cơ trơn .
+( trong sinh lý học ) giảm trương lực cơ , xảy ra khi cơ ngừng co : trạng thái của cơ khi nghỉ .
+( trong sinh lý học ) giảm nhiệt độ cơ thể bằng các tiến trình như làm bốc hơi mồ hôi trên bề mặt da .
+( trong sinh lý học ) toàn bộ tiến trình bài tiết các chất thải chuyển hóa ra khỏi máu thực hiện ở thận và đường tiểu .
+( trong sinh lý học ) hiện tượng tăng về cường độ của kích thích hay sự lặp lại của kích thích sẽ kích thích tăng số lượng tế bào thần kinh đáp ứng .
+( trong sinh lý học ) sự ngăn hay giảm chức năng của một cơ quan , một cơ , v . v ... do tác động của một số xung lực thần kinh .
+( trong sinh lý học ) tính chất của một số loại mô làm cho chúng có thể đáp ứng theo một cách đặc biệt với kích thích bên ngoài .
+( trong sinh lý học ) sự hấp thu chất dịch hoặc các chất khác bởi các mô của cơ thể .
+( trong phẫu thuật tạo hình ) một nếp da gấp thành ống hẹp một miếng da dùng cho ghép vẫn được nối với vị trí gốc .
+( trong y học dự phòng ) phép đo độ tin cậy của một thử nghiệm sàng lọc dựa trên tỷ lệ những người có bệnh đặc hiệu có phản ứng dương tính với thử nghiệm ( độ nhạy cảm càng cao , trường hợp âm tính giả càng ít ) .
+( trong tâm thần học ) ngưng bất chợt dòng suy nghĩ hay ngôn ngữ .
+( trong tâm thần học ) một sóng của cảm xúc hoặc cảm xúc phối hợp với một ý nghĩ đặc biệt .
+( trong tâm thần học ) một kiểu suy nghĩ có tính ám ảnh , trong đó các ý nghĩ hay đề mục như nhau được nghĩ đi nghĩ lại nhiều lần mà không có các dạng khác của hoạt động trí tuệ .
+( trong tâm thần học ) trở lại mức hoạt động kém trưởng thành hơn .
+( trong tâm thần học ) một người nghĩ rằng ý nghĩ của mình phải chịu sự kiểm soát của người nào khác , hoặc người khác can thiệp vào ý nghĩ của mình .
+( trong tâm thần học ) giải thích các sự kiện hay cách cư xử theo cách nào đó để tránh đưa ra lý do thực sự .
+( trong bệnh học tâm thần ) sự biểu hiện của xung đột như là những triệu chứng cơ thể .
+( trong tâm thần học ) việc phát minh ra các từ liên hệ đến các ý nghĩa .
+( trong tâm thần học ) tiến trình làm cho các điều kiện sống của những người dưới bình thường về tâm trí giống như ở mức tối đa có thể được những người không bị kém năng lực .
+( trong tâm thần học ) tiến trình nhờ đó các ý nghĩ và ý tưởng có thể tách khỏi ý thức và hoạt động độc lập , như vậy ( thí dụ ) cho phép các ý kiến đối chọi về cùng một vật có thể có cùng một lúc .
+( trong phân tâm học ) một mặc cảm gây ra do xung đột giữa những mong muốn Oedipe ( xem mặc cảm Oedipe ) và thực tế về sự thiếu khả năng của đứa trẻ .
+( trong phân tâm học ) một cơ chế bảo vệ trong đó các ý tưởng không chấp nhận được trong tiềm thức được thay bằng những thái độ có ý thức ngược lại .
+( trong phân tâm học ) sự ngưng phát triển tâm lý , trong đó một biến cố gây tổn thương đã ngăn cản đứa trẻ tiến sang giai đoạn phát triển kế tiếp .
+( trong phân tích tâm lý học ) một kỹ thuật trong đó bệnh nhân được khuyến khích theo đuổi một dòng ý tưởng đặc biệt đã ăn sâu vào trong ý tưởng .
+( trong khoa phân tích tâm lý ) một nhóm những ý tưởng chứa đầy cảm xúc và dồn nén và những tín ngưỡng có thể ảnh hưởng tới hành vi cá nhân .
+( trong phân tâm học ) một mệnh lệnh nội tại ngăn người ta không làm một điều gì đó bị cấm đoán .
+( trong phân tâm học ) chỉ phần tâm trí gồm trí nhớ , nguyên cớ , và khái niệm , nhất thời không hiện diện trong ý thức , nhưng ít nhiều vẫn sẵn sàng được gợi lên trong ý thức .
+( trong phân tâm học ) chỉ phần tâm trí gồm ký ức , động cơ hành động và chủ ý không nhận thức được và không thể tạo thành ý thức nếu không vượt qua được các đề kháng .
+( trong phân tâm học ) phần tâm trí phát triển từ kinh nghiệm của một người về thế giới bên ngoài và tiếp xúc nhiều nhất với các ngoại thực thể .
+( trong phân tâm học ) phần tâm trí hoạt động như lương tâm hay người phán xét đạo đức .
+( trong phân tâm học ) tiến trình một bệnh nhân cảm thấy và hành động với nhà chữa trị như thể họ là một người nào đó trong quá khứ của bệnh nhân , đặc biệt người cha hay người mẹ đầy quyền uy .
+( trong phân tâm học ) tiến trình thu nhận , hay tin tưởng rằng mình có , một tính chất của người khác .
+( trong phân tâm học ) tiến trình loại trừ một ước muốn hay ý tưởng không chấp nhận được ra khỏi đời sống tinh thần có ý thức .
+( trong phân tâm học ) thay thế ý tưởng này bằng một ý tưởng khác : một dạng của cơ chế bảo vệ .
+( trong phát triển tâm lý ) tiến trình làm theo các đặc điểm của người khác ít nhiều có tính cách thường xuyên .
+( trong tâm lý học ) một cơ chế bảo vệ nhờ đó một người cố ý không biết đến một ý tưởng không được vừa lòng đối với anh ta .
+( trong tâm lý học ) một khuyết tật về trí nhớ trong đó các đề mục đã ghi trong trí nhớ không tồn trữ được .
+( trong tâm lý học ) một người hay một vật trong đời sống một người nào đó có nhiệm vụ thay thế cho một người khác .
+( trong tâm lý học ) một đặc tính của một số kích thích làm có nhiều khả năng gây sợ hãi bệnh lý .
+( trong tâm lý học ) khuynh hướng không thực hiện một hành động đặc hiệu xảy ra mỗi khi thực hiện hành động .
+( trong tâm lý học ) một cách ghi nhận thái độ , trong đó sự hiện diện của kiểu cư xử đặc biệt được ghi lại mỗi khi nó xảy ra .
+( trong tâm lý học ) một cách ghi cư xử , trong đó ghi nhận các loại cư xử đặc biệt xảy ra hay không thấy trong những khoảng thời gian cố định đã sắp xếp trước .
+( trong tâm lý học ) một biến cố đau đớn và có hại về cảm xúc .
+( trong tâm lý học ) một thiên hướng bền vững để hoạt động và cảm nhận theo các đường lối đặc biệt để phân biệt người này với người khác .
+( trong tâm lý học ) một ý tưởng hoặc một ấn tượng tâm thần .
+( trong tâm lý ) mọi phương pháp để tìm hiểu tiến trình tâm thần phức tạp hoặc những kinh nghiệm .
+( trong tâm lý học ) tự nhận thức được thời gian , không gian , và nơi chốn .
+( trong tâm lý học ) liên hợp một ý niệm này với một ý niệm khác một cách có qui củ tùy theo ý nghĩa của chúng .
+( trong tâm lý học ) gán cho người khác một tính chất của chính mình .
+( trong tâm lý học ) tình trạng của giữ những cảm giác trái ngược ( như yêu và ghét ) đối với cùng một người hoặc một vật .
+( trong tâm lý học ) sự phát triển một mối tương quan chọn lọc và gần gũi như trong sự quyến luyến .
+( trong tâm lý học ) cơ chế được định ra do Freud , hủy diệt hoặc thay đổi những ước vọng không chính đáng hoặc ghê sợ .
+( trong tâm lý học ) tiến trình theo đó các tính chất của một vật , một tình huống v . v ... ghi nhận bởi một cá thể có liên quan đến kiến thức đã có trước của người đó .
+( trong tâm lý học ) tiến trình trong đó các thông tin về thế giới , ghi nhận được bởi các giác quan , được phân tích và làm cho có ý nghĩa .
+( trong tâm lý học ) tiến trình làm thay đổi sự tin tưởng , thái độ hay cảm xúc của một người bằng cách nói cho người này biết rằng những điều này sẽ thay đổi .
+( trong tâm lý học ) tiến trình phát triển quan hệ gần gũi chọn lọc trong đời sống trẻ em , thường nhất với người mẹ .
+( trong tâm lý học ) tiến trình hình dung một vật hay một ý tưởng bằng một vật khác .
+( trong tâm lý học ) rút bỏ những quan tâm của bản thân tới môi trường chung quanh mình .
+( trong tâm lý học ) tình huống trong đó một người cố gắng khắc phục một sự kém năng lực bằng cách ráng sức nhiều hơn yêu cầu .
+( trong tâm lý học ) một tình trạng được tạo thành khi một kích thích tạo nên hai phản ứng trái ngược .
+( trong tâm lý học ) làm bền vững một phản xạ có điều kiện ( xem tạo điều kiện ) .
+( trong tâm lý học ) sự thay đổi một loại cư trú bằng một kiểu khác , thường thay thế một hành động có hại bằng một hành động khác tương đối vô hại ; thí dụ đá con mèo thay vì đá ông chủ .
+( trong tâm lý học ) sự suy yếu của một phản xạ có điều kiện , xảy ra khi nó không được duy trì bằng củng cố .
+( trong phân tâm học ) hình ảnh trong vô thức của một người quan trọng trong đời sống một cá thể , đặc biệt người cha hay người mẹ .
+( trong X quang học ) một hộp kín , nhẹ , mỏng trong đó có một phim X quang để chụp bằng tia X .
+( trong X quang học ) chỉ mặt nhìn ngang của đáy hộp sọ .
+( trong thống kê học ) một phép đo tính phân tán của các quan sát với số trung bình số học của chúng , tính bằng căn số bậc hai của biến số các kết quả trong chuỗi tổng số học .
+( trong thống kê học ) mối liên hệ giữa hai nhóm quan sát chứng tỏ rằng khác biệt giữa hai nhóm này ( thí dụ giữa tỷ lệ người hút thuốc và người không hút lần lượt chết vì ung thư phổi ) không phải đã xảy ra chỉ do tình cờ .
+( trong thống kê học ) biểu thị của các đặc tính ( khác nhau ) của một nhóm cá nhân ( như là chiều cao , trọng lượng , hoặc huyết áp ) dưới hình thức xếp thành cột hoặc làm biểu mô tỷ lệ phân phối cũng như tỷ lệ của nhóm có các số đo khác nhau .
+( trong thống kê học ) biên độ của một đặc tính thuộc một đôi đặc tính ảnh hưởng tới đặc tính kia trong một chuỗi cá thể .
+( trong phẫu thuật ) một dụng cụ dài hình que , thường có đầu cong , dùng thăm dò các xoang cơ thể ( như bàng quang ) hay để nong các chỗ kín hẹp trong tiểu quản hay các ống khác .
+( trong phẫu thuật ) một dải mô cắt ra khỏi cấu trúc chính nhưng vẫn còn một phần cuối dính vào đó để vẫn được cung cấp máu và thần kinh .
+( trong giải phẫu học ) sự nối nhân tạo giữa hai cơ quan ống hoặc hai phần , đặc biệt giữa hai phần bình thường tách biệt của ruột .
+( trong phẫu thuật ) một thao tác phẫu thuật thăm dò để xác định nguyên nhân của triệu chứng .
+( trong phẫu thuật ) hành động cắt ( cắt hay phân cắt đều gọi là cắt rạch ) .
+( trong phẫu thuật ) lỗ mở nhân tạo của một ống ( như đại tràng hay hồi tràng ) mang tới bề mặt bụng ( xem mở thông đại tràng , mở thông hồi tràng ) .
+( trong phẫu thuật ) việc đóng lại một vết thương hay đường rạch bằng các vật liệu như chỉ tơ hay chỉ tiêu , để giúp mau lành .
+( trong phẫu thuật ) nối hai cấu trúc lại với nhau .
+( trong phẫu thuật ) đặt trở lại vị trí bình thường một bộ phận cơ thể bị dời chỗ bằng thủ thuật hay thao tác .
+( trong phẫu thuật ) đặt trở lại vị trí bình thường các xương , cơ quan hay các bộ phận khác chỉ bằng cách thao tác , không cần tới các thiết bị cơ học .
+( trong phẫu thuật ) việc ngăn cách một cấu trúc với các cấu trúc xung quanh bằng việc sử dụng các dụng cụ .
+( trong phổi ) một túi khí rất nhỏ ở đầu mút cuống phổi nhỏ .
+( trong phổi ) mô chứa khí bởi một cuống phổi nhỏ tận cùng .
+( ở Vương quốc Anh ) một đạo luật của Quốc hội giới hạn việc dùng các loại thuốc nguy hiểm .
+( trong điều trị học ) một dạng chữa trị có hệ thống do bác sĩ chỉ định , như chế độ ăn uống , dùng thuốc , hay luyện tập đặc biệt để chữa bệnh hay cải thiện sức khỏe .
+( trong siêu âm ) phản chiếu các sóng siêu âm trên bề mặt của cấu trúc nội , có thể dùng tạo ra hình ảnh của bề mặt như một âm vang đồ ( xem chụp vang siêu âm ) .
+( hội chứng Kanner , tự kỷ trẻ thơ ) một rối loạn tâm thần hiếm và nghiêm trọng ở trẻ thơ , với sự bắt đầu trước năm 2 tuổi .
+( ở địa phương ) ( ở Vương quốc Anh ) một nhóm đại biểu của các bác sĩ đa khoa có hợp đồng chỉ với Ủy ban bác sĩ gia đình .
+( người lùn ) một người lùn không có biến dạng hay dị dạng nào khác ngoại trừ kích thước nhỏ .
+( người giả ) một kiểu mẫu nhỏ hình người .
+( bệnh ) do một vi sinh vật đặc biệt gây ra , vi sinh vật này không gây một bệnh nào khác .
+( với các sinh vật sống ) không sản sinh ; không thể sinh ra được loài của mình ( xem vô sinh ) .
+( đối với khối u ác tính ) lan tràn bằng di căn .
+( của số trung bình ) biên độ các số trung bình của nhiều mẫu khác nhau sẽ thay đổi nếu chúng được lấy nhiều lần trong cùng một quần thể .
+( của một cơ quan , một khối u ) bọc trong một nang .
+( với các vật dụng ) hoàn toàn không có vi trùng , vi nấm , vi rút , hay các vi sinh vật khác có thể gây bệnh .
+( của động mạch chủ ) hẹp bẩm sinh ở một đoạn ngắn của động mạch chủ .
+( về cơ hoành ) một phần cơ hoành nâng lên bất thường do mềm yếu bẩm sinh ( nhưng không có thoát vị ) thấy khi chụp X quang .
+( của mắt ) khoảng cách giữa thấu kính và điểm ở sau thấu kính , tại điểm đó ánh sáng phát xuất từ một vật cách xa tụ hội lại .
+( với cánh tay trước ) ở vị trí trong đó lòng bàn tay hướng xuống dưới ( xem quay sấp ) .
+( về cánh tay ) ở vị trí trong đó lòng bàn tay ở phía trên .
+( về các mô ) chứa một số lượng máu nhiều hơn bình thường .
+( hay giảm cảm ứng ) một phương pháp làm giảm tác động của một kháng nguyên đã biết bằng cách chích , trong một giai đoạn , các liều kháng nguyên ngày một tăng , cho đến khi sự đề kháng được thành lập .
+( hay hít vào ) động tác thở không khí vào phổi qua miệng và mũi .
+( hay làm tổ ) trường hợp phôi mới hình thành bám vào niêm mạc tử cung , xảy ra ở giai đoạn phôi bào , tức sáu đến tám ngày sau khi phóng noãn .
+( từ gốc ) bất kỳ bệnh nào trong nhóm bệnh ngoài da tiêu biểu có các vảy mịn như cám .
+( bàng quang ) một cơ quan hình túi có thành gồm các cơ trơn và chứa nước tiểu được sản sinh từ thận .
+0 , 8 x 0 , 3 mm có thể thấy như các vảy trắng sáng .
+1 đơn vị nhiệt lượng Anh = 1055 joule . Viết tắt theo tiếng Anh là Btu .
+1. một ảnh thu nhỏ đến mức vi thể . 2. ( không chính xác ) một vi ảnh .
+1. tiếp đầu ngữ chỉ một enzyme . 2. tiếp đầu ngữ chỉ lên men .
+1. liên quan đến tĩnh mạch cửa hay hệ thống . 2. liên quan đến cửa .
+1. ở sau bất kỳ một trung tâm nào . 2. ở sau rãnh não giữa .
+1. lưng . 2. mu , mặt trên hay sau của một phần cơ thể , thí dụ mu bàn tay .
+60 % trẻ bị hành hạ sẽ tiếp tục chịu những tổn thương nếu khi xuất viện không có được những nâng đỡ tích cực của nhân viên các tổ chức xã hội và sự giám sát của các bác sĩ gia đình , và các nhân viên y tế .
+A . aegypti là vật chủ trung gian chính của bệnh sốt xuất huyết và sốt vàng da .
+A . niger thường được tìm thấy ở tai ngoài và có thể sinh bệnh .
+Một khớp " giả hiệu " , tạo thành quanh một đầu xương đã chuyển vị sau khi bị sai khớp .
+Một " ảnh chụp bóng tối " , như một ảnh X quang có được khi chụp X quang .
+" trợt đĩa " : sự nhô ra của chất liệu bên trong một đĩa liên sống qua màng xơ bao bên ngoài , gây ép lên các rễ thần kinh , dây chằng , v . v ... tiếp giáp .
+Em bé sinh ra do thụ tinh một noãn của người vợ với tinh trùng của chồng bên ngoài cơ thể ( thụ tinh trong ống nghiệm ) .
+Một chất lỏng chảy ngược lại hướng chuyển động bình thường .
+Nghiên cứu các đặc điểm trước đây của một nhóm cá thể liên quan đến tính chất gây bệnh , bao gồm một số mặt của nghiên cứu cắt ngang và nghiên cứu kiểm soát bệnh .
+Một bệnh nhiễm trùng phổi , gọi như vậy sau khi có cơn bộc phát với 182 ca bệnh tại hội nghị cựu chiến binh Mỹ ở Pensylvania năm 1976 .
+Viêm do nhiễm trùng thường đáp ứng tốt với kháng sinh .
+Một tế bào vi trùng hay thực vật không có thành tế bào .
+Một bệnh nhiễm trùng ngoài da thường do tụ cầu trùng , đôi khi do chuỗi cầu trùng gây ra .
+Khi van đã bị hư hại , có thể thay thế bằng phẫu thuật với một van nhân tạo .
+Một chế độ ăn cân bằng có chứa đủ khối lượng tất cả các dưỡng chất .
+Khớp cầu ổ : một kiểu khớp động ( khớp chuyển động tự do ) , thí dụ khớp vai và khớp hông .
+Phình ra trong vách động mạch giống như quả bóng .
+Một băng sợi hay một cấu trúc giống như gân .
+Một băng mô xơ dùng giữ một bộ phận cơ thể tại chỗ .
+Một băng sợi thần kinh tạo thành trần và thành của phần dưới sau thể chai .
+Băng bó sắp xếp sao cho nâng đỡ được một bộ phận treo của cơ thể .
+Băng được sắp xếp dùng nâng đỡ và để một chi bị tổn thương được nghỉ ngơi sao cho tiến trình lành không bị các hoạt động làm trở ngại .
+Băng buộc quanh một phần cơ thể , thường là bụng , để tạo áp suất , hay nâng đỡ hay bảo vệ .
+Băng bó vết thương quanh một bộ phận cơ thể , chồng lên phần trước mỗi khi chuyển hướng .
+Băng bó vết thương theo hình xoắn quanh một chi bị tổn thương .
+Một loại barbiturate dùng uống để chữa mất ngủ .
+Một loại barbiturate dùng gây ngủ và làm dịu trong các trường hợp mất ngủ và lo âu .
+Một loại barbiturate dùng giảm mất ngủ và kích động , và cũng làm thuốc chống co giật .
+Một loại barbiturate dùng chữa mất ngủ và lo âu , và dùng như một thuốc chống co giật để chữa bệnh động kinh .
+Một loại barbiturate có tính chất , công dụng , và tác động phụ giống như barbitone nhưng tác động nhanh hơn .
+Thụt barium dùng barium sulphate , có tính cản X quang , để chụp X quang đại tràng .
+Một muối barium , không tan trong nước , có tính cản X quang , dùng làm chất cản quang khi chụp X quang dạ dày và ruột .
+Một loại thuốc nhuộm aniline cơ bản dùng nhuộm và nhuộm lại các mẫu mô học và vi khuẩn .
+Một hợp chất căn bản quan trọng trong việc tổng hợp chất phosphatidylcholine ( lecithin ) và các chất phospholipid và acetylcholine .
+Một thuốc nhuộm căn bản để nhuộm các phần bắt màu trong nhân tế bào ( nhiễm sắc chất ) và cùng với pyronin để nhuộm phân biệt RNA và DNA , hai chất này lần lượt sẽ có màu đỏ và lục .
+Một mõm giống như mỏ quạ cong lên trên và phía trước từ đỉnh của xương bả vai , qua khớp vai .
+Giường có nệm mềm chứa đầy nước .
+Một giường có nệm ở mặt trên có hàng ngàn lỗ qua đó không khí bị nén dưới áp lực , do đó người bệnh được nâng đỡ , giống như máy bay , trên một nệm không khí .
+Một khúc cong của một cơ quan hình ống , thí dụ quai Henle trong tiểu quản thận .
+Một chỗ uốn trong một cơ quan hay một bộ phận , như các góc dưới gan và góc lách của đại tràng .
+Lồi xương do tăng sinh sụn lành tính .
+Một loại u sụn lành tính ( xem u sụn ) xảy ra trong vùng tăng trưởng của xương ( xem hành xương ) và không lồi ra khỏi giới hạn .
+Một u sụn lành tính ( xem u sụn ) lồi ra khỏi bờ xương .
+Một rối loạn nhẹ của hệ thần kinh có đặc trưng ở các cơ co thắt như giật ngắn và không đều của các cơ chi và thân mình .
+Một loại bướu giống keo lành tính của mô liên kết .
+Một tăng sinh lành tính trên bề mặt da hay niêm mạc ( thí dụ , trong tử cung ) .
+Một khối u lành tính hay ác tính của màng hoạt dịch .
+Một khối u lành tính hay ác tính ở tuyến ức .
+Một khối u lành tính phát triển trên màng bao xơ của một dây thần kinh ngoại biên .
+Một bướu lành của tế bào tạo sụn , có thể thấy ở đầu tăng trưởng của bất kỳ một xương nào , nhưng hầu hết thường thấy trong các xương của chân và tay .
+Bướu lành có nguồn gốc biểu mô bắt nguồn từ mô tuyến hoặc biểu lộ cấu trúc tuyến một cách rõ rệt .
+Một khối u lành ở mô liên kết sợi có chứa những khoảng nang .
+Một bướu lành của mô sợi , có chứa các thành phần u niêm ( xem u niêm ) hoặc có bị thoái hóa niêm mạc .
+Một người bị mất mát , ví dụ , người không than khóc như bình thường , đôi khi có thể quý trọng xác chết như một người yêu dấu .
+Một cơ quan có hai thùy ở chân cổ , ở trên và phía trước tim .
+Một kính hiển vi hai mắt dùng trong phẫu thuật , thí dụ trong thao tác lấy đi một cục máu trong động mạch ( xem cắt bỏ nội mạch ) .
+Một tiến trình sinh hóa xảy ra chủ yếu trong gan và trong cơ , trong đó glycogen bị phân hủy thành glucose - 1 - phosphate .
+Sự sinh thiết dịch hoàn cần làm để phân biệt hai nguyên nhân này .
+Sự thiếu biotin thì rất hiếm thấy ở người , nó có thể tạo ra bằng cách ăn một khối lượng lớn lòng trắng trứng sống , có chứa một loại protein - avidin - kết hợp với biotin , làm cơ thể không còn được cung cấp nữa .
+Một vết chàm : một dị dạng rõ rệt của da có ngay từ khi sinh ra .
+Một nang hình bóng tạo nên trong nhiều mô cơ thể do tăng trưởng của ấu trùng sán lá Echinococcus .
+Một ống không có đầu ra , đi từ tiểu nang và nối với một ống từ thông nang của mê đạo màng .
+Một túi tận cùng ở chỗ nối giữa ruột non và ruột già , ở dưới van hồi manh tràng .
+Một mạch bạch huyết có đầu kín chạy trong nhung mao ruột non .
+Một tế bào máu chứa hemoglobin có chức năng chính là chuyên chở oxy .
+Cục máu gồm một mạng protein fibrin , trong đó các tế bào máu bị bắt giữ .
+Một cục máu đông không bị dòng máu mang đi khỏi điểm gốc được gọi là bản địa .
+Một bệnh máu ảnh hưởng đến trẻ nhỏ .
+Thử nghiệm máu sớm trong thai kỳ có thể phát hiện được kháng thể trong máu người mẹ và áp dụng nhiều biện pháp đề phòng cần thiết cho sự an toàn của em bé .
+Mạch máu mang máu ra khỏi tim .
+Huyết quản dẫn máu trở về tim .
+Một mạch máu trong bào thai nối trực tiếp động mạch phổi với động mạch chủ lớn , như vậy sẽ bỏ qua tuần hoàn phổi .
+Một loại côn trùng hút máu thuộc giống Cimex . C . hemipterus ở vùng nhiệt đới và C . lectularius ở vùng ôn đới , có cơ thể dẹp , màu đỏ nhạt , và cánh thoái hóa chỉ còn vết .
+Ký sinh hút máu thuộc bộ Acarna của lớp tiết túc , bộ này cũng gồm các loại mạt .
+Một thuốc nhuộm có tính sát trùng màu xanh dùng chữa các bệnh nhiễm đường tiểu , chứng methemoglobin huyết , và trong thử nghiệm chức năng thận .
+Sự chuyển sang màu xanh phát triển khi có aldehydes .
+Một loại thuốc nhuộm xanh dùng trong các thử nghiệm về chức năng gan .
+Các vết phát ban màu xanh lạt - đỏ thấy trên mặt , da đầu , cổ , vai và bàn tay , và sau đó có kèm theo các chỗ sưng nặng .
+Tình trạng da và các niêm mạc chuyển thành màu xanh nhạt do không có đủ lượng oxy trong máu .
+Tình trạng niêm mạc âm đạo có màu xanh nhạt hay tía lạt , có thể là chỉ định của song thai .
+Một kim đầu tà dùng lấy đi các vật lạ nằm trong giác mạc mắt .
+Một xương hình ghe ở cổ chân ( xem xương cổ chân ) khớp với ba xương chêm ở phía trước và với xương sên ở phía sau .
+Xương hình thuyền ở cổ tay ( xem nhóm xương cổ tay ) .
+Nhọt là một thí dụ của một áp xe trong da .
+Một tế bào xương : một tạo cốt bào đã ngưng hoạt động và đã bị bao bọc trong khuôn xương .
+Một xương tạo thành do sự hợp nhất các ụ dài , ụ ngồi và xương mu .
+Một xương tạo thành đáy hộp sọ ở phía sau mắt .
+Một xương tạo thành phần dưới và phần trước ở mỗi bên xương hông ( cũng xem khung chậu ) .
+Một xương tạo thành phần dưới ở mỗi bên xương chậu ( cũng xem khung chậu ) .
+Một xương ở sàn hộp sọ có góp phần vào việc tạo thành xoang mũi và ổ mắt .
+Một xương ở cổ tay ( xem khối xương cổ tay ) , nó nối khớp với xương thuyền và xương bán nguyệt ở phía sau và với xương bàn tay thứ ba ở phía trước .
+Một xương phát triển trong các mô liên kết bằng sự hóa cốt trực tiếp , không qua giai đoạn tạo sụn .
+Một khối u xương gồm các tế bào tạo sụn .
+Một ống xương ở mỗi bên hàm dưới .
+Một mấu xương ở mặt trong hàm dưới , phía trên góc hàm .
+Sách có chứa bản danh sách các loại thuốc dùng trong y học , với các chi tiết về công thức , phương pháp điều chế , liều lượng , tiêu chuẩn tinh khiết .
+Một u não do các tế bào không thần kinh ( thần kinh đệm ) , các tế bào này - không giống như nơron - còn giữ được khả năng tự sinh sản bằng gián phân .
+Một khối u não có nguồn gốc từ phần còn lại của túi Rathke , một cấu trúc phôi từ đó tuyến yên được tạo thành một phần .
+Một nhánh , đặc biệt của một sợi thần kinh hay một mạch máu .
+Một ngành phẫu thuật liên quan đến việc tái tạo các bộ phận cơ thể bị biến dạng hay tổn thương .
+Một nhánh của động mạch cánh tay , bắt đầu từ khuỷu tay và chạy trên bề mặt cánh tay trước xuống tới mỏm trâm xương quay ở cổ ta .
+Một nhánh của động mạch cánh tay phát sinh từ khuỷu tay và chạy sâu trong các cơ ở mặt giữa cánh tay trước .
+Một nhánh của động mạch cảnh ngoài , cung cấp máu chủ yếu cho thái dương và da đầu .
+Một hệ thống các ống phân nhánh dẫn khí từ khí quản tới phổi , gồm các phế quản , và các nhánh phế quản và tiểu phế quản .
+Một vết loét phân nhánh trên bề mặt giác mạc do vi rút herpes simplex gây ra .
+Một chỗ thủng ở màng lót ( niêm mạc ) đường tiêu hóa do niêm mạc bị pepsin và acid tiêu hóa .
+Một chỗ nứt trên da hay niêm mạc lót đường tiêu hóa không lành lại được , và thường có kèm theo viêm .
+Nứt vỡ cấu trúc một cơ quan hay mô gây ra do tác nhân bên ngoài .
+Một khối u trong vú có chứa sữa do một ống dẫn sữa bị tắc lại .
+Một kim loại màu vàng sáng rất dễ uốn và dát mỏng .
+Một tổ chức tình nguyện ở vương quốc Anh cung cấp dịch vụ điện thoại cho những người muốn tự sát hay đang tuyệt vọng .
+Một cơ dẹp rỗng trong bắp chân , ở phía dưới cơ sinh đôi của cơ tam đầu bắp chân .
+Một lá cơ mỏng rộng chạy từ dưới xương đòn tới góc hàm .
+Dao mổ rộng có hai cạnh sắc và có đầu nhọn .
+Một loại thuốc giãn phế quản dùng chữa trị bệnh suyễn , viêm phế quản , và các rối loạn hô hấp khác .
+Một điểm tròn dẹp màu nâu ở trên da gây ra do có quá nhiều melamin .
+Những điểm nâu trên da thường thấy ở cánh tay và mặt của người trẻ tuổi , với nước da sáng .
+Một vòng màu vàng - nâu nhạt ở vành ngoài giác mạc ở mắt .
+Một sắc tố màu nâu nhuộm với một số thuốc nhuộm chất béo .
+Một vết bầm , một vết trên da lúc đầu màu xanh đen do máu vào trong mô vì tổn thương hay vì máu trong mạch tự tràn ra khỏi mạch ( như trong một số bệnh về máu ) .
+Củng mạc nhô ra ở phía sau mắt ( u lồi mắt sau ) xảy ra trong một số ca cận nặng .
+Ban mụn nước là phát ban có những bóng nước .
+Một bó sợi thần kinh dẫn truyền ( xem hình ) truyền các xung lực từ não hay dây cột sống đến các cơ và tuyến ( dây thần kinh vận động ) hay ngược lại từ các cơ quan cảm giác đến não và dây cột sống ( dây thần kinh cảm giác ) .
+Một bó sợi cơ tim đã thay đổi ( sợi Purkinje ) đi từ nút nhĩ thất ( AV ) đến vách ngăn các tâm thất rồi chia làm hai bó bên phải và bên trái , mỗi bó cho một tâm thất .
+Một bó sợi thần kinh nằm bên trong một vỏ ; một dải .
+Vết phỏng do chất lỏng hay hơi nóng , như nước sôi hay hơi nước gây ra .
+Một bìu thường thấy ở đây và ngón cái bị lệch chỗ về phía các ngón khác .
+Một sự đọng calci trên mặt ngoài răng .
+Vết chai ở bàn tay hay bàn chân .
+U xương xốp ( lồi xương ) là tăng sinh ở đầu một xương dài , thường phát xuất từ một điểm .
+Một viên nang có chứa một máy phát radio rất nhỏ để có thể được nuốt vào bởi bệnh nhân .
+Một loại carbohydrate , gồm các chuỗi phân nhánh của những đơn vị glucose , đó là sản phẩm tích lũy của vi trùng và men .
+Một carbohydrate gồm nhiều chuỗi phân nhánh có các đơn vị glucose .
+Một loại carbohydrate gồm có glucose và fructose .
+Một chất carbohydrate gồm có các đơn vị đường glucose kết hợp .
+Một carbohydrate gồm hai đơn vị monosaccharide nối với nhau .
+Một carbohydrate được tạo thành như một vật phẩm trung gian trong việc tiêu hóa tinh bột do enzyme amylase .
+Một carbohydrate tạo thành do nhiều monosaccharide nối với nhau thành một chuỗi dài thẳng hay phân nhánh .
+Một carbohydrate có trọng lượng phân tử cao dùng trong xét nghiệm chức năng thận gọi là hệ số tinh khiết inulin .
+Một carbohydrate có ba đơn vị carbon : thí dụ glyceraldehyde .
+Lệnh chăm sóc thường là cần thiết để đảm bảo đứa trẻ không còn bị lạm dụng nữa .
+Một số lượng thuốc được đo lường cẩn thận do bác sĩ chỉ định cho bệnh nhân dùng vào một thời điểm .
+Một tế bào sụn , thấy nằm trong chất căn bản của sụn .
+Sụn nối một xương sườn với xương ngực ( xương ức ) .
+Một thanh sụn trong thai nhi quanh đó hàm dưới sẽ phát triển .
+Viêm xuất tiết của niêm mạc trong mũi do cảm lạnh hay sốt cỏ khô .
+Một loại catecholamine có nguồn gốc từ dopa là một chất trung gian trong việc tổng hợp noradrenaline .
+Phân loại một chất liệu căn cứ trên hoạt động của chất này về huyết thanh học , đặc biệt về các kháng nguyên có trong chất này hay các kháng thể có thể sinh ra để chống lại nó .
+Một hạng dùng trong phân loại động vật và thực vật .
+Một ống thông có đầu phình ra được cho vào đường thở nơi cần đo , bằng một ống soi phế quản , và thể tích và tốc độ trao đổi khí được đánh giá .
+Một ống tia âm cực dùng tạo ra một dạng sóng điện tử tương ứng với các dữ kiện điện vào đó .
+Một tác nhân ăn da gây kết vảy hay mảng mục khi đắp vào da .
+Một xoang , đặc biệt xoang trong xương .
+Một xoang hình thành trong giai đoạn rất sớm của phôi vị hóa ( xem phôi vị ) .
+Một tế bào , có nguồn gốc từ trung bì phôi , có nhiệm vụ tạo thành xương .
+Một tế bào trong tủy xương có nhiệm vụ sản sinh tiểu cầu .
+Một tế bào trong noãn sào sẽ trải qua giảm phân để tạo thành noãn .
+Một tế bào hay một nhóm tế bào thấy giữa các sợi cơ , đáp ứng sự duỗi cơ bằng cách truyền những xung lực tới hệ thần kinh trung ương qua các sợi thần kinh cảm giác .
+Một tế bào hay một nhóm tế bào chuyên hóa để phát hiện những thay đổi trong môi trường và gây phát các xung lực trong hệ thần kinh cảm giác .
+Một tế bào hoặc một nhóm tế bào phản ứng khi có mặt một hợp chất hóa học đặc biệt bằng cách khởi phát một xung động trong thần kinh cảm giác .
+Một tế bào được sản sinh như một giai đoạn trung gian trong sự tạo thành tinh trùng ( xem sự tạo thành tinh trùng ) .
+Một tế bào sản sinh ra trong giai đoạn đầu của việc tạo noãn ( tế bào trứng ) .
+Tế bào được sản sinh ở giai đoạn đầu trong việc tạo thành tinh trùng ( xem sự tạo tinh trùng ) .
+Tế bào sẽ phát triển thành sợi cơ .
+Một tế bào tạo ra men răng và biến mất trước khi răng mọc nhú lên .
+Một tế bào sẽ sinh ra tế bào nhân khổng lồ , tức tế bào tạo tiểu cầu , thấy trong các mô tạo máu ở tủy xương .
+Một tế bào có khả năng nuốt và tiêu hóa các vi trùng , động vật nguyên sinh , tế bào và mảnh tế bào , và các hạt nhỏ khác .
+Một tế bào có nhiệm vụ hấp thu sụn .
+Một tế bào chuyển động bằng cách đẩy lõi ra tế bào chất của nó giống như sự chuyển động của amíp .
+Một tế bào tạo ra chất căn bản của sụn .
+Một tế bào sẽ trải qua tiến trình giảm phân để tạo thành 6 - 8 tế bào sinh dục đực trưởng thành ( tiểu giao tử ) của ký sinh trùng sốt rét ( Plasmodium ) .
+Một tế bào sẽ trải qua giảm phân để tạo thành các tế bào sinh dục cái trưởng thành ( đại giao tử ) của ký sinh trùng sốt rét ( Plasmodium ) .
+Một kiểu tế bào của ung thư biểu mô phế quản .
+Tế bào trong lớp biểu bì da sản sinh ra sắc tố melanin màu nâu đậm .
+Một trụ niệu tế bào có nguồn gốc từ các tiểu quản thận .
+Một máy ly tâm có tốc độ quay rất cao : dùng phân chia các phân tử lớn , như protein .
+Một u máu đầu ở đứa trẻ lớn hơn hoặc trẻ con thường là bằng chứng của chấn thương đầu gần đây , đôi khi do gãy xương đầu được phát hiện khi chụp X quang .
+Một phospholipid giống như cephalin có chứa amino acid serine .
+Một khối u trong não có nguồn gốc từ các tế bào thần kinh đệm ( tế bào không thần kinh ) lót các xoang não thất ( xem màng não thất ) .
+Một khối u não xảy ra trong thời thơ ấu .
+Chân hơi vòng kiềng là bình thường ở trẻ nhỏ , nhưng nếu vẫn giữ như vậy khi lớn lên hay về sau mới có dị dạng này thì là do tăng trưởng bất thường ở đầu xương ( như trong bệnh Still ) hay do viêm khớp .
+Bình thường cột sống có một mức độ ưỡn nhất định ở vùng thắt lưng và vùng cổ .
+Loại thiếu máu ( thiếu máu nguyên bào sắt ) đặc biệt có các nguyên bào sắt có vòng không bình thường .
+Giấy chứng nhận ghi chẩn đoán của bác sĩ về tình trạng y học của một bệnh nhân , kém năng lực , hay thích hợp với công việc .
+Ăn mòn cổ là một vùng biểu mô bất thường phát triển ở cổ tử cung do tổn hại mô khi sanh hay khi muốn gây sẩy thai .
+Một phòng trong đó các mô đông lạnh được cắt bằng một dao vi phẫu .
+Một phòng trong tim phôi thai nhận máu từ nhiều tĩnh mạch .
+Thay đổi trong chất liệu di truyền ( DNA ) của một tế bào , hay thay đổi do điều này gây ra trên một đặc tính của cá thể , đặc tính này không sinh ra do một tiến trình di truyền bình thường .
+Một ống trong mắt , ở nơi tiếp giáp giữa giác mạc và củng mạc , dùng dẫn lưu thủy dịch .
+Một đường hầm trong pha lê dịch của mắt .
+Một đặc điểm cho thấy tác động của đột biến .
+Một hóa chất , có trong các dịch rỉ do viêm , có tính chất lôi cuốn các bạch cầu và làm tăng tính thấm của mao mạch .
+Một tác nhân hoá học ví dụ như cồn hay osmium tetroxide , dùng bảo quản và làm chắc các mô để nghiên cứu dưới kính hiển vi .
+Một tác nhân hóa học dùng tiêu diệt các giun sán ký sinh trong ruột .
+Một hóa chất dùng giết côn trùng hay các sinh vật có hại cho mùa màng và các cây trồng khác .
+Một phức hợp hóa học gồm phần sắc tố của hemoglobin ( haem ) kết hợp với albumin huyết tương .
+Một hợp chất hóa học tạo thành một phức hợp bằng cách nhận vào một ion kim loại .
+Một chất dẫn xuất hóa học của hemoglobin , tạo thành bằng cách lấy đi chất protein của phân tử , oxy hóa nguyên tử sắt , và kết hợp với một acid để tạo thành một muối ( so sánh với hematin ) .
+Chất dẫn xuất hóa học của hemoglobin có được bằng cách lấy đi phần protein của phân tử và oxy hóa nguyên tử sắt từ dạng sắt II sang dạng sắt III .
+Một hóa chất chế tạo từ các u lồi nhô trên da trong dạng cùi kết tiết .
+Một hóa chất tiêu diệt hay ức chế tăng trưởng của vi trùng và các vi sinh vật gây bệnh khác , và hóa chất này phải không độc để có thể dùng ngoài da hay niêm mạc để rửa vết thương và ngừa nhiễm trùng hay dùng trong cơ thể để ngăn ngừa nhiễm trùng đường ruột hay bàng quang .
+Một hóa chất dùng dưới dạng pomát để chữa viêm da hay phối hợp với các loại thuốc thoa tại chỗ khác để hấp thụ tốt hơn .
+Trẻ em còn tùy thuộc hoàn toàn vào mẹ : trẻ dưới một tuổi , đặc biệt trẻ sinh non hay trẻ sơ sinh .
+Một nhiễm sắc thể trong đó hạt ở giữa hay gần trung tâm của nhiễm sắc thể .
+Một nhiễm sắc thể trong đó hạt giữa được định vị ở một trong hai đầu .
+Một nhiễm sắc thể trong đó tâm động ở tại hoặc rất gần một đầu tận cùng .
+Một đột biến nhiễm thể trong đó một khối gen trong nhiễm sắc thể ở vị trí ngược vì đoạn nhiễm sắc thể này đã bị lộn ngược .
+Nhiễm sắc thể liên quan đến việc xác định giới tính của một cá thể .
+Một bệnh mãn tính nhưng diễn tiến có đặc trưng bởi sự xơ hóa ở tủy xương , đưa tới thiếu máu và tình trạng có những hồng cầu và bạch cầu chưa trưởng thành trong hệ tuần hoàn .
+Một tình trạng mãn tính , xơ hóa nội mạc cơ tim thấy ở dân da đen châu Phi .
+Bệnh lây mãn tính ở mắt - một dạng viêm kết mạc nặng - do sinh vật giống như vi rút Chlamydia trachomatis gây ra , thường thấy trong vùng nhiệt đới .
+Một bệnh mãn tính gây ra do vi trùng Mycobacterium leprae tác động đến da , niêm mạc , và các dây thần kinh .
+Một bệnh mãn tính có đặc trưng mệt mỏi bất thường và sự suy nhược một số cơ chọn lọc , các chứng này giảm đi khi nghỉ ngơi hay bằng cách dùng các thuốc kháng cholinesterase .
+Một bệnh xương mãn tính xảy ra trong tuổi già , và thường ảnh hưởng nhất tới hộp sọ , cột sống , xương chậu và các xương dài .
+Một bệnh mãn tính của gia súc do vi trùng thuộc giống brucella , có thể lây cho người hoặc do tiếp xúc với súc vật bệnh hoặc do uống sữa nhiễm bệnh không tiệt trùng theo phương pháp Pasteur .
+Một bệnh mãn tính của hệ thần kinh tác động tới những người trưởng thành con trẻ hay ở tuổi trung niên .
+Một rối loạn mãn tính không rõ nguyên nhân trong đó nhiều bộ phận cơ thể bị lớn ra và nhiều hạt thịt nhỏ ( xem u hạt ) xuất hiện trong phổi , gan , và lách .
+Dạng bệnh mãn với chứng khó thở phát triển chậm và không đảo ngược được , có thể xảy ra sau khi đã có cơn bệnh cấp hay không có gì .
+Nhiễm nấm mãn tính ở ngoài da thường do vết thương ; thí dụ vết thương do những mảnh gỗ gây ra .
+Một bệnh nhiễm mãn tính ở da và các hạch bạch huyết bề mặt do nấm Sporotrichum schenckii , và gây ra tạo thành các áp xe và loét .
+Viêm mãn tính một mô do nấm gây ra .
+Một bệnh viêm mãn tính của mô liên kết , tác động tới da và nhiều cơ quan nội tạng .
+Bệnh ngứa ngoài da mãn tính không rõ nguyên nhân .
+Một rối loạn tiến trình trí tuệ mãn tính hay dai dẵng do bệnh não hữu cơ .
+Một bệnh ngoài da mãn tính trong đó những mãng vảy ngứa đỏ tạo thành trên khuỷu tay , cánh tay trước , đầu gối , chân , da đầu và các bộ phận cơ thể khác .
+Nhiễm da mãn tính do vi trùng Corynebacterium minutissimum , xảy ra ở các vùng như nách , háng và ngón chân , tức ở những nơi da tiếp xúc nhau .
+Bệnh hoa liễu mãn tính do vi trùng Treponema pallidum , gây ra các thương tổn trên khắp cơ thể .
+Một vòng ở mặt dưới của não được tạo thành bởi các nhánh động mạch liên kết lại để cung cấp máu cho não ( xem minh họa ) .
+Cử động vòng tròn , như là cử động của một chi .
+Một cistron có thể được coi như là có chức năng tương đương với một gen .
+Phân loại các vi trùng Streptococcus dựa trên sự có hay không có các carbohydrate kháng nguyên trên màng tế bào .
+Dung dịch sinh lý không màu , trong suốt , gồm sodium chloride ( muối ăn ) , potassium chloride , và calcium chloride chế tạo với nước tinh khiết mới đun sôi .
+Một chất liệu trong suốt như thủy tinh sản sinh ra do thoái hóa trong một số mô , đặc biệt mô liên kết và các tế bào biểu mô .
+Một chất dính và trong có được khi thủy phân các chất béo và các hỗn hợp dầu và được sản xuất như một phó sản trong việc chế tạo xà bông .
+Một khe hay một đường nứt , như đường nứt ở mái tóc hay đường nứt ở các mô khi có thoát vị .
+Nhà tâm lý học lâm sàng đã được huấn luyện về các mặt trong đánh giá và chữa trị những người bệnh và mất năng lực .
+Nhiệt kế y khoa gồm một ống thủy tinh kín cỡ nhỏ , với bầu ở một đầu .
+Một đám tế bào nang bao quanh một trứng mới rụng .
+Một loại thuốc có chứa cobalt dùng chích để chữa trị các tình trạng liên quan đến thiếu vitamin B12 như thiếu máu ác tính .
+Một coenzyme có nguồn gốc từ riboflavin tham dự vào nhiều phản ứng oxy khử quan trọng .
+Một loại coenzym tác động như một thụ thể khí hydro trong phản ứng khử oxy , đặc biệt trong chuỗi vận chuyển điện tử trong sự hô hấp tế bào .
+Một coenzyme hoạt động như một tác nhân chuyên chở electron trong các ty lạp thể tế bào ( xem chuỗi chuyên chở electron ) .
+Tập hợp các tế bào đặc biệt hoá để thực hiện một chức năng đặc biệt .
+Một tập hợp các tĩnh mạch bị giãn trong dây tinh , thường ảnh hưởng đến bên trái bìu hơn là bên phải .
+Tập hợp các sợi thấy trong tế bào khi nó đang phân chia .
+Một tập hợp các túi đầy dịch phát triển khi lớp màng bao quanh phôi ( màng đệm ) thoái hóa đi trong giai đoạn đầu thai kỳ .
+Sự tụ hội của những hạt vật chất chứa calcium đôi khi tìm thấy trong thể tùng như sự calci hóa tiến triển ( thường sau 17 tuổi ) : " cát não " .
+Tập hợp chất xám , có hình thấu kính hai mặt lồi , nằm dưới đồi não và ở gần thể vân , và nối với các nơi này bằng những đường thần kinh .
+Tập hợp những tế bào thần kinh trong hành tủy nhận thông tin từ các thụ thể cảm giác trong hệ tuần hoàn ( xem thụ thể áp suất ) và gây ra các phản xạ làm thay đổi tốc độ tim đập và đường kính các huyết quản , như vậy huyết áp có thể được điều chỉnh .
+Một tập hợp các sợi thần kinh - các nhánh nhỏ của thần kinh phế vị - trong thành ruột .
+Một tập hợp các đường thần kinh trong tháp hành tủy , trên đường đi từ vỏ não đến dây cột sống .
+Tích tụ mủ trong khoảng dưới mô hoành , thường ở bên phải , giữa gan và mô hoành .
+Một tập hợp các đầu thần kinh cảm giác chuyên biệt để giám sát thay đổi về huyết áp .
+Tập hợp các tế bào đặc biệt ( thụ thể ) nối với hệ thần kinh , có khả năng đáp ứng với một kích thích đặc biệt từ ngoài hay bên trong cơ thể .
+Một tập hợp các túi và màng xếp trong tế bào , thường nối tiếp với lưới nội bào .
+Một tia đã được chuẩn trực rất cần thiết trong kỹ thuật của nhấp nháy đồ , khi một cơ quan được quét bởi tia xạ tuyến ( xem nhấp nháy đồ ) .
+Mọi chất dịch keo đã ổn định để tạo thành một chất đông .
+Từ thông dụng chỉ sa đĩa liên sống .
+Tật khuyết ở mi mắt là một chỗ lõm bẩm sinh trên bờ mi mắt .
+Một chất không màu , phần lớn không mùi vị , nó là một chất rất độc hại .
+Một hợp chất kết tinh không màu chiết xuất từ gỗ huyết mộc ( Haematoxylon campechianum ) và được dùng trong nhiều loại nhuộm mô .
+Một chất khí không màu được tạo thành trong mô trong khi biến dưỡng và được máu chuyên chở vào phổi , được thở ra ngoài ( sự tăng lượng khí trong máu làm kích thích sự hô hấp ) .
+Một chất khí không màu dùng làm thuốc gây mê , cũng có tính chất giảm đau tốt .
+Một chất lỏng không màu dùng như một chất tẩy trùng để rửa vết thương và khi pha loãng , dùng làm thuốc súc miệng để khử mùi hay nhỏ tai để lấy đi ráy tai .
+Một hợp chất không màu hay màu vàng thật nhạt dùng nhuộm chất béo hay dùng làm chất định hình trong khi chuẩn bị các mô để xem xét dưới kính hiển vi .
+Một chất khử không màu của sắc tố mật bilirubin .
+Một tế bào phân tiết hình trụ thấy trong biểu mô của đường hô hấp và tiêu hoá .
+Sự kết hợp của chứng teo cơ với sự co cứng là đặc tính của bệnh thần kinh vận động .
+Kết hợp các dấu hiệu hay triệu chứng tạo thành một hình ảnh lâm sàng riêng biệt của một rối loạn đặc biệt .
+Kết hợp các triệu chứng gồm cử động gật đầu chậm , rung giật nhãn cầu ( cử động mắt không chủ ý ) và co cứng các cơ cổ .
+Một loại vắc xin kết hợp chống lại bạch hầu , ho gà , và uốn ván , chế tạo từ biến độc tố của vi trùng gây các bệnh này , và từ các kháng nguyên khác .
+Một vắc xin kết hợp dùng gây miễn dịch chống lại các bệnh thương hàn , phó thương hàn A , và phó thương hàn B .
+Một khối u lành tính thường thấy gồm các tế bào mỡ phân biệt rất rõ .
+Một nguyên nhân thông thường của phình niệu quản là nước tiểu chảy ngược từ bàng quang về niệu quản ( xem hồi lưu bàng quang niệu quản ) nhưng một vài trong số các ví dụ nổi bật được tìm thấy , gọi là phình niệu quản vô căn .
+Một tình trạng thường gặp có các cơn đau bụng tái hồi cùng với táo bón và tiêu chảy tiếp diễn trong nhiều năm nhưng không có suy sụp chung về sức khỏe .
+Tình trạng chung trong đó da đầu bị bao phủ với nhiều vảy nhỏ của da chết .
+Rối loạn thường xảy ra cùng với bệnh thiếu máu do thiếu sắt , dù nguyên nhân chưa biết rõ .
+Tác động phụ thường thấy là buồn ngủ và dùng lâu dài có thể bị quen thuốc .
+Một loại thường thấy ảnh hưởng tới những người già , có những bóng nước lớn , đôi khi có máu , ở trên thân mình và các chi .
+Loại thường dùng của dao vi phẫu là một dao bằng thép .
+Một bệnh nhiễm vi rút thường thấy , tác động chủ yếu đến trẻ em từ 5 đến 15 tuổi .
+Một thử nghiệm phòng thí nghiệm thường dùng khi mới mang thai căn cứ trên việc phát hiện hormone , gonadotrophin nhau thai , trong nước tiểu .
+Một cộng đồng các tế bào - thực bào - lan tràn khắp cơ thể .
+U xương đặc ( u ngà ) thường vô hại nhưng đôi khi có thể ép những cấu trúc chung quanh , như trong hộp sọ .
+So sánh kết quả giữa hai hay nhiều nhóm bệnh nhân được cố tình đặt trong các chế độ khác nhau ( thường về trị liệu , nhưng đôi khi là một liệu pháp phòng ngừa , như tiêm chủng ) .
+Bản tóm tắt của công thức được dùng để điều chế thuốc dùng trong y khoa .
+Bộ răng giả đầy đủ thay thế cho tất cả các răng của một hàm .
+Một chu trình phức tạp của các phản ứng do enzyme xúc tác , xảy ra trong tế bào của tất cả các động vật sống , trong đó acetate , với sự có mặt của oxy , bị phân hủy để tạo ra năng lượng dưới dạng ATP ( qua chuỗi chuyên chở electron ) và carbon dioxide .
+Một chất liệu phức tạp có protein và phospholipid , bố trí thành một bao chung quanh sợi trục của một số nơ rôn , gọi là sợi thần kinh myelin hay sợi thần kinh tủy .
+Một phân tử phức tạp có cả hai thành phần lipid và polysaccharide .
+Một cấu trúc vòng phức tạp có chứa nitơ , và là hợp chất gốc của các porphyrin .
+Một kiểu mẫu phức tạp về cư xử đã định sẵn từ khi sanh ra , điều này là đặc điểm của tất cả các cá thể thuộc cùng một loại .
+Một chuỗi tưởng tượng phức tạp trong đó nhiều yếu tố tưởng tượng đan vào nhau thành một câu chuyện .
+Một hệ thống phức tạp các đường và mạng thần kinh trong não , bao gồm nhiều nhân khác nhau , liên quan đến việc biểu lộ bản năng và tính khí trong những hoạt động của các hệ nội tiết và vận động của cơ thể .
+Một thành phần của cầu răng gắn vào một răng tự nhiên .
+Một cơ ghép , họp bởi các cơ đai lưng và cơ chậu , các cơ này cùng có một gân chung .
+Một hợp chất , có hoạt tính chống vi khuẩn và chống nấm , dùng bôi ngoài da dưới dạng kem hoặc bột để điều trị nhiễm nấm , như ở chân của vận động viên .
+Một hợp chất , có cấu trúc tương tự như các amino acid , chỉ thấy trong collagen .
+Một hợp chất chứa uracil và đường ribose .
+Một hợp chất gồm một base có chứa nitơ ( một purine hay pyrimidine ) liên kết với một đường và một nhóm phosphate .
+Một hợp chất gồm một base có chứa nitơ ( một purine hay pyrimidine ) liên kết với một đường .
+Một hợp chất gồm protein kết hợp hoặc với FAD hoặc với FMN ( gọi là các flavin ) .
+Một hợp chất gồm một protein liên kết với một hem .
+Một hợp chất gồm hai amino acid nối với nhau bằng một nối peptide ( như glycylalanine , kết hợp của hai amino acid glycine và alanine ) .
+Một hợp chất có chứa adenine , ribose và một nhóm phosphat .
+Một hợp chất chứa adenine , ribose , và hai nhóm phosphate .
+Một hợp chất chứa adenine và đường ribose .
+Một hợp chất có chứa cytosine và đường ribose .
+Một hợp chất có chứa guanine và đường ribose .
+Một hợp chất có chứa iodine và do đó cản tia X được uống vào , hấp thụ trong ruột , và bài tiết bởi gan vào trong mật , và thuốc cản quang tụ vào trong mật .
+Một hợp chất có chứa thymine và đường ribose .
+Một hợp chất có nguồn gốc từ các carbonhydrate , có thể được oxy hóa trong một chuỗi phản ứng phức tạp trong chu trình Krebs để sản sinh carbon dioxide và năng lượng dưới dạng ATP .
+Một hợp chất có nguồn gốc từ amino acid histidine .
+Một hợp chất tiết ra theo nước tiểu như một chất khử độc của indoxyl .
+Một hợp chất tạo thành bằng cách thay thế nhóm hydroxyl ( - OH ) của một loại đường bằng một nhóm khác ( trường hợp đường là glucose , hợp chất sẽ gọi là glucoside ) .
+Một tuyến kép , dài khoảng 15 cm , nằm sau dạ dày .
+Một hợp chất tạo thành từ aluminium oxide và aspirin .
+Một hợp chất magnesium có tính kháng acid và tính thấm hút dùng chữa loét dạ dày và các rối loạn tiêu hóa khác .
+Một hợp chất hấp thu nước dùng làm thuốc nhuận trường tạo khối lượng để chữa táo bón , để kiểm soát tiêu chảy , và cho các bệnh nhân đang có mở thông đại tràng .
+Một hợp chất chứa adenine , ribose , và ba nhóm phosphate có trong tế bào .
+Một hợp chất tạo thành trong tế bào như một sản phẩm cuối cùng trong việc chuyển hóa glucose khi không có oxy ( xem sự hủy glucose ) .
+Một hợp chất thấy trong tế bào và gồm nucleic acid và protein kết hợp chặt chẽ với nhau .
+Một hợp chất quay mặt phẳng về bên trái gọi là quay sang trái ( hay l - ) ; quay mặt phẳng về bên phải sẽ gọi là quay sang phải ( hay d - ) .
+Một hợp chất dùng như một tác nhân ngưng kết để chữa trị ngộ độc vài kim loại khác nhau như chì và strontium .
+Một hợp chất có phân bố rộng trong các mô , đặc biệt trong tiểu cầu máu , thành ruột , và hệ thần kinh trung ương .
+Một hợp chất có hoạt tính chống vi rút , đặc biệt chống vi rút herpes .
+Một khuynh hướng thúc đẩy đi về phía sau .
+Một tình trạng ảnh hưởng đến một số răng sau tổn thương do chấn thương , trong đó chân răng và thân răng hợp thành một góc không bình thường .
+Một bệnh do sự có mặt của sán lá Clonorchis sinensis trong ống mật .
+Tình trạng gây ra do có sán lá ký sinh Opisthorchis trong các ống dẫn mật .
+Một tình trạng đặc thù với những cơn co thắt phế quản kịch phát gây khó khăn về hô hấp .
+Tình trạng có rối loạn trong sự xương hoá các sụn nên nhiều u sụn lành tính sẽ phát triển .
+Tình trạng sau khi bị nhiễm ghẻ cóc trong đó các chồi mũi của xương hàm trên bị dày lên ( xem chứng tăng sinh xương ) tạo thành hai mỏm xương lớn có đường kính khoảng 7 cm ở hai bên mũi .
+Tình trạng trong đó một phụ nữ không có thai nhưng có các triệu chứng mang thai như bụng lớn ra , lên cân , có bệnh buổi sáng , và không có kinh nguyệt .
+Một tình trạng trong đó bệnh nhân kêu ca có triệu chứng mà không có nguyên nhân thể chất nào được tìm thấy .
+Tình trạng trong đó một đoạn ruột non ( thí dụ một chi nang không tràng ) mất liên tục với phần ruột còn lại , hay có chậm trễ trong việc di chuyển các chất chứa trong ruột non vì một nghẽn tắc ( như khi bị chít hẹp hay bệnh Crohn ) làm cho vi trùng tăng trưởng quá mức , gây kém hấp thu và bài tiết phân có mỡ ( xem phân mỡ ) .
+Tình trạng trong đó tất cả những triệu chứng của giảm năng cận giáp giả có nhưng đáp ứng của bệnh nhân đối với hormone cận giáp là bình thường .
+Tình trạng trong đó các vùng da bị mất sắc tố và trắng ra .
+Tình trạng phân thải ra không thường xuyên , hoặc phân bị cứng và nhỏ , hoặc khi đi đại tiện trở nên khó khăn và đau .
+Tình trạng chức năng não bị tổn hại do có các chất độc hấp thu ở đại tràng , bình thường được loại bỏ đi hay khử độc ở gan .
+Tình trạng trong đó các xung lực điện từ dẫn truyền bởi các cơ quan điều chỉnh tốc độ tự nhiên của tim ( nút xoang nhĩ ) bị tổn hại , vì vậy hoạt động bơm của tim bị chậm lại .
+Tình trạng trong đó có các túi thừa ở một đoạn ruột non mà không có bằng chứng về sự viêm ( so sánh với viêm túi thừa ) .
+Tình trạng trong đó mọi vật đều thấy màu xanh .
+Tình trạng có lông , tóc ít hơn bình thường .
+Tình trạng các vòng ruột ( đặc biệt đại tràng ngang ) ở vị trí thấp về mặt giải phẫu học .
+Tình trạng trong đó mất thị giác xảy ra vì áp suất cao bất thường trong mắt .
+Tình trạng trong đó nhiều u nhú mọc trên một vùng da hay niêm mạc .
+Tình trạng trong đó có nhiều polyp trong một cơ quan hay mô .
+Tình trạng trong đó các vật xuất hiện thấy méo mó .
+Tình trạng trong đó một vật có vẻ lớn hơn thực tế .
+Tình trạng trong đó các vật thấy nhỏ hơn so với thực tế .
+Tình trạng trong đó một hàm bị nhỏ bất thường .
+Tình trạng trong đó các đôi nhiễm sắc thể tương đồng không phân chia trong giảm phân hay một nhiễm sắc thể không chia đôi trong biến kỳ của gián phân hay giảm phân .
+Tình trạng tăng áp động mạch phổi phối hợp với khuyết tật vách ngăn , vì thế máu chảy từ bên phải tim sang bên trái hay từ động mạch phổi tới động mạch chủ .
+Tình trạng các đoạn của ống dẫn tiêu hóa bị viêm , dày lên và loét .
+Tình trạng trong đó một số hay tất cả các răng dưới khép lại bên ngoài các răng trên khi hàm dưới đã lùi hết về sau .
+Tình trạng các hồng cầu bị tiêu hủy nhanh và đột ngột ( xem tan huyết ) gây suy thận cấp phần nào do tắc các động mạch thận nhỏ .
+Một tình trạng trong đó tính acid của chất dịch và mô của cơ thể cao một cách bất thường .
+Tình trạng trong đó hoạt động nuốt có khó khăn hay bị đau ( xem chứng đau thực quản ) , hay miếng nuốt dường như bị chặn lại trên đường đi tới dạ dày .
+Một tình trạng trong đó lượng kiềm của dịch và mô của cơ thể thì cao một cách bất thường .
+Tình trạng trong đó lượng dịch ối bao bọc thai nhi trong khi mang thai có số lượng nhỏ bất thường .
+Tình trạng huyết áp động mạch xuống thấp bất thường .
+Tình trạng trong đó máu thay đổi từ trạng thái lỏng sang trạng thái đặc và sinh ra một cục máu ( cục đông ) .
+Tình trạng trong đó niêm mạc ruột có những màng nổi cao hay nhô ra bao phủ gọi là polyp giả vì không phải là những polyp thực sự , mà chỉ là tăng sinh bất thường của niêm mạc bị viêm .
+Tình trạng trong đó các tế bào của một cá thể không chứa cùng một loại nhiễm sắc thể như nhau .
+Tình trạng trong đó vùng trung tâm mặt trước thủy tinh thể ( hay đôi khi , ở mặt sau ) có độ cong nhiều hơn bình thường và lồi ra phía trước thành một hình nón có đầu tròn .
+Tình trạng mắt thụt bất thường vào trong ổ mắt .
+Tình trạng trong đó các lông mi chà vào nhãn cầu , gây khó chịu và đôi khi loét giác mạc .
+Tình trạng trong đó các mi mắt bị dính vào nhãn cầu .
+Tình trạng trong đó tóc dễ dàng bị gãy .
+Tình trạng trong đó nhịp đập tim có thể chia thành các nhóm ba .
+Một tình trạng trong đó tim không đập nữa , kèm theo là việc không có các phức hợp trên điện tâm đồ .
+Một tình trạng trong đó hình ảnh của một vật trong hai mắt khác nhau rất nhiều về hình dáng hay kích thước .
+Một bệnh trong đó gan phản ứng với chấn thương hoặc chết vài tế bào bằng cách tạo nên những phần mô sợi kết lại với nhau ở giữa chúng là những hòn nhỏ chứa các tế bào tái sinh .
+Một tình trạng trong đó hoạt động cơ bình thường của thực quản bị rối loạn , nó cản trở sự đi qua của các chất được nuốt .
+Tình trạng trong đó bệnh nhân than phiền bị khô miệng , do kiệt các tuyến nước bọt .
+Tình trạng trong đó bệnh nhân bị đau ở khớp thái dương hàm , sự mềm trong các cơ chuyển động hàm , kêu lách cách của các khớp , và giới hạn của chuyển động hàm .
+Một tình trạng trong đó mạch cảm thấy như một nhịp đập đôi với mỗi lần co thắt tim .
+Tình trạng trong đó hoạt động bơm của tâm nhĩ không thực hiện được đầy đủ .
+Tình trạng trong đó giác quan ngửi rất yếu .
+Tình trạng trong đó giác quan nếm bị yếu bất thường .
+Tình trạng trong đó giác quan dùng sờ mó bị giảm thiểu , hiếm khi thấy bao gồm các giác quan khác ( giảm cảm giác ) .
+Tình trạng trong đó da teo lại và nhiễm sắc tố , làm nó có hình dạng lốm đốm .
+Tình trạng trong đó da bị nhạy cảm với một chất ( một số thuốc sát trùng dùng trong xà bông có thể là nguyên nhân gây phát ) nhưng chỉ có những phần da sau đó bị phơi ra ánh sáng mới có phản ứng phát ra viêm da .
+Một tình trạng trong đó ruột non tiêu hóa và hấp thụ kém thức ăn .
+Tình trạng trong đó dạ dày sa xuống thấp trong bụng .
+Tình trạng trong đó các răng to bất thường .
+Tình trạng trong đó răng nhỏ bất thường .
+Một tình trạng trong đó các mô cơ thể nhận không đủ số lượng oxy .
+Tình trạng trong đó có các túi thừa ( xem túi thừa ) ở đại tràng kết hợp với đau bụng dưới và rối loạn thói quen ruột .
+Một tình trạng trong đó có nồng độ carbon dioxyd thấp một cách bất thường trong máu .
+Tình trạng trong đó có sự mất nhiều protein trong nước tiểu , giảm mức albumin trong máu và sưng tổng quát các mô do phù nề .
+Một tình trạng trong đó có ít hơn nổng độ bình thường của oxy trong máu .
+Tình trạng trong đó có một nhiễm sắc thể thiếu mất trong bộ lưỡng bội bình thường .
+Tình trạng trong đó có một nhiễm thể phụ trong mỗi tế bào thêm vào bộ nhiễm thể bình thường ( lưỡng bội ) .
+Tình trạng trong đó có tăng huyết áp trong các mạch máu dẫn tới phổi ( bình thường huyết áp động mạch phổi thấp hơn nhiều so với huyết áp trong động mạch chủ và các nhánh động mạch chủ ) .
+Tình trạng trong đó khát thì ít hay không có .
+Tình trạng trong đó chứng huyết khối kết hợp với viêm thành tĩnh mạch ( xem viêm tĩnh mạch ) .
+Một bệnh trong đó hai người có dính líu chặt chẽ với nhau cũng tham dự vào một hệ thống ảo tưởng .
+Tình trạng acid trong máu cao bất thường .
+Tình trạng nhẹ cân bất thường , yếu ớt , và suy sụp cơ thể toàn diện phối hợp với một bệnh mãn tính .
+Tình trạng không nhận biết được môi trường chung quanh , như khi ngủ , hay không đáp ứng với kích thích .
+Tình trạng rối loạn ý thức , trong đó người bệnh vẫn có thể thực hiện được một số động tác bình thường nhưng có suy yếu về nhận thức và không nhớ được đã làm gì .
+Tình trạng kiệt sức do thiếu dưỡng chất trong máu .
+Sự lo âu quá mức về tình trạng tim và hệ tuần hoàn của mình .
+Tình trạng gần như bất tỉnh , có vẻ không hoạt động tâm trí và giảm khả năng đáp ứng với kích thích .
+Tình trạng nóng nảy , dễ kích động , rối loạn cảm xúc , nhức đầu , và trầm cảm ảnh hưởng tới một số phụ nữ cho tới khoảng mười ngày trước khi hành kinh .
+Tình trạng máy cơ nặng và ở nhiều cơ , kể cả máy cơ thanh âm và nói tục không chủ ý ( chứng nói tục ) .
+Tình trạng không rõ vì nguyên nhân nào trong đó các động mạch ngón tay có phản ứng quá mức và bị co thắt ( co thắt mạch ) khi tay lạnh .
+Tình trạng gây ra do cư trú trong một thể chế không có cá tính và không kích động ( như trong các bệnh viện tâm thần hay các viện mồ côi ) .
+Tình trạng gây ra do nhiễm giun móc ở ruột non .
+Tình trạng gây ra do có các nang hydatid trong gan , phổi , hay não .
+Một tình trạng ảnh hưởng tới phụ nữ ở giai đoạn cuối của thai kỳ , và biểu lộ bằng huyết áp cao , sưng cổ chân , và có protein trong nước tiểu .
+Một tình trạng liên hệ mật thiết với đa xơ cứng .
+Tình trạng xảy ra nhiều tuần hoặc nhiều tháng sau phẫu thuật tim và màng tim , bao quanh nó ( màng ngoài tim ) và được biểu thị bởi sốt và viêm ngoài tim .
+Tình trạng , có thể ảnh hưởng tới phụ nữ sau khi sanh con trong đó có cục đông và viêm trong tĩnh mạch chân .
+Tình trạng xảy ra sau khi ghép tủy xương , trong đó các lympho bào của tủy ghép chối bỏ các mô của ký chủ .
+Một tình trạng giống như viêm thần kinh hậu hành nhưng không do viêm .
+Một bất thường bẩm sinh trong đó các xương trở nên đặc và giòn bất thường , và có khuynh hướng gãy .
+Một bất thường bẩm sinh trong đó cơ quan sinh dục ngoài của người nam hay người nữ giống như người khác phái .
+Một dị dạng bẩm sinh trong đó lỗ mở của niệu đạo lại ở trên mặt lưng của dương vật .
+Một bất thường bẩm sinh có lỗ niệu đạo ở mặt dưới dương vật : hoặc ở quy đầu ( lệch lỗ tiểu tuyến ) , ở nơi tiếp giáp quy đầu với thân dương vật ( lệch lỗ tiểu vành ) , hoặc ở ngay thân dương vật ( lệch lỗ tiểu dưới dương vật ) .
+Một rối loạn bẩm sinh trong đó tuyến tụy phát triển thành hai phần , dẫn lưu riêng biệt vào trong tá tràng , tuyến tụy bụng nhỏ qua bóng chính và tuyến tụy lưng lớn hơn qua gai phụ .
+Một dị dạng bẩm sinh trong đó các tĩnh mạch phổi đi vào tâm nhĩ phải hay tĩnh mạch cửa thay vì bình thường đi vào tâm nhĩ trái .
+Bất thường bẩm sinh trong đó chỉ có bốn ngón ở bàn tay hay bàn chân .
+Bất thường bẩm sinh trong đó chỉ có ba ngón tay ở bàn tay hay bàn chân .
+Bất thường bẩm sinh ở tim , trong đó động mạch chủ đi từ tâm thất phải và động mạch phổi từ tâm thất trái .
+Một bất thường bẩm sinh đưa đến việc có nhiều hơn hai tinh hoàn .
+Một tình trạng bẩm sinh thường thấy khi sanh , có da bị khô , nhám và có vảy vì khuyết tật về sừng hóa .
+Một tình trạng bẩm sinh trong đó não không phát triển đầy đủ .
+Một tình trạng bẩm sinh trong đó trực tràng và đôi khi phần đại tràng dưới không phát triển được một mạng thần kinh bình thường .
+Một khuyết tật bẩm sinh có các ngón tay có chiều dài như nhau .
+Một khuyết tật bẩm sinh trong đó vị trí của tim là hình ảnh nhìn trong gương của vị trí bình thường , với đỉnh tâm thất chỉ về bên phải .
+Một khiếm khuyết bẩm sinh của sự tạo xương trong đó xương sọ hóa cốt không hoàn toàn và xương đòn không có .
+Một khuyết tật bẩm sinh ở lông mi và lông mày , đôi khi không có cả hai loại .
+Một bệnh bẩm sinh , tiêu biểu bởi các khối u lành tính phát triển từ lớp bao xơ bao bọc các dây thần kinh ( xem u xơ thần kinh ) .
+Một rối loạn bẩm sinh trong đó các xương thường giòn và dễ gãy .
+Một rối loạn bẩm sinh trong đó , não , da và các cơ quan khác có lốm đốm những mảng hay khối u nhỏ .
+Một rối loạn bẩm sinh trong đó đáy hộp sọ bị vẹo đi nên cuống não dưới và một phần tiểu não lồi ra qua lỗ thông dành cho dây cột sống ở đáy hộp sọ .
+Một rối loạn bẩm sinh của mắt trong đó toàn bộ giác mạc bị lồi ra phía trước tạo thành một đường cong đều .
+Có quá nhiều núm vú do bẩm sinh ( xem pleomastia ) .
+Tình trạng miệng có đường thông với xương hàm trên như một dị tật sau khi nhổ răng .
+Một phần co thắt hay hẹp lại ở một cơ quan hay một mô , thí dụ như băng của mô giáp nối hai thùy tuyến giáp .
+Một phương pháp tránh thai trong đó giao hợp bị giới hạn trong giai đoạn an toàn vào đầu và cuối chu kỳ kinh nguyệt .
+Một phương pháp ngừa thai trong đó dương vật được lấy ra khỏi âm đạo trước khi có xuất tinh ( cảm giác cực khoái ) .
+Một chất cản quang ( không khí hay chất lỏng ngăn được tia X ) được chích vào trong khớp để hình dáng và các chất trong khớp được chụp ra chính xác .
+Thuốc nhuộm tương phản dùng nhuộm màu cho các phần mô không ăn màu trong các lần nhuộm trên .
+Một dòng điện trực tiếp chống rung được kiểm soát đồng thời với sóng R trên điện tâm đồ , được phóng ra các điện cực được đặt trên thành ngực của bệnh nhân đã được gây mê .
+Một hệ thống cuộn các xoang và các ống tạo thành các cơ quan nghe và giữ thăng bằng .
+Co giật gây ra bằng cách cho một dòng điện chạy qua não .
+Sự tiết ra nhiều dịch nhầy , đặc biệt từ niệu đạo .
+Một chất đạm chứa đồng có trong huyết tương .
+Một cục chai có thể được điều trị bằng cách ngâm trong nước nóng và bôi những tác nhân làm mềm .
+Vùng biến dạng thường bị chai và có thể bị đau .
+Giác mạc cong bất thường ( thí dụ giác mạc hình chóp ) hay có sẹo sẽ phản chiếu các vòng bị biến dạng .
+Một loại thuốc corticosteroid làm giảm viêm và thường dùng bên ngoài để chữa nhiều loại rối loạn về da .
+Một corticosreroid dùng chủ yếu để trị dị ứng nặng , các bệnh da và mắt , thấp khớp và các tình trạng viêm khác , và các rối loạn về máu và hormone .
+Ho gây ra do kích thích thanh quản .
+Một danh xưng lịch sự cấp cho một người hành nghề y khoa có trình độ , tức là người đã đăng ký ở Hội đồng Y khoa ( GMC ) .
+Lớp hay màng bao bọc một cơ quan hay bộ phận ; thí dụ , một thành của huyết quản ( xem áo mạch ngoài , áo mạch trong , áo mạch giữa ) .
+Một âm rạn hay cảm giác khó chịu do xương cà vào xương hay một lớp sụn thô ráp , thấy khi cử động một khớp viêm .
+Da có dạng đan chéo nhau , có chứa những vùng sáng hình thoi có đỉnh phẳng .
+Một sức mạnh thường là nguyên nhân gây gãy xương nhiều mảnh và thường có tổn thương lớn ở mô mềm xung quanh .
+Một chất kết tinh lấy từ cây cinnamomum camphora , được dùng để điều trị chứng đầy hơi .
+Một phần hình cái chén , đặc biệt bất cứ chỗ chia ra nào của bể thận .
+Ống dùng giác hơi : một bình thủy tinh hình chuông từ đó không khí có thể được rút ra , dùng hút máu trên bề mặt da .
+Một dải xương cong , hơi xoắn , tạo thành một phần xương ngực để bảo vệ tim và phổi .
+Một băng cong của vỏ não nằm trong mỗi bán cầu não , nói theo thuật ngữ tiến hóa , đây là một trong các phần nguyên thủy nhất của não .
+Bó dây cong của các sợi thần kinh ở mỗi bán cầu não , chạy quanh gần chỗ nối của nó với thể chai .
+Một cái đục cong dùng trong thao tác chỉnh hình để cắt và lấy đi các xương .
+Một nếp gấp cong của màng cứng nhô ra trong sọ , và ngăn cách tiểu não phía dưới với các thùy chẩm của hai bán cầu não phía trên .
+Một dụng cụ có hình cong dùng để trợ sinh em bé .
+Một ống kim loại , plastic , hay cao su được luồn qua lỗ và giữ tại vị trí bằng băng buộc quanh cổ .
+Một phần tử hình tam giác cong của cột sống gồm năm đốt sống dính lại với nhau ( các đốt sống cùng ) .
+Phong tục trong một vài bộ lạc để người cha lên giường nằm trong khi hay sau khi sinh đứa con của mình .
+Một máy khoan lắp vừa vào bộ phận cầm tay của nha sĩ .
+Một hợp chất có chứa cyanide chiết xuất từ quả đào .
+Một cấu trúc hình trụ trong máu , tạo thành do nhiều hồng cầu xếp chồng lên nhau và dính với nhau ở vòng ngoài .
+Nang phát sinh trong tuyến tiết nhầy ( bã nhờn ) của da .
+Một nang có chứa lông , nang lông , và các tuyến bã , thường thấy ở các nơi đánh dấu chỗ nối các khu vực phát triển của cơ thể trong bào thai .
+Một nang có chứa dịch hay chất nhầy tạo thành trong âm đạo .
+Một nang ở dưới lưỡi , tạo nên khi ống dẫn của một tuyến nước bọt hay tuyến nhầy bị tắc và căng lên .
+Một nang tạo nên ở vị trí của một trong các túi họng do dị dạng phát triển .
+Một nang sưng trong bìu có chứa nước tiểu thoát ra khỏi niệu đạo .
+Một chỗ sưng thành nang trong bìu có chứa tinh trùng .
+Một nang sưng thành niệu quản ở điểm nơi nó đi vào bàng quang .
+Một thuốc độc tế bào , tạo ra bởi vi trùng Streptomyces , nó ngăn cản sự tăng trưởng của tế bào ung thư .
+Một loại thuốc gây độc tế bào chế tạo từ chiết xuất của cây nhân căn .
+Một loại thuốc gây độc tế bào dùng chích tĩnh mạch chủ yếu để chữa trị các bệnh ung thư hệ bạch huyết , như bệnh Hodgkin .
+Một loại thuốc gây độc tế bào đang được thử nghiệm đánh giá trong việc điều trị các bệnh ác tính .
+Một loại thuốc gây độc tế bào dùng chữa các bệnh ác tính , đặc biệt các sarcoma ; u tinh hoàn , và các u lymphô .
+Một loại thuốc gây độc tế bào dùng chữa trị nhiều dạng ung thư , đặc biệt ung thư bạch cầu lymphô bào mãn .
+Một loại thuốc gây độc tế bào dùng chặn các triệu chứng của vài dạng ung thư bạch cầu .
+Một loại thuốc gây độc tế bào tương tự như vinblastine và vincristine .
+Một loại thuốc gây độc tế bào có công dụng tác động phụ tương tự như vinblastine .
+Khớp biến dạng , sưng và bị tổn hại , thường ở đầu gối , do nhiều vết thương nhỏ tái diễn mà bệnh nhân không hay biết vì dây thần kinh bình thường tiếp nhận sự đau không hoạt động .
+Sắc tố màu nâu đậm tới đen thấy trong tóc , da , và mống mắt và màng mạch mắt .
+Một sắc tố đỏ sẫm hoặc đỏ nâu , trở thành xanh trong môi trường acid .
+Một vòng nâu đậm chứng tỏ nước tiểu có mức độ cao bất thường về potassium indoxyl sulphate ( xem indican niệu ) .
+Nhịp thở giảm chứng tỏ cơ thể đang tìm cách bù trừ các rối loạn chuyển hóa do bệnh ở các cơ quan không hô hấp bằng cách giữ lại acid dưới dạng carbon dioxide .
+Giảm đường kính các huyết quản , đặc biệt động mạch .
+Giảm số bạch cầu ưa eosin trong máu .
+Giảm số lymphô bào trong máu , thường xảy ra trong rất nhiều loại bệnh .
+Giảm số bạch cầu trung tính trong máu .
+Tình trạng máu bị giảm số lượng hồng cầu , bạch cầu và tiểu cầu gây ra do tiêu chảy hay tụ tập các tế bào này trong lách đã bị lớn ra .
+Tình trạng giảm tỷ lệ hồng cầu so với huyết tương gây ra do thể tích huyết tương tăng lên .
+Giảm tỷ lệ nước trong máu , và vì thế huyết tương , trong máu .
+Giảm số lượng protein trong máu .
+Giảm thể tích máu lưu thông .
+Một kiểu mẫu cư xử ghi sâu và kém thích hợp , kéo dài trong nhiều năm .
+Một khuyết tật về nhìn màu trong đó bệnh nhân không nhạy cảm với ánh sáng đỏ và lẫn lộn các màu đỏ vàng , và lục .
+Một khuyết tật nhìn màu trong đó các màu đỏ , vàng và lục lẫn lộn với nhau .
+Một khiếm khuyết trong sự phát triển của mắt tạo nên những dị dạng được xếp loại nặng nhẹ từ một khuyết lõm ở phần dưới của mống mắt làm cho nó có hình quả lê , cho tới sự khiếm khuyết ở phần dưới của võng mạc và màng mạch ( những lớp bên trong của nhãn cầu ) .
+Một khuyết tật trong mô dẫn truyền chuyên biệt của tim ( xem loạn nhịp ) ghi nhận được như một bất thường thuộc điện tâm đồ .
+Một khuyết tật về thị giác trong đó ảnh của một vật bị méo đi , thường theo trục thẳng đứng hay trục ngang vì không phải mọi tia sáng phát ra từ vật đều đến một tiêu điểm trên võng mạc .
+Thiếu ( hay thừa ) một hay nhiều khoáng chất , vitamin hay các thành phần thiết yếu khác có thể phát sinh do kém hấp thu các thực phẩm đã tiêu hóa hay do thiểu năng chuyển hóa của một hay nhiều bộ phận cơ thể cũng như do chế độ ăn uống mất cân bằng .
+Thiếu vitamin A sẽ gây còi cọc , quáng gà , khô mắt , nhuyễn giác mạc , và sau cùng là mù .
+Thiếu vitamin do không có đủ vitamin trong chế độ ăn uống hay do không có khả năng hấp thu và sử dụng vitamin .
+Thiếu tạo ăn khớp trong ngôn ngữ , như tật nói lắp .
+Sự thiếu Calcium trong máu có thể dẫn tới chứng co giật cơ .
+Sự thiếu hụt folic aicd có trong bệnh thiếu máu đại hồng cầu .
+Tình trạng thiếu glucose trong dòng máu , gây yếu cơ và mất điều hòa , lẫn lộn trí tuệ , và ra mồ hôi .
+Thiếu insulin hoặc do tuyến tụy không phân tiết đủ hormone này , hoặc do điều trị đái tháo đường không đúng mức .
+Sự thiếu một hay hơn trong số nhiều loại huyết cầu .
+Thiếu riboflavin sẽ gây tình trạng gọi là bệnh thiếu riboflavin nhưng không nghiêm trọng .
+Thiếu yếu tố đông máu fibrinogen trong máu , làm tăng khuynh hướng xuất huyết .
+Tình trạng chỉ thiếu các lông mi do viêm mi mắt loét mãn tính .
+Thiếu protein gamma globulin trong máu .
+Thiếu vitamin này dẫn đến bệnh pellagra .
+Thiếu viatmin B1 sẽ dẫn tới beriberi .
+Thiếu vitamin B12 sẽ ảnh hưởng tới hầu hết các mô cơ thể , đặc biệt các mô có chứa những tế bào đang phân chia nhanh .
+Thiếu vitamin C sẽ đưa đến bệnh scurvy .
